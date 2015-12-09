@@ -1,0 +1,1 @@
+Several tests are being performed. During their execution, you can select one of the adjacent tests to get more information. When the tests are completed, you can click to the next page to see the results.

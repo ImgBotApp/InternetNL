@@ -1,0 +1,1 @@
+Stilstand is achteruitgang

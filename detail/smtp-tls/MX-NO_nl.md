@@ -1,0 +1,1 @@
+geen mailservers (MX) ingesteld

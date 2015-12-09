@@ -1,0 +1,2 @@
+Geteste domeinnaam: 
+{{hostname}}

@@ -1,0 +1,2 @@
+secure renegotiation
+ supported

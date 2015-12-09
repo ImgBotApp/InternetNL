@@ -1,0 +1,1 @@
+Voldoende beveiligde verbinding (TLS)
