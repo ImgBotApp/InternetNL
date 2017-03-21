@@ -1,3 +1,4 @@
+
 Helaas; de cryptografische bescherming van TLS op de website is
 <strong>afwezig</strong> of <strong>niet</strong> sterk genoeg, of niet alles
 is correct ingesteld. Verbindingen van bezoekers zouden kunnen worden

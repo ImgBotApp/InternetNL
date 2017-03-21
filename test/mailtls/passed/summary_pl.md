@@ -1,0 +1,1 @@
+Możliwe bezpieczne połączenie (STARTTLS)

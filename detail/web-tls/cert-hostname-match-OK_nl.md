@@ -1,1 +1,1 @@
-de hostname van de website komt overeen met het certificaat
+hostname van website komt overeen met certificaat

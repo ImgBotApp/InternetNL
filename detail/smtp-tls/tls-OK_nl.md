@@ -1,1 +1,1 @@
-de mailserver biedt TLS aan
+mailserver biedt STARTTLS aan

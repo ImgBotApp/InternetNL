@@ -1,1 +1,5 @@
-De verbinding tussen de mailservers kan met TLS worden beveiligd. Het gebruikte protocol heet dan STARTTLS. Beide mailservers moeten STARTTLS ondersteunen om de versleuteling te laten werken. De test controleert de inkomende mailserver (MX) van een ingevoerde domeinnaam op de goede werking van STARTTLS.
+
+The connection between mail servers can be secured with STARTTLS. Both the 
+incoming and sending mailserver should support STARTTLS in order to set up 
+an encrypted connection. This test checks whether the incoming mail server 
+(MX) of the tested domain name does support STARTTLS in the right manner.

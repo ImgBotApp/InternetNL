@@ -1,0 +1,1 @@
+przetestuj moje połączenie internetowe

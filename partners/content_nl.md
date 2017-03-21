@@ -1,3 +1,4 @@
+
 # Partners
 
 Het [Platform Internetstandaarden](/about/) is een gezamenlijk initiatief
@@ -125,7 +126,7 @@ medeverantwoordelijk voor de instandhouding van de internet-infrastructuur.
 Deze onafhankelijke not-for-profit organisatie verzorgt daartoe de technische
 coördinatie voor de EMEA regio. De belangrijkste activiteit van het RIPE NCC
 is als Regional Internet Registry (RIR) op te treden en internet resources
-(IPv4, [IPv6](/faqs/ipv6/) en AS Number resources) met bijbehorende diensten
+(IPv4, IPv6 en AS Number resources) met bijbehorende diensten
 te leveren aan RIPE NCC leden in deze service-regio.
 
 - [RIPE NCC](https://www.ripe.net/)

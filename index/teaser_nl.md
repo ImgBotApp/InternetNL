@@ -1,3 +1,4 @@
-Werken jouw internetverbinding, website en e-mail wel met moderne
-internetstandaarden?  
-Test het hier en zorg ervoor dat je up-to-date bent.
+
+Moderne standaarden zorgen voor meer veiligheid en verdere groei van
+het Internet.  
+Gebruik jij ze al?

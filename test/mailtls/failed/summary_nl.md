@@ -1,1 +1,2 @@
-<strong>Geen/onvoldoende</strong> beveiligde verbinding mogelijk (TLS)
+
+<strong>Geen/onvoldoende</strong> beveiligde verbinding mogelijk (STARTTLS)

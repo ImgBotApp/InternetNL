@@ -1,5 +1,6 @@
+
 Afgelopen dinsdag organiseerde het Platform Internetstandaarden een
-[DMARC masterclass](https://internet.nl/news/uitnodiging-masterclass-DMARC/).
+[DMARC masterclass](/news/uitnodiging-masterclass-DMARC/).
 De hoofdspreker was Tim Draegen, een van de bedenkers van de DMARC-standaard
 en mede-oprichter van [dmarcian.com](https://dmarcian.com/). Hij betoogde dat
 de invoering van DKIM, SPF en DMARC niet alleen nuttig is maar inmiddels ook

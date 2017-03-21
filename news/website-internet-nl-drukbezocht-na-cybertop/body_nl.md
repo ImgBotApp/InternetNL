@@ -1,7 +1,8 @@
+
 Het doel van initiatiefnemer Platform Interstandaarden is om het gebruik van
 moderne en veilige internetstandaarden sneller te laten groeien zodat het
 Internet betrouwbaarder wordt voor iedereen. In het Platform
-Internetstandaarden participeren de Internetgemeenschap en de Nederlandse
+Internetstandaarden participeren de internetgemeenschap en de Nederlandse
 overheid.
 
 ## Sessie moderne internetstandaarden

@@ -1,1 +1,3 @@
-de server staat TLS-compressie toe
+
+TLS-compressie toe
+gestaan

@@ -1,3 +1,4 @@
+
 # Terms of use
 
 ## Privacy
@@ -32,11 +33,9 @@ we explain how we handle your personal data.
 
 You can find an exact legal description of your rights and our duties with
 regard to processing of personal data in the
-[Dutch Data Protection Act](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_14-04-2015)
+[Dutch Data Protection Act](http://wetten.overheid.nl/BWBR0011468)
 and the
-[cookie statement](http://www.rijksoverheid.nl/onderwerpen/internet/bescherming-privacy-op-internet/cookiewet-regels-en-richtlijnen)
-in the
-[Dutch Telecommunications Law](http://www.rijksoverheid.nl/onderwerpen/internet/bescherming-privacy-op-internet/cookiewet-regels-en-richtlijnen).
+[cookie statement in the Dutch Telecommunications Law](http://wetten.overheid.nl/BWBR0009950/#Hoofdstuk11_Paragraaf11.1_Artikel11.7a).
 
 If you, after reading this statement, still have questions about the
 protection of your privacy when using this site, please

@@ -1,2 +1,3 @@
-verbindingen toegestaan voor TLS-versies die niet ondersteund worden:  
+
+verbindingen toegestaan voor bepaalde onvoldoende veilige TLS-versies: 
 {{protocols_bad}}

@@ -1,0 +1,1234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016 NLnet Labs
+# This file is distributed under the same license as the InternetNL package.
+# Berry van Halderen <berry@nlnetlabs.nl>, 2016.
+#
+#,fuzzy
+msgid ""
+msgstr "Project-Id-Version: InternetNL 4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-16 23:27+0100\n"
+"PO-Revision-Date: 2016-08-15 12:00+CEST\n"
+"Last-Translator: Berry van Halderen <berry@nlnetlabs.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+
+#,md-format
+msgid "about contact"
+msgstr "Kontakt\n"
+"\n"
+"E-mail: [cybersectest@ik.org.pl](mailto:cybersectest@ik.org.pl)\n"
+"\n"
+"ul. Feldmana 4/9-10  \n"
+"31-130 Kraków  \n"
+"Poland"
+
+msgid "about content"
+msgstr "# O Internet.nl\n"
+"\n"
+"## Czym jest Internet.nl?\n"
+"\n"
+"Internet.nl pomaga sprawdzić czy Twój Internet jest aktualny. \n"
+"Czy Twoje połączenie internetowe, e-mail, domena używa nowoczesnych standardów internetowych? \n"
+"Jeśli nie, co można z tym zrobić?\n"
+"\n"
+"## Czym są 'standardy internetowe'?\n"
+"\n"
+"Sieć pozwala na przesyłanie danych na całym świecie, potrzebne są międzynarodowe ustalenia \n"
+"dotyczące tego jak komputery mają to robić - jak cyfrowe 'wtyczki i gniazdka' mają wszystko ze sobą łączyć. \n"
+"\n"
+"Te ustalenia nazwane są 'standardami internetowymi' lub 'internetowymi protokołami'.\n"
+"Większość z tych standardów jest administrowana przez IETF,\n"
+"międzynarodową organizację, która jest otwarta dla każdego, kto chce dołączyć do dyskusji na temat tego,\n"
+"jak mają finalnie wyglądać standardy internetowe\n"
+"\n"
+"## Dlaczego ważne jest aby 'być na bieżąco'?\n"
+"\n"
+"Pierwsze standardy internetowe pojawiły się w latach 70. i 80. XX wieku, \n"
+"kiedy Internet miał tylko kilkuset użytkowników, w większości były to wyższe uczelnie,\n"
+"które przekazywały sobie informacje naukowe. \n"
+"\n"
+"Obecnie Internet ma ponad 3 miliardy użytkowników na całym świecie\n"
+"i przechowuje dużo wrażliwych dokumentów oraz ważnych transakcji handlowych.\n"
+"Oryginalnie powstałe internetowe technologie nie zapewniają już ochrony na taką skalę, jaka jest potrzebna.\n"
+"\n"
+"Dobrą wiadomością jest to, że posiadamy nowocześniejsze wersje standardów,\n"
+"które uzupełniają niedociągnięcia starszych. Złą natomiast to, że starsze są wciąż używane przez duże grono użytkowników.\n"
+"\n"
+"Przestarzałe standardy stwarzają ryzyko dla użytkowników indywidualnych,\n"
+"którzy mogą być narażeni na oszustwa internetowe lub może to spowodować, że połączenia internetowe nie będą działać prawidłowo.\n"
+"Stare standardy są również zagrożeniem dla The Netherlands Inc., After Schiphol Airport i Portu Rotterdam.\n"
+"Nasza infrastruktura cyfrowa jest 'trzecim głównym portem' w Holandii. Bezpieczny i niezawodny Internet ma zasadnicze znaczenie\n"
+"dla przyszłości holenderskiej gospodarki.                                                                            \n"
+"\n"
+"## Co kryje się za Internet.nl?\n"
+"\n"
+"Internet.nl jest inicjatywą pochodzącą od Internet Standards Platform.\n"
+"Przez zachęcanie do używania nowoczesnych standardów internetowych członkowie Platformy chcą uczynić internet\n"
+"bardziej rzetelnym i solidnym dla wszystkich. Współpartnerami w Internet Standard Platform są:\n"
+"\n"
+"- Dutch Hosting Provider Association (DHPA)\n"
+"- ECP\n"
+"- Standardisation Forum\n"
+"- Internet Society international\n"
+"- Internet Society Netherlands\n"
+"- Ministerstwo Gospodarki\n"
+"- National Cyber Security Centre (NCSC)\n"
+"- NLnet\n"
+"- RIPE NCC\n"
+"- SIDN\n"
+"- SURFnet.\n"
+"\n"
+"NLnet jest odpowiedzialne za tehniczne wykonanie portalu Internet.nl.\n"
+"\n"
+"## Co oferuje Internet Standards Platform?\n"
+"\n"
+"- Samodzielne wykonanie testu przez portal Internet.nl;\n"
+"- Pomiar rzeczywistego wykorzystania w Holandii;\n"
+"- Edukacje i poszerzenie wiedzy, z włączeniem corocznego seminarium;\n"
+"- Kontakt z interesariuszami."
+
+#,md-format
+msgid "about teaser"
+msgstr "Po lotnisku Schiphol i Porcie Roterdam nasza cyfrowa infrastruktura jest \n"
+"‘trzecim głównym portem’ w Holandii."
+
+msgid "base about"
+msgstr "O Internet.nl"
+
+msgid "base blogs"
+msgstr " "
+
+msgid "base contact"
+msgstr "Kontakt"
+
+msgid "base copyright"
+msgstr "Prawo autorskie"
+
+msgid "base disclosure"
+msgstr "Odpowiedzialne wyjawienie"
+
+msgid "base faqs"
+msgstr " "
+
+msgid "base followtwitter"
+msgstr "Zaobserwuj nas na Twitterze"
+
+msgid "base halloffame"
+msgstr "Sala sławy"
+
+msgid "base home"
+msgstr " "
+
+msgid "base info"
+msgstr "Internet.nl jest inicjatywą społeczeństwa interetowego I holenderskiego \n"
+"rządu."
+
+msgid "base legend bad"
+msgstr "Być ulepszone"
+
+msgid "base legend good"
+msgstr "Dobrze"
+
+msgid "base news"
+msgstr "Aktualności"
+
+msgid "base newslink"
+msgstr "Indeks aktualności"
+
+msgid "base partners"
+msgstr "Partnerzy"
+
+msgid "base permalink"
+msgstr "Wyniki testu dla bezpośredniego odnośnika {{permadate|date:'(Y-m-d H:i T)'}}"
+
+msgid "base probe-verdict failed"
+msgstr "Failed"
+
+msgid "base probe-verdict passed"
+msgstr "Passed"
+
+msgid "base sitemap"
+msgstr "Site-overzicht"
+
+msgid "base standards"
+msgstr " "
+
+msgid "base terms"
+msgstr "Warunki korzystania"
+
+msgid "base test connection"
+msgstr "przetestuj moje połączenie internetowe"
+
+msgid "base test connection explain"
+msgstr " "
+
+msgid "base test connection label"
+msgstr " "
+
+msgid "base test connection text"
+msgstr " "
+
+msgid "base test connection title"
+msgstr " "
+
+msgid "base test email input"
+msgstr " "
+
+msgid "base test email label"
+msgstr "przetestuj e-mail"
+
+msgid "base test email text"
+msgstr " "
+
+msgid "base test explain"
+msgstr " "
+
+msgid "base test mail explain"
+msgstr " "
+
+msgid "base test mail title"
+msgstr " "
+
+msgid "base test start"
+msgstr "Rozpocznij test"
+
+msgid "base test website explain"
+msgstr " "
+
+msgid "base test website input"
+msgstr " "
+
+msgid "base test website label"
+msgstr " "
+
+msgid "base test website text"
+msgstr " "
+
+msgid "base test website title"
+msgstr "Doe de website-test"
+
+msgid "connection pagetitle"
+msgstr " "
+
+msgid "connection title"
+msgstr "Test połączenia internetowego"
+
+msgid "detail domdnssec resolver error"
+msgstr "please contact our helpdesk: \n"
+"[cybersectest@ik.org.pl](mailto:cybersectest@ik.org.pl)"
+
+msgid "disclosure content"
+msgstr "# Odpowiedzialne odkrycie\n"
+"\n"
+"Zdaniem Internet Standards Platform bezpieczeństwo strony Internet.nl jest bardzo ważne.\n"
+"Pomimo opieki jaką objęliśmy stronę, by zapewnić jej bezpieczeństwo, istniejące słabe punkty mogą zostać odkryte\n"
+"lub mogą ujawnić się nowe.\n"
+"\n"
+"Znalazłeś błąd zagrażający bezpieczeństwu na stronie Internet.nl? \n"
+"Możliwe, że przypadkowo natknąłeś się na jeden podczas zwykłej operacji na stronie lub prawdopodobnie chciałeś znaleźć jakąś słabość portalu. \n"
+"Skontaktuj się z nami, abyśmy mogli jak najszybciej podjąć odpowiednie działania.\n"
+"\n"
+"Nie jest to jednak zachęta do intensywnego testowania naszej strony. Sami się tym zajmujemy.\n"
+"\n"
+"Chcielibyśmy współpracować z Tobą, by dalej udoskonalać bezpieczeństwo naszej strony. \n"
+"Wszelkie uwagi zawsze traktujemy poważnie i przyglądamy się wszelkim słabym punktom.\n"
+"\n"
+"## W zamian prosimy:\n"
+"\n"
+"- Wyślij swoje spostrzeżenia na adres: [cybersectest@ik.org.pl](cybersectest@ik.org.pl) tak szybko jak to możliwe;\n"
+"- Dostarcz wystarczających informacji dotyczących problemu, abyśmy mogli go naprawić najszybciej jak to możliwe.\n"
+"  Adres IP lub URL jest zazwyczaj wystarczający razem z opisem luki, ale w przypadku bardziej skomplikowanych problemów możemy potrzebować więcej informacji;  \n"
+"- Nie prowadź ataków typu DoS;\n"
+"- Nie wykorzystuj błędu do zmiany lub usunięcia danych czy też instalowania złośliwego oprogramowania;\n"
+"- Nie dziel się z ta luką z innymi, dopóki tego nie naprawimy;\n"
+"- Nie kopiuj danych z naszego systemu, oprócz tych, które są niezbędne do opisu luki;\n"
+"- Zostaw swoje dane kontaktowe (adres e-mail, numer telefonu), abyśmy byli w kontakcie i mogli współpracować przy naprawie błędu.                                         .\n"
+"\n"
+"## Zapewniamy:\n"
+"\n"
+"- Odpowiedzieć na Twoje spostrzeżenia w ciągu trzech dni roboczych wraz z oceną Twojego raportu i przybliżoną datą rozwiązania problemu;\n"
+"- Traktować Twój raport poufnie, nie udostępnimy Twoich danych osobowych bez Twojej zgody\n"
+"  (oprócz policji i organów władzy sądowniczej, jeśli sporządzany będzie raport policyjny lub ta informacja będzie prawnie wymagana);\n"
+"- Informować Cię o progresie w naprawie błędu;\n"
+"- Wymienić Cię w raportach dotyczących błędów (zgodnie z życzeniem);\n"
+"- Przypadkowe odkrycie błędu nie prowadzi do postawienia prawnych zarzutów przeciwko Tobie,\n"
+"  tak długo jak będziesz postępował zgodnie z zasadami i będziesz działał w duchu odpowiedzialnego odkrycia;\n"
+"- Jako wyraz wdzięczności przekazać t-shirt za każdy raport o błędzie, który nie był nam znany.\n"
+"  Wiemy, że nie jest to duża nagroda, ale nie chcemy zachęcać do nadaktywnego testowania strony pod względem błędów."
+
+msgid "disclosure teaser"
+msgstr "Chcielibyśmy współpracować z Tobą w celu dalszej poprawy bezpieczeństwa \n"
+"naszej storny."
+
+msgid "domain forward"
+msgstr "Do szczegółowego raportu >>"
+
+#,md-format
+msgid "domain title"
+msgstr "Test strony internetowej: {{prettyaddr}}"
+
+msgid "domain tweetmessage"
+msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
+
+msgid "empty argument alternative text"
+msgstr "Wartość niedostępna"
+
+#,md-format
+msgid "faqs content"
+msgstr " "
+
+msgid "halloffame lead"
+msgstr "Te strony ostatnio osiągnęły 100% w teście strony internetowej."
+
+msgid "halloffame link"
+msgstr "Zobacz wszystkie {{count}} strony"
+
+#,md-format
+msgid "halloffame teaser"
+msgstr "# Sala chwały\n"
+"Poniższe strony w pełni spełniają nowoczesne standardy, co oznacza osiągnięcie 100% w teście na Internet.nl."
+
+msgid "index newteaser"
+msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
+"Internetu. Używasz je?"
+
+#,md-format
+msgid "index teaser"
+msgstr "Czy twoje połączenie internetowe, strona i e-mail używają nowoczesnych standardów \n"
+"internetowych?   \n"
+"Przetestuj i sprawdź czy jesteś na bieżąco."
+
+msgid "mail pagetitle"
+msgstr "Test e-maila:"
+
+msgid "mail title"
+msgstr "Test e-maila: {{prettyaddr}}"
+
+msgid "mail tweetmessage"
+msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20mailtest%20of%20%40Internet_nl%3A"
+
+msgid "news .index"
+msgstr "internetnl-in-polish"
+
+msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
+msgstr " "
+
+msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden date"
+msgstr " "
+
+msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden lead"
+msgstr " "
+
+msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden teaser"
+msgstr " "
+
+msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden title"
+msgstr " "
+
+msgid "news internetnl-in-polish body"
+msgstr "Inicjatywa na rzecz standardów internetowych promowana będzie\n"
+"podczas drugiego Europejskiego Forum Cyberbezpieczeństwa CYBERSEC 2016\n"
+"\n"
+"![CYBERSEC](/static/logo-cybersec.png)"
+
+msgid "news internetnl-in-polish date"
+msgstr "Piątek, 26 sierpnia"
+
+msgid "news internetnl-in-polish lead"
+msgstr " "
+
+msgid "news internetnl-in-polish title"
+msgstr "Internet.nl teraz rówież w języku polskim"
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
+msgstr " "
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
+msgstr " "
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
+msgstr " "
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
+msgstr " "
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
+msgstr " "
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 body"
+msgstr " "
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 date"
+msgstr " "
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 lead"
+msgstr " "
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 teaser"
+msgstr " "
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 title"
+msgstr " "
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test body"
+msgstr " "
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test date"
+msgstr "19 maart 2016"
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
+msgstr " "
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
+msgstr " "
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test title"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC body"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC date"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC lead"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC teaser"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC title"
+msgstr " "
+
+msgid "news website-internet-nl-drukbezocht-na-cybertop body"
+msgstr " "
+
+msgid "news website-internet-nl-drukbezocht-na-cybertop date"
+msgstr " "
+
+msgid "news website-internet-nl-drukbezocht-na-cybertop lead"
+msgstr " "
+
+msgid "news website-internet-nl-drukbezocht-na-cybertop title"
+msgstr " "
+
+msgid "page gotocontents"
+msgstr " "
+
+msgid "page gotofooter"
+msgstr " "
+
+msgid "page gotomainmenu"
+msgstr " "
+
+msgid "page metadescription"
+msgstr " "
+
+msgid "page metakeywords"
+msgstr " "
+
+msgid "page sitedescription"
+msgstr " "
+
+msgid "page sitetitle"
+msgstr "Internet.nl"
+
+msgid "page404 content"
+msgstr " "
+
+msgid "page404 title"
+msgstr " "
+
+#,md-format
+msgid "partners content"
+msgstr "# Wsparcie polskiej wersji portalu zapewniają\n"
+"\n"
+"![The Kosciuszko Institute](/static/logo-ikang-icann.png)![Made possible by](/static/logo-icann.png)\n"
+"\n"
+"# Partnerzy\n"
+"\n"
+"Internet Standards Platform jest wspólną inicjatywą Dutch Internet World,\n"
+"Ministerstwa Spraw Gospodarczych oraz the Standarisation Forum. \n"
+"Portal Internet.nl jest prowadzony przez Internet Society Netherlands, \n"
+"NLnet, NLnet Labs, SURFnet, SIDN i inne. \n"
+"\n"
+"- [DHPA](#dhpa)\n"
+"- [ECP](#ecp)\n"
+"- [Standardisation Forum](#standardisation-forum)\n"
+"- [Internet Society international](#internet-society-international)\n"
+"- [Internet Society Netherlands](#internet-society-netherlands)\n"
+"- [Ministerstwo Gospodarki](#ministry-of-economic-affairs)\n"
+"- [NCSC](#ncsc)\n"
+"- [NLnet](#nlnet)\n"
+"- [NLnet Labs](#nlnetlabs)\n"
+"- [RIPE NCC](#ripe)\n"
+"- [SIDN](#sidn)\n"
+"- [SURFnet](#surfnet)\n"
+"\n"
+"## DHPA\n"
+"\n"
+"The Dutch Hosting Provider Association to stowarzyszenie zrzeszające serwisy hostingowe\n"
+"oraz platformy couldowe i ich dostawców. DHPA reprezentuje sektor, który stał się w ciągu ostatnich dekad, \n"
+"głównym elementem gospodarki narodowej. Holenderski sektor IT jest jednym z największych na świecie\n"
+"i umożliwia działanie ponad 20% europejskiego rynku e-commerce. Działania DHPA skupiają się głównie na wizerunku,\n"
+"edukacji, zaufaniu oraz łączeniu firm. \n"
+"\n"
+"- [DHPA](https://www.dhpa.nl/)\n"
+"\n"
+"## ECP\n"
+"\n"
+"ECP jest neutralną platformą biznesu, rządu oraz organizacji społecznych, których celem jest zwiększenie wykorzystania IT \n"
+"w holenderskim społeczeństwie. Jej członkowie mają wspólną wizję Holandii jako kraju społeczeństwa informacyjnego, \n"
+"a ECP odzwierciedla ją poprzez konkretne działania i projekty. Poprzez debatę oraz badania, ECP upewnia się,\n"
+"iż znaczenie krajowe i gospodarcze  IT  pozostaję na agendzie narodowej. \n"
+"\n"
+"- [ECP](https://ecp.nl/)\n"
+"\n"
+"## Standardisation Forum\n"
+"\n"
+"Standarisation Forum (Forum standaryzacji) zostało założone przez Ministra Gospodarki. \n"
+"Wspiera Holenderski Rząd w wykorzystywaniu, rozwijaniu oraz wprowadzaniu otwartych standardów wymiany danych elektronicznych.\n"
+"W ten sposób promuje interoperacyjność, nie tylko w zakresie holenderskiego rządu, ale także w relacji pomiędzy agencjami rządowymi,\n"
+"obywatelami i firmamy w których pracują. \n"
+"\n"
+"- [Standardisation Forum](https://www.forumstandaardisatie.nl/english/)\n"
+"\n"
+"## Internet Society international\n"
+"\n"
+"Internet Society jest światową organizacją, której celem jest zapewnienie otwartości i transparentności internetu oraz tego, \n"
+"iż będzie on tworzony przez jego użytkowników. ISOC pracuje nad polityką sieci, standardami technicznymi oraz przyszłymi zmianami,\n"
+"umożliwiając w ten sposób sieci dalszy rozwój i rozbudowę, jako platformy innowacji, postępu gospodarczego oraz rozwoju społeczności całego świata.\n"
+"\n"
+"- [Internet Society international](http://www.internetsociety.org/)\n"
+"\n"
+"## Internet Society Netherlands\n"
+"\n"
+"ISOC Netherlands jest holenderską częścią Internet Society.\n"
+"\n"
+"- [Internet Society Netherlands](http://isoc.nl/)\n"
+"\n"
+"## Ministerstwo Gospodarki\n"
+"\n"
+"Ministerstwo Spraw Gospodarczych promuję Holandię jako przedsiębiorczy kraj o silnej,\n"
+"międzynarodowej, konkurencyjnej pozycji, dbający o zrównoważony rozwój.\n"
+"Jest oddane budowaniu doskonałego klimatu biznesowego, tworząc odpowiednie warunki oraz\n"
+"dając przedsiębiorcom przestrzeń do rozwoju i innowacji, zwracając uwagę na środowisko naturalne,\n"
+"oraz wspierając współpracę pomiędzy ośrodkami badawczymi a biznesem. To pozwala Holandii wzmacniać swoją wiodącą pozycję\n"
+"w rolnictwie, przemyśle, usługach i energetyce oraz inwestować w potężny, stabilny kraj. \n"
+"\n"
+"- [Ministerstwo Gospodarki](http://www.government.nl/ministries/ez)\n"
+"\n"
+"## NCSC\n"
+"\n"
+"Narodowe Centrum Bezpieczeństwa Cybernetycznego działa od 2012 roku, jako jednostka odpowiedzialna przed\n"
+"Krajowym Koordynatorem ds. Bezpieczeństwa i walki z terroryzmem w Ministerstwie Bezpieczeństwa i Sprawiedliwości. \n"
+"Jego głównym zadaniem jest zwiększenie odporności społeczeństwa holenderskiego na zagrożenia występujące \n"
+"w sferze cyfrowej oraz poprzez to pomóc w tworzeniu bezpiecznego, otwartego oraz stabilnego społeczeństwa informacyjnego.\n"
+"\n"
+"- [NCSC](https://www.ncsc.nl/english)\n"
+"\n"
+"## NLnet\n"
+"\n"
+"Fundacja NLnet wspiera finansowo organizacje oraz ludzi z całego świata, którzy współtworzą otwarte społeczeństwo informacyjne. \n"
+"Promuje wymianę informacji elektronicznych w jej najogólniejszym znaczeniu, \n"
+"oraz wszystko co jest z tą kwestią powiązane i jej sprzyja. NLnet funduje softwery, \n"
+"wydarzenia, działania edukacyjne oraz wiele innych. Wspomagało ufundowanie wielu ważnych \n"
+"i znanych projektów takich jak  [NLnet Labs](/partners/#NLnetLabs),  Jitsi, the SSL Observatory, \n"
+"NoScript, Tor, GPLv3, the Serval project, Calligra, and webODF, ale także wiele innych ważnych przedsięwzięć,\n"
+"które nie są tak dobrze znane. \n"
+"\n"
+"- [NLnet](https://nlnet.nl/)\n"
+"\n"
+"## NLnet Labs\n"
+"\n"
+"NLnet Labs rozwija oprogramowania open source oraz otwarte standardy na korzyść internetu. \n"
+"Fundacja wierzy, że otwartość sieci, umożliwiona przez technologię oraz politykę, sprzyja ludzkiemu dobremu samopoczuciu \n"
+"oraz powodzeniu. Jej celem jest dostarczać rozpoznawane na skalę światową innowacje oraz kompetencje tym, \n"
+"którzy zmieniają sieć sieci w otwarty internet dla każdego.\n"
+"\n"
+"- [NLnet Labs](http://www.nlnetlabs.nl/)\n"
+"\n"
+"## RIPE NCC\n"
+"\n"
+"The Reseaux IP Europeens Network Coordination Centre (RIPE NCC) jest niezależną, członkowską,\n"
+"niedochodową organizacją wspierającą infrastrukturę sieci Internet poprzez koordynację techniczną w regionie Europy, \n"
+"Bliskiego Wschodu oraz Afryki. Wiodącą działalnością RIPE NCC jest prowadzenie Regionalnego Rejestru Internetowego RIR, \n"
+"który dostarcza światowo zasoby internetowe oraz inne usługi powiązane (IPv4, [IPv6](/faqs/ipv6/) oraz środki AS Number)\n"
+"członkom w regionie w którym działą RIPE NCC.\n"
+"\n"
+"- [RIPE NCC](https://www.ripe.net/)\n"
+"\n"
+"## SIDN\n"
+"\n"
+"SIDN rejestruje oraz zarządza wszystkimi domenami .nl oraz jest odpowiedzialne za bezpieczną, \n"
+"stabilną operacyjnie oraz globalnie dostępną .nl sieć. Obecnie, fundacja zarządza ponad pięcioma milionami domen \n"
+"oraz obsługuje ponad miliard wyszukań dziennie. Dodatkowo, SIDN doradza osobom decyzyjnym politycznie w kwestiach technicznych, \n"
+"prawnych oraz politycznych związanych z nazwami domen oraz podległą im infrastrukturą. \n"
+"SIDN jest zaangażowane w różne inicjatywy, których celem jest stworzenie Internetu bardziej bezpiecznego, \n"
+"godnego zaufania i bardziej dostępnego, oraz reprezentuje interesy .nl zarówno w skali kraju jak i na szczeblu międzynarodowym. \n"
+"\n"
+"- [SIDN](https://www.sidn.nl/)\n"
+"\n"
+"## SURFnet\n"
+"\n"
+"Misją SURFnet jest podniesienie jakości kształcenia wyższego  oraz badań naukowych, \n"
+"mając na celu wykorzystanie jak najlepiej tego, co oferują technologie informacyjne. \n"
+"Robi to poprzez pobudzanie, wprowadzanie innowacji, rozwijanie oraz wykorzystywanie zaawansowanej,\n"
+"zaufanej, łączącej IT infrastruktury, na którą składają się dwie uzupełniające oraz łączące się części:\n"
+"Jedną jest sieć infrastruktury wspierająca nieograniczony, ciągły przepływ danych jako podstawy wszelkiej współpracy. \n"
+"Drugą jest współpraca infrastruktury, która łączy systemy, usługi oraz narzędzia i ludzi, tworząc środowisko dostępu \n"
+"i wzajemnego połączenia wszystkich i wszystkiego. \n"
+"\n"
+"- [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)"
+
+msgid "partners teaser"
+msgstr "Internet Standards Platform jest wspólną inicjatywą Dutch internet World,\n"
+"Ministerstwa Gospodarki i Forum Normalizacyjnego. "
+
+msgid "prechecks invalid domain"
+msgstr "Podana domena jest nieprawidłowa!"
+
+msgid "probes auto-redirect"
+msgstr " "
+
+msgid "probes no-javascript"
+msgstr " "
+
+msgid "probes no-javascript-connection"
+msgstr " "
+
+msgid "probes no-redirection"
+msgstr " "
+
+msgid "probes test-running"
+msgstr " "
+
+msgid "probes tests-description"
+msgstr " "
+
+msgid "probes tests-duration"
+msgstr " "
+
+msgid "results dated-presentation"
+msgstr "Dated result presentation. Please rerun the test."
+
+msgid "results domain ipv6 web-server label"
+msgstr "Web server"
+
+msgid "results domain tls https label"
+msgstr "HTTP(S)"
+
+msgid "results domain tls tls label"
+msgstr "TLS"
+
+msgid "results domain-mail ipv6 name-servers label"
+msgstr "Name servers"
+
+msgid "results domain-mail tls certificate label"
+msgstr "Certificate"
+
+msgid "results domain-mail tls dane label"
+msgstr "DANE"
+
+msgid "results explanation label"
+msgstr "Test explanation:"
+
+msgid "results mail dnssec domain label"
+msgstr "Domain"
+
+msgid "results mail dnssec mail-servers label"
+msgstr "Mail servers"
+
+msgid "results mail ipv6 mail-servers label"
+msgstr "Mail servers"
+
+msgid "results mail tls starttls label"
+msgstr "STARTTLS"
+
+msgid "results panel-button hide"
+msgstr "Hide all results"
+
+msgid "results panel-button show"
+msgstr "Show all results"
+
+msgid "results perfect-score"
+msgstr "Congratulations! You are in the Hall of Fame!"
+
+msgid "results rerun-test"
+msgstr "Rerun test"
+
+msgid "results retest-time"
+msgstr "Seconds until retest:"
+
+msgid "results score-description"
+msgstr "You score {{score}}% in the test for {{prettyaddr}}"
+
+msgid "results tech-details label"
+msgstr "Technical details:"
+
+msgid "results test direct"
+msgstr "Test direct:"
+
+msgid "results test email label"
+msgstr " "
+
+msgid "results test website label"
+msgstr " "
+
+msgid "results verdict label"
+msgstr "Verdict:"
+
+#,md-format
+msgid "sitemap content"
+msgstr "Sitemap."
+
+#,md-format
+msgid "sitemap teaser"
+msgstr "Sitemap."
+
+#,md-format
+msgid "stats connavgscore description"
+msgstr " "
+
+msgid "stats connavgscore label"
+msgstr " "
+
+msgid "stats connavgscore title"
+msgstr " "
+
+#,md-format
+msgid "stats conndnssecprovider description"
+msgstr " "
+
+msgid "stats conndnssecprovider label"
+msgstr " "
+
+msgid "stats conndnssecprovider title"
+msgstr " "
+
+#,md-format
+msgid "stats connipv6provider description"
+msgstr " "
+
+msgid "stats connipv6provider label"
+msgstr " "
+
+msgid "stats connipv6provider title"
+msgstr " "
+
+msgid "stats connpercgrouped description"
+msgstr " "
+
+msgid "stats connpercgrouped label"
+msgstr " "
+
+msgid "stats connpercgrouped title"
+msgstr " "
+
+msgid "stats connpercprovider description"
+msgstr " "
+
+msgid "stats connpercprovider label"
+msgstr " "
+
+msgid "stats connpercprovider title"
+msgstr " "
+
+#,md-format
+msgid "stats doubleperfect description"
+msgstr " "
+
+msgid "stats doubleperfect label"
+msgstr " "
+
+msgid "stats doubleperfect title"
+msgstr " "
+
+#,md-format
+msgid "stats halloffamesize description"
+msgstr " "
+
+msgid "stats halloffamesize label"
+msgstr " "
+
+msgid "stats halloffamesize title"
+msgstr " "
+
+#,md-format
+msgid "stats numconntests description"
+msgstr " "
+
+msgid "stats numconntests label"
+msgstr " "
+
+msgid "stats numconntests title"
+msgstr " "
+
+#,md-format
+msgid "stats siteavgdnssec description"
+msgstr " "
+
+msgid "stats siteavgdnssec label"
+msgstr " "
+
+msgid "stats siteavgdnssec title"
+msgstr " "
+
+#,md-format
+msgid "stats siteavgipv6 description"
+msgstr " "
+
+msgid "stats siteavgipv6 label"
+msgstr " "
+
+msgid "stats siteavgipv6 title"
+msgstr " "
+
+#,md-format
+msgid "stats siteavgscore description"
+msgstr " "
+
+msgid "stats siteavgscore label"
+msgstr " "
+
+msgid "stats siteavgscore title"
+msgstr " "
+
+#,md-format
+msgid "stats siteavgscore2 description"
+msgstr " "
+
+msgid "stats siteavgscore2 label"
+msgstr " "
+
+msgid "stats siteavgscore2 title"
+msgstr " "
+
+#,md-format
+msgid "stats siteavgtls description"
+msgstr " "
+
+msgid "stats siteavgtls label"
+msgstr " "
+
+msgid "stats siteavgtls title"
+msgstr " "
+
+#,md-format
+msgid "stats sitenlavgdnssec description"
+msgstr " "
+
+msgid "stats sitenlavgdnssec label"
+msgstr " "
+
+msgid "stats sitenlavgdnssec title"
+msgstr " "
+
+#,md-format
+msgid "stats sitenlavgipv6 description"
+msgstr " "
+
+msgid "stats sitenlavgipv6 label"
+msgstr " "
+
+msgid "stats sitenlavgipv6 title"
+msgstr " "
+
+#,md-format
+msgid "stats sitenlavgscore description"
+msgstr " "
+
+msgid "stats sitenlavgscore label"
+msgstr " "
+
+msgid "stats sitenlavgscore title"
+msgstr " "
+
+#,md-format
+msgid "stats sitenlavgscore2 description"
+msgstr " "
+
+msgid "stats sitenlavgscore2 label"
+msgstr " "
+
+msgid "stats sitenlavgscore2 title"
+msgstr " "
+
+#,md-format
+msgid "stats sitenlavgtls description"
+msgstr " "
+
+msgid "stats sitenlavgtls label"
+msgstr " "
+
+msgid "stats sitenlavgtls title"
+msgstr " "
+
+#,md-format
+msgid "stats sitetests description"
+msgstr " "
+
+msgid "stats sitetests label"
+msgstr " "
+
+msgid "stats sitetests title"
+msgstr " "
+
+msgid "stats title"
+msgstr " "
+
+msgid "terms content"
+msgstr "# Warunki korzystania\n"
+"\n"
+"## Prywatność\n"
+"\n"
+"Internet Standars Platform uważa, że twoja prywatność jest bardzo ważna. \n"
+"Poniżej znajdziesz wytłumaczenie jak obchodzimy się z twoimi danymi osobowymi. \n"
+"\n"
+"- zgodnie z prawem  \n"
+"  Przetwarzamy dane osobowe jedynie kiedy jest to konieczne by udzielić informacji\n"
+"  bądź doradzić odnośnie nowoczesnych standardów internetu a robimy to zgodnie z \n"
+"  Holenderską Ustawą o Ochronie Danych Osobowych.\n"
+"- chronione  \n"
+"  Przyjęliśmy stosowne techniczne oraz organizacyjne zabezpieczenia przeciwko utracie, \n"
+"  nadużyciu bądź nielegalnemu użyciu twoich danych osobowych. Informację są przekazywane przez bezpieczne połączenie \n"
+"  a dane są przechowywane w bezpiecznej bazie danych. \n"
+"- pliki cookies\n"
+"  Internet.nl nie pozostawia żadnych plików cookies na twoim komputerze czy urządzeniu mobilnym. \n"
+"  Nie robi tego nawet by uzyskać statystyki. \n"
+"- konkretnie\n"
+"  - Internet.nl przechowuje adresy IP odwiedzających stronę internetową. Są one użyte jedynie do logowania się \n"
+"    z powodów bezpieczeństwa oraz w celach optymalizacji.\n"
+"  - Informacje, które są wymagane by uruchomić testy oraz wyniki testów są przechowywane jedynie \n"
+"    by móc zapewnić aktualną oraz przyszłą funkcjonalność oraz statystyki. To odnosi się szczególnie do kwestii adresu IP\n"
+"\tw przypadku testu łączności oraz adresu e-mail w przypadku testu mail. \n"
+"  - Przychodzące wiadomości mailowe mogą być udostępniane specjalistom z pomiędzy członków platformy \n"
+"    w celu wystosowania jak najlepszej odpowiedzi. \n"
+"\n"
+"### Pytania?\n"
+"\n"
+"Możesz znaleźć dokładny opis twoich praw oraz obowiązków odnośnie przetwarzania danych osobowych w\n"
+"[Dutch Data Protection Act](http://wetten.overheid.nl/BWBR0011468)\n"
+"oraz\n"
+"[cookie statement w Dutch Telecommunications Law](http://wetten.overheid.nl/BWBR0009950/#Hoofdstuk11_Paragraaf11.1_Artikel11.7a).\n"
+"\n"
+"Jeżeli po przeczytaniu tego oświadczenia wciąż masz pytania dotyczące ochrony twojej prywatności przy używaniu tej strony, \n"
+"proszę kontaktuj się z Internet.nl\n"
+"\n"
+"## Prawa autorskie\n"
+"\n"
+"Treść tej strony może zostać użyta przez inne osoby zgodnie z licencją Creative Commons. \n"
+"To oznacza, iż możesz swobodnie udostępniać oraz dostosować treść, jednak musisz podać link do licencji, \n"
+"wskazać czy zostały wprowadzone jakiekolwiek zmiany oraz zawrzeć w swojej wypowiedzi odpowiednio:\n"
+"\n"
+"> Ta treść była stworzona pierwotnie  dla portal Internet.nl, \n"
+"> projektu Internet Standards Platform. \n"
+"\n"
+"Jeżeli konkretna treść jest wyjęta z pod obowiązywania wspomnianej Creative Commons licencji zostanie to wyszczególnione na stronie. "
+
+msgid "terms teaser"
+msgstr "Zawartość tej strony może być ponownie wykorzystana przez innych w ramach \n"
+"licencji CC-BY 4.0."
+
+msgid "test connipv6 description"
+msgstr "Nowe miejsca w Internecie mogą być zrealizowane tylko z adresami IPv6. Mogą \n"
+"być osiągnięte tylko wtedy, gdy sam posiadasz nowoczesny adres IPv6, w \n"
+"dodatku do adresu IPv4."
+
+msgid "test connipv6 failed description"
+msgstr "Niestety twój dostawca internetu nie dał Ci nowoczesngo adresu IPv6\n"
+"lub wystąpił błąd przy konfiguracji. Nie jesteś w stanie osiągnąć wszystkich\n"
+"miejsc docelowych w internecie.\n"
+"\n"
+"Powinienieś zapytać swojego dostwcę intenetu lub administratora o udostępnienie IPv6\n"
+"lub naprawę błędu, który wystąpił podczas konfiguracji."
+
+msgid "test connipv6 failed summary"
+msgstr "Nie wszystkie miejsca docelowe w internecie są osiągalne (IPv6)"
+
+msgid "test connipv6 label"
+msgstr "IPv6"
+
+msgid "test connipv6 passed description"
+msgstr "Gratulacje; Twój dostawca internetu dał Ci nowoczesny adres IPv6 \n"
+"w dodatku do Twojego adresu IPv4. To pozwala Ci osiągnąć wszystkie\n"
+"mijesca docelowe, włącznie z tymi, które mają tylko adres IPv6."
+
+msgid "test connipv6 passed summary"
+msgstr "Wszystkie miejsca docelowe w internecine są osiągalne (IPv6)"
+
+msgid "test connipv6 title"
+msgstr "Wszystkie miejsca docelowe w internecie osiągalne?"
+
+msgid "test connresolver description"
+msgstr "Atakujący może dokonać włamania do DNS, katalogu internetowego, który obsługuje\n"
+"tłumaczenie nazw domen na adresy IP. DNSSEC to system zabezpieczeń, który\n"
+"sprawdza podpisy cyfrowe, dostarczone z informacji DNS. \n"
+"To chroni Cię przed przekierowaniem do fałszywych adresów IP."
+
+msgid "test connresolver failed description"
+msgstr "Niestety, nie używasz DNSSEC. Nie jesteś obecnie chroniony \n"
+"przed przekierowaniami do fałszywych adresów IP.\n"
+"\n"
+"Należy zwrócić się do dostawcy Internetu lub administratora sieci w celu umożliwienia rozwiązania problemu, \n"
+"który pojawił się w jego konfiguracji. \n"
+"Bardziej doświadczeni Internauci mogą zainstalować DNSSEC na własnych systemach."
+
+msgid "test connresolver failed summary"
+msgstr "Niechroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)"
+
+msgid "test connresolver label"
+msgstr "DNSSEC"
+
+msgid "test connresolver passed description"
+msgstr "Gratulacje; używasz DNSSEC. Ten system zabezpieczeń sprawdza cyfrowy podpis \n"
+"rozszerzony o tłumacznie nazwy domeny do adresu IP. Jesteś chroniony przed \n"
+"przekierowaniami do fałszywych adresów IP."
+
+msgid "test connresolver passed summary"
+msgstr "Chroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)"
+
+msgid "test connresolver title"
+msgstr "Chroniony przed przekierowaniem?"
+
+msgid "test error description"
+msgstr "Wystąpił błąd w trakcie wykonywania testu. Może się \n"
+"to zdarzyć,gdy strona Internet.nl jest przeciążona lub gdy połączenie \n"
+"internetowe ma poważne problemy."
+
+msgid "test error summary"
+msgstr "Błąd podczas działania!"
+
+msgid "test mailauth description"
+msgstr "Wiadomość e-mail może być w łatwy sposób sfałszowana. Atakujący zawsze wykorzystują tą wrażliwość do phishingu, \n"
+"wysyłania spamu, wirusów i innych groźnych rzeczy, które mogą być rozsyłane drogą elektroniczną. \n"
+"DKIM i SPF wyposażają skrzynkę mailową w możliwości do potwierdzania nadawcy i systemu nadawczego oraz do zweryfikowania, \n"
+"czy zawartość wiadomości nie została zmodyfikowana podczas wysyłki. \n"
+"DMARC zapewnia instrukcje jak postępować gdy przychodzący mail nie przeszedł pozytywnie sprawdzenia DKIM lub SPF. \n"
+"Wszystkie trzy standardy używają systemu DNS do publikacji informacji o systemie otrzymanego maila."
+
+msgid "test mailauth failed description"
+msgstr "Niestety ta domena e-mail nie używa DKIM, SPF i DMARC lub wystąpił błąd podczas konfiguracji. \n"
+"Obecnie odbiorcy nie mogą używać wszystkich funkcji uwierzytelniania by sprawdzić czy wiadomość e-mail została narażona\n"
+"na spoofing i jak sobie z tym poradzić. Zabezpieczenie jest niedostateczne, by ochronić ten e-maila przed phishingiem i otrzymywaniem spamu czy wirusów.\n"
+"\n"
+"Zalecamy kontakt z dostawcą domeny e-mail, aby zainstalować DMARC, DKIM i SPF lub naprawić błędy, \n"
+"które wystąpiły podczas konfiguracji."
+
+msgid "test mailauth failed summary"
+msgstr "Nie chroniony, lub tylko częściowo chroniony, przed spoofingiem \n"
+"(DKIM/SPF/DMARC)"
+
+msgid "test mailauth label"
+msgstr "DKIM/SPF/DMARC"
+
+msgid "test mailauth passed description"
+msgstr "Gratulacje; Ta domena e-mail korzysta z DKIM, SPF i DMARC. Odbiorniki mogą\n"
+"korzystać ze wszystkich możliwości i zasad uwierzytelniania, aby sprawdzić, czy wiadomości e-mail\n"
+"są fałszywe."
+
+msgid "test mailauth passed summary"
+msgstr "Chroniony przed fałszywymi e-mailami (DKIM/SPF/DMARC)"
+
+msgid "test mailauth title"
+msgstr "Ochrona przed fałszerstwem wiadomości?"
+
+msgid "test maildnssec description"
+msgstr "Atakujący może dokonać włamania do DNS, katalogu internetowego, który obsługuje\n"
+"tłumaczenie nazw domen na adresy IP, a także publikacje informacji związanych z DKIM, SPF i DMARC. \n"
+"DNSSEC to system zabezpieczeń, który dodaje podpisy cyfrowe do informacji opublikowanych przez system DNS.\n"
+"Nadawcy, którzy również korzystają z DNSSEC na ich stronie, są chronieni przed dostarczeniem ich wiadomości do fałszywej skrzynki pocztowej. \n"
+"Systemy odbierające, wykorzystujące DNSSEC mogą mieć pewność, że publikowane informacje DKIM, SPF i DMARC są prawdziwe."
+
+msgid "test maildnssec failed description"
+msgstr "Niestety ta domena e-mail nie używa DNSSEC lub wystąpił błąd podczas konfiguracji. \n"
+"Nadawcy wiadomości na ten adres e-mail obecnie nie są chronieni przed dostarczeniem ich maila na fałszywą skrzynkę mailową. \n"
+"Systemy odbiorcze nie mogą być pewne, czy wszystkie funkcje uwierzytelniające i sprawdzające działają prawidłowo. \n"
+"\n"
+"Zalecamy kontakt z dostawcą domeny e-mail, by zainstalować DNSSEC lub naprawić błędy, \n"
+"które wystąpiły podczas konfiguracji. "
+
+msgid "test maildnssec failed summary"
+msgstr "Niechroniony przed fałszywymi informacjami DNS (DNSSEC)"
+
+msgid "test maildnssec label"
+msgstr "DNSSEC"
+
+msgid "test maildnssec passed description"
+msgstr "Gratulacje; Ta domena e-mail korzysta z DNSSEC. Nadawcy są chronieni przed dostarczeniem ich wiadomości\n"
+"do fałszywej skrzynki pocztowej. System odbierający może być pewny, że wszystkie funkcje i zasady autoryzacji, \n"
+"w celu sprawdzenia, czy mail jest sfałszowany i jak sobie z tym radzić, są poprawne."
+
+msgid "test maildnssec passed summary"
+msgstr "Chroniony przed fałszywymi informacjami DNS (DNSSEC)"
+
+msgid "test maildnssec title"
+msgstr "Chroniony przed przekierowaniem?"
+
+msgid "test mailipv6 description"
+msgstr "Internet przechodzi do nawej wersji wegługegług Internet Protocol. Użytkownicy e-maila,\n"
+"którzy chcą być osiągalni przez wszystkie adresy potrzebują nowoczesnego adresu IPv6\n"
+"w dodatku do ich adresów IPv4."
+
+msgid "test mailipv6 failed description"
+msgstr "Niestety, ta domena e-mail nie może być osiągnięta przez nadawców wykorzystujących nowoczesne adresy IPv6\n"
+"lub wystąpił błąd podczas konfiguracji.\n"
+"To nie jest jeszcze część nowoczesnego Internetu.\n"
+"\n"
+"\n"
+"Należy zwrócić się do dostawcy poczty e-mail, aby udostępnić IPv6 lub rozwiązać problemy, \n"
+"które wystąpiły podczas konfiguracji"
+
+msgid "test mailipv6 failed summary"
+msgstr "Nieosiągalny lub możliwe są ulepszenia (IPv6)"
+
+msgid "test mailipv6 label"
+msgstr "IPv6"
+
+msgid "test mailipv6 passed description"
+msgstr "Gratulacje; Ta domena e-mail może zostać osiągnięta przez nadawców z wykorzystaniem nowoczesnych adresów IPv6, \n"
+"co sprawia, że jest ona częścią nowoczesnego Internetu."
+
+msgid "test mailipv6 passed summary"
+msgstr "Osiągalny przez nowoczesne adresy (IPv6)"
+
+msgid "test mailipv6 title"
+msgstr "Nowoczesny adres internetowy?"
+
+msgid "test mailtls description"
+msgstr "Połączenie pomiędzy serwerami pocztowymi można zabezpieczyć przez STARTTLS. \n"
+"Zarówno serwery mailowe nadawcze i odbiorcze powinny wspierać STARTTLS w \n"
+"celu ustanowienia połączenia szyfrowanego. Ten test pozwala sprawdzić, czy \n"
+"serwer poczty przychodzącej (MX) badanej domeny wspiera STARTTLS we \n"
+"właściwym czasie."
+
+msgid "test mailtls failed description"
+msgstr "Niestety; Ten serwer poczty przychodzącej wspiera STARTTLS. Oznacza to, że \n"
+"serwer nadawczy może nawiązać bezpieczne połączenie z tym serwerem \n"
+"pocztowym, który sprawia, że jest podatny na podsłuchy przez (pasywnie) \n"
+"atakujących. Należy zwrócić się do dostawcy e-mail aby udostępnić STARTTLS i\n"
+" skonfigurować go poprawnie."
+
+msgid "test mailtls failed summary"
+msgstr "Możliwe połączenie niechronione lub chronione niedostatecznie (STARTTLS)"
+
+msgid "test mailtls label"
+msgstr "TLS"
+
+msgid "test mailtls passed description"
+msgstr "Gratulacje; Ten serwer poczty przychodzącej obsługuje STARTTLS w sposób \n"
+"prawidłowy. Oznacza to, że serwer pocztowy wysyłający może nawiązać \n"
+"bezpieczne połączenia z tym serwerem pocztowym, który zapobiega podsłuchom \n"
+"przez (pasywnie) atakującego."
+
+msgid "test mailtls passed summary"
+msgstr "Możliwe bezpieczne połączenie (STARTTLS)"
+
+msgid "test mailtls title"
+msgstr "Bezpieczne połączenie dla przychodzącego e-maila?"
+
+msgid "test sitednssec description"
+msgstr "Atakujący może zaatakować DNS, katalog internetowy, który obsługuje zmianę \n"
+"nazw domen na adresy IP. DNSSEC to system zabezpieczeń, który dodaje podpisy\n"
+" cyfrowe do informacji opublikowanych przez system DNS. Użytkownicy, którzy \n"
+"również korzystają z DNSSEC na ich stronie, są chronieni przed \n"
+"przekierowaniem do fałszywych adresów IP."
+
+msgid "test sitednssec failed description"
+msgstr "Niestety, ta nazwa domeny używa DNSSEC lub wystąpił błąd w konfiguracji. \n"
+"Użytkownicy tej nazwy domeny są obecnie chronione przed przekierowaniem do fałszywych adresów IP.\n"
+"\n"
+"\n"
+"\n"
+"Należy zwrócić się do dostawcy hostingu, by skonfigurować DNSSEC lub rozwiązać problemy, \n"
+"które wystąpiły w konfiguracji."
+
+msgid "test sitednssec failed summary"
+msgstr "Niechroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)"
+
+msgid "test sitednssec label"
+msgstr "DNSSEC"
+
+msgid "test sitednssec passed description"
+msgstr "Gratulacje; Ta nazwa domeny używa DNSSEC. Użytkownicy, którzy również \n"
+"stosują DNSSEC na ich stronach są chronieni przed przekierowaniem do \n"
+"fałszywych adresów IP."
+
+msgid "test sitednssec passed summary"
+msgstr "Chroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)"
+
+msgid "test sitednssec summary"
+msgstr "Chroniony przed przekierowaniem?"
+
+msgid "test sitednssec title"
+msgstr "Chroniony przed przekierowaniem?"
+
+msgid "test siteipv6 description"
+msgstr "Internet przekształca się do nowej wersji protokołu internetowego. \n"
+"Właściciele witryn, którzy chcą być osiągalni ze wszystkich adresów \n"
+"internetowych, muszą posiadać nowoczesne adresy IPv6, w dodatku do ich \n"
+"adresów IPv4."
+
+msgid "test siteipv6 failed description"
+msgstr "Niestety, ta strona nie może być osiągnięta przez użytkowników używających  nowoczesnych adresów IPv6\n"
+"lub możliwa jest poprawa. To nie jest jeszcze w pełni część nowoczesnego Internetu.\n"
+"\n"
+"\n"
+"\n"
+"Należy zwrócić się do dostawcy hostingu, aby w pełni udostępnić IPv6."
+
+msgid "test siteipv6 failed summary"
+msgstr "Nieosiągalny lub możliwe są udoskonalenia (IPv6)"
+
+msgid "test siteipv6 label"
+msgstr "IPv6"
+
+msgid "test siteipv6 passed description"
+msgstr "Gratulacje; Ta strona może być osiągnięta przez użytkowników \n"
+"wykorzystujących nowoczesne adresy IPv6, co czyni ją w pełni częścią \n"
+"współczesnego Internetu."
+
+msgid "test siteipv6 passed summary"
+msgstr "Osiągalny przez nowoczesne adresy internetowe (IPv6)"
+
+msgid "test siteipv6 title"
+msgstr "Nowoczesny adres internetowy?"
+
+msgid "test sitetls description"
+msgstr "TLS kryptograficznie chroni przed podsłuchem połączeń internetowych i \n"
+"manipulacją. Jednak udostępnienie TLS nie gwarantuje bezpieczeństwa: to \n"
+"również musi być odpowiednio skonfigurowane. Korzystanie z wersji starszych \n"
+"lub nieaktualnych opcji zabezpieczeń może nadal wykonywać połączenia TLS \n"
+"nieodpowiednio bezpiecznie."
+
+msgid "test sitetls failed description"
+msgstr "Niestety, ochrona kryptograficzna TLS na stronie internetowej nie jest wystarczająco silna, \n"
+"lub wystąpił błąd podczas konfiguracji. Atakujący może podsłuchiwać lub manipulować połączeniami gości.\n"
+"\n"
+"\n"
+"\n"
+"Należy zwrócić się do dostawcy usług hostingowych, aby udostępnić TLS lub rozwiązać problemy, \n"
+"które pojawiły się podczas konfiguracji."
+
+msgid "test sitetls failed summary"
+msgstr "Połączenie nie jest chronione, lub jest chronione niedostatecznienie (TLS)"
+
+msgid "test sitetls label"
+msgstr "TLS"
+
+msgid "test sitetls passed description"
+msgstr "Gratulacje; ochrona kryptograficzna TLS na stronie internetowej jest \n"
+"wystarczająco silna. Połączenia internetowe dla użytkowników, którzy również\n"
+" używają silnych konfiguracje TLS, są zabezpieczone przed podsłuchem i \n"
+"manipulacją."
+
+msgid "test sitetls passed summary"
+msgstr "Połączenie odpowiednio zabezpieczone (TLS)"
+
+msgid "test sitetls title"
+msgstr "Zabezpieczone połączenie?"

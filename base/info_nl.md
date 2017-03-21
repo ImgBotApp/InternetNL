@@ -1,1 +1,3 @@
-Internet.nl is een initiatief van de Internetgemeenschap en de Nederlandse overheid.
+
+Internet.nl is een initiatief van de internetgemeenschap en de Nederlandse 
+overheid.

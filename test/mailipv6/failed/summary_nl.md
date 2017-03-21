@@ -1,1 +1,3 @@
-<strong>Niet/deels</strong> toegankelijk vanaf moderne internet-adressen (IPv6)
+
+<strong>Niet</strong> bereikbaar of <string>verbetering</string> mogelijk 
+(IPv6)

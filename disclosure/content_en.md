@@ -1,3 +1,4 @@
+
 # Responsible disclosure
 
 The Internet Standards Platform thinks the security of the Internet.nl site is
@@ -18,7 +19,7 @@ vulnerabilities.
 
 ## In return we ask you to:
 
-- mail your findings to [vraag@internet.nl](vraag@internet.nl) as soon as
+- mail your findings to [question@internet.nl](question@internet.nl) as soon as
   possible;
 - provide sufficient information to replicate the problem, so we can fix it as
   soon as possible;  

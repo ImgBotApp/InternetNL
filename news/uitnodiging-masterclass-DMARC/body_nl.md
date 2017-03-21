@@ -1,3 +1,4 @@
+
 Tijdens deze masterclass zal de Amerikaan Tim Draegen, die aan de basis stond
 van DMARC, u bijpraten over de ins en outs van deze beveiligingsstandaard.
 

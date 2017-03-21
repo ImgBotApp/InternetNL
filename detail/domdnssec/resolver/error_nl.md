@@ -1,1 +1,3 @@
-neem contact op met onze helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)
+
+neem contact op met onze helpdesk: 
+[question@internet.nl](mailto:question@internet.nl)

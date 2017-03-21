@@ -1,1 +1,1 @@
-Frequently Asked Questions
+Knowledge base

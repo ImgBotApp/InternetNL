@@ -1,2 +1,3 @@
-connections allowed for TLS versions not supported:  
+
+connections allowed for certain insufficiently secure TLS versions: 
 {{protocols_bad}}

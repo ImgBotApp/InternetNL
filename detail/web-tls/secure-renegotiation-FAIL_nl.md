@@ -1,1 +1,3 @@
-de server ondersteunt geen "secure renegotiation"
+
+"secure renegotiation"
+ niet ondersteund

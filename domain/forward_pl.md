@@ -1,0 +1,1 @@
+Do szczegółowego raportu >>

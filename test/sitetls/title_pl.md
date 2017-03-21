@@ -1,0 +1,1 @@
+Zabezpieczone połączenie?

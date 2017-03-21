@@ -1,2 +1,3 @@
-some cipher methods offered are not secure:  
+
+certain cipher methods offered are not secure:  
 {{ciphers_bad}}

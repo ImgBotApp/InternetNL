@@ -1,0 +1,1 @@
+Gemiddelde DNSSEC score (.nl)

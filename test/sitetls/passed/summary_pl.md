@@ -1,0 +1,1 @@
+Połączenie odpowiednio zabezpieczone (TLS)

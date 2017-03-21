@@ -1,0 +1,1 @@
+Test strony internetowej: {{prettyaddr}}

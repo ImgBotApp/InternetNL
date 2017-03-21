@@ -1,0 +1,1 @@
+TLS compression not allowed.

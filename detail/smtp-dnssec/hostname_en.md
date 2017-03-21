@@ -1,2 +1,3 @@
-Nameserver (NS): 
+
+Tested domain name: 
 {{hostname}}

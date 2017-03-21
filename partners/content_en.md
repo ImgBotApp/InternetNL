@@ -1,3 +1,4 @@
+
 # Partners
 
 The [Internet Standards Platform](/about/) is a joint initiative by the Dutch

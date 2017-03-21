@@ -1,1 +1,1 @@
-Beschermd tegen omleiding naar valse IP-addressen (DNSSEC)
+Beschermd tegen omleiding naar valse IP-adressen (DNSSEC)

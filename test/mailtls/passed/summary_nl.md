@@ -1,1 +1,1 @@
-Beveiligde verbinding mogelijk (TLS)
+Beveiligde verbinding mogelijk (STARTTLS)

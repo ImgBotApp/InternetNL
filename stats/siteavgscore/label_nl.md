@@ -1,0 +1,1 @@
+Gemiddelde totaal score

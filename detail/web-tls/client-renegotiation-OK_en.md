@@ -1,1 +1,3 @@
-the server does not allow client-initiated renegotiation
+
+client-initiated renegotiation
+ not allowed

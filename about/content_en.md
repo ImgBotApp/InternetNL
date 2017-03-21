@@ -1,3 +1,4 @@
+
 # About Internet.nl
 
 ## What is Internet.nl?
@@ -66,4 +67,7 @@ implementation of the Internet.nl portal.
 - self testing through Internet.nl
 - measurement of the actual use in the Netherlands
 - education and the exchange of knowledge, including an annual seminar
-- connecting stakeholders.
+- connecting stakeholders
+## Open Internet NL
+
+Open Internet NL ([http://open.internet.nl/](http://open.internet.nl/)) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl.

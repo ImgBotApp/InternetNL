@@ -1,1 +1,1 @@
-the hostname of the mail server matches the certificate
+hostname of mail server matches certificate

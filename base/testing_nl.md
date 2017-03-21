@@ -1,1 +1,0 @@
-Er worden verschillende tests gedaan. Tijdens de uitvoering daarvan kun je een test hiernaast selecteren voor meer informatie. Na het uitvoeren van de tests kun je de resultaten inzien op een aparte vervolgpagina.

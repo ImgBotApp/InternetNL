@@ -1,1 +1,1 @@
-the website does not offer TLS
+website does not offer HTTPS

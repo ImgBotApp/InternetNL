@@ -1,1 +1,1 @@
-mailserver (MX) is onbereikbaar
+mailserver is onbereikbaar

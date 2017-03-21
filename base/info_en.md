@@ -1,1 +1,3 @@
-Internet.nl is an initiative of the Internet community and the Dutch government.
+
+Internet.nl is an initiative of the Internet community and the Dutch 
+government.

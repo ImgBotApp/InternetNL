@@ -1,1 +1,1 @@
-Internetstandaarden
+Internet standards

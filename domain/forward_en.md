@@ -1,1 +1,0 @@
-To the detailed report >>

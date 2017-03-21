@@ -1,1 +1,1 @@
-de server staat geen "client-initiated renegotiation" toe
+"client-initiated renegotiation" niet toegestaan

@@ -1,0 +1,1 @@
+Ochrona przed fałszerstwem wiadomości?

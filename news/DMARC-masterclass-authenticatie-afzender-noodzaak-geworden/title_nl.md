@@ -1,1 +1,1 @@
-DMARC masterclass: authenticatie van de afzender is noodzaak geworden
+DMARC masterclass: authenticatie afzender is noodzaak

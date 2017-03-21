@@ -1,0 +1,1 @@
+Gemiddelde TLS score

@@ -1,1 +1,3 @@
-verbinding is mogelijk voor ondersteunde TLS-versies
+
+voldoende veilige TLS-versies
+ ondersteund

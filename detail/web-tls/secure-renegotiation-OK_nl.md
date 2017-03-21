@@ -1,1 +1,3 @@
-de server ondersteunt "secure renegotiation"
+
+"secure renegotiation"
+ ondersteund

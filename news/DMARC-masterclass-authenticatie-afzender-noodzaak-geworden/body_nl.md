@@ -1,12 +1,13 @@
+
 Op de masterclass waren meer dan 60 geïnteresseerden afgekomen. De sessie werd
 geopend door
-[Gerben Klein Baltink](https://internet.nl/blogs/gerben-klein-baltink/het-internet-is-van-ons-allemaal/),
+[Gerben Klein Baltink](/news/het-internet-is-van-ons-allemaal/),
 kwartiermaker voor het Platform Internetstandaarden, die de
 [Internet.nl portal](https://internet.nl/) aan het publiek demonstreerde. De
 site werd anderhalve week geleden
-[tijdens de GCCS Cybertop gelanceerd](https://internet.nl/news/website-internet-nl-drukbezocht-na-cybertop/)
+[tijdens de GCCS Cybertop gelanceerd](/news/website-internet-nl-drukbezocht-na-cybertop/)
 Er zijn sindsdien ruim 20 duizend tests uitgevoerd. DMARC is een van de zes
-[standaarden](https://internet.nl/standards/) die door het Platform gepromoot
+[standaarden](/standards/) die door het Platform gepromoot
 worden.
 
 ![Demonstratie Internet.nl portal](BK-IMAG1620-unsh-cropped-600x468.jpg)
@@ -20,13 +21,13 @@ geïmplementeerd. Draegen wijt dit aan het moeizame proces waarmee standaarden
 tot stand komen en uitgerold worden.
 
 Specifiek voor authenticatie van de afzender bestaat de oplossing nu uit drie
-verschillende protocollen: [DKIM](https://internet.nl/faqs/mail/#DKIM)
+verschillende protocollen: DKIM
 ondertekent zowel de "envelope" als de inhoud van een bericht. Zo wordt
 voorkomen dat kwaadwillenden een bericht namens een ander kunnen verzenden
 (spoofing) of de inhoud van een bericht onderweg kunnen veranderen.
-[SPF](https://internet.nl/faqs/mail/#SPF) publiceert een lijst van geldige
+SPF publiceert een lijst van geldige
 verzenders, zodat ontvangende systemen deze kunnen controleren voor zij een
-bericht aannemen. [DMARC](https://internet.nl/faqs/mail/#DMARC) geeft
+bericht aannemen. DMARC geeft
 tenslotte een aanwijzing (policy) aan ontvangers hoe om te gaan met inkomende
 berichten waarvan de DKIM- of SPF-controle niet in orde blijkt te zijn.
 Bovendien kunnen ontvangers terugrapporteren naar de beheerder van een
@@ -60,7 +61,7 @@ geauthenticeerd (SPF).
 Het huidige systeem, waarbij verzendende systemen op basis van hun
 internet-adres als betrouwbaar of onbetrouwbaar worden bestempeld, is
 bovendien niet houdbaar in een wereld die nu naar
-[IPv6](https://internet.nl/faqs/ipv6/) beweegt, een van de andere
+IPv6 beweegt, een van de andere
 internetstandaarden die door het Platform gepromoot wordt. Waar IPv4 "slechts"
 vier miljard internet-adressen ondersteunt, zijn dat er voor IPv6 "oneindig
 veel". Lijsten bijhouden is daarmee praktisch onmogelijk geworden. Dat

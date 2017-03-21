@@ -1,0 +1,1 @@
+Podana domena jest nieprawidłowa!

@@ -6,259 +6,31 @@
 #,fuzzy
 msgid ""
 msgstr "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To:\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-16 23:27+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language:\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);"
 
-msgid "base title"
-msgstr "Is your Internet up-to-date? Do the test on Internet.nl if you comply with IPv6, DNSSEC, TLS, DKIM, SPF and DMARC."
-
 #,md-format
-msgid "index teaser"
-msgstr "Are your internet connection, website and e-mail using modern internet\n"
-"standards?  \n"
-"Test it and make sure you are up to date."
-
-msgid "index test connection"
-msgstr "Test my internet connection"
-
-msgid "index test website"
-msgstr "Test website:"
-
-msgid "index test email"
-msgstr "Test e-mail:"
-
-msgid "base news"
-msgstr "News"
-
-msgid "base blogs"
-msgstr "Blogs"
-
-msgid "base standards"
-msgstr "Internet standards"
-
-msgid "base faqs"
-msgstr "Frequently Asked Questions"
-
-msgid "base about"
-msgstr "About Internet.nl"
-
-msgid "base contact"
-msgstr "Contact"
-
-msgid "base sitemap"
-msgstr "Sitemap"
-
-msgid "base info"
-msgstr "Internet.nl is an initiative of the Internet community and the Dutch government."
-
-#,md-format
-msgid "base testing"
-msgstr "Several tests are being performed. During their execution, you can select one of the adjacent tests to get more information. When the tests are completed, you can click to the next page to see the results."
-
-#: checks/templates/domain/index.html:88
-#,md-format
-msgid "index content"
-msgstr "# News\n"
+msgid "about contact"
+msgstr "Contact\n"
 "\n"
+"E-mail: [question@internet.nl](mailto:question@internet.nl)\n"
 "\n"
-"## Internet.nl launched during Dutch Cyber Week 2015\n"
+"Internet Standards Platform  \n"
+"c/o ECP  \n"
+"Overgoo 13  \n"
+"PO box 262  \n"
+"2260AG Leidschendam  \n"
+"The Netherlands  \n"
 "\n"
-"During the Dutch Cyber Week 2015 the website Internet.nl was launched by the\n"
-"Internet Standards Platform, a collaboration among organisations from the\n"
-"Internet community and the Dutch government. On this website, visitors can\n"
-"check whether their Internet is up to date. Are your internet connection,\n"
-"e-mail and website actually using modern, secure internet standards? And if\n"
-"not, what can you do about it?\n"
-"\n"
-"[Read on >>](/news/lancering-internet-nl-tijdens-cyber-week-2015/)\n"
-"\n"
-"\n"
-"## Olaf Kolkman blogs: Internet is all about collaboration\n"
-"\n"
-"The Internet, as a global system, is a network-of-networks held together by a\n"
-"spirit of collaboration. When information traverses the Internet it may pass\n"
-"through a handful of networks, and the network from which the traffic\n"
-"originated probably has no formal relationship with the network that receives\n"
-"it. The reason why that works is collaboration.\n"
-"\n"
-"[Read on >>](/blogs/olaf-kolkman/internet-draait-om-samenwerking/)"
-
-#,md-format
-msgid "halloffame teaser"
-msgstr "The websites below are fully using modern internet standards and therefor score 100% in the website- test on Internet.nl."
-
-#,md-format
-msgid "standards teaser"
-msgstr "All of these internet standards are mature and widely available. Their use\n"
-"contributes significantly to the reliability of the Dutch internet."
-
-#,md-format
-msgid "standards content"
-msgstr "# Internet standards\n"
-"\n"
-"The [Internet Standards Platform](/about/) is initially promoting six modern\n"
-"standards for scalable and secure internet use:\n"
-"\n"
-"- [IPv6](#ipv6): an extended, modern range of internet addresses\n"
-"- [DNSSEC](#dnssec): security extensions for domain names\n"
-"- [TLS](#tls): secured connections\n"
-"- [DKIM, SPF and DMARC](#dkim-spf-and-dmarc): anti-phishing and anti-spoofing\n"
-"\n"
-"All of these internet standards are mature and widely available. Their use\n"
-"contributes significantly to the reliability of the Dutch Internet.\n"
-"\n"
-"[IPv6](/faqs/ipv6/), [DNSSEC](/faqs/dnssec/), [TLS](/faqs/tls/), and\n"
-"[DKIM](/faqs/mail/#DKIM) have been on the\n"
-"[&quot;apply or explain&quot; list](https://www.forumstandaardisatie.nl/ptolu)\n"
-"of the [Standardisation Forum](/partners/#FS) for years. The standards on this\n"
-"list are mandatory for Dutch public agencies.\n"
-"\n"
-"Until the end of 2014, IPv6 was the separate responsibility of the\n"
-"[IPv6 Task Force](https://ecp.nl/ipv6-task-force), run by\n"
-"[ECP](/partners/#ECP). The Task Force will soon become part of the Internet\n"
-"Standards Platform.\n"
-"\n"
-"[SIDN](/partners/#SIDN), the registry for the .nl domain, encourages the use\n"
-"of [DNSSEC](http://dnssec.nl/).\n"
-"\n"
-"## IPv6\n"
-"\n"
-"The Internet Protocol (IP) is the technology underlying all traffic on the\n"
-"Internet. Under the current standard, IP version 4 (IPv4), every computer has\n"
-"a specific IP address made up of four numbers, such as 192.0.2.26. That is how\n"
-"every computer connected to the Internet is reachable from any other computer.\n"
-"\n"
-"IPv4 is now 35 years old and is reaching its limits. The biggest problem is\n"
-"that IPv4 can only support four billion IP different addresses. That seems a\n"
-"lot, but it isn&#39;t enough for a world of seven billion people, especially\n"
-"when you think that every connected device &mdash; desktop computers, laptops,\n"
-"mobile phones, webcams, central heating controllers &mdash; needs its own IP\n"
-"address.\n"
-"\n"
-"IP version 6 (IPv6), the successor to IPv4, solves the address shortage. Yet\n"
-"although IPv6 is over fifteen years old now, it has not yet been widely\n"
-"implemented. The problem is that most providers and businesses currently do\n"
-"not offer IPv6 to their customers and users. An important goal of this site is\n"
-"to change that.\n"
-"\n"
-"You can find more information on IPv6 in the\n"
-"&quot;[Frequently Asked Questions](/faqs/ipv6/)&quot;.\n"
-"\n"
-"## DNSSEC\n"
-"\n"
-"DNSSEC is a security system for [DNS](/faqs/dnssec/#DNS), the internet\n"
-"directory that handles the translation of\n"
-"[domain names](/faqs/dnssec/#DomainName) to\n"
-"[IP addresses](/faqs/ipv6/#IPaddress). DNS itself works fine, but the\n"
-"translation of a domain name to an IP address is not protected. That is a\n"
-"security risk, because attackers can get hold of passwords or other sensitive\n"
-"information by redirecting network traffic to a false IP address.\n"
-"\n"
-"DNSSEC extends DNS with an additional security feature: a digital signature\n"
-"that guarantees the translation of a domain name to the correct IP address.\n"
-"Any internet user can check that signature automatically, and so avoid being\n"
-"redirected to a false IP address.\n"
-"\n"
-"You can find more information on DNSSEC in the\n"
-"&quot;[Frequently Asked Questions](/faqs/dnssec/)&quot;.\n"
-"\n"
-"## TLS\n"
-"\n"
-"TLS is a standard for the cryptographic protection of internet connections.\n"
-"Most people have seen TLS, and its predecessor SSL, in action in their web\n"
-"browsers: by specifying the &#39;https&#39; protocol in an internet\n"
-"destination &mdash; for example https://www.example.com/ &mdash; an internet\n"
-"user indicates that he wants to visit a website using a secure connection. The\n"
-"&quot;padlock&quot; icon in the browser shows that a secure connection was\n"
-"established successfully, and optionally provides more detailed security\n"
-"information.\n"
-"\n"
-"Unfortunately, just enabling TLS does not guarantee security: it needs to be\n"
-"properly configured as well. Using older versions and outdated security\n"
-"options can still make a TLS connection insecure. The Dutch National Cyber\n"
-"Security Centre ([NCSC](/partners/#NCSC)) has published a guide on how to use\n"
-"TLS properly. This guide forms the basis of the information and tests provided\n"
-"on this site.\n"
-"\n"
-"You can find more information on TLS in the\n"
-"&quot;[Frequently Asked Questions](/faqs/tls/)&quot;.\n"
-"\n"
-"## DKIM, SPF and DMARC\n"
-"\n"
-"DKIM, SPF and DMARC are three internet standards to fight phishing, spam,\n"
-"viruses and other nasties that are delivered by [e-mail](/faqs/mail/). These\n"
-"three standards are usually used together to validate the sender (a mail\n"
-"address) and the sending system (a computer) of a mail message, and to verify\n"
-"that the content of the message has not been altered in transit.\n"
-"\n"
-"All three standards use the [DNS system](/faqs/dnssec/#DNS) to publish\n"
-"information online. Although the standards do not require the use of\n"
-"[DNSSEC](/faqs/dnssec/) &mdash; a security system for DNS &mdash; we do\n"
-"recommend its use wholeheartedly.\n"
-"\n"
-"### DKIM\n"
-"\n"
-"DKIM secures the integrity of mail messages. It safeguards both the content\n"
-"and the &quot;envelope&quot; of every outgoing message with a digital\n"
-"signature. This stops attackers sending messages that pretent to be from other\n"
-"people (spoofing) or altering the content of a message while it is in transit.\n"
-"\n"
-"### SPF\n"
-"\n"
-"SPF prevents &quot;electronic mailboxes&quot; from accepting messages\n"
-"delivered by unauthorised computer systems. Only messages from systems which\n"
-"are actually allowed to send messages for a specific\n"
-"[domain](/faqs/dnssec/#DomainName) will get through. To make this possible, a\n"
-"list of valid senders is published online through the\n"
-"[DNS system](/faqs/dnssec/#DNS). Receiving systems can use this list to\n"
-"validate the sender before accepting a message.\n"
-"\n"
-"### DMARC\n"
-"\n"
-"DMARC complements the other two security standards for [e-mail](/faqs/mail/),\n"
-"[DKIM](/faqs/mail/#DKIM) and [SPF](/faqs/mail/#SPF). DMARC gives\n"
-"&quot;electronic mailboxes&quot; a hint on how to handle incoming mail\n"
-"messages that do not pass the DKIM or SPF checks. These may be discarded, for\n"
-"example, or be put aside.\n"
-"\n"
-"The hint is published online through the [DNS system](/faqs/dnssec/#DNS). It\n"
-"can additionally contain an e-mail address to which mailboxes can report\n"
-"rejected messages. This gives the administrator of a specific mail domain\n"
-"useful information about the delivery of both genuine and forged messages.\n"
-"\n"
-"You can find more information on DKIM, SPF and DMARC in the\n"
-"&quot;[Frequently Asked Questions](/faqs/mail/)&quot;."
-
-#,md-format
-msgid "faqs teaser"
-msgstr "You most likely will find an answer in the &quot;Frequently Asked\n"
-"Questions&quot;."
-
-#,md-format
-msgid "faqs content"
-msgstr "# Frequently Asked Questions\n"
-"\n"
-"If you have a question about the [internet standards](/standards/) promoted\n"
-"here, you most likely will find an answer in the &quot;Frequently Asked\n"
-"Questions&quot;:\n"
-"\n"
-"- [IPv6](/faqs/ipv6/)\n"
-"- [DNSSEC](/faqs/dnssec/)\n"
-"- [TLS](/faqs/tls/)\n"
-"- [DKIM, SPF and DMARC](/faqs/mail/)"
-
-#,md-format
-msgid "about teaser"
-msgstr "After Schiphol Airport and the Port of Rotterdam, our digital infrastructure\n"
-"is the &quot;third mainport&quot; in the Netherlands."
+"CoC number: 27169301"
 
 #,md-format
 msgid "about content"
@@ -330,247 +102,1588 @@ msgstr "# About Internet.nl\n"
 "- self testing through Internet.nl\n"
 "- measurement of the actual use in the Netherlands\n"
 "- education and the exchange of knowledge, including an annual seminar\n"
-"- connecting stakeholders."
-
-#,md-format
-msgid "contact teaser"
-msgstr "If you have a question, you most likely will find an answer in the\n"
-"&quot;Frequently Asked Questions&quot; section."
-
-#,md-format
-msgid "contact content"
-msgstr "# Contact\n"
+"- connecting stakeholders\n"
+"## Open Internet NL\n"
 "\n"
-"This is the first public release of the Internet.nl portal. We happily receive\n"
-"feedback from you on its functionality and operation.\n"
-"\n"
-"If you have a question about the [internet standards](/standards/) promoted\n"
-"here, the [Internet.nl portal](/about/) itself or the\n"
-"[organisations](/partners/) supporting this platform, you most likely will\n"
-"find an answer in the &quot;Frequently Asked Questions&quot; section or on one\n"
-"of the other pages:\n"
-"\n"
-"- [IPv6](/faqs/ipv6/)\n"
-"- [DNSSEC](/faqs/dnssec/)\n"
-"- [TLS](/faqs/tls/)\n"
-"- [DKIM, SPF and DMARC](/faqs/mail/)\n"
-" &nbsp;  \n"
-"- [Internet standards](/standards/)\n"
-"- [About Internet.nl](/about/)\n"
-"- [Partners](/partners/)\n"
-"\n"
-"If you have a question on safe internet use in general, you should visit this\n"
-"site:\n"
-"\n"
-"- [Veilig internetten](https://veiliginternetten.nl/)\n"
-"\n"
-"And if you didn&#39;t get the 100% score for one of the tests, you should\n"
-"first contact your internet or hosting provider, or the network administrator.\n"
-"The test results provide additional information to our findings and also whom\n"
-"in general you should ask to resolve any issues.\n"
-"\n"
-"If you still can&#39;t find an answer to your question, you are welcome to\n"
-"contact the Internet Standards Platform:\n"
-"\n"
-"E-mail: [vraag@internet.nl](mailto:vraag@internet.nl)\n"
-"\n"
-"Internet Standards Platform  \n"
-"c/o ECP  \n"
-"Overgoo 13  \n"
-"PO box 262  \n"
-"2260AG Leidschendam  \n"
-"The Netherlands  \n"
-"\n"
-"  \n"
 "Open Internet NL ([http://open.internet.nl/](http://open.internet.nl/)) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl."
 
 #,md-format
-msgid "sitemap teaser"
-msgstr " "
+msgid "about teaser"
+msgstr "After Schiphol Airport and the Port of Rotterdam, our digital infrastructure\n"
+"is the &quot;third mainport&quot; in the Netherlands."
 
 #,md-format
-msgid "sitemap content"
-msgstr " "
-
-msgid "connection title"
-msgstr "Internet connection test"
-
-msgid "connection forward"
-msgstr "To the detailed report >>"
-
-msgid "domain title"
-msgstr "Website test: {{prettyaddr}}"
-
-msgid "domain forward"
-msgstr "To the detailed report >>"
-
-msgid "domain tweetmessage"
-msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%20%40Internet_nl%3A"
-
-msgid "test error summary"
-msgstr "<strong>Error</strong> during execution!"
-
-msgid "test error description"
-msgstr "An <strong>error</strong> has occured during the execution of a test. This can happen when the Internet.nl site is overloaded or when your internet connection is having serious problems."
-
-msgid "test siteipv6 title"
-msgstr "Modern internet address?"
-
-msgid "test siteipv6 description"
-msgstr "The Internet is moving to a new version of the Internet Protocol. Website owners who want to be reachable from all internet addresses require modern IPv6 addresses in addition to their IPv4 addresses."
-
-msgid "test sitednssec title"
-msgstr "Protected against redirection?"
-
-msgid "test sitednssec summary"
-msgstr "Protected against redirection?"
-
-msgid "test sitednssec description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the translation of domain names to IP addresses. DNSSEC is a security system that adds digital signatures to information published through the DNS system. Visitors who also use DNSSEC at their side are protected from being redirected to false IP addresses."
-
-msgid "test sitetls title"
-msgstr "Secure connection?"
-
-msgid "test sitetls description"
-msgstr "TLS cryptografically protects internet connections from eavesdropping and tampering. However, just enabling TLS does not guarantee security: it needs to be properly configured as well. Using older versions or outdated security options can still make a TLS connection insecure."
-
-msgid "test siteipv6 failed summary"
-msgstr "<strong>Not/partially</strong> reachable from modern internet addresses (IPv6)"
-
-msgid "test siteipv6 failed description"
-msgstr "Unfortunately, this website can <strong>not</strong> be reached by visitors\n"
-"using modern IPv6 addresses or there is an error in its configuration. It is\n"
-"<strong>not</strong> yet part of the modern Internet.\n"
-"\n"
-"You should ask your hosting provider to enable IPv6 or to fix the issues in\n"
-"its configuration."
-
-msgid "test siteipv6 passed summary"
-msgstr "Reachable from modern internet addresses (IPv6)"
-
-msgid "test siteipv6 passed description"
-msgstr "Congratulations; this website can be reached by visitors using modern IPv6 addresses, making it a part of the modern Internet."
-
-msgid "test sitednssec failed summary"
-msgstr "<strong>Not</strong> protected from redirection to false IP addresses (DNSSEC)"
-
-msgid "test sitednssec failed description"
-msgstr "Unfortunately, this domain name does <strong>not</strong> use DNSSEC or there\n"
-"is an error in its configuration. Users of this domain name are currently\n"
-"<strong>not</strong> protected from being redirected to false IP addresses.\n"
-"\n"
-"You should ask your hosting provider to set up DNSSEC or to fix the issues in\n"
-"its configuration."
-
-msgid "test sitednssec passed summary"
-msgstr "Protected from redirection to false IP addresses (DNSSEC)"
-
-msgid "test sitednssec passed description"
-msgstr "Congratulations; this domain name uses DNSSEC. Visitors who also use DNSSEC at their side are protected from being redirected to false IP addresses."
-
-msgid "test sitetls failed summary"
-msgstr "Connection <strong>not/insufficiently</strong> protected (TLS)"
-
-msgid "test sitetls failed description"
-msgstr "Unfortunately, the cryptographic protection of TLS on the website is\n"
-"<strong>absent</strong> or <strong>not</strong> strong enough, or there is an\n"
-"error in its configuration. Attackers may eavesdrop on or tamper with\n"
-"connections from visitors.\n"
-"\n"
-"You should ask your hosting provider to enable TLS or to fix the issues in its\n"
-"configuration."
-
-msgid "test sitetls passed summary"
-msgstr "Adequately protected connection (TLS)"
-
-msgid "test sitetls passed description"
-msgstr "Congratulations; the cryptographic protection of TLS on the website is strong enough. Internet connections from visitors who also use strong TLS configurations are protected from eavesdropping and tampering."
-
-msgid "test connipv6 title"
-msgstr "All internet destinations reachable?"
-
-msgid "test connipv6 description"
-msgstr "New destinations on the Internet can only be provided with IPv6 addresses. These can only be reached if you yourself have a modern IPv6 address in addition to your IPv4 address."
-
-msgid "test connresolver title"
-msgstr "Protected against redirection?"
-
-msgid "test connresolver description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
-"translation of domain names to IP addresses. DNSSEC is a security system that\n"
-"checks the digital signatures provided with the DNS information. That protects\n"
-"you from being redirected to false IP addresses."
-
-msgid "test connipv6 failed summary"
-msgstr "<strong>Not</strong> all internet destinations reachable (IPv6)"
-
-msgid "test connipv6 failed description"
-msgstr "Unfortunately, your internet provider has <strong>not</strong> given you a modern IPv6\n"
-"address or there is an error in its configuration. You are <strong>not</strong> able to\n"
-"reach all internet destinations.\n"
-"\n"
-"You should ask your internet provider or network administrator to enable IPv6\n"
-"or to fix the issues in its configuration."
-
-msgid "test connipv6 passed summary"
-msgstr "All internet destinations reachable (IPv6)"
-
-msgid "test connipv6 passed description"
-msgstr "Congratulations; your internet provider has given you a moderen IPv6 address\n"
-"in addition to your IPv4 address. That allows you to reach all internet\n"
-"destinations, including those that have only IPv6 addresses."
-
-msgid "test connresolver failed summary"
-msgstr "<strong>Not</strong> protected from redirection to false IP addresses (DNSSEC)"
-
-msgid "test connresolver failed description"
-msgstr "Unfortunately, you are <strong>not</strong> using DNSSEC. You are currently\n"
-"<strong>not</strong> protected from being redirected to false IP addresses.\n"
-"\n"
-"You should ask your internet provider or network administrator to enable\n"
-"DNSSEC validation or to fix the issues in its configuration. More experienced\n"
-"internet users can install DNSSEC on their own systems."
-
-msgid "test connresolver passed summary"
-msgstr "Protected from redirection to false IP addresses (DNSSEC)"
-
-msgid "test connresolver passed description"
-msgstr "Congratulations; you are using DNSSEC. This security system checks the digital signatures provided with the translation of domain names to IP addresses. You are protected from being redirected to false IP addresses."
-
-msgid "blogs .index"
-msgstr "olaf-kolkman"
-
-msgid "blogs marco-davids name"
-msgstr "Marco Davids"
-
-msgid "blogs marco-davids bio"
-msgstr " "
-
-msgid "blogs marco-davids .index"
-msgstr " "
-
-msgid "blogs gerben-klein-baltink name"
-msgstr "Gerben Klein Baltink"
-
-msgid "blogs gerben-klein-baltink bio"
-msgstr " "
-
-msgid "blogs gerben-klein-baltink .index"
-msgstr " "
-
-#,md-format
-msgid "blogs olaf-kolkman bio"
+msgid "author olaf-kolkman bio"
 msgstr "Olaf Kolkman is the Chief Internet Technology Officer (CITO) at ISOC\n"
 "international. He is responsibility for leading ISOC&#39;s Strategic Technical\n"
 "activities, particularly as they pertain to issues and opportunities for\n"
 "enhancing the Internet&#39;s evolution."
 
 #,md-format
-msgid "blogs olaf-kolkman name"
+msgid "author olaf-kolkman name"
 msgstr "Olaf Kolkman"
 
-msgid "blogs olaf-kolkman .index"
-msgstr "internet-draait-om-samenwerking"
+msgid "base about"
+msgstr "About Internet.nl"
+
+msgid "base blogs"
+msgstr "Blogs"
+
+msgid "base contact"
+msgstr "Contact"
+
+msgid "base copyright"
+msgstr "Copyright"
+
+msgid "base disclosure"
+msgstr "Responsible disclosure"
+
+msgid "base faqs"
+msgstr "Knowledge base"
+
+msgid "base followtwitter"
+msgstr "Follow us on Twitter"
+
+msgid "base halloffame"
+msgstr "Hall of Fame"
+
+msgid "base home"
+msgstr "Home"
+
+msgid "base info"
+msgstr "Internet.nl is an initiative of the Internet community and the Dutch \n"
+"government."
+
+msgid "base legend bad"
+msgstr "to be improved"
+
+msgid "base legend good"
+msgstr "good"
+
+msgid "base news"
+msgstr "News"
+
+msgid "base newslink"
+msgstr "To the news overview"
+
+msgid "base partners"
+msgstr "Partners"
+
+msgid "base permalink"
+msgstr "Permalink test result {{permadate|date:'(Y-m-d H:i T)'}}"
+
+msgid "base probe-verdict failed"
+msgstr "Failed"
+
+msgid "base probe-verdict passed"
+msgstr "Passed"
+
+msgid "base sitemap"
+msgstr "Sitemap"
+
+msgid "base standards"
+msgstr "Internet standards"
+
+msgid "base terms"
+msgstr "Terms of use"
+
+msgid "base test connection explain"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.\n"
+"\n"
+"Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non."
+
+msgid "base test connection label"
+msgstr "Test your connection"
+
+msgid "base test connection text"
+msgstr "Hele internet bereikbaar? Beschermd tegen omleiding?"
+
+msgid "base test connection title"
+msgstr "Do the connection test"
+
+msgid "base test email input"
+msgstr "Your email address:"
+
+msgid "base test email label"
+msgstr "Test your e-mail"
+
+msgid "base test email text"
+msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? \n"
+"Beveiligde mail-verbinding?"
+
+msgid "base test explain"
+msgstr "Test explanation"
+
+msgid "base test mail explain"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.\n"
+"\n"
+"Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non."
+
+msgid "base test mail title"
+msgstr "Do the e-mail test"
+
+msgid "base test start"
+msgstr "Start test"
+
+msgid "base test website explain"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.\n"
+"\n"
+"Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non."
+
+msgid "base test website input"
+msgstr "Your domain name:"
+
+msgid "base test website label"
+msgstr "Test your website"
+
+msgid "base test website text"
+msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding? Beveiligde verbinding?"
+
+msgid "base test website title"
+msgstr "Do the website test"
+
+msgid "connection pagetitle"
+msgstr "Internet connection test"
+
+msgid "connection title"
+msgstr "Internet connection test"
+
+msgid "detail conn dnssec validation exp"
+msgstr "We check if you validate DNSSEC signatures."
+
+msgid "detail conn dnssec validation label"
+msgstr "DNNSEC validation"
+
+msgid "detail conn dnssec validation tech table"
+msgstr "DNS provider"
+
+msgid "detail conn dnssec validation verdict bad"
+msgstr "DNSSEC signatures are not being validated."
+
+msgid "detail conn dnssec validation verdict good"
+msgstr "DNSSEC signatures are being validated."
+
+msgid "detail conn ipv6 connection exp"
+msgstr "We check that you are directly IPv6 connected."
+
+msgid "detail conn ipv6 connection label"
+msgstr "IPv6 connection (direct)"
+
+msgid "detail conn ipv6 connection tech table"
+msgstr "Address|Reverse address|Internet provider"
+
+msgid "detail conn ipv6 connection verdict bad"
+msgstr "An IPv6 connection (directly to an address) could not be established."
+
+msgid "detail conn ipv6 connection verdict good"
+msgstr "An IPv6 connection (directly to an address) was established successfully."
+
+msgid "detail conn ipv6 dns-conn exp"
+msgstr "We check that you are IPv6 connected via DNS."
+
+msgid "detail conn ipv6 dns-conn label"
+msgstr "IPv6 connection (via DNS)"
+
+msgid "detail conn ipv6 dns-conn verdict bad"
+msgstr "An IPv6 connection (via DNS) could not be established."
+
+msgid "detail conn ipv6 dns-conn verdict good"
+msgstr "An IPv6 connection (via DNS) was established successfully."
+
+msgid "detail conn ipv6 ipv4-conn exp"
+msgstr "We check that you are IPv4 connected via DNS."
+
+msgid "detail conn ipv6 ipv4-conn label"
+msgstr "IPv4 connection (via DNS)"
+
+msgid "detail conn ipv6 ipv4-conn tech table"
+msgstr "Address|Reverse address|Internet provider"
+
+msgid "detail conn ipv6 ipv4-conn verdict bad"
+msgstr "An IPv4 connection (via DNS) could not be established."
+
+msgid "detail conn ipv6 ipv4-conn verdict good"
+msgstr "An IPv4 connection (via DNS) was established successfully."
+
+msgid "detail conn ipv6 privacy exp"
+msgstr "We check the IPv6 privacy extensions."
+
+msgid "detail conn ipv6 privacy label"
+msgstr "Privacy extensions"
+
+msgid "detail conn ipv6 privacy verdict bad"
+msgstr "You are using SLAAC without the IPv6 privacy extensions."
+
+msgid "detail conn ipv6 privacy verdict good"
+msgstr "The IPv6 privacy extensions are enabled (or you are not using SLAAC)."
+
+msgid "detail conn ipv6 resolver-conn exp"
+msgstr "We check that you resolver is IPv6 connected."
+
+msgid "detail conn ipv6 resolver-conn label"
+msgstr "Resolver's IPv6 connection"
+
+msgid "detail conn ipv6 resolver-conn verdict bad"
+msgstr "The resolver was not able to connect to a name server over IPv6."
+
+msgid "detail conn ipv6 resolver-conn verdict good"
+msgstr "The resolver can connect to a name server over IPv6."
+
+msgid "detail conndnssec gevalideerd"
+msgstr "DNSSEC signatures are being validated;  \n"
+"your DNS service providers are: {{resolv_owner}}"
+
+msgid "detail conndnssec niet gevalideerd"
+msgstr "DNSSEC signatures are not being validated;  \n"
+"your DNS service providers are: {{resolv_owner}}"
+
+msgid "detail connipv6 SLAAC zonder privacy extensions"
+msgstr "you are using SLAAC without the IPv6 privacy extensions"
+
+msgid "detail connipv6 geen werkende ipv4 verbinding via dns"
+msgstr "an IPv4 connection (via DNS) could not be established"
+
+msgid "detail connipv6 geen werkende ipv6 verbinding via adres"
+msgstr "an IPv6 connection (directly to an address) could not be established"
+
+msgid "detail connipv6 geen werkende ipv6 verbinding via dns"
+msgstr "an IPv6 connection (via DNS) could not be established"
+
+msgid "detail connipv6 privacy extensions aan (of geen SLAAC)"
+msgstr "the IPv6 privacy extensions are enabled (or you are not using SLAAC)"
+
+msgid "detail connipv6 resolver kan ipv6 nameservers bereiken"
+msgstr "the resolver can connect to a name server over IPv6"
+
+msgid "detail connipv6 resolver kan ipv6 nameservers niet bereiken"
+msgstr "the resolver was not able to connect to a name server over IPv6"
+
+msgid "detail connipv6 werkende ipv4 verbinding via dns"
+msgstr "an IPv4 connection (via DNS) was established successfully;  \n"
+"your IP address is: {{ipv4_addr}}  \n"
+"your reverse domain name is: {{ipv4_reverse}}  \n"
+"your internet provider is: {{ipv4_owner}}  "
+
+msgid "detail connipv6 werkende ipv6 verbinding via adres"
+msgstr "an IPv6 connection (directly to an address) was established successfully;  \n"
+"your IP address is: {{ipv6_addr}}  \n"
+"your reverse domain name is: {{ipv6_reverse}}  \n"
+"your internet provider is: {{ipv6_owner}}  "
+
+msgid "detail connipv6 werkende ipv6 verbinding via dns"
+msgstr "an IPv6 connection (via DNS) was established successfully"
+
+msgid "detail could-not-perform-test"
+msgstr "Test error. Please try again later."
+
+msgid "detail domdnssec domain is bogus"
+msgstr "this domain is \"bogus\", a very serious error in its configuration;  \n"
+"please contact your DNS operator as soon as possible;  \n"
+"your registrar (most often also your DNS operator) is: {{registrar}}"
+
+msgid "detail domdnssec domain is insecure"
+msgstr "Not secured with DNSSEC. Your registrar (most often also your DNS operator) \n"
+"is: {{registrar}}"
+
+msgid "detail domdnssec domain is secure"
+msgstr "Secured with DNSSEC. Your registrar (most often also your DNS operator) is: \n"
+"{{registrar}}"
+
+msgid "detail domdnssec mx is insecure"
+msgstr "Not secured with DNSSEC."
+
+msgid "detail domdnssec mx is secure"
+msgstr "Secured with DNSSEC."
+
+msgid "detail domdnssec resolver error"
+msgstr "please contact our helpdesk: \n"
+"[question@internet.nl](mailto:question@internet.nl)"
+
+msgid "detail domdnssec servfail"
+msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
+
+msgid "detail domipv6 IPv6 adres website bereikbaar"
+msgstr "the web server is reachable through IPv6"
+
+msgid "detail domipv6 IPv6 adres website onbereikbaar"
+msgstr "the web server can not be reached over IPv6"
+
+msgid "detail domipv6 TLS beschikbaar over IPv4 maar niet over IPv6"
+msgstr "TLS is available through IPv4 but not through IPv6"
+
+msgid "detail domipv6 alle mailservers hebben een IPv6 adres"
+msgstr "all mail servers (MX) come with an IPv6 address. Mailservers: \n"
+"{{has_aaaa}}"
+
+msgid "detail domipv6 alle nameservers hebben een IPv6 adres"
+msgstr "all name servers (NS) come with an IPv6 address. Nameservers: \n"
+"{{has_aaaa}}"
+
+msgid "detail domipv6 geen mailservers aanwezig"
+msgstr "no mail exchanges (MX) set"
+
+msgid "detail domipv6 geen van de mailservers heeft een IPv6 adres"
+msgstr "none of the mail servers (MX) comes with an IPv6 address"
+
+msgid "detail domipv6 geen van de nameservers heeft een IPv6 adres"
+msgstr "none of the name servers (NS) comes with an IPv6 address"
+
+msgid "detail domipv6 ipv4 en ipv6 website lijken overeen te komen"
+msgstr "the websites at IPv4 and IPv6 seem to correspond"
+
+msgid "detail domipv6 ipv4 en ipv6 website lijken te verschillen"
+msgstr "the websites at IPv4 and IPv6 seem to be different"
+
+msgid "detail domipv6 ipv46-port80-mismatch"
+msgstr "Port 80 reachable over IPv4, not reachable over IPv6"
+
+msgid "detail domipv6 mx-aaaa-partial-good"
+msgstr "Mailservers with an IPv6 address: \n"
+"{{has_aaaa}}"
+
+msgid "detail domipv6 niet alle mailservers hebben een IPv6 adres"
+msgstr "some mail servers (MX) do not have an IPv6 address:  \n"
+"{{no_aaaa}}"
+
+msgid "detail domipv6 niet alle nameservers hebben een IPv6 adres"
+msgstr "some name servers (NS) do not have an IPv6 address:  \n"
+"{{no_aaaa}}"
+
+msgid "detail domipv6 ns-aaaa-insufficient"
+msgstr "An insufficient number of name servers (NS) come with an IPv6 address."
+
+msgid "detail domipv6 ns-aaaa-partial-good"
+msgstr "Nameservers with an IPv6 address: \n"
+"{{has_aaaa}}"
+
+msgid "detail domipv6 ns-aaaa-partial-v4"
+msgstr "Nameservers with an IPv4 address: \n"
+"{{has_a}}"
+
+msgid "detail domipv6 ns-aaaa-sufficient"
+msgstr "A sufficient number of name servers (NS) come with an IPv6 address."
+
+msgid "detail domipv6 webserver heeft een IPv6 adres"
+msgstr "the web server (AAAA) comes with an IPv6 address"
+
+msgid "detail domipv6 webserver heeft geen IPv6 adres"
+msgstr "the web server does not have an IPv6 address (AAAA record)"
+
+msgid "detail domtls TLSA record geldig"
+msgstr "a valid TLSA record has been found (DANE)"
+
+msgid "detail domtls TLSA record ongeldig"
+msgstr "the TLSA record is not valid (DANE)"
+
+msgid "detail domtls alleen voldoende ciphersuites zijn toegestaan"
+msgstr "all cipher methods offered are sufficiently secure"
+
+msgid "detail domtls certchain niet vertrouwd"
+msgstr "the certificate chain is not signed by a trusted root CA:  \n"
+"{{certchain}}"
+
+msgid "detail domtls forward secrecy parameters onvoldoende"
+msgstr "the forward secrecy parameters are not secure:  \n"
+"{{fs_bad}}"
+
+msgid "detail domtls forward secrecy parameters voldoende"
+msgstr "the forward secrecy parameters are sufficiently secure"
+
+msgid "detail domtls geen TLSA aanwezig"
+msgstr "no TLSA record found (DANE)"
+
+msgid "detail domtls server ondersteund geen secure renegotiation"
+msgstr "the server does not support secure renegotiation"
+
+msgid "detail domtls server ondersteund secure renegotiation"
+msgstr "the server supports secure renegotiation"
+
+msgid "detail domtls server staat TLS-compressie toe"
+msgstr "the server allows TLS compression"
+
+msgid "detail domtls server staat client-initiated renegotiation toe"
+msgstr "the server allows client-initiated renegotiation"
+
+msgid "detail domtls server staat geen TLS-compressie toe"
+msgstr "the server does not allow TLS compression"
+
+msgid "detail domtls server staat geen client-initiated renegotiation toe"
+msgstr "the server does not allow client-initiated renegotiation"
+
+msgid "detail domtls server staat geen verbindingen met forward secrecy toe"
+msgstr "the server does not allow connections using forward secrecy"
+
+msgid "detail domtls server staat onvoldoende ciphersuites toe"
+msgstr "some cipher methods offered are not secure:  \n"
+"{{ciphers_bad}}"
+
+msgid "detail domtls verbinding alleen mogelijk over ondersteunde TLS versies"
+msgstr "connections only allowed for supported TLS versions"
+
+msgid "detail domtls verbinding mogelijk over niet ondersteunde TLS versies"
+msgstr "connections allowed for TLS versions not supported:  \n"
+"{{protocols_bad}}"
+
+msgid "detail domtls website biedt geen tls aan"
+msgstr "the website does not offer TLS"
+
+msgid "detail domtls website biedt tls aan"
+msgstr "the website offers TLS"
+
+msgid "detail domtls website hostname komt niet overeen met certificaat"
+msgstr "the hostname of the website does not match the certificate:  \n"
+"hostname: {{hostmatch_failed}}  \n"
+"domains on the certificate: {{hostmatch_accepted}}"
+
+msgid "detail domtls website hostname komt overeen met certificaat"
+msgstr "the hostname of the website matches the certificate"
+
+msgid "detail gen-tls FS-NO"
+msgstr "the server does not allow connections using forward secrecy"
+
+msgid "detail gen-tls FS-param-FAIL"
+msgstr "the forward secrecy parameters are not secure:  \n"
+"{{fs_bad}}"
+
+msgid "detail gen-tls FS-param-OK"
+msgstr "the forward secrecy parameters are sufficiently secure"
+
+msgid "detail gen-tls TLSA-INVALID"
+msgstr "the TLSA record is not valid (DANE)"
+
+msgid "detail gen-tls TLSA-NO"
+msgstr "no TLSA record found (DANE)"
+
+msgid "detail gen-tls TLSA-OK"
+msgstr "a valid TLSA record has been found (DANE)"
+
+msgid "detail gen-tls cert-hash-FAIL"
+msgstr "some certificates are signed using a hash method that is not secure:  \n"
+"{{signature_bad}}"
+
+msgid "detail gen-tls cert-hash-OK"
+msgstr "all certificates are signed using a sufficiently secure hash method"
+
+msgid "detail gen-tls cert-keylength-FAIL"
+msgstr "some certificates contain public keys of insufficient length:  \n"
+"{{pubkey_bad}}"
+
+msgid "detail gen-tls cert-keylength-OK"
+msgstr "the public keys in the certificates are sufficiently long"
+
+msgid "detail gen-tls cert-trusted-CA-FAIL"
+msgstr "the certificate chain is not signed by a trusted root CA:  \n"
+"{{certchain}}"
+
+msgid "detail gen-tls cert-trusted-CA-OK"
+msgstr "the certificate chain is complete and signed by a trusted root CA"
+
+msgid "detail mail auth dkim exp"
+msgstr "We check for a DKIM record."
+
+msgid "detail mail auth dkim label"
+msgstr "DKIM"
+
+msgid "detail mail auth dkim verdict bad"
+msgstr "A DKIM record (TXT) could not be found."
+
+msgid "detail mail auth dkim verdict good"
+msgstr "A DKIM record (TXT) has been found."
+
+msgid "detail mail auth dmarc exp"
+msgstr "We check for a DMARC policy."
+
+msgid "detail mail auth dmarc label"
+msgstr "DMARC"
+
+msgid "detail mail auth dmarc tech table"
+msgstr "DMARC policy"
+
+msgid "detail mail auth dmarc verdict bad"
+msgstr "A DMARC policy (TXT record) could not be found."
+
+msgid "detail mail auth dmarc verdict good"
+msgstr "A DMARC policy (TXT record) has been found."
+
+msgid "detail mail auth spf exp"
+msgstr "We check for an SPF policy."
+
+msgid "detail mail auth spf label"
+msgstr "SPF"
+
+msgid "detail mail auth spf tech table"
+msgstr "SPF policy"
+
+msgid "detail mail auth spf verdict bad"
+msgstr "An SPF policy (TXT record) could not been found."
+
+msgid "detail mail auth spf verdict good"
+msgstr "An SPF policy (TXT record) has been found."
+
+msgid "detail mail dnssec mx-exists exp"
+msgstr "We check if there are DNSSEC MX records."
+
+msgid "detail mail dnssec mx-exists label"
+msgstr "DNSSEC existence"
+
+msgid "detail mail dnssec mx-exists tech table"
+msgstr "Domain|DNSSEC"
+
+msgid "detail mail dnssec mx-exists verdict bad"
+msgstr "The MX record is not DNSSEC signed."
+
+msgid "detail mail dnssec mx-exists verdict good"
+msgstr "The MX record is DNSSEC signed."
+
+msgid "detail mail dnssec mx-exists verdict resolver-error"
+msgstr "Please contact our helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)"
+
+msgid "detail mail dnssec mx-exists verdict servfail"
+msgstr "We were missing the text here for servfail. Their DNS is completely broken."
+
+msgid "detail mail dnssec mx-valid exp"
+msgstr "We check if the DNSSEC records are valid."
+
+msgid "detail mail dnssec mx-valid label"
+msgstr "DNSSEC validation"
+
+msgid "detail mail dnssec mx-valid tech table"
+msgstr "Domain|Status"
+
+msgid "detail mail dnssec mx-valid verdict bad"
+msgstr "This domain is \"bogus\", a very serious error in its configuration.\n"
+"Please contact your DNS operator as soon as possible."
+
+msgid "detail mail dnssec mx-valid verdict good"
+msgstr "Your MX record is secured with DNSSEC."
+
+msgid "detail mail ipv6 mx-AAAA exp"
+msgstr "We check for at least 2 AAAA mail servers."
+
+msgid "detail mail ipv6 mx-AAAA label"
+msgstr "Mail servers’ IPv6 addresses"
+
+msgid "detail mail ipv6 mx-AAAA tech table"
+msgstr "Mail server|IPv6|IPv4"
+
+msgid "detail mail ipv6 mx-AAAA verdict bad"
+msgstr "Some mail servers (MX) do not have an IPv6 address."
+
+msgid "detail mail ipv6 mx-AAAA verdict good"
+msgstr "All mail servers (MX) come with an IPv6 address."
+
+msgid "detail mail ipv6 mx-AAAA verdict other"
+msgstr "No mail exchanges (MX) set."
+
+msgid "detail mail ipv6 mx-reach exp"
+msgstr "We check if we can contact all IPv6 enabled mail servers over IPv6."
+
+msgid "detail mail ipv6 mx-reach label"
+msgstr "Mail servers’ IPv6 reachability"
+
+msgid "detail mail ipv6 mx-reach tech table"
+msgstr "Mail server|Unreachable IPv6"
+
+msgid "detail mail ipv6 mx-reach verdict bad"
+msgstr "Some mail servers (MX) having an IPv6 address can not be reached over IPv6."
+
+msgid "detail mail ipv6 mx-reach verdict good"
+msgstr "All mail servers (MX) having an IPv6 address are also reachable through \n"
+"IPv6."
+
+msgid "detail mail tls cert-hostmatch tech table"
+msgstr "Mail server|Unmatched domains on the certificate"
+
+msgid "detail mail tls cert-pubkey tech table"
+msgstr "Mail server|Public key with insufficient length"
+
+msgid "detail mail tls cert-signature tech table"
+msgstr "Mail server|Insecure hash method"
+
+msgid "detail mail tls cert-trust tech table"
+msgstr "Mail server|Bad certificate chain"
+
+msgid "detail mail tls ciphers exp"
+msgstr "We check if the available ipher methods are sufficiently secure."
+
+msgid "detail mail tls ciphers label"
+msgstr "Cipher methods"
+
+msgid "detail mail tls ciphers tech table"
+msgstr "Mail server|Sufficiently secure cipher methods"
+
+msgid "detail mail tls ciphers verdict bad"
+msgstr "Sufficiently secure cipher methods not supported."
+
+msgid "detail mail tls ciphers verdict good"
+msgstr "Sufficiently secure cipher methods supported."
+
+msgid "detail mail tls dane-exists tech table"
+msgstr "Mail server|TLSA"
+
+msgid "detail mail tls dane-valid tech table"
+msgstr "Mail server|valid TLSA"
+
+msgid "detail mail tls starttls-exists exp"
+msgstr "We check if STARTTLS is enabled on the mail server."
+
+msgid "detail mail tls starttls-exists label"
+msgstr "TLS"
+
+msgid "detail mail tls starttls-exists tech table"
+msgstr "Mail server|STARTTLS"
+
+msgid "detail mail tls starttls-exists verdict bad"
+msgstr "Mail server does not offer STARTTLS."
+
+msgid "detail mail tls starttls-exists verdict good"
+msgstr "Mail server offers STARTTLS."
+
+msgid "detail mail tls starttls-exists verdict other"
+msgstr "Mail server was unreachable."
+
+msgid "detail mail tls starttls-exists verdict other-2"
+msgstr "No mail servers (MX) set."
+
+msgid "detail mail tls version exp"
+msgstr "We check if the available TLS versions are sufficiently secure."
+
+msgid "detail mail tls version label"
+msgstr "TLS version"
+
+msgid "detail mail tls version tech table"
+msgstr "Mail server|Sufficiently secure TLS versions"
+
+msgid "detail mail tls version verdict bad"
+msgstr "Sufficiently secure TLS versions not supported."
+
+msgid "detail mail tls version verdict good"
+msgstr "Sufficiently secure TLS versions supported."
+
+msgid "detail mailauth dkim record aanwezig"
+msgstr "a DKIM record (TXT) has been found"
+
+msgid "detail mailauth dmarc policy aanwezig"
+msgstr "a DMARC policy (TXT record) has been found:  \n"
+"{{dmarc_record}}"
+
+msgid "detail mailauth geen dkim record aanwezig"
+msgstr "a DKIM record (TXT) could not be found"
+
+msgid "detail mailauth geen dmarc policy aanwezig"
+msgstr "a DMARC policy (TXT record) could not be found"
+
+msgid "detail mailauth geen spf policy aanwezig"
+msgstr "an SPF policy (TXT record) could not be found"
+
+msgid "detail mailauth spf policy aanwezig"
+msgstr "an SPF policy (TXT record) has been found:  \n"
+"{{spf_record}}"
+
+msgid "detail smtp-dnssec hostname"
+msgstr "Tested domain name: \n"
+"{{hostname}}"
+
+msgid "detail smtp-dnssec mx-hostname"
+msgstr "Incoming mail server (MX): \n"
+"{{hostname}}"
+
+msgid "detail smtp-tls MX-NO"
+msgstr "no mail servers (MX) set"
+
+msgid "detail smtp-tls cert-hostname-match-FAIL"
+msgstr "hostname of mail server does not match certificate:  \n"
+"hostname: {{hostmatch_failed}}  \n"
+"domains on the certificate: {{hostmatch_accepted}}"
+
+msgid "detail smtp-tls cert-hostname-match-OK"
+msgstr "hostname of mail server matches certificate"
+
+msgid "detail smtp-tls hostname"
+msgstr "Incoming mail server (MX): \n"
+"{{hostname}}"
+
+msgid "detail smtp-tls server-unreachable"
+msgstr "mail server is unreachable"
+
+msgid "detail smtp-tls tls-FAIL"
+msgstr "mail server does not offer STARTTLS"
+
+msgid "detail smtp-tls tls-OK"
+msgstr "mail server offers STARTTLS"
+
+msgid "detail smtp-tls valid-cipher-FAIL"
+msgstr "sufficiently secure\n"
+" cipher methods not supported"
+
+msgid "detail smtp-tls valid-cipher-OK"
+msgstr "sufficiently secure \n"
+" cipher methods supported"
+
+msgid "detail smtp-tls valid-protocol-FAIL"
+msgstr "sufficiently secure TLS versions\n"
+" not supported"
+
+msgid "detail smtp-tls valid-protocol-OK"
+msgstr "sufficiently secure TLS versions\n"
+" supported"
+
+msgid "detail tech data bogus"
+msgstr "bogus"
+
+msgid "detail tech data insecure"
+msgstr "insecure"
+
+msgid "detail tech data no"
+msgstr "No"
+
+msgid "detail tech data secure"
+msgstr "secure"
+
+msgid "detail tech data yes"
+msgstr "Yes"
+
+msgid "detail verdict could-not-test"
+msgstr "Test error. Please try again later."
+
+msgid "detail verdict not-tested"
+msgstr "This test didn't run because a parent test gave no/insufficient results."
+
+msgid "detail web dnssec exists exp"
+msgstr "We check if there are DNSSEC records."
+
+msgid "detail web dnssec exists label"
+msgstr "DNSSEC existence"
+
+msgid "detail web dnssec exists tech table"
+msgstr "Domain|Registrar"
+
+msgid "detail web dnssec exists verdict bad"
+msgstr "The domain is not DNSSEC signed."
+
+msgid "detail web dnssec exists verdict good"
+msgstr "The domain is DNSSEC signed."
+
+msgid "detail web dnssec exists verdict resolver-error"
+msgstr "Please contact our helpdesk: \n"
+"[question@internet.nl](mailto:question@internet.nl)"
+
+msgid "detail web dnssec exists verdict servfail"
+msgstr "We were missing the text here for servfail. Their DNS is completely broken."
+
+msgid "detail web dnssec valid exp"
+msgstr "We check if the DNSSEC records are valid."
+
+msgid "detail web dnssec valid label"
+msgstr "DNSSEC validation"
+
+msgid "detail web dnssec valid tech table"
+msgstr "Domain|Status"
+
+msgid "detail web dnssec valid verdict bad"
+msgstr "This domain is \"bogus\", a very serious error in its configuration.\n"
+"Please contact your DNS operator as soon as possible."
+
+msgid "detail web dnssec valid verdict good"
+msgstr "Your domain is secured with DNSSEC."
+
+msgid "detail web ipv6 web-AAAA exp"
+msgstr "We check if there is at least 1 AAAA record."
+
+msgid "detail web ipv6 web-AAAA label"
+msgstr "Web servers’ IPv6 addresses"
+
+msgid "detail web ipv6 web-AAAA tech table"
+msgstr "Web server|IPv6|IPv4"
+
+msgid "detail web ipv6 web-AAAA verdict bad"
+msgstr "The web server does not have an IPv6 address (AAAA record)."
+
+msgid "detail web ipv6 web-AAAA verdict good"
+msgstr "The web server (AAAA) comes with an IPv6 address."
+
+msgid "detail web ipv6 web-ipv46 exp"
+msgstr "We compare the served content of the web server on both Ipv4 and Ipv6 and we\n"
+" accept a difference of at most 10%."
+
+msgid "detail web ipv6 web-ipv46 label"
+msgstr "IPv4/IPv6 website difference"
+
+msgid "detail web ipv6 web-ipv46 verdict bad"
+msgstr "The websites at IPv4 and IPv6 seem to be different."
+
+msgid "detail web ipv6 web-ipv46 verdict good"
+msgstr "The websites at IPv4 and IPv6 seem to correspond."
+
+msgid "detail web ipv6 web-reach exp"
+msgstr "We check if we can contact the web server over IPv6."
+
+msgid "detail web ipv6 web-reach label"
+msgstr "Web servers’ IPv6 reachability"
+
+msgid "detail web ipv6 web-reach tech table"
+msgstr "Web server|Unreachable IPv6"
+
+msgid "detail web ipv6 web-reach verdict bad"
+msgstr "The web server can not be reached over IPv6."
+
+msgid "detail web ipv6 web-reach verdict good"
+msgstr "The web server is reachable through IPv6."
+
+msgid "detail web tls cert-hostmatch tech table"
+msgstr "Web server|Unmatched domains on the certificate"
+
+msgid "detail web tls cert-pubkey tech table"
+msgstr "Web server|Public key with insufficient length"
+
+msgid "detail web tls cert-signature tech table"
+msgstr "Web server|Insecure hash method"
+
+msgid "detail web tls cert-trust tech table"
+msgstr "Web server|Bad certificate chain"
+
+msgid "detail web tls ciphers exp"
+msgstr "We check the TLS cipher methods."
+
+msgid "detail web tls ciphers label"
+msgstr "Cipher methods"
+
+msgid "detail web tls ciphers tech table"
+msgstr "Web server|Insecure ciphers"
+
+msgid "detail web tls ciphers verdict bad"
+msgstr "Certain cipher methods offered are not secure."
+
+msgid "detail web tls ciphers verdict good"
+msgstr "All cipher methods offered are sufficiently secure."
+
+msgid "detail web tls compression exp"
+msgstr "We check the TLS compression."
+
+msgid "detail web tls compression label"
+msgstr "TLS compression"
+
+msgid "detail web tls compression tech table"
+msgstr "Web server|TLS compression"
+
+msgid "detail web tls compression verdict bad"
+msgstr "TLS compression allowed."
+
+msgid "detail web tls compression verdict good"
+msgstr "TLS compression not allowed."
+
+msgid "detail web tls dane-exists tech table"
+msgstr "Web server|TLSA"
+
+msgid "detail web tls dane-valid tech table"
+msgstr "Web server|valid TLSA"
+
+msgid "detail web tls fs-params exp"
+msgstr "We check the forward secrecy parameters and we expect their bit-length to be\n"
+" sufficiently secure."
+
+msgid "detail web tls fs-params label"
+msgstr "Forward secrecy"
+
+msgid "detail web tls fs-params tech table"
+msgstr "Web server|Insecure parameters"
+
+msgid "detail web tls fs-params verdict bad"
+msgstr "The forward secrecy parameters are not secure."
+
+msgid "detail web tls fs-params verdict good"
+msgstr "The forward secrecy parameters are sufficiently secure."
+
+msgid "detail web tls fs-params verdict other"
+msgstr "The server does not allow connections using forward secrecy."
+
+msgid "detail web tls http-compression exp"
+msgstr "We check if HTTP compression is supported."
+
+msgid "detail web tls http-compression label"
+msgstr "HTTP compression"
+
+msgid "detail web tls http-compression tech table"
+msgstr "Web server|HTTP compression"
+
+msgid "detail web tls http-compression verdict bad"
+msgstr "HTTP compression is supported."
+
+msgid "detail web tls http-compression verdict good"
+msgstr "HTTP compression is not supported."
+
+msgid "detail web tls https-exists exp"
+msgstr "We check that HTTPS is enabled on the website."
+
+msgid "detail web tls https-exists label"
+msgstr "HTTPS"
+
+msgid "detail web tls https-exists tech table"
+msgstr "Web server|HTTPS"
+
+msgid "detail web tls https-exists verdict bad"
+msgstr "Website does not offer HTTPS."
+
+msgid "detail web tls https-exists verdict good"
+msgstr "Website offers HTTPS."
+
+msgid "detail web tls https-exists verdict other"
+msgstr "Web server was unreachable."
+
+msgid "detail web tls https-forced exp"
+msgstr "We check that HTTP requests are propertly redirected to HTTPS."
+
+msgid "detail web tls https-forced label"
+msgstr "HTTPS redirection"
+
+msgid "detail web tls https-forced tech table"
+msgstr "Web server|HTTPS redirection"
+
+msgid "detail web tls https-forced verdict bad"
+msgstr "HTTPS not enforced (neither HTTPS redirect to same domain nor only HTTPS)."
+
+msgid "detail web tls https-forced verdict good"
+msgstr "HTTPS enforced by redirecting HTTP to HTTPS."
+
+msgid "detail web tls https-forced verdict other"
+msgstr "HTTPS enforced by supporting only HTTPS and no HTTP."
+
+msgid "detail web tls https-hsts exp"
+msgstr "We check if there is an HSTS policy."
+
+msgid "detail web tls https-hsts label"
+msgstr "HSTS policy"
+
+msgid "detail web tls https-hsts tech table"
+msgstr "Web server|HSTS policy"
+
+msgid "detail web tls https-hsts verdict bad"
+msgstr "HSTS policy could not be found."
+
+msgid "detail web tls https-hsts verdict good"
+msgstr "HSTS policy has been found."
+
+msgid "detail web tls renegotiation-client exp"
+msgstr "We check if the client can initiate a renegotiation."
+
+msgid "detail web tls renegotiation-client label"
+msgstr "Client-initiated renegotiation"
+
+msgid "detail web tls renegotiation-client tech table"
+msgstr "Web server|Client-initiated renegotiation"
+
+msgid "detail web tls renegotiation-client verdict bad"
+msgstr "Client-initiated renegotiation allowed."
+
+msgid "detail web tls renegotiation-client verdict good"
+msgstr "Client-initiated renegotiation not allowed."
+
+msgid "detail web tls renegotiation-secure exp"
+msgstr "We check if secure renegotiation is supported."
+
+msgid "detail web tls renegotiation-secure label"
+msgstr "Secure renegotiation"
+
+msgid "detail web tls renegotiation-secure tech table"
+msgstr "Web server|Secure renegotiation"
+
+msgid "detail web tls renegotiation-secure verdict bad"
+msgstr "Secure renegotiation not supported."
+
+msgid "detail web tls renegotiation-secure verdict good"
+msgstr "Secure renegotiation supported."
+
+msgid "detail web tls version exp"
+msgstr "We check the supported TLS versions."
+
+msgid "detail web tls version label"
+msgstr "TLS version"
+
+msgid "detail web tls version tech table"
+msgstr "Web server|Insufficiently secure TLS versions"
+
+msgid "detail web tls version verdict bad"
+msgstr "Connections allowed for certain insufficiently secure TLS versions."
+
+msgid "detail web tls version verdict good"
+msgstr "Connections only allowed for sufficiently secure TLS versions."
+
+msgid "detail web-mail ipv6 ns-AAAA exp"
+msgstr "We check for at least 2 AAAA name servers."
+
+msgid "detail web-mail ipv6 ns-AAAA label"
+msgstr "Name servers’ IPv6 addresses"
+
+msgid "detail web-mail ipv6 ns-AAAA tech table"
+msgstr "Name server|IPv6|IPv4"
+
+msgid "detail web-mail ipv6 ns-AAAA verdict bad"
+msgstr "None of the name servers (NS) comes with an IPv6 address."
+
+msgid "detail web-mail ipv6 ns-AAAA verdict good"
+msgstr "A sufficient number of name servers (NS) come with an IPv6 address."
+
+msgid "detail web-mail ipv6 ns-AAAA verdict other"
+msgstr "An insufficient number of name servers (NS) come with an IPv6 address."
+
+msgid "detail web-mail ipv6 ns-reach exp"
+msgstr "We check if we can contact all IPv6 enabled name servers over IPv6."
+
+msgid "detail web-mail ipv6 ns-reach label"
+msgstr "Name servers’ IPv6 reachability"
+
+msgid "detail web-mail ipv6 ns-reach tech table"
+msgstr "Name server|Unreachable IPv6"
+
+msgid "detail web-mail ipv6 ns-reach verdict bad"
+msgstr "Some name servers (NS) having an IPv6 address can not be reached over IPv6."
+
+msgid "detail web-mail ipv6 ns-reach verdict good"
+msgstr "All name servers (NS) having an IPv6 address are also reachable through \n"
+"IPv6."
+
+msgid "detail web-mail tls cert-hostmatch exp"
+msgstr "We check that the domain matches the domain name on the certificate."
+
+msgid "detail web-mail tls cert-hostmatch label"
+msgstr "Certificates' domain name"
+
+msgid "detail web-mail tls cert-hostmatch verdict bad"
+msgstr "Hostname of website does not match certificate."
+
+msgid "detail web-mail tls cert-hostmatch verdict good"
+msgstr "Hostname of website matches certificate."
+
+msgid "detail web-mail tls cert-pubkey exp"
+msgstr "We check the certificates public keys' length."
+
+msgid "detail web-mail tls cert-pubkey label"
+msgstr "Certificates' public keys"
+
+msgid "detail web-mail tls cert-pubkey verdict bad"
+msgstr "Some certificates contain public keys of insufficient length."
+
+msgid "detail web-mail tls cert-pubkey verdict good"
+msgstr "The public keys in the certificates are sufficiently long."
+
+msgid "detail web-mail tls cert-signature exp"
+msgstr "We check the certificates's signature."
+
+msgid "detail web-mail tls cert-signature label"
+msgstr "Certificates' signature"
+
+msgid "detail web-mail tls cert-signature verdict bad"
+msgstr "Some certificates are signed using a hash method that is not secure."
+
+msgid "detail web-mail tls cert-signature verdict good"
+msgstr "All certificates are signed using a sufficiently secure hash method."
+
+msgid "detail web-mail tls cert-trust exp"
+msgstr "We check the certificate chain."
+
+msgid "detail web-mail tls cert-trust label"
+msgstr "Certificates' chain of trust"
+
+msgid "detail web-mail tls cert-trust verdict bad"
+msgstr "The certificate chain is not signed by a trusted root CA."
+
+msgid "detail web-mail tls cert-trust verdict good"
+msgstr "The certificate chain is complete and signed by a trusted root CA."
+
+msgid "detail web-mail tls dane-exists exp"
+msgstr "We check the existence of a TLSA record (DANE)."
+
+msgid "detail web-mail tls dane-exists label"
+msgstr "TLSA record (DANE)"
+
+msgid "detail web-mail tls dane-exists verdict bad"
+msgstr "No TLSA record found (DANE)"
+
+msgid "detail web-mail tls dane-exists verdict good"
+msgstr "TLSA record found (DANE)"
+
+msgid "detail web-mail tls dane-valid exp"
+msgstr "We check the existence of a TLSA record (DANE)."
+
+msgid "detail web-mail tls dane-valid label"
+msgstr "TLSA record validity (DANE)"
+
+msgid "detail web-mail tls dane-valid verdict bad"
+msgstr "The TLSA record is not valid (DANE)."
+
+msgid "detail web-mail tls dane-valid verdict good"
+msgstr "The TLSA record is valid (DANE)."
+
+msgid "detail web-tls cert-hostname-match-FAIL"
+msgstr "hostname of website does not match certificate:  \n"
+"hostname: {{hostmatch_failed}}  \n"
+"domains on the certificate: {{hostmatch_accepted}}"
+
+msgid "detail web-tls cert-hostname-match-OK"
+msgstr "hostname of website matches certificate"
+
+msgid "detail web-tls client-renegotiation-FAIL"
+msgstr "client-initiated renegotiation\n"
+" allowed"
+
+msgid "detail web-tls client-renegotiation-OK"
+msgstr "client-initiated renegotiation\n"
+" not allowed"
+
+msgid "detail web-tls compression-FAIL"
+msgstr "TLS compression\n"
+" allowed"
+
+msgid "detail web-tls compression-OK"
+msgstr "TLS compression\n"
+" not allowed"
+
+msgid "detail web-tls forced-https-FAIL"
+msgstr "HTTPS not enforced (neither HTTPS redirect to same domain nor only HTTPS)"
+
+msgid "detail web-tls forced-https-NO-HTTP"
+msgstr "HTTPS enforced by supporting only HTTPS and no HTTP"
+
+msgid "detail web-tls forced-https-OK"
+msgstr "HTTPS enforced by redirecting HTTP to HTTPS"
+
+msgid "detail web-tls hostname"
+msgstr "Webserver: \n"
+"{{hostname}}"
+
+msgid "detail web-tls hsts-FAIL"
+msgstr "HSTS policy could not be found"
+
+msgid "detail web-tls hsts-OK"
+msgstr "HSTS policy has been found: {{hsts_policy}}"
+
+msgid "detail web-tls http-compression-NOTICE"
+msgstr "HTTP compression supported"
+
+msgid "detail web-tls secure-renegotiation-FAIL"
+msgstr "secure renegotiation\n"
+" not supported"
+
+msgid "detail web-tls secure-renegotiation-OK"
+msgstr "secure renegotiation\n"
+" supported"
+
+msgid "detail web-tls tls-FAIL"
+msgstr "website does not offer HTTPS"
+
+msgid "detail web-tls tls-OK"
+msgstr "website offers HTTPS"
+
+msgid "detail web-tls valid-cipher-FAIL"
+msgstr "certain cipher methods offered are not secure:  \n"
+"{{ciphers_bad}}"
+
+msgid "detail web-tls valid-cipher-OK"
+msgstr "all cipher methods offered are sufficiently secure"
+
+msgid "detail web-tls valid-protocol-FAIL"
+msgstr "connections allowed for certain insufficiently secure TLS versions: \n"
+"{{protocols_bad}}"
+
+msgid "detail web-tls valid-protocol-OK"
+msgstr "connections only allowed for sufficiently secure TLS versions"
+
+msgid "disclosure content"
+msgstr "# Responsible disclosure\n"
+"\n"
+"The Internet Standards Platform thinks the security of the Internet.nl site is\n"
+"very important. Despite the care we have taken to ensure security, an existing\n"
+"vulnerability may be found or a new one may arise somehow.\n"
+"\n"
+"Have you found a security flaw in the internet.nl site? You might have\n"
+"accidentally run across one in the normal operation of this site, or perhaps\n"
+"you have been actively trying to find a vulnerability. In either case, please\n"
+"let us know, so we can take action as soon as possible.\n"
+"\n"
+"By the way, this is **not** an invitation to extensively scan and test our\n"
+"site for weaknesses. We can and are doing this ourselves.\n"
+"\n"
+"We would like to work with you to further improve the security of our site. We\n"
+"will always take your notifications seriously and will look into any suspected\n"
+"vulnerabilities.\n"
+"\n"
+"## In return we ask you to:\n"
+"\n"
+"- mail your findings to [question@internet.nl](question@internet.nl) as soon as\n"
+"  possible;\n"
+"- provide sufficient information to replicate the problem, so we can fix it as\n"
+"  soon as possible;  \n"
+"  the IP address or the URL is generally sufficient, along with a\n"
+"  description of the vulnerability, but for more complex vulnerabilities we\n"
+"  may need more information;\n"
+"- not run tests that attack via physical security, social engineering, or\n"
+"  third-party applications;\n"
+"- not run brute force or denial of service attacks;\n"
+"- not exploit the vulnerability to, for example, change or delete data, or\n"
+"  install malware;\n"
+"- not share the problem with others until we have fixed it;\n"
+"- not copy data from our systems, other than what&#39;s absolutely necessary\n"
+"  to demonstrate the leak;\n"
+"- leave your contact data (e-mail address and phone numner), so we can get in\n"
+"  touch and work with you to fix the problem.\n"
+"\n"
+"## We promise:\n"
+"\n"
+"- to respond to your notification within three working days, with an\n"
+"  evaluation of your report and an expected date for a solution;\n"
+"- to treat your report confidentially: we will not share your personal\n"
+"  information without your consent, except to the police and the judiciary if\n"
+"  a police report is made or if this information is legally required;\n"
+"- to keep you informed of our progress in solving the problem;\n"
+"- to include your name as the discoverer of the vulnerability in any news\n"
+"  reports, if you wish;\n"
+"- that an accidental discovery of a vulnerability will not lead to legal\n"
+"  charges against you, as long as you play by the rules and act in the\n"
+"  spirit of responsible disclosure;\n"
+"- as a token of our gratitude, we will give you a t-shirt for each report of\n"
+"  a problem not yet known to us; we know this is not a big reward, but we do\n"
+"  not want to stimulate active scanning for vulnerabilities."
+
+msgid "disclosure teaser"
+msgstr "We would like to work with you in order to further improve the security of our\n"
+"site."
+
+msgid "domain pagetitle"
+msgstr "Website test:"
+
+#,md-format
+msgid "domain title"
+msgstr "Website test: {{prettyaddr}}"
+
+msgid "domain tweetmessage"
+msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
+
+msgid "empty argument alternative text"
+msgstr "value not available"
+
+#,md-format
+msgid "faqs content"
+msgstr "# Frequently Asked Questions\n"
+"\n"
+"If you have a question about the [internet standards](/standards/) promoted\n"
+"here, you most likely will find an answer in the &quot;Frequently Asked\n"
+"Questions&quot;:\n"
+"\n"
+"- [IPv6](/faqs/ipv6/)\n"
+"- [DNSSEC](/faqs/dnssec/)\n"
+"- [TLS](/faqs/tls/)\n"
+"- [DKIM, SPF and DMARC](/faqs/mail/)"
+
+msgid "halloffame lead"
+msgstr "These sites have recently scored 100% on the website test. Most recent test:\n"
+" {{latest|date:'d-m-Y'}}"
+
+msgid "halloffame link"
+msgstr "View all {{count}} sites"
+
+#,md-format
+msgid "halloffame teaser"
+msgstr "# Hall of fame - website test\n"
+"The websites below are fully using modern internet standards and therefore score 100% in the website  test on Internet.nl."
+
+#,md-format
+msgid "index teaser"
+msgstr "Are your internet connection, website and e-mail using modern internet\n"
+"standards?  \n"
+"Test it and make sure you are up to date."
+
+msgid "mail pagetitle"
+msgstr "E-mail test:"
+
+msgid "mail title"
+msgstr "E-mail test: {{prettyaddr}}"
+
+msgid "mail tweetmessage"
+msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20mailtest%20of%20%40Internet_nl%3A"
+
+msgid "news .index"
+msgstr "internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee nieuwe-versie-\n"
+"internetnl-met-aanvullingen-https-test lancering-internet-nl-tijdens-cyber-\n"
+"week-2015 uitnodiging-masterclass-DMARC internet-draait-om-samenwerking"
+
+msgid "news internet-draait-om-samenwerking author"
+msgstr "olaf-kolkman"
+
+msgid "news internet-draait-om-samenwerking body"
+msgstr "The basis for this collaboration is a number of open standards and practices\n"
+"that all the network operators have adopted voluntarily. In fact, voluntary\n"
+"adoptions is one of the core principles of the\n"
+"[Open-Stand paradigm](https://open-stand.org/infographic-the-5-core-principles-of-openstand/).\n"
+"\n"
+"## Joining the ecosystem\n"
+"\n"
+"When you connect to the Internet, you become a part of its ecosystem. Even\n"
+"more, across the Internet there is no clear line between consumers and\n"
+"suppliers; every participant is a contributor. That comes with a collaborative\n"
+"responsibility: you should consider not only how the global system impacts\n"
+"you, but also the impact you produce on the system through your activity or\n"
+"inactivity.\n"
+"\n"
+"This perspective is especially important in the area of security (also see the\n"
+"[Internet Society&#39;s recent paper on Collaborative Security](https://www.internetsociety.org/collaborativesecurity)).\n"
+"As an end-user, that means that you do all you can to keep your own systems\n"
+"secure, to reduce the risk of their be taken over and used to abuse others.\n"
+"For service providers, that means making specific security features available.\n"
+"Those offerings and measures may not bring an immediate return on the\n"
+"investment, and in the short term they may even lead to additional cost. But\n"
+"they will help to raise the level of security in the system and reinforce\n"
+"confidence in the Internet. \n"
+"\n"
+"And therein lays the problem: there is no direct economic incentive for\n"
+"individual providers to deploy some of these technologies.\n"
+"\n"
+"Can&#39;t their deployment be mandated then? In theory yes, but that approach\n"
+"would go against one the fundamental and foundational principles of the\n"
+"Internet: as an organic system, a network of autonomous networks, not built\n"
+"from a global blueprint but developing in accordance with local needs and\n"
+"conditions, deployment depends on voluntary agreement and collaboration.\n"
+"Forcing security and scalability through global mandates may be slow, and may\n"
+"have unintended side effects. It also assumes that a global consensus can be\n"
+"reached on a multitude of security issues.\n"
+"\n"
+"The voluntary collaborative approach, combined with a continuing dialogue with\n"
+"those who impact and are impacted by certain measures &mdash; the end-users,\n"
+"the policy makers, and the technicians &mdash; allows more flexibility and\n"
+"agility. Measures taken can more easily be adjusted to minimise unintended\n"
+"adverse consequences.\n"
+"\n"
+"## &quot;The Internet way&quot;\n"
+"\n"
+"Accomplishing global deployment of secure, resilient, future-proof internet\n"
+"technology is better done &quot;the Internet way&quot;: at the initiative of\n"
+"individual actors, based on their own decisions and their own leadership; and\n"
+"through sharing know-how and experience, both voluntary and professionally.\n"
+"\n"
+"One important aspect in getting new innovations deployed is awareness and\n"
+"visibility. Deploying these internet technologies is like installing new\n"
+"plumbing: something has improved, but the water still tastes the same. Leaders\n"
+"who want to inspire their colleagues to follow suit will have to provide some\n"
+"visibility into what their innovations brings.\n"
+"\n"
+"A profound example is the Internet.nl initiative (to be launched soon), in\n"
+"which the Dutch Internet community, a ministry, and a governmental agency have\n"
+"collaborated to set up a website that helps to highlight the status of\n"
+"deployment of key internet technology. The website gives users simple and\n"
+"straightforward information about their own access to various innovative\n"
+"technologies.\n"
+"\n"
+"Some of these technologies contribute to the continued scalability of the\n"
+"Internet (IPv6 support and transparency of the network), while some relate to\n"
+"security (DNSSEC, anti-spam and anti-phishing, and support for encryption). By\n"
+"doing so, the site helps to promote the open standards that will make the\n"
+"Internet more scalable and more secure. It highlights the leaders, and\n"
+"provides the followers with tools and know-how."
+
+msgid "news internet-draait-om-samenwerking date"
+msgstr " "
+
+msgid "news internet-draait-om-samenwerking lead"
+msgstr "The Internet, as a global system, is a network-of-networks held together by a\n"
+"spirit of collaboration. When information traverses the Internet it may pass\n"
+"through a handful of networks, and the network from which the traffic\n"
+"originated probably has no formal relationship with the network that receives\n"
+"it. The reason why that works is collaboration, both in exchanging and\n"
+"carrying traffic from other networks, and in solving problems that may have\n"
+"originated several hops away."
+
+msgid "news internet-draait-om-samenwerking teaser"
+msgstr "&quot;Every participant is a contributor; that comes with a collaborative\n"
+"responsibility.&quot;"
+
+msgid "news internet-draait-om-samenwerking title"
+msgstr "Internet is all about collaboration"
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
+msgstr "The following improvements have been made on [Internet.nl](/).\n"
+"## Generic\n"
+"* The ability to choose a different language from a dropdown menu. Visitors will get the equivalent page in the selected language (if available).\n"
+"* The requirement that all name servers must be available over IPv6 has been cancelled. It is sufficient if at least as many name servers are available over IPv6 as there are over IPv4. This applies to both the webite test and the mail test.\n"
+"\n"
+"## Connection test\n"
+"* The detection of the internet provider is more precise and timeouts occur less frequent. \n"
+"\n"
+"## Website test\n"
+"* The test checks whether a HSTS-policy is available. Through HSTS a web browser will 'know' after the first visit that a website can only be accessed through a secure connection (HTTPS, not HTTP). This can prevent so-called man-in-the-middle attacks, e.g. when using public Wi-Fi. In case of deviations, the message is no longer 'orange' but 'red'.\n"
+"* The test now checks whether the website enforces HTTPS by using a server redirect (301 or 302) or by applying only HTTPS (and no HTTP). In case of deviations, the message is no longer 'orange' but 'red'.\n"
+"* In the case of some websites, the TLS results incorrectly showed that 'client-initiated renegotiation' was allowed. This has been solved.\n"
+"* In the test results of websites with a redirect from IPv6/IPv4 to IPv4-only, the HSTS-policy over IPv6 remained incorrectly undetected. This has been solved.\n"
+"* The test now checks whether actual HTTP traffic is sent over port 443. If that is not the case, the test will no longer draw incorrect conclusions which are HTTPS-related .\n"
+"\n"
+"## Mail test\n"
+"* If Internet.nl cannot establish a connection to a mail server (e.g. by 'rate limiting'), visitors will now be asked to try again later.\n"
+"* Thanks to the improved adjustment of timeouts, failure of the test part 'STARTTLS' is less likely. Therefore certain mail servers can now be tested without problems.\n"
+"* Running connections serially and minimizing the number of connections should help to reduce the risk of 'rate limiting' of mail servers. Therefore certain mail servers can now be tested which was not possible before.\n"
+"\n"
+"## Background information\n"
+"* [ICT-beveiligingsrichtlijnen voor webapplicaties van NCSC - Verdieping](https://www.ncsc.nl/binaries/content/documents/ncsc-nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties/4/ICT%2BBeveiligingsrichtlijnen%2Bvoor%2BWebapplicaties%2B%2B%2BVerdieping%2B%2B%2BPrintversie.pdf) onder '05 Versleutel communicatie' op p.29 [Dutch];\n"
+"* [ICT-beveiligingsrichtlijnen voor TLS van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html) [Dutch];\n"
+"* [TLS - veelgestelde vragen ](/faqs/tls/) onder 'TLS-test voor mail' [Dutch]."
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
+msgstr "June 27, 2016"
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
+msgstr "**Today (June 27, 2016) the Dutch Internet Standard PLatform launches a new \n"
+"version of the website [Internet.nl](/). From now on, 'HSTS' and 'enforced \n"
+"HTTPS' are part of the score of the website test. This was already announced\n"
+" at the [previous release](/news/nieuwe-versie-internetnl-met-aanvullingen-\n"
+"https-test/). In addition to this change, the new version of \n"
+"[Internet.nl](/) includes several improvements that make testing faster and \n"
+"more stable.**"
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
+msgstr " "
+
+msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
+msgstr "New version Internet.nl: 'HSTS' and 'enforced HTTPS' do count"
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 body"
+msgstr "The Internet belongs to all of us and is heavily used every day by\n"
+"entrepreneurs, governments and citizens. To most people, the Internet has now\n"
+"become indispensable. The technical fundament of the Internet, however, is\n"
+"completely invisible and unknown to most of its users. As a consequence,\n"
+"modern, secure internet standards are often implemented too late or not at\n"
+"all. That&#39;s the context in which the Internet Standards Platform was\n"
+"founded and the Internet.nl website was launched.\n"
+"\n"
+"## Internet.nl \n"
+"\n"
+"Through Internet.nl, visitors can easily and automatically check whether their\n"
+"internet connection, e-mail and websites support modern, secure internet\n"
+"standards. If one or more standards are not up to date, the user gets guidance\n"
+"on how to improve this. Currently, the portal covers the following\n"
+"standards:\n"
+"\n"
+"- IPv6: an extended, modern range of internet addresses;\n"
+"- DNSSEC: security extensions for domain names;\n"
+"- TLS: secured connections;\n"
+"- DKIM, SPF and DMARC: anti-phishing and anti-spoofing.\n"
+"\n"
+"The current website is the first public release. The Platform will continue to\n"
+"improve and extend the website. Feedback is appreciated.\n"
+"\n"
+"## Dutch Internet Standards Platform\n"
+"\n"
+"The Internet Standards Platform aims to increase the usage of modern and\n"
+"secure internet standards in order to make the Internet more reliable for\n"
+"everyone. The organisations participating in the Internet Standards Platform\n"
+"are: the Dutch Hosting Provider Association (DHPA), ECP,\n"
+"Standardisation Forum, Internet Society international, Internet Society\n"
+"Netherlands, the Dutch Ministry of Economic Affairs, the National Cyber\n"
+"Security Centre (NCSC), NLnet, RIPE NCC, SIDN, and SURFnet."
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 date"
+msgstr "April 15, 2015"
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 lead"
+msgstr "During the Dutch Cyber Week 2015 the website Internet.nl was launched by the\n"
+"Internet Standards Platform, a collaboration among organisations from the\n"
+"Internet community and the Dutch government. On this website, visitors can\n"
+"check whether their Internet is up to date. Are your internet connection,\n"
+"e-mail and website actually using modern, secure internet standards? And if\n"
+"not, what can you do about it?"
+
+msgid "news lancering-internet-nl-tijdens-cyber-week-2015 title"
+msgstr "# Internet.nl launched during Dutch Cyber Week 2015"
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test body"
+msgstr "Below we describe the major changes.\n"
+"\n"
+"* The previous version of Internet.nl did test the **security of the HTTPS configuration over either IPv6 or IPv4**. Through manual testing we regularly see websites that have unintended different HTTPS configurations over IPv6 and IPv4. Therefore in the new release the HTTPS configuration is tested over both IPv6 and IPv4. **From now on** the result of this test item  is part of the overall score in the website test.\n"
+"* The website tests checks whether a **HSTS policy** is published. Through HSTS a web browser gets informed after the first usage that a website only may be visited over HTTPS. This can prevent so-called man-in-the-middle attacks (for example when a public Wi-Fi hotspot is used). The result of this test item is displayed as an orange warning in case the HSTS policy is absent. As of **July 2016** the result will be part of the score in the website test.\n"
+"* The website test does test whether **HTTPS is enforced** for a website. There are two ways to enforce HTTPS that are described below.The result of this test item is displayed as an orange warning in case the HSTS policy is absent. As of **July 2016** the result will be part of the score in the website test.\n"
+"   1. By redirecting HTTPS to HTTPS. This can be done by redirecting `https://example.nl` to `https://example.nl`.  It is important that both domain names are identical because a web browser does only accept a HSTS policy for a certain domain when a HTTPS connection is used. If `http://example.nl` redirects to `https://www.example.nl` then a HSTS policy normally will not be used by the browser, unless a user explicitly enters `https://example.nl` or clicks on a hyperlink with this URL.\n"
+"   2. By only supporting HTTPS and no HTTP. Because a browser normally uses a HTTP-connection after a user enters a domain name, users should enter `https://example.nl` to reach the website or click on a hyperlink with this URL.\n"
+"* The website test does check whether **HTTP compression** is used. Enabling HTTP compression does make many websites  vulnerable for BREACH when no other mitigating measures are in place. Switching off HTTP compression could negatively impact performance. In case HTTP compression is detected an **orange warning** is displayed.\n"
+"* The website test of the previous version of Internet.nl already checked whether the **content of a website was similar over IPv6 and IPv4**. The test took into account legitimate differences for example caused by different add banners. The result of this test item **from now on** is part of the overall score in the website test. \n"
+"* If a user does enter a **non-existing domain name** a red error message is displayed. \n"
+"\n"
+"\n"
+"***\n"
+"**More information:**\n"
+"\n"
+"* [ICT-Beveiligingsrichtlijnen voor Webapplicaties van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html) [Dutch]\n"
+"* [ICT-beveiligingsrichtlijnen voor Transport Layer Security (TLS)](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html) [Dutch]\n"
+"* [RFC 6797: HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797)\n"
+"* [Breach Attack](http://breachattack.com/)"
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test date"
+msgstr "March 19, 2016"
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
+msgstr "**As of today a new version of [Internet.nl](https://en.Internet.nl) is available. This new release contains improvements and extensions, especially for the HTTPS/TLS part of the website test.**\n"
+"\n"
+"**Since April last year users executed 80,000 tests on [Internet.nl](https://en.Internet.nl). Hopefully you like this new version and you keep on testing and improving your Internet. Happy testing!!!**"
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
+msgstr " "
+
+msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test title"
+msgstr "New version Internet.nl with extended HTTPS test"
+
+msgid "news uitnodiging-masterclass-DMARC body"
+msgstr "During this masterclass one of the founders of DMARC, Tim Draegen, will inform you on the going ons of this security standard.\n"
+"\n"
+"Masterclass DMARC  \n"
+"Date: Tuesday April 21  \n"
+"Time: 15:00 until 17:00 (drinks afterwards)  \n"
+"Location: 7AM, Buitenhof 47, The Hague\n"
+"\n"
+"## Joining\n"
+"\n"
+"Free of charge, however the number of participants is limited.  You can sign up using the\n"
+"[website of ECP](https://ecp.nl/events/4432/masterclass-dmarc.html)."
+
+msgid "news uitnodiging-masterclass-DMARC date"
+msgstr " "
+
+msgid "news uitnodiging-masterclass-DMARC lead"
+msgstr "On Tuesday April 21st the Platform Internetstandards organises\n"
+"a Masterclass on the topic of [DMARC](/faqs/mail/#DMARC)."
+
+msgid "news uitnodiging-masterclass-DMARC teaser"
+msgstr "Tim Draegen on the ins and outs of the DMARC security standard."
+
+msgid "news uitnodiging-masterclass-DMARC title"
+msgstr "Invitation Masterclass DMARC"
+
+msgid "page gotocontents"
+msgstr "Go to the content"
+
+msgid "page gotofooter"
+msgstr "Go to the footer"
+
+msgid "page gotomainmenu"
+msgstr "Go to the main menu"
+
+msgid "page metadescription"
+msgstr "Test voor moderne internetstandaarden / Test for modern internet standards \n"
+"(IPv6, DNSSEC, TLS, DMARC, DKIM, SPF)"
+
+msgid "page metakeywords"
+msgstr "test, check, validatie, validator, conformance, IPv6, DNSSEC, TLS, DMARC, \n"
+"DKIM, SPF, internetstandaarden, open standaarden, beveiliging, \n"
+"e-mailauthenticatie, internet standards, open standards, security, e-mail \n"
+"authentication, up-to-date"
+
+msgid "page sitedescription"
+msgstr "Is your internet up-to-date?"
+
+msgid "page sitetitle"
+msgstr "Internet.nl"
+
+msgid "page404 content"
+msgstr "The page you are looking for is not on this server.  \n"
+"[Go to the home page](/)  \n"
+"Send an email to [question@internet.nl](mailto:webstukgemaakt@internet.nl)"
+
+msgid "page404 title"
+msgstr "Page not found!"
 
 #,md-format
 msgid "partners content"
@@ -738,1027 +1851,367 @@ msgid "partners teaser"
 msgstr "The Internet Standards Platform is a joint initiative by the Dutch internet\n"
 "world, the Ministry of Economic Affairs and the Standardisation Forum."
 
-msgid "mail forward"
-msgstr "To the detailed report >>"
+msgid "prechecks invalid domain"
+msgstr "The given domain was invalid!"
 
-msgid "mail tweetmessage"
-msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20mailtest%20van%20%40Internet_nl%3A"
+msgid "probes auto-redirect"
+msgstr "You will be automatically redirected to the results page when all the tests \n"
+"finish."
 
-msgid "mail title"
-msgstr "E-mail test: {{prettyaddr}}"
+msgid "probes no-javascript"
+msgstr "Check if the test is finished. If the test is not finished you will return \n"
+"to this screen."
 
-msgid "faqs dnssec title"
-msgstr "DNSSEC - Frequently Asked Questions"
+msgid "probes no-javascript-connection"
+msgstr "This test cannot run without javascript. Please enable javascript and try \n"
+"again."
+
+msgid "probes no-redirection"
+msgstr "An error was encountered during testing. Please try again later, or test \n"
+"another domain."
+
+msgid "probes test-running"
+msgstr "Running..."
+
+msgid "probes tests-description"
+msgstr "The following items are being tested:"
+
+msgid "probes tests-duration"
+msgstr "The duration of the test is between 5 and 120 seconds."
+
+msgid "results dated-presentation"
+msgstr "Dated result presentation. Please rerun the test."
+
+msgid "results domain ipv6 web-server label"
+msgstr "Web server"
+
+msgid "results domain tls https label"
+msgstr "HTTP(S)"
+
+msgid "results domain tls tls label"
+msgstr "TLS"
+
+msgid "results domain-mail ipv6 name-servers label"
+msgstr "Name servers"
+
+msgid "results domain-mail tls certificate label"
+msgstr "Certificate"
+
+msgid "results domain-mail tls dane label"
+msgstr "DANE"
+
+msgid "results explanation label"
+msgstr "Test explanation:"
+
+msgid "results mail dnssec domain label"
+msgstr "Domain"
+
+msgid "results mail dnssec mail-servers label"
+msgstr "Mail servers"
+
+msgid "results mail ipv6 mail-servers label"
+msgstr "Mail servers"
+
+msgid "results mail tls starttls label"
+msgstr "STARTTLS"
+
+msgid "results panel-button hide"
+msgstr "Hide all results"
+
+msgid "results panel-button show"
+msgstr "Show all results"
+
+msgid "results perfect-score"
+msgstr "Congratulations! You are in the Hall of Fame!"
+
+msgid "results rerun-test"
+msgstr "Rerun test"
+
+msgid "results retest-time"
+msgstr "Seconds until retest:"
+
+msgid "results score-description"
+msgstr "You score {{score}}% in the test for {{prettyaddr}}"
+
+msgid "results tech-details label"
+msgstr "Technical details:"
+
+msgid "results test direct"
+msgstr "Test direct:"
+
+msgid "results test email label"
+msgstr "Test your email also"
+
+msgid "results test website label"
+msgstr "Test your site also"
+
+msgid "results verdict label"
+msgstr "Verdict:"
 
 #,md-format
-msgid "faqs dnssec content"
-msgstr "## General\n"
-"\n"
-"### What is DNS?\n"
-"\n"
-"DNS is the registration system for names and their corresponding numbers on\n"
-"the Internet. It&#39;s similar to a phone book.\n"
-"\n"
-"The names of destinations on the Internet are called domain names. An example\n"
-"is www.example.com. A domain name is what you see in the address bar at the\n"
-"top of your web browser when you visit a website. You also use a domain name\n"
-"when you address an [e-mail](/faqs/mail/) message, for example to\n"
-"john@example.com.\n"
-"\n"
-"Every computer on the Internet can be reached through its own unique\n"
-"[IP address](/faqs/ipv6/#IPadres). Examples are 192.0.2.26\n"
-"([IPv4](/faqs/ipv6/#IPv4)) and 2001:db8::1:26 ([IPv6](/faqs/ipv6/)). DNS, an\n"
-"abbreviation of Domain Name System, is a background activity that translates\n"
-"domain names into IP addresses. That is how your web browser or mail message\n"
-"reaches its correct destination.\n"
-"\n"
-"### What is DNSSEC?\n"
-"\n"
-"DNSSEC is a security system for [DNS](/faqs/dnssec/#DNS). DNS itself works\n"
-"fine, but the translation of a domain name to an IP address is not protected.\n"
-"That is a security risk, because attackers can get hold of passwords or other\n"
-"sensitive information by redirecting network traffic to false IP addresses.\n"
-"\n"
-"DNSSEC, an abbreviation of Domain Name System Security Extensions, extends DNS\n"
-"by adding a security feature: a digital signature that guarantees the\n"
-"translation of a domain name to the correct IP address. Any internet user can\n"
-"check the signature automatically, and so avoid being redirected to a false IP\n"
-"address.\n"
-"\n"
-"### Who is using DNSSEC?\n"
-"\n"
-"Currently, over 40 percent of all .nl domains have been signed with\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC). Examples are digid.nl, bof.nl, postnl.nl, and\n"
-"nrcnext.nl. Almost all the other top-level domains &mdash; such as .com, .net\n"
-"and .org &mdash; allow subordinate domain names to be signed with DNSSEC.\n"
-"\n"
-"More and more organisations are also checking the validity of DNSSEC\n"
-"signatures. Examples are the Dutch Central Government (RijksDNS), the\n"
-"Municipality of Heerlen, internet service provider BIT, internet provider\n"
-"Edutel, and Google&#39;s Public DNS. These organisation protect their users\n"
-"from being redirected to false [IP addresses](/faqs/ipv6/#IPaddress).\n"
-"\n"
-"### What does DNSSEC protect you from?\n"
-"\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC) protects against attacks on the\n"
-"[DNS system](/faqs/dnssec/#DNS). Without DNSSEC, attackers can get hold of\n"
-"passwords or other sensitive information by redirecting network traffic to\n"
-"false [IP addresses](/faqs/ipv6/#IPaddress).\n"
-"\n"
-"Several cases of successful attacks have been published. For example, people\n"
-"using the website of a large Brazilian bank were redirected to a false IP\n"
-"address. The attacker was able to accomplish this by cracking the DNS system\n"
-"of an internet provider. If the bank and the provider had used DNSSEC, users\n"
-"would have been protected against this attack. Most incidents, however, are\n"
-"never noticed or never published in the news.\n"
-"\n"
-"### What is the difference between DNSSEC and TLS?\n"
-"\n"
-"TODO\n"
-"\n"
-"## For domain name holders\n"
-"\n"
-"### Why is DNSSEC important to me as a holder of a domain name?\n"
-"\n"
-"To anyone providing online services &mdash; for example, a website, a\n"
-"[mail domain](/faqs/mail/) or a shop &mdash; it is crucial that visitors reach\n"
-"the correct [IP address](/faqs/ipv6/#IPaddress) and that incoming mail\n"
-"messages are delivered to the correct &quot;mailbox&quot;.\n"
-"\n"
-"In just a few minutes an attacker can set up a fake website that is an exact\n"
-"copy of your site. Most visitors will never notice the difference, because\n"
-"everything but the IP address is exactly the same. The same is true for fake\n"
-"mailboxes. This way, attackers can get hold of passwords or other sensitive\n"
-"information that should stay private. [DNSSEC](/faqs/dnssec/#DNSSEC) stops\n"
-"users from being redirected to a false IP address, or having their messages\n"
-"delivered to a fake mailbox.\n"
-"\n"
-"If you run a business, much your interaction with customers, partners and\n"
-"suppliers has probably already shifted to the Internet. This has strongly\n"
-"increased the importance of a well-protected digital presence. Visitors should\n"
-"be able to count on the reputation of brands in the online world as well as in\n"
-"traditional shops. An insecure internet service, let alone an incident,\n"
-"damages the reputation of your brand as well as your business.\n"
-"\n"
-"### How does DNSSEC affect me as the holder of a domain name?\n"
-"\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC) is a &quot;transparent&quot; extension to the\n"
-"existing [DNS system](/faqs/dnssec/#DNS). This means that neither the domain\n"
-"name holder nor the internet user will notice any difference when DNSSEC is\n"
-"installed on a domain. When the user has enabled DNSSEC too, both parties will\n"
-"immediately benefit from a strong layer of security added to the DNS system. A\n"
-"fake website or mailbox is simply blocked. Internet users who are not yet\n"
-"using DNSSEC can still visit a signed domain name without any problems.\n"
-"\n"
-"### How do I check whether DNSSEC on my domain name is working well?\n"
-"\n"
-"This site offers a comprehensive test of [DNSSEC](/faqs/dnssec/#DNSSEC) for\n"
-"domain names:\n"
-"\n"
-"- [DNSSEC test](/domain/)\n"
-"\n"
-"Filling out a domain name &mdash; for example www.example.com &mdash;\n"
-"immediately shows whether DNSSEC is enabled and working well. You can use the\n"
-"detailed test report to ask your DNS administrator to enable DNSSEC or to\n"
-"solve any issues.\n"
-"\n"
-"![domain test](internet.nl-domaintest1en-600x388.png)\n"
-"\n"
-"### How do I protect my domain name with DNSSEC?\n"
-"\n"
-"Whoever manages the [DNS system](/faqs/dnssec/#DNS) for a domain name should\n"
-"be able to install [DNSSEC](/faqs/dnssec/#DNSSEC). In larger organisations,\n"
-"the system is most often administered by the internal IT department or an\n"
-"external service provider. In smaller organisations, the DNS service is often\n"
-"part of a package from a hosting provider or another service provider who has\n"
-"registered the domain name on behalf of the holder.\n"
-"\n"
-"### Who is the DNS administrator of my domain name?\n"
-"\n"
-"You can use the public WHOIS domain name registration to obtain information\n"
-"about your domain. Usually this information includes the domain names of the\n"
-"associated [DNS systems](/faqs/dnssec/#DNS). These names often allow you to\n"
-"find out who is the administrator of your domain name. For the .nl domain,\n"
-"WHOIS information is provided by [SIDN](/partners/#SIDN):\n"
-"\n"
-"- [WHOIS domain name registration](https://www.sidn.nl/whois/)\n"
-"\n"
-"![SIDN Whois: internet.nl](SIDN-Whois-internet.nl-600x498.png)\n"
-"\n"
-"The domain names of the DNS systems for the domain name internet.nl, for\n"
-"example, are ns.nlnetlabs.nl and mcvax.nlnet.nl. This information shows that\n"
-"this domain name is administered by [NLnet](/partners/#NLnet), one of the\n"
-"organisations participating in this project.\n"
-"\n"
-"This information is also part of the detailed report from the\n"
-"[domain name test](/domain/) provided on this site.\n"
-"\n"
-"![domain test details](internet.nl-domaintest2en-600X540.png)\n"
-"\n"
-"### What if my DNS administrator cannot or doesn&#39;t want to help me with DNSSEC?\n"
-"\n"
-"If your current [DNS administrator](/faqs/dnssec/#DNS) cannot or doesn&#39;t\n"
-"want to offer [DNSSEC](/faqs/dnssec/#DNSSEC), you can transfer your domain to\n"
-"a DNS administrator who does. Many DNS administrators now offer DNSSEC\n"
-"signing. [SIDN](/partners/#SIDN), the registry for the .nl domain, provides a\n"
-"[list of parties who are able to secure .nl domain names with DNSSEC](https://www.sidn.nl/registrars/?country=&dnssec=true).\n"
-"\n"
-"In order to switch, the new DNS administrator needs the so-called\n"
-"&quot;zone file&quot;. This file contains a list of your domain names and\n"
-"associated [IP addresses](/faqs/ipv6/#IPaddress). To transfer a domain to a\n"
-"new hosting provider, you will also need the &quot;transfer token&quot;. This\n"
-"is a code that the current administrator gives to the legitimate holder of the\n"
-"domain, that way preventing attackers from hijacking the domain. SIDN provides\n"
-"[extensive information on the transfer of domain names](https://www.sidn.nl/a/nl-domeinnaam/domeinnaam-verhuizen).\n"
-"\n"
-"## For internet users\n"
-"\n"
-"### Why is DNSSEC important to me as an internet user?\n"
-"\n"
-"Whether you are visiting an online bank, a web shop or your company&#39;s own\n"
-"network, it is crucial that the domain name you type connects you to the\n"
-"correct [IP address](/faqs/ipv6/#IPaddress), and thus to the right computer\n"
-"system.\n"
-"\n"
-"Every day, attackers tempt internet users on a massive scale to visit fake\n"
-"sites. They aim to get hold of passwords and personal or business information.\n"
-"This information is then used to steal money, to order goods under false\n"
-"names, or to commit identity fraud or espionage. The same applies to delivery\n"
-"addresses for [e-mail](/faqs/mail/). Messages often contain personal or\n"
-"business information that should not end up in the wrong place.\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC) &mdash; along with [TLS](/faqs/tls/) &mdash;\n"
-"stops visitors from being redirected to fake websites or sending messages to\n"
-"fake &quot;mailboxes&quot;.\n"
-"\n"
-"### How does DNSSEC affect me as an internet user?\n"
-"\n"
-"Normally, you will not notice anything different when you are using\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC). But if the genuine holder of the domain name\n"
-"is also using DNSSEC, a reference to a fake website or &quot;mailbox&quot;\n"
-"will be detected by the system. Access to the fake site will be blocked, and\n"
-"messages to the fake mailbox will be returned to you. DNSSEC protects you and\n"
-"domain name holders through a strong cryptographic security layer on top of\n"
-"the [DNS system](/faqs/dnssec/#DNSSEC).\n"
-"\n"
-"### As an internet user, how do I check that DNSSEC is working well?\n"
-"\n"
-"This site offers a comprehensive test of [DNSSEC](/faqs/dnssec/#DNSSEC) for\n"
-"internet users:\n"
-"\n"
-"- [connection test](/connection/)\n"
-"\n"
-"The test immediately shows whether DNSSEC is enabled and working.\n"
-"\n"
-"![connectivity test](internet.nl-conntest1en-600x383.png)\n"
-"\n"
-"You can use the detailed test report to ask your internet provider or the\n"
-"network administrator to enable DNSSEC or to solve any issues.\n"
-"\n"
-"![connectivity test](internet.nl-conntest2en-600x603.png)\n"
-"\n"
-"### Can my internet provider enable DNSSEC for me?\n"
-"\n"
-"Certainly. Most internet users rely on the [DNS services](/faqs/dnssec/#DNS)\n"
-"of their internet providers to look up the [IP address](/faqs/ipv6/#IPaddress)\n"
-"to a domain name. The provider can check the digital signature before\n"
-"forwarding the IP address to the end user. For the end user, this is the\n"
-"easiest and most obvious way to use DNSSEC.\n"
-"\n"
-"### What if my internet provider cannot or doesn&#39;t want to help me with DNSSEC?\n"
-"\n"
-"If your current internet provider cannot or doesn&#39;t want to offer\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC), you can switch to a provider who does. These\n"
-"providers are known to use DNSSEC for their [DNS services](/faqs/dnssec/#DNS):\n"
-"\n"
-"- [Edutel](http://www.edutel.nl/)\n"
-"- [BIT](https://www.bit.nl/)\n"
-"- [RijksDNS](http://www.dnssec.nl/cases/rijksdns-valideert-dnssec-ondertekening-volgt-later-dit-jaar.html)\n"
-"  (for anyone using Rijksnetwerk, the Dutch central government network).\n"
-"- [XS4All](https://www.xs4all.nl/)  \n"
-"  only [DNS server](https://www.xs4all.nl/klant/servers/) 194.109.9.99\n"
-"  ([IPv6](/faqs/ipv6/): 2001:888:0:9::99) supports DNSSEC validation; in order\n"
-"  to use this server, you should configure it as the only DNS server in your\n"
-"  internet router, or in combination with other\n"
-"  [validating DNS servers](/faqs/dnssec/#)\n"
-"\n"
-"### Are there any other ways to deploy DNSSEC?\n"
-"\n"
-"If switching to another internet provider is not an option, you can use a\n"
-"public [DNS service](/faqs/dnssec/#DNS) that supports\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC). To do so, you will have to adjust the\n"
-"[IP addresses](/faqs/ipv6/#IPadres) of the DNS service on your broadband\n"
-"router or your computer. These DNS service providers are known to support\n"
-"DNSSEC:\n"
-"\n"
-"- [NIC.CZ&#39;s Open DNSSEC Validating Resolvers](https://labs.nic.cz/en/odvr.html)\n"
-"- [OARC&#39;;s Open DNSSEC Validating Resolver](https://www.dns-oarc.net/oarc/services/odvr)\n"
-"- [Google Public DNS](https://developers.google.com/speed/public-dns/).\n"
-"\n"
-"Note that the providers of these free services will be able to see all your\n"
-"DNS requests.\n"
-"\n"
-"### Can I enable DNSSEC on my own computer?\n"
-"\n"
-"Certainly. This option is even more secure than the ones discussed above,\n"
-"because it also protects the link between your computer and the\n"
-"[DNS service](/faqs/dnssec/#DNS).\n"
-"\n"
-"To make this possible, [NLnet Labs](/partners/#NLnetLabs) has developed free\n"
-"validation software for Windows, Linux, and Mac OS X:\n"
-"\n"
-"- [dnssec-trigger](https://www.nlnetlabs.nl/projects/dnssec-trigger/)\n"
-"\n"
-"In the future we expect [DNSSEC validation](/faqs/dnssec/#DNSSEC) to be a\n"
-"standard part of every computer and mobile device.\n"
-"\n"
-"### How can I get my webbrowser to validate DNSSEC?\n"
-"\n"
-"Some people may find it too difficult to install\n"
-"[DNSSEC software](/faqs/dnssec/#DNSSEC) or adjust the\n"
-"[IP addresses](/faqs/ipv6/IPaddress) of their\n"
-"[DNS service](/faqs/dnssec/#DNS). A simpler option is to have the digital\n"
-"signatures checked by their web browsers.\n"
-"\n"
-"CZ.NIC, the &quot;Czech SIDN&quot;, has developed a plugin that is available\n"
-"for all popular browsers: Internet Explorer, Mozilla Firefox, Google\n"
-"Chrome/Chromium, Opera, and Apple Safari. You can download it here:\n"
-"\n"
-"- [DNSSEC/TLSA Validator](https://www.dnssec-validator.cz/)\n"
-"\n"
-"![DNSSEC/TLSA Validator](www.offerman.com-FFplugin.png)\n"
-"\n"
-"Note: the plugin checks digital signatures only for connections that are set\n"
-"up from the web browser when you visit a website. Other types of internet\n"
-"connections, for example for sending [e-mail](/faqs/mail/), are not checked by\n"
-"this browser-specific plugin.\n"
-"\n"
-"### What else can DNSSEC do?\n"
-"\n"
-"[DNSSEC](/faqs/dnssec/#DNSSEC) adds digital signatures to all information\n"
-"published through the [DNS system](/faqs/dnssec/#DNS). Currently, this\n"
-"security feature is mostly used to protect the translation from domain names\n"
-"to [IP addresses](/faqs/ipv6/IPaddress). We expect that in the coming years\n"
-"this technology will be used to publish other information in a secure way too.\n"
-"\n"
-"A security option known as DANE seems likely to become the first new\n"
-"application of DNSSEC. DANE allows a user to check automatically, via DNS,\n"
-"that a digital certificate really belongs to a specific website or\n"
-"&quot;mailbox&quot;. This technology could, for example, have prevented the\n"
-"[DigiNotar fiasco](https://en.wikipedia.org/wiki/DigiNotar#Issuance_of_fraudulent_certificates).\n"
-"\n"
-"The [DKIM, SPF and DMARC standards](/faqs/mail/) that protect e-mail benefit\n"
-"from DNSSEC too, since they depend on reliable DNS information to operate.\n"
-"\n"
-"## More information\n"
-"\n"
-"- [DNSSEC.nl](http://dnssec.nl/)\n"
-"- [SIDN over DNSSEC](https://www.sidn.nl/a/veilig-internet/dnssec)\n"
-"- [DNSSEC at the ISOC Deploy360 Programme](http://www.internetsociety.org/deploy360/dnssec/)\n"
-"- [DNSSEC on 'apply or explain' list of Standardisation Forum](https://lijsten.forumstandaardisatie.nl/open-standaard/dnssec)\n"
-"- [DNSSEC on Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)."
+msgid "sitemap content"
+msgstr "Sitemap."
 
-msgid "disclosure teaser"
-msgstr "We would like to work with you in order to further improve the security of our\n"
-"site."
+#,md-format
+msgid "sitemap teaser"
+msgstr "Sitemap."
 
-msgid "disclosure content"
-msgstr "# Responsible disclosure\n"
-"\n"
-"The Internet Standards Platform thinks the security of the Internet.nl site is\n"
-"very important. Despite the care we have taken to ensure security, an existing\n"
-"vulnerability may be found or a new one may arise somehow.\n"
-"\n"
-"Have you found a security flaw in the internet.nl site? You might have\n"
-"accidentally run across one in the normal operation of this site, or perhaps\n"
-"you have been actively trying to find a vulnerability. In either case, please\n"
-"let us know, so we can take action as soon as possible.\n"
-"\n"
-"By the way, this is **not** an invitation to extensively scan and test our\n"
-"site for weaknesses. We can and are doing this ourselves.\n"
-"\n"
-"We would like to work with you to further improve the security of our site. We\n"
-"will always take your notifications seriously and will look into any suspected\n"
-"vulnerabilities.\n"
-"\n"
-"## In return we ask you to:\n"
-"\n"
-"- mail your findings to [vraag@internet.nl](vraag@internet.nl) as soon as\n"
-"  possible;\n"
-"- provide sufficient information to replicate the problem, so we can fix it as\n"
-"  soon as possible;  \n"
-"  the IP address or the URL is generally sufficient, along with a\n"
-"  description of the vulnerability, but for more complex vulnerabilities we\n"
-"  may need more information;\n"
-"- not run tests that attack via physical security, social engineering, or\n"
-"  third-party applications;\n"
-"- not run brute force or denial of service attacks;\n"
-"- not exploit the vulnerability to, for example, change or delete data, or\n"
-"  install malware;\n"
-"- not share the problem with others until we have fixed it;\n"
-"- not copy data from our systems, other than what&#39;s absolutely necessary\n"
-"  to demonstrate the leak;\n"
-"- leave your contact data (e-mail address and phone numner), so we can get in\n"
-"  touch and work with you to fix the problem.\n"
-"\n"
-"## We promise:\n"
-"\n"
-"- to respond to your notification within three working days, with an\n"
-"  evaluation of your report and an expected date for a solution;\n"
-"- to treat your report confidentially: we will not share your personal\n"
-"  information without your consent, except to the police and the judiciary if\n"
-"  a police report is made or if this information is legally required;\n"
-"- to keep you informed of our progress in solving the problem;\n"
-"- to include your name as the discoverer of the vulnerability in any news\n"
-"  reports, if you wish;\n"
-"- that an accidental discovery of a vulnerability will not lead to legal\n"
-"  charges against you, as long as you play by the rules and act in the\n"
-"  spirit of responsible disclosure;\n"
-"- as a token of our gratitude, we will give you a t-shirt for each report of\n"
-"  a problem not yet known to us; we know this is not a big reward, but we do\n"
-"  not want to stimulate active scanning for vulnerabilities."
+#,md-format
+msgid "stats connavgscore description"
+msgstr "Per period."
 
-msgid "blogs olaf-kolkman internet-draait-om-samenwerking lead"
-msgstr "The Internet, as a global system, is a network-of-networks held together by a\n"
-"spirit of collaboration. When information traverses the Internet it may pass\n"
-"through a handful of networks, and the network from which the traffic\n"
-"originated probably has no formal relationship with the network that receives\n"
-"it. The reason why that works is collaboration, both in exchanging and\n"
-"carrying traffic from other networks, and in solving problems that may have\n"
-"originated several hops away."
+msgid "stats connavgscore label"
+msgstr "Average score"
 
-msgid "blogs olaf-kolkman internet-draait-om-samenwerking date"
+msgid "stats connavgscore title"
+msgstr "Average score over all connection tests"
+
+#,md-format
+msgid "stats conndnssecprovider description"
 msgstr " "
 
-msgid "blogs olaf-kolkman internet-draait-om-samenwerking body"
-msgstr "The basis for this collaboration is a number of open standards and practices\n"
-"that all the network operators have adopted voluntarily. In fact, voluntary\n"
-"adoptions is one of the core principles of the\n"
-"[Open-Stand paradigm](https://open-stand.org/infographic-the-5-core-principles-of-openstand/).\n"
-"\n"
-"## Joining the ecosystem\n"
-"\n"
-"When you connect to the Internet, you become a part of its ecosystem. Even\n"
-"more, across the Internet there is no clear line between consumers and\n"
-"suppliers; every participant is a contributor. That comes with a collaborative\n"
-"responsibility: you should consider not only how the global system impacts\n"
-"you, but also the impact you produce on the system through your activity or\n"
-"inactivity.\n"
-"\n"
-"This perspective is especially important in the area of security (also see the\n"
-"[Internet Society&#39;s recent paper on Collaborative Security](https://www.internetsociety.org/collaborativesecurity)).\n"
-"As an end-user, that means that you do all you can to keep your own systems\n"
-"secure, to reduce the risk of their be taken over and used to abuse others.\n"
-"For service providers, that means making specific security features available.\n"
-"Those offerings and measures may not bring an immediate return on the\n"
-"investment, and in the short term they may even lead to additional cost. But\n"
-"they will help to raise the level of security in the system and reinforce\n"
-"confidence in the Internet. \n"
-"\n"
-"And therein lays the problem: there is no direct economic incentive for\n"
-"individual providers to deploy some of these technologies.\n"
-"\n"
-"Can&#39;t their deployment be mandated then? In theory yes, but that approach\n"
-"would go against one the fundamental and foundational principles of the\n"
-"Internet: as an organic system, a network of autonomous networks, not built\n"
-"from a global blueprint but developing in accordance with local needs and\n"
-"conditions, deployment depends on voluntary agreement and collaboration.\n"
-"Forcing security and scalability through global mandates may be slow, and may\n"
-"have unintended side effects. It also assumes that a global consensus can be\n"
-"reached on a multitude of security issues.\n"
-"\n"
-"The voluntary collaborative approach, combined with a continuing dialogue with\n"
-"those who impact and are impacted by certain measures &mdash; the end-users,\n"
-"the policy makers, and the technicians &mdash; allows more flexibility and\n"
-"agility. Measures taken can more easily be adjusted to minimise unintended\n"
-"adverse consequences.\n"
-"\n"
-"## &quot;The Internet way&quot;\n"
-"\n"
-"Accomplishing global deployment of secure, resilient, future-proof internet\n"
-"technology is better done &quot;the Internet way&quot;: at the initiative of\n"
-"individual actors, based on their own decisions and their own leadership; and\n"
-"through sharing know-how and experience, both voluntary and professionally.\n"
-"\n"
-"One important aspect in getting new innovations deployed is awareness and\n"
-"visibility. Deploying these internet technologies is like installing new\n"
-"plumbing: something has improved, but the water still tastes the same. Leaders\n"
-"who want to inspire their colleagues to follow suit will have to provide some\n"
-"visibility into what their innovations brings.\n"
-"\n"
-"A profound example is the Internet.nl initiative (to be launched soon), in\n"
-"which the Dutch Internet community, a ministry, and a governmental agency have\n"
-"collaborated to set up a website that helps to highlight the status of\n"
-"deployment of key internet technology. The website gives users simple and\n"
-"straightforward information about their own access to various innovative\n"
-"technologies.\n"
-"\n"
-"Some of these technologies contribute to the continued scalability of the\n"
-"Internet (IPv6 support and transparency of the network), while some relate to\n"
-"security (DNSSEC, anti-spam and anti-phishing, and support for encryption). By\n"
-"doing so, the site helps to promote the open standards that will make the\n"
-"Internet more scalable and more secure. It highlights the leaders, and\n"
-"provides the followers with tools and know-how."
+msgid "stats conndnssecprovider label"
+msgstr "Volledige score DNSSEC provider"
 
-msgid "blogs olaf-kolkman internet-draait-om-samenwerking title"
-msgstr "# Internet is all about collaboration"
+msgid "stats conndnssecprovider title"
+msgstr "Aantal tests welke bij DNSSEC goed scoren per provider"
 
-msgid "blogs olaf-kolkman internet-draait-om-samenwerking teaser"
-msgstr "&quot;Every participant is a contributor; that comes with a collaborative\n"
-"responsibility.&quot;"
-
-msgid "blogs erik-huizer name"
-msgstr "Erik Huizer"
-
-msgid "blogs erik-huizer bio"
+#,md-format
+msgid "stats connipv6provider description"
 msgstr " "
 
-msgid "blogs erik-huizer .index"
+msgid "stats connipv6provider label"
+msgstr "Volledige score IPv6 provider"
+
+msgid "stats connipv6provider title"
+msgstr "Aantal tests welke bij IPv6 goed scoren per provider"
+
+msgid "stats connpercgrouped description"
+msgstr "Deze grafiek laat per periode van een maand zien hoevaal bepaalde scores \n"
+"voorkomen voor alle ISPs gezamelijk.  Er zijn voor veel voorkomende \n"
+"providers ook te zien hoe de trend zich ontwikkeld per provider. \n"
+"Op de x-as zijn periodes per maand uitgezet.  Op de y-as staat het \n"
+"percentage uitgevoerde tests per periode. \n"
+"\n"
+"Het totaal aantal uitgevoerde tests per periode is natuurlijk altijd 100%, \n"
+"maar er zijn een hoeveelheid connectie tests die bijvoorbeeld 30 van de 100 \n"
+"punten scoren, een hoeveelheid die 50 scoren van de 100 scoren, enzovoorts. \n"
+"De onderste lijn geeft aan hoeveel tests het minimum aantal punten, als \n"
+"percentage, van het volledige aantal.  De lijn daarboven hoeveel sites \n"
+"daarbij komen als we een stapje hoger gaan in scores. \n"
+"Per lijn is dus te zien hoe de ontwikkeling te zien is van hoeveel \n"
+"uitgevoerde connectie tests er (bijvoorbeeld) 30% scoren. \n"
+"\n"
+"Door afrondingsfouten, en omdat een verbinding met zelfde IP adres soms \n"
+"verschillende uitkomsten heeft \n"
+"komt het totaal niet altijd op 100% uit."
+
+msgid "stats connpercgrouped label"
+msgstr "Score ontwikkeling gecombineerd"
+
+msgid "stats connpercgrouped title"
+msgstr "Score ontwikkeling alle providers gezamelijk"
+
+msgid "stats connpercprovider description"
+msgstr "Zie ook de beschrijving van de score ontwikkeling van de providers \n"
+"gecombineerd.  Deze grafiek laat echter de score ontwikkeling zien van \n"
+"een enkele provider.  Hiervoor dient eerst een provider uit de lijst \n"
+"gekozen te worden.  In de lijst staan alleen de providers die minimaal 10 \n"
+"connectie tests in minimaal een periode hebben."
+
+msgid "stats connpercprovider label"
+msgstr "Score ontwikkeling per provider"
+
+msgid "stats connpercprovider title"
+msgstr "Score ontwikkeling per providers"
+
+#,md-format
+msgid "stats doubleperfect description"
+msgstr "Een lijst van geteste sites die ooit een 100% score hebben \n"
+"gehaald op zowel de web-site tests als de mail tests.  Let echter op \n"
+"dat dit niet noodzakelijkerwijs tegelijkertijd hoeft te zijn geweest en \n"
+"dat de huidige situatie anders kan zijn, omdat dit alleen de reeds bekende \n"
+"testresultaten betreft.  Opnieuw testen kan een ander resultaat geven. \n"
+"Sterker; het kan zelfs zijn dat er een recentere test is die juist aangeeft \n"
+"dat het domein niet meer zo goed is."
+
+msgid "stats doubleperfect label"
+msgstr "Perfecte score web en mail"
+
+msgid "stats doubleperfect title"
+msgstr "Ooit perfecte score web en mail behaald"
+
+#,md-format
+msgid "stats halloffamesize description"
+msgstr "Number of sites in absolute terms that are included in the Hall of Fame, \n"
+"as measured over time."
+
+msgid "stats halloffamesize label"
+msgstr "Statistics"
+
+msgid "stats halloffamesize title"
+msgstr "Number of sites in Hall of Fame"
+
+#,md-format
+msgid "stats numconntests description"
+msgstr "Number of successful connection tests."
+
+msgid "stats numconntests label"
+msgstr "Connection tests"
+
+msgid "stats numconntests title"
+msgstr "Number of connection tests"
+
+#,md-format
+msgid "stats siteavgdnssec description"
+msgstr "Gemiddelde score behaald bij het onderdeel DNSSEC test van de \n"
+"web-site tests. \n"
+" \n"
+"Hierbij kan geen onderscheid gemaakt worden tussen tests welke geheel \n"
+"doorlopen zijn naar het detail resultaat scherm, of welke alleen zijn \n"
+"opgestart.  Als een domein meermaals is getest, telt deze ook meerdere \n"
+"malen mee, omdat de score zou kunnen verschillen en er geen eind-\n"
+"rapportage gekoppeld is vanwege een onbekende fout bij de migratie van \n"
+"tests van voor september 2015."
+
+msgid "stats siteavgdnssec label"
+msgstr "Gemiddelde DNSSEC score"
+
+msgid "stats siteavgdnssec title"
+msgstr "Gemiddelde DNSSEC score"
+
+#,md-format
+msgid "stats siteavgipv6 description"
+msgstr "Gemiddelde score behaald bij het onderdeel IPv6 test van de \n"
+"web-site tests. \n"
+" \n"
+"Hierbij kan geen onderscheid gemaakt worden tussen tests welke geheel \n"
+"doorlopen zijn naar het detail resultaat scherm, of welke alleen zijn \n"
+"opgestart.  Als een domein meermaals is getest, telt deze ook meerdere \n"
+"malen mee, omdat de score zou kunnen verschillen en er geen eind-\n"
+"rapportage gekoppeld is vanwege een onbekende fout bij de migratie van \n"
+"tests van voor september 2015."
+
+msgid "stats siteavgipv6 label"
+msgstr "Gemiddelde IPv6 score"
+
+msgid "stats siteavgipv6 title"
+msgstr "Gemiddelde IPv6 score"
+
+#,md-format
+msgid "stats siteavgscore description"
+msgstr "Gemiddelde score van de web-site tests welke als eindresultaat \n"
+"is getoond aan de gebruiker. \n"
+" \n"
+"Indien een web-site meermaals is getest wordt deze meermaals meegeteld. \n"
+" \n"
+"Vanwege een onbekende fout bij de migratie van tests van voor september \n"
+"2015 is er geen eind-rapportage beschikbaar van deze testresultaten. \n"
+"Deze ontbreken dus in deze grafiek.  Er is een alternatieve grafiek \n"
+"(Gemiddelde berekende score) welke deze wel weergeeft.  Deze toont \n"
+"niet de score in het rapport, maar berekend deze uit de onderdelen. \n"
+"Echter omdat hierin ook niet volledig doorlopen tests meetellen komt \n"
+"deze niet geheel overeen."
+
+msgid "stats siteavgscore label"
+msgstr "Gemiddelde totaal score"
+
+msgid "stats siteavgscore title"
+msgstr "Gemiddelde score uit de Web-site domein tests"
+
+#,md-format
+msgid "stats siteavgscore2 description"
+msgstr "Alternatief voor de Gemiddelde totaal score grafiek. \n"
+" \n"
+"Zie de beschrijving bij deze grafiek, deze grafiek toont ook een meer \n"
+"historisch resultaat, maar neemt teveel gegevens mee."
+
+msgid "stats siteavgscore2 label"
+msgstr "Gemiddelde (berekende) score"
+
+msgid "stats siteavgscore2 title"
+msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores"
+
+#,md-format
+msgid "stats siteavgtls description"
+msgstr "Gemiddelde score behaald bij het onderdeel TLS test van de \n"
+"web-site tests. \n"
+" \n"
+"Hierbij kan geen onderscheid gemaakt worden tussen tests welke geheel \n"
+"doorlopen zijn naar het detail resultaat scherm, of welke alleen zijn \n"
+"opgestart.  Als een domein meermaals is getest, telt deze ook meerdere \n"
+"malen mee, omdat de score zou kunnen verschillen en er geen eind-\n"
+"rapportage gekoppeld is vanwege een onbekende fout bij de migratie van \n"
+"tests van voor september 2015."
+
+msgid "stats siteavgtls label"
+msgstr "Gemiddelde TLS score"
+
+msgid "stats siteavgtls title"
+msgstr "Gemiddelde TLS score"
+
+#,md-format
+msgid "stats sitenlavgdnssec description"
 msgstr " "
 
-msgid "faqs ipv6 title"
-msgstr "IPv6 - Frequently Asked Questions"
+msgid "stats sitenlavgdnssec label"
+msgstr "Gemiddelde DNSSEC score (.nl)"
 
-msgid "faqs ipv6 content"
-msgstr "**This page is still a work in progress; this information will be available\n"
-"soon.**\n"
-"\n"
-"At the bottom of this page we provide links to more information on IPv6.\n"
-"\n"
-"## General\n"
-"\n"
-"### What is IPv6?\n"
-"\n"
-"The Internet Protocol (IP) is the technology underlying all traffic on the\n"
-"Internet. Under the current standard, IP version 4 (IPv4), every computer has\n"
-"a specific IP address made up of four numbers, such as 192.0.2.26. That is how\n"
-"every computer connected to the Internet is reachable from any other computer.\n"
-"\n"
-"IPv4 is now 35 years old and is reaching its limits. The biggest problem is\n"
-"that IPv4 can only support four billion IP different addresses. That seems a\n"
-"lot, but it isn&#39;t enough for a world of seven billion people, especially\n"
-"when you think that every connected device &mdash; desktop computers, laptops,\n"
-"mobile phones, webcams, central heating controllers &mdash; needs its own IP\n"
-"address.\n"
-"\n"
-"IP version 6 (IPv6), the successor to IPv4, solves the address shortage. Yet\n"
-"although IPv6 is over fifteen years old now, it has not yet been widely\n"
-"implemented. The problem is that most providers and businesses currently do\n"
-"not offer IPv6 to their customers and users. An important goal of this site is\n"
-"to change that.\n"
-"\n"
-"TODO\n"
-"\n"
-"## For providers of an online service\n"
-"\n"
-"TODO\n"
-"\n"
-"## For internet users\n"
-"\n"
-"TODO\n"
-"\n"
-"## More information\n"
-"\n"
-"- [IPv6 at SURFnet](https://www.surf.nl/kennis-en-innovatie/innovatieprojecten/startdatum-2009/ipv6.html)\n"
-"- [the Dutch IPv6 Task Force](http://www.ipv6-taskforce.nl/)\n"
-"- [IPv6 at the ISOC Deploy360 Programme](http://www.internetsociety.org/deploy360/ipv6/)\n"
-"- [IPv6 on 'apply or explain' list of Standardisation Forum](https://lijsten.forumstandaardisatie.nl/open-standaard/ipv6-en-ipv4)\n"
-"- [World IPv6 Launch](http://www.worldipv6launch.org/)\n"
-"\n"
-"### Privacy-related\n"
-"\n"
-"- [Privacy Extensions for IPv6 SLAAC](http://www.internetsociety.org/deploy360/resources/privacy-extensions-for-ipv6-slaac/)\n"
-"  at the ISOC Deploy360 Programme\n"
-"- [IPv6 and privacy](http://new.ipv6-taskforce.nl/cms/wp-content/uploads/IPv6_and_privacy_NLIPv6TFv3.pdf), by the Dutch IPv6 Task Force\n"
-"- [IPv6 privacy on Wikipedia](https://en.wikipedia.org/wiki/IPv6#Privacy)"
+msgid "stats sitenlavgdnssec title"
+msgstr "Gemiddelde DNSSEC score nederlandse sites"
 
-msgid "faqs mail title"
-msgstr "DKIM, SPF and DMARC - Frequently Asked Questions"
-
-msgid "faqs mail content"
-msgstr "**This page is still a work in progress; this information will be available\n"
-"soon.**\n"
-"\n"
-"At the bottom of this page we provide links to more information on standards\n"
-"for e-mail authentication.\n"
-"\n"
-"## General\n"
-"\n"
-"### What do DKIM, SPF and DMARC do?\n"
-"\n"
-"DKIM, SPF and DMARC are three internet standards to fight phishing, spam,\n"
-"viruses and other nasties that are delivered by e-mail. These three standards\n"
-"are usually used together to validate the sender (a mail address) and the\n"
-"sending system (a computer) of a mail message, and to verify that the content\n"
-"of the message has not been altered in transit.\n"
-"\n"
-"All three standards use the [DNS system](/faqs/dnssec/#DNS) to publish\n"
-"information online. Although the standards do not require the use of\n"
-"[DNSSEC](/faqs/dnssec/) &mdash; a security system for DNS &mdash; we do\n"
-"recommend its use wholeheartedly.\n"
-"\n"
-"### What is DKIM?\n"
-"\n"
-"DKIM secures the integrity of mail messages. It safeguards both the content\n"
-"and the &quot;envelope&quot; of every outgoing message with a digital\n"
-"signature. This stops attackers sending messages that pretent to be from other\n"
-"people (spoofing) or altering the content of a message while it is in transit.\n"
-"\n"
-"### What is SPF?\n"
-"\n"
-"SPF prevents &quot;electronic mailboxes&quot; from accepting messages\n"
-"delivered by unauthorised computer systems. Only messages from systems which\n"
-"are actually allowed to send messages for a specific\n"
-"[domain](/faqs/dnssec/#DomainName) will get through. To make this possible, a\n"
-"list of valid senders is published online through the\n"
-"[DNS system](/faqs/dnssec/#DNS). Receiving systems can use this list to\n"
-"validate the sender before accepting a message.\n"
-"\n"
-"### What is DMARC?\n"
-"\n"
-"DMARC complements the other two security standards for e-mail,\n"
-"[DKIM](/faqs/mail/#DKIM) and [SPF](/faqs/mail/#SPF). DMARC gives\n"
-"&quot;electronic mailboxes&quot; a hint on how to handle incoming mail\n"
-"messages that do not pass the DKIM or SPF checks. These may be discarded, for\n"
-"example, or be put aside.\n"
-"\n"
-"The hint is published online through the [DNS system](/faqs/dnssec/#DNS). It\n"
-"can additionally contain an e-mail address to which mailboxes can report\n"
-"rejected messages. This gives the administrator of a specific mail domain\n"
-"useful information about the delivery of both genuine and forged messages.\n"
-"\n"
-"TODO\n"
-"\n"
-"## For owners of an e-mail domain\n"
-"\n"
-"TODO\n"
-"\n"
-"## For internet users\n"
-"\n"
-"TODO\n"
-"\n"
-"## More information\n"
-"\n"
-"- CIP white paper \"[E-mailauthenticatie](http://www.cip-overheid.nl/wp-content/uploads/2014/06/20140528_Emailauthenticatie_def.pdf)\"\n"
-"- M3AAWG publication \"[Trust in Email Begins with Authentication](https://www.m3aawg.org/sites/maawg/files/news/M3AAWG_Email_Authentication_Update-2015.pdf)\"\n"
-"- M3AAWG publication \"[Protecting Parked Domains Best Common Practices](https://www.m3aawg.org/sites/maawg/files/news/M3AAWG_Parked_Domains_BP-2015-02.pdf)\"\n"
-"- [Mailman and DMARC](http://wiki.list.org/DEV/DMARC)\n"
-"- Virus Bulletin: [Using DMARC to improve your email reputation](https://www.virusbtn.com/virusbulletin/archive/2014/11/vb201411-DMARC)\n"
-"- [DKIM](http://www.dkim.org/), [SPF](http://www.openspf.org/) and\n"
-"  [DMARC](http://dmarc.org/)\n"
-"- [DKIM on 'apply or explain' list of Standardisation Forum](https://lijsten.forumstandaardisatie.nl/open-standaard/dkim)"
-
-msgid "faqs tls title"
-msgstr "TLS - Frequently Asked Questions"
-
-msgid "faqs tls content"
-msgstr "**This page is still a work in progress; this information will be available\n"
-"soon.**\n"
-"\n"
-"At the bottom of this page we provide links to more information on TLS.\n"
-"\n"
-"## General\n"
-"\n"
-"### What is TLS?\n"
-"\n"
-"TLS is a standard for the cryptographic protection of internet connections.\n"
-"Most people have seen TLS, and its predecessor SSL, in action in their web\n"
-"browsers: by specifying the &#39;https&#39; protocol in an internet\n"
-"destination &mdash; for example https://www.example.com/ &mdash; an internet\n"
-"user indicates that he wants to visit a website using a secure connection. The\n"
-"&quot;padlock&quot; icon in the browser shows that a secure connection was\n"
-"established successfully, and optionally provides more detailed security\n"
-"information.\n"
-"\n"
-"Unfortunately, just enabling TLS does not guarantee security: it needs to be\n"
-"properly configured as well. Using older versions and outdated security\n"
-"options can still make a TLS connection insecure. The Dutch National Cyber\n"
-"Security Centre ([NCSC](/partners/#NCSC)) has published a guide on how to use\n"
-"TLS properly. This guide forms the basis of the information and tests provided\n"
-"on this site.\n"
-"\n"
-"TODO\n"
-"\n"
-"## For website owners\n"
-"\n"
-"TODO\n"
-"\n"
-"## For internet users\n"
-"\n"
-"TODO\n"
-"\n"
-"## More information\n"
-"\n"
-"- NCSC publication \"[ICT-beveiligingsrichtlijnen voor Transport Layer Security (TLS)](https://www.ncsc.nl/dienstverlening/expertise-advies/kennisdeling/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html)\"\n"
-"- NCSC publication \"[Factsheet HTTPS kan een stuk veiliger](https://www.ncsc.nl/dienstverlening/expertise-advies/kennisdeling/factsheets/factsheet-https-kan-een-stuk-veiliger.html)\"\n"
-"- [TLS at the ISOC Deploy360 Programme](http://www.internetsociety.org/deploy360/tls/)\n"
-"- [TLS on 'apply or explain' list of Standardisation Forum](https://lijsten.forumstandaardisatie.nl/open-standaard/tls-0)."
-
-msgid "base disclosure"
-msgstr "Responsible disclosure"
-
-msgid "detail domdnssec servfail"
-msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
-
-msgid "detail domdnssec domain is bogus"
-msgstr "this domain is \"bogus\", a very serious error in its configuration;  \n"
-"please contact your DNS operator as soon as possible;  \n"
-"your registrar (most often also your DNS operator) is: {{registrar}}"
-
-msgid "detail domdnssec domain is insecure"
-msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
-
-msgid "detail domdnssec domain is secure"
-msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
-
-msgid "detail domdnssec resolver error"
-msgstr "please contact our helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)"
-
-msgid "detail domipv6 alle nameservers hebben een IPv6 adres"
-msgstr "all name servers (NS) come with an IPv6 address"
-
-msgid "detail domipv6 niet alle nameservers hebben een IPv6 adres"
-msgstr "some name servers (NS) do not have an IPv6 address:  \n"
-"{{no_aaaa}}"
-
-msgid "detail domipv6 geen van de nameservers heeft een IPv6 adres"
-msgstr "none of the name servers (NS) comes with an IPv6 address"
-
-msgid "detail domipv6 niet alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
-msgstr "some name servers (NS) having an IPv6 address can not be reached over IPv6:  \n"
-"{{no_conn}}"
-
-msgid "detail domipv6 alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
-msgstr "all name servers (NS) having an IPv6 address are also reachable through IPv6"
-
-msgid "detail domipv6 webserver heeft een IPv6 adres"
-msgstr "the web server (AAAA) comes with an IPv6 address"
-
-msgid "detail domipv6 webserver heeft geen IPv6 adres"
-msgstr "the web server does not have an IPv6 address (AAAA record)"
-
-msgid "detail domipv6 IPv6 adres website onbereikbaar"
-msgstr "the web server can not be reached over IPv6"
-
-msgid "detail domipv6 IPv6 adres website bereikbaar"
-msgstr "the web server is reachable through IPv6"
-
-msgid "detail domipv6 alle mailservers hebben een IPv6 adres"
-msgstr "all mail servers (MX) come with an IPv6 address"
-
-msgid "detail domipv6 niet alle mailservers hebben een IPv6 adres"
-msgstr "some mail servers (MX) do not have an IPv6 address:  \n"
-"{{no_aaaa}}"
-
-msgid "detail domipv6 geen van de mailservers heeft een IPv6 adres"
-msgstr "none of the mail servers (MX) comes with an IPv6 address"
-
-msgid "detail domipv6 niet alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
-msgstr "some mail servers (MX) having an IPv6 address can not be reached over IPv6:  \n"
-"{{no_conn}}"
-
-msgid "detail domipv6 alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
-msgstr "all mail servers (MX) having an IPv6 address are also reachable through IPv6"
-
-msgid "detail domipv6 ipv4 en ipv6 website lijken overeen te komen"
-msgstr "the websites at IPv4 and IPv6 seem to correspond"
-
-msgid "detail domipv6 ipv4 en ipv6 website lijken te verschillen"
-msgstr "the websites at IPv4 and IPv6 seem to be different"
-
-msgid "detail domipv6 TLS beschikbaar over IPv4 maar niet over IPv6"
-msgstr "TLS is available through IPv4 but not through IPv6"
-
-msgid "detail mailauth dkim record aanwezig"
-msgstr "a DKIM record (TXT) has been found"
-
-msgid "detail mailauth geen dkim record aanwezig"
-msgstr "a DKIM record (TXT) could not be found"
-
-msgid "detail mailauth dmarc policy aanwezig"
-msgstr "a DMARC policy (TXT record) has been found:  \n"
-"{{dmarc_record}}"
-
-msgid "detail mailauth geen dmarc policy aanwezig"
-msgstr "a DMARC policy (TXT record) could not be found"
-
-msgid "detail mailauth spf policy aanwezig"
-msgstr "an SPF policy (TXT record) has been found:  \n"
-"{{spf_record}}"
-
-msgid "detail mailauth geen spf policy aanwezig"
-msgstr "an SPF policy (TXT record) could not be found"
-
-msgid "detail domtls TLSA record geldig"
-msgstr "a valid TLSA record has been found (DANE)"
-
-msgid "detail domtls TLSA record ongeldig"
-msgstr "the TLSA record is not valid (DANE)"
-
-msgid "detail domtls geen TLSA aanwezig"
-msgstr "no TLSA record found (DANE)"
-
-msgid "detail domtls website biedt tls aan"
-msgstr "the website offers TLS"
-
-msgid "detail domtls website biedt geen tls aan"
-msgstr "the website does not offer TLS"
-
-msgid "detail domtls server staat geen verbindingen met forward secrecy toe"
-msgstr "the server does not allow connections using forward secrecy"
-
-msgid "detail domtls forward secrecy parameters onvoldoende"
-msgstr "the forward secrecy parameters are not secure:  \n"
-"{{fs_bad}}"
-
-msgid "detail domtls forward secrecy parameters voldoende"
-msgstr "the forward secrecy parameters are sufficiently secure"
-
-msgid "detail domtls server staat onvoldoende ciphersuites toe"
-msgstr "some cipher methods offered are not secure:  \n"
-"{{ciphers_bad}}"
-
-msgid "detail domtls alleen voldoende ciphersuites zijn toegestaan"
-msgstr "all cipher methods offered are sufficiently secure"
-
-msgid "detail domtls verbinding mogelijk over niet ondersteunde TLS versies"
-msgstr "connections allowed for TLS versions not supported:  \n"
-"{{protocols_bad}}"
-
-msgid "detail domtls verbinding alleen mogelijk over ondersteunde TLS versies"
-msgstr "connections only allowed for supported TLS versions"
-
-msgid "detail domtls server staat TLS-compressie toe"
-msgstr "the server allows TLS compression"
-
-msgid "detail domtls server staat geen TLS-compressie toe"
-msgstr "the server does not allow TLS compression"
-
-msgid "detail domtls server ondersteund secure renegotiation"
-msgstr "the server supports secure renegotiation"
-
-msgid "detail domtls server ondersteund geen secure renegotiation"
-msgstr "the server does not support secure renegotiation"
-
-msgid "detail domtls server staat client-initiated renegotiation toe"
-msgstr "the server allows client-initiated renegotiation"
-
-msgid "detail domtls server staat geen client-initiated renegotiation toe"
-msgstr "the server does not allow client-initiated renegotiation"
-
-msgid "detail domtls certificaten-chain is vertrouwd, ondertekend door root CA"
-msgstr "the certificate chain is complete and signed by a trusted root CA"
-
-msgid "detail domtls certchain niet vertrouwd"
-msgstr "the certificate chain is not signed by a trusted root CA:  \n"
-"{{certchain}}"
-
-msgid "detail domtls niet alle publieke sleutels in de certificaten zijn van voldoende lengte"
-msgstr "some certificates contain public keys of insufficient length:  \n"
-"{{pubkey_bad}}"
-
-msgid "detail domtls de lengte van de publieke sleutels in de certificaten zijn voldoende"
-msgstr "the public keys in the certificates are sufficiently long"
-
-msgid "detail domtls niet alle certificaten zijn ondertekend met een voldoende hashing algoritme"
-msgstr "some certificates are signed using a hash method that is not secure:  \n"
-"{{signature_bad}}"
-
-msgid "detail domtls certificaten zijn ondertekend met een voldoende hashing algoritme"
-msgstr "all certificates are signed using a sufficiently secure hash method"
-
-msgid "detail domtls website hostname komt niet overeen met certificaat"
-msgstr "the hostname of the website does not match the certificate:  \n"
-"hostname: {{hostmatch_failed}}  \n"
-"domains on the certificate: {{hostmatch_accepted}}"
-
-msgid "detail domtls website hostname komt overeen met certificaat"
-msgstr "the hostname of the website matches the certificate"
-
-msgid "detail connipv6 resolver kan ipv6 nameservers bereiken"
-msgstr "the resolver can connect to a name server over IPv6"
-
-msgid "detail connipv6 resolver kan ipv6 nameservers niet bereiken"
-msgstr "the resolver was not able to connect to a name server over IPv6"
-
-msgid "detail conndnssec gevalideerd"
-msgstr "DNSSEC signatures are being validated;  \n"
-"your DNS servers are: {{resolv}}  \n"
-"your DNS service providers are: {{resolv_owner}}"
-
-msgid "detail conndnssec niet gevalideerd"
-msgstr "DNSSEC signatures are not being validated;  \n"
-"your DNS servers are: {{resolv}}  \n"
-"your DNS service providers are: {{resolv_owner}}"
-
-msgid "detail connipv6 werkende ipv4 verbinding via dns"
-msgstr "an IPv4 connection (via DNS) was established successfully;  \n"
-"your IP address is: {{ipv4_addr}}  \n"
-"your reverse domain name is: {{ipv4_reverse}}  \n"
-"your internet provider is: {{ipv4_owner}}  "
-
-msgid "detail connipv6 geen werkende ipv4 verbinding via dns"
-msgstr "an IPv4 connection (via DNS) could not be established"
-
-msgid "detail connipv6 werkende ipv6 verbinding via dns"
-msgstr "an IPv6 connection (via DNS) was established successfully"
-
-msgid "detail connipv6 geen werkende ipv6 verbinding via dns"
-msgstr "an IPv6 connection (via DNS) could not be established"
-
-msgid "detail connipv6 werkende ipv6 verbinding via adres"
-msgstr "an IPv6 connection (directly to an address) was established successfully;  \n"
-"your IP address is: {{ipv6_addr}}  \n"
-"your reverse domain name is: {{ipv6_reverse}}  \n"
-"your internet provider is: {{ipv6_owner}}  "
-
-msgid "detail connipv6 geen werkende ipv6 verbinding via adres"
-msgstr "an IPv6 connection (directly to an address) could not be established"
-
-msgid "detail connipv6 SLAAC zonder privacy extensions"
-msgstr "you are using SLAAC without the IPv6 privacy extensions"
-
-msgid "detail connipv6 privacy extensions aan (of geen SLAAC)"
-msgstr "the IPv6 privacy extensions are enabled (or you are not using SLAAC)"
-
-msgid "test mailipv6 title"
-msgstr "Modern internet address?"
-
-msgid "test mailipv6 description"
-msgstr "The Internet is moving to a new version of the Internet Protocol. E-mail users\n"
-"who want to be reachable from all internet addresses require modern IPv6\n"
-"addresses in addition to their IPv4 addresses."
-
-msgid "test mailipv6 failed summary"
-msgstr "<strong>Not/partially</strong> reachable from modern internet addresses (IPv6)"
-
-msgid "test mailipv6 failed description"
-msgstr "Unfortunately, this e-mail domain can <strong>not</strong> be reached by\n"
-"senders using modern IPv6 addresses or there is an error in its configuration.\n"
-"It is <strong>not</strong> yet part of the modern Internet.\n"
-"\n"
-"You should ask your e-mail provider to enable IPv6 or to fix the issues in\n"
-"its configuration."
-
-msgid "test mailipv6 passed summary"
-msgstr "Reachable from modern internet addresses (IPv6)"
-
-msgid "test mailipv6 passed description"
-msgstr "Congratulations; this e-mail domain can be reached by senders using modern\n"
-"IPv6 addresses, making it a part of the modern Internet."
-
-msgid "test maildnssec title"
-msgstr "Protected against redirection?"
-
-msgid "test maildnssec description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
-"translation of domain names to IP addresses as well as the publication of\n"
-"information related to DKIM, SPF and DMARC. DNSSEC is a security system that\n"
-"adds digital signatures to information published through the DNS system.\n"
-"Senders who also use DNSSEC at their side are protected from having their\n"
-"messages delivered to a fake mailbox. Receiving systems using DNSSEC can be\n"
-"sure that the published DKIM, SPF and DMARC information is genuine."
-
-msgid "test maildnssec failed summary"
-msgstr "<strong>Not</strong> protected from false DNS information (DNSSEC)"
-
-msgid "test maildnssec failed description"
-msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DNSSEC or\n"
-"there is an error in its configuration. Senders to this address are currently\n"
-"<strong>not</strong> protected from having their messages delivered to a fake\n"
-"mailbox. Receiving systems can <strong>not</strong> be sure that all\n"
-"authentication features and policies to check whether a mail message is\n"
-"spoofed and how to handle it is genuine.\n"
-"\n"
-"You should ask your e-mail provider to set up DNSSEC or to fix the issues in\n"
-"its configuration."
-
-msgid "test maildnssec passed summary"
-msgstr "Protected from false DNS information (DNSSEC)"
-
-msgid "test maildnssec passed description"
-msgstr "Congratulations; this e-mail domain uses DNSSEC. Senders to this address are\n"
-"protected from having their messages delivered to a fake mailbox. Receiving\n"
-"systems can be sure that all authentication features and policies to check\n"
-"whether a mail message is spoofed and how to handle it is genuine."
-
-msgid "test mailauth title"
-msgstr "Protection against message forgery?"
-
-msgid "test mailauth description"
-msgstr "An e-mail message can easily be forged. Attackers often abuse this\n"
-"vulnerability for phishing, and to send spam, viruses and other nasties that\n"
-"are delivered by e-mail. DKIM and SPF provide electronic mailboxes with the\n"
-"means to validate the sender and the sending system of a mail message, and to\n"
-"verify that the content of the message has not been altered in transit. DMARC\n"
-"provides a policy on how to handle incoming mail messages that do not pass the\n"
-"DKIM or SPF checks. All three standards use the DNS system to publish their\n"
-"information for receiving mail systems."
-
-msgid "test mailauth failed summary"
-msgstr "<strong>Not/partially</strong> protected from mail spoofing (DKIM/SPF/DMARC)"
-
-msgid "test mailauth failed description"
-msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SPF, and\n"
-"DMARC, or there is an error in its configuration. Receivers can currently\n"
-"<strong>not</strong> use all authentication features and policies to check\n"
-"whether a mail message is spoofed and how to handle it. Attackers are\n"
-"insufficiently prevented from abusing this mail address for phishing, or to\n"
-"send spam or viruses.\n"
-"\n"
-"You should ask your e-mail provider to set up DMARC, DKIM and SPF, or to fix\n"
-"the issues in their configurations."
-
-msgid "test mailauth passed summary"
-msgstr "Protected from mail spoofing (DKIM/SPF/DMARC)"
-
-msgid "test mailauth passed description"
-msgstr "Congratulations; this e-mail domain uses DKIM, SPF and DMARC. Receivers can\n"
-"use all authentication features and policies to check whether a mail message\n"
-"is spoofed and how to handle it."
-
-msgid "base legend good"
-msgstr "good"
-
-msgid "base legend bad"
-msgstr "to be improved"
-
-msgid "base permalink"
-msgstr "Permalink testresult"
-
-msgid "news .index"
-msgstr "lancering-internet-nl-tijdens-cyber-week-2015 uitnodiging-masterclass-DMARC"
-
-msgid "news uitnodiging-masterclass-DMARC title"
-msgstr "Invitation Masterclass DMARC"
-
-msgid "news uitnodiging-masterclass-DMARC body"
-msgstr "During this masterclass one of the founders of DMARC, Tim Draegen, will inform you on the going ons of this security standard.\n"
-"\n"
-"Masterclass DMARC  \n"
-"Date: Tuesday April 21  \n"
-"Time: 15:00 until 17:00 (drinks afterwards)  \n"
-"Location: 7AM, Buitenhof 47, The Hague\n"
-"\n"
-"## Joining\n"
-"\n"
-"Free of charge, however the number of participants is limited.  You can sign up using the\n"
-"[website of ECP](https://ecp.nl/events/4432/masterclass-dmarc.html)."
-
-msgid "news uitnodiging-masterclass-DMARC date"
+#,md-format
+msgid "stats sitenlavgipv6 description"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC lead"
-msgstr "On Tuesday April 21st the Platform Internetstandards organises\n"
-"a Masterclass on the topic of [DMARC](/faqs/mail/#DMARC)."
+msgid "stats sitenlavgipv6 label"
+msgstr "Gemiddelde IPv6 score (.nl)"
 
-msgid "news uitnodiging-masterclass-DMARC teaser"
-msgstr "Tim Draegen on the ins and outs of the DMARC security standard."
+msgid "stats sitenlavgipv6 title"
+msgstr "Gemiddelde IPv6 score nederlandse sites"
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 date"
-msgstr "April 15, 2015"
+#,md-format
+msgid "stats sitenlavgscore description"
+msgstr " "
 
-msgid "terms teaser"
-msgstr "The content of this site may be re-used by others under the CC-BY 4.0 license."
+msgid "stats sitenlavgscore label"
+msgstr "Gemiddelde totaal score (.nl)"
+
+msgid "stats sitenlavgscore title"
+msgstr "Gemiddelde score uit de Web-site domein tests nederlandse sites"
+
+#,md-format
+msgid "stats sitenlavgscore2 description"
+msgstr " "
+
+msgid "stats sitenlavgscore2 label"
+msgstr "Gemiddelde (berekende) score (.nl)"
+
+msgid "stats sitenlavgscore2 title"
+msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores nederlandse sites"
+
+#,md-format
+msgid "stats sitenlavgtls description"
+msgstr " "
+
+msgid "stats sitenlavgtls label"
+msgstr "Gemiddelde TLS score (.nl)"
+
+msgid "stats sitenlavgtls title"
+msgstr "Gemiddelde TLS score nederlandse sites"
+
+#,md-format
+msgid "stats sitetests description"
+msgstr "Per period."
+
+msgid "stats sitetests label"
+msgstr "Gemiddelde score"
+
+msgid "stats sitetests title"
+msgstr "Gemiddelde score over alle connectie tests"
+
+msgid "stats title"
+msgstr "Statistics (under development)"
 
 msgid "terms content"
 msgstr "# Terms of use\n"
@@ -1795,11 +2248,9 @@ msgstr "# Terms of use\n"
 "\n"
 "You can find an exact legal description of your rights and our duties with\n"
 "regard to processing of personal data in the\n"
-"[Dutch Data Protection Act](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_14-04-2015)\n"
+"[Dutch Data Protection Act](http://wetten.overheid.nl/BWBR0011468)\n"
 "and the\n"
-"[cookie statement](http://www.rijksoverheid.nl/onderwerpen/internet/bescherming-privacy-op-internet/cookiewet-regels-en-richtlijnen)\n"
-"in the\n"
-"[Dutch Telecommunications Law](http://www.rijksoverheid.nl/onderwerpen/internet/bescherming-privacy-op-internet/cookiewet-regels-en-richtlijnen).\n"
+"[cookie statement in the Dutch Telecommunications Law](http://wetten.overheid.nl/BWBR0009950/#Hoofdstuk11_Paragraaf11.1_Artikel11.7a).\n"
 "\n"
 "If you, after reading this statement, still have questions about the\n"
 "protection of your privacy when using this site, please\n"
@@ -1819,201 +2270,307 @@ msgstr "# Terms of use\n"
 "Where specific content is excepted from this Creative Commons licensing, this\n"
 "is explicitly stated on the page."
 
-msgid "base terms"
-msgstr "Terms of use"
+msgid "terms teaser"
+msgstr "The content of this site may be re-used by others under the CC-BY 4.0 \n"
+"license."
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 lead"
-msgstr "During the Dutch Cyber Week 2015 the website Internet.nl was launched by the\n"
-"Internet Standards Platform, a collaboration among organisations from the\n"
-"Internet community and the Dutch government. On this website, visitors can\n"
-"check whether their Internet is up to date. Are your internet connection,\n"
-"e-mail and website actually using modern, secure internet standards? And if\n"
-"not, what can you do about it?"
+msgid "test connipv6 description"
+msgstr "New destinations on the Internet can only be provided with IPv6 addresses. \n"
+"These can only be reached if you yourself have a modern IPv6 address in \n"
+"addition to your IPv4 address."
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 body"
-msgstr "The Internet belongs to all of us and is heavily used every day by\n"
-"entrepreneurs, governments and citizens. To most people, the Internet has now\n"
-"become indispensable. The technical fundament of the Internet, however, is\n"
-"completely invisible and unknown to most of its users. As a consequence,\n"
-"modern, secure internet standards are often implemented too late or not at\n"
-"all. That&#39;s the context in which the Internet Standards Platform was\n"
-"founded and the Internet.nl website was launched.\n"
+msgid "test connipv6 failed description"
+msgstr "Unfortunately, your internet provider has <strong>not</strong> given you a modern IPv6\n"
+"address or there is an error in its configuration. You are <strong>not</strong> able to\n"
+"reach all internet destinations.\n"
 "\n"
-"## Internet.nl \n"
-"\n"
-"Through Internet.nl, visitors can easily and automatically check whether their\n"
-"internet connection, e-mail and websites support modern, secure internet\n"
-"standards. If one or more standards are not up to date, the user gets guidance\n"
-"on how to improve this. Currently, the portal covers the following\n"
-"standards:\n"
-"\n"
-"- IPv6: an extended, modern range of internet addresses;\n"
-"- DNSSEC: security extensions for domain names;\n"
-"- TLS: secured connections;\n"
-"- DKIM, SPF and DMARC: anti-phishing and anti-spoofing.\n"
-"\n"
-"The current website is the first public release. The Platform will continue to\n"
-"improve and extend the website. Feedback is appreciated.\n"
-"\n"
-"## Dutch Internet Standards Platform\n"
-"\n"
-"The Internet Standards Platform aims to increase the usage of modern and\n"
-"secure internet standards in order to make the Internet more reliable for\n"
-"everyone. The organisations participating in the Internet Standards Platform\n"
-"are: the Dutch Hosting Provider Association (DHPA), ECP,\n"
-"Standardisation Forum, Internet Society international, Internet Society\n"
-"Netherlands, the Dutch Ministry of Economic Affairs, the National Cyber\n"
-"Security Centre (NCSC), NLnet, RIPE NCC, SIDN, and SURFnet."
+"You should ask your internet provider or network administrator to enable IPv6\n"
+"or to fix the issues in its configuration."
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 title"
-msgstr "# Internet.nl launched during Dutch Cyber Week 2015"
+msgid "test connipv6 failed summary"
+msgstr "<strong>Not</strong> all internet destinations reachable (IPv6)"
 
-msgid "base copyright"
-msgstr "Copyright"
+msgid "test connipv6 label"
+msgstr "IPv6"
 
-msgid "detail domipv6 geen mailservers aanwezig"
-msgstr "no mail exchanges (MX) set"
+msgid "test connipv6 passed description"
+msgstr "Congratulations; your internet provider has given you a moderen IPv6 address\n"
+"in addition to your IPv4 address. That allows you to reach all internet\n"
+"destinations, including those that have only IPv6 addresses."
+
+msgid "test connipv6 passed summary"
+msgstr "All internet destinations reachable (IPv6)"
+
+msgid "test connipv6 title"
+msgstr "All internet destinations reachable?"
+
+msgid "test connresolver description"
+msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
+"translation of domain names to IP addresses. DNSSEC is a security system that\n"
+"checks the digital signatures provided with the DNS information. That protects\n"
+"you from being redirected to false IP addresses."
+
+msgid "test connresolver failed description"
+msgstr "Unfortunately, you are <strong>not</strong> using DNSSEC. You are currently\n"
+"<strong>not</strong> protected from being redirected to false IP addresses.\n"
+"\n"
+"You should ask your internet provider or network administrator to enable\n"
+"DNSSEC validation or to fix the issues in its configuration. More experienced\n"
+"internet users can install DNSSEC on their own systems."
+
+msgid "test connresolver failed summary"
+msgstr "<strong>Not</strong> protected from redirection to false IP addresses \n"
+"(DNSSEC)"
+
+msgid "test connresolver label"
+msgstr "DNSSEC"
+
+msgid "test connresolver passed description"
+msgstr "Congratulations; you are using DNSSEC. This security system checks the \n"
+"digital signatures provided with the translation of domain names to IP \n"
+"addresses. You are protected from being redirected to false IP addresses."
+
+msgid "test connresolver passed summary"
+msgstr "Protected from redirection to false IP addresses (DNSSEC)"
+
+msgid "test connresolver title"
+msgstr "Protected against redirection?"
+
+msgid "test error description"
+msgstr "An <strong>error</strong> has occured during the execution of a test. This \n"
+"can happen when the Internet.nl site is overloaded or when your internet \n"
+"connection is having serious problems."
+
+msgid "test error summary"
+msgstr "<strong>Error</strong> during execution!"
+
+msgid "test mailauth description"
+msgstr "An e-mail message can easily be forged. Attackers often abuse this\n"
+"vulnerability for phishing, and to send spam, viruses and other nasties that\n"
+"are delivered by e-mail. DKIM and SPF provide electronic mailboxes with the\n"
+"means to validate the sender and the sending system of a mail message, and to\n"
+"verify that the content of the message has not been altered in transit. DMARC\n"
+"provides a policy on how to handle incoming mail messages that do not pass the\n"
+"DKIM or SPF checks. All three standards use the DNS system to publish their\n"
+"information for receiving mail systems."
+
+msgid "test mailauth failed description"
+msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SPF, and\n"
+"DMARC, or there is an error in its configuration. Receivers can currently\n"
+"<strong>not</strong> use all authentication features and policies to check\n"
+"whether a mail message is spoofed and how to handle it. Attackers are\n"
+"insufficiently prevented from abusing this mail address for phishing, or to\n"
+"send spam or viruses.\n"
+"\n"
+"You should ask your e-mail provider to set up DMARC, DKIM and SPF, or to fix\n"
+"the issues in their configurations."
+
+msgid "test mailauth failed summary"
+msgstr "<strong>Not/partially</strong> protected from mail spoofing (DKIM/SPF/DMARC)"
+
+msgid "test mailauth label"
+msgstr "DKIM/SPF/DMARC"
+
+msgid "test mailauth passed description"
+msgstr "Congratulations; this e-mail domain uses DKIM, SPF and DMARC. Receivers can\n"
+"use all authentication features and policies to check whether a mail message\n"
+"is spoofed and how to handle it."
+
+msgid "test mailauth passed summary"
+msgstr "Protected from mail spoofing (DKIM/SPF/DMARC)"
+
+msgid "test mailauth title"
+msgstr "Protection against message forgery?"
+
+msgid "test maildnssec description"
+msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
+"translation of domain names to IP addresses as well as the publication of\n"
+"information related to DKIM, SPF and DMARC. DNSSEC is a security system that\n"
+"adds digital signatures to information published through the DNS system.\n"
+"Senders who also use DNSSEC at their side are protected from having their\n"
+"messages delivered to a fake mailbox. Receiving systems using DNSSEC can be\n"
+"sure that the published DKIM, SPF and DMARC information is genuine."
+
+msgid "test maildnssec failed description"
+msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DNSSEC or\n"
+"there is an error in its configuration. Senders to this address are currently\n"
+"<strong>not</strong> protected from having their messages delivered to a fake\n"
+"mailbox. Receiving systems can <strong>not</strong> be sure that all\n"
+"authentication features and policies to check whether a mail message is\n"
+"spoofed and how to handle it is genuine.\n"
+"\n"
+"You should ask your e-mail provider to set up DNSSEC or to fix the issues in\n"
+"its configuration."
+
+msgid "test maildnssec failed summary"
+msgstr "<strong>Not</strong> protected from false DNS information (DNSSEC)"
+
+msgid "test maildnssec label"
+msgstr "DNSSEC"
+
+msgid "test maildnssec passed description"
+msgstr "Congratulations; this e-mail domain uses DNSSEC. Senders to this address are\n"
+"protected from having their messages delivered to a fake mailbox. Receiving\n"
+"systems can be sure that all authentication features and policies to check\n"
+"whether a mail message is spoofed and how to handle it is genuine."
+
+msgid "test maildnssec passed summary"
+msgstr "Protected from false DNS information (DNSSEC)"
+
+msgid "test maildnssec title"
+msgstr "Protected against redirection?"
+
+msgid "test mailipv6 description"
+msgstr "The Internet is moving to a new version of the Internet Protocol. E-mail users\n"
+"who want to be reachable from all internet addresses require modern IPv6\n"
+"addresses in addition to their IPv4 addresses."
+
+msgid "test mailipv6 failed description"
+msgstr "Unfortunately, this e-mail domain can not be reached by\n"
+"senders using modern IPv6 addresses, <strong>or</strong> improvement is possible.\n"
+"\n"
+"You should ask your e-mail provider to fully enable IPv6."
+
+msgid "test mailipv6 failed summary"
+msgstr "<strong>Not</strong> reachable or <strong>improvement</strong> possible \n"
+"(IPv6)"
+
+msgid "test mailipv6 label"
+msgstr "IPv6"
+
+msgid "test mailipv6 passed description"
+msgstr "Congratulations; this e-mail domain can be reached by senders using modern\n"
+"IPv6 addresses, making it a part of the modern Internet."
+
+msgid "test mailipv6 passed summary"
+msgstr "Reachable from modern internet addresses (IPv6)"
+
+msgid "test mailipv6 title"
+msgstr "Modern internet address?"
 
 msgid "test mailtls description"
-msgstr "De verbinding tussen de mailservers kan met TLS worden beveiligd. Het gebruikte protocol heet dan STARTTLS. Beide mailservers moeten STARTTLS ondersteunen om de versleuteling te laten werken. De test controleert de inkomende mailserver (MX) van een ingevoerde domeinnaam op de goede werking van STARTTLS."
+msgstr "The connection between mail servers can be secured with STARTTLS. Both the \n"
+"incoming and sending mailserver should support STARTTLS in order to set up \n"
+"an encrypted connection. This test checks whether the incoming mail server \n"
+"(MX) of the tested domain name does support STARTTLS in the right manner."
+
+msgid "test mailtls failed description"
+msgstr "Unfortunately; this incoming mail server does <strong>not or \n"
+"insufficienly</strong> support STARTTLS. This means that sending mail \n"
+"servers can <strong>not</strong> establish a secure connection with this \n"
+"mail server which makes it vulnerable for eavesdropping attacks by (passive)\n"
+" attackers. You should ask your mail provider to enable STARTTLS and to \n"
+"configure it correctly."
+
+msgid "test mailtls failed summary"
+msgstr "<strong>No/insufficiently</strong> secure connection possible (STARTTLS)"
+
+msgid "test mailtls label"
+msgstr "TLS"
+
+msgid "test mailtls passed description"
+msgstr "Congratulations; this incoming mail server supports STARTTLS in a correct \n"
+"manner. This means that sending mail servers can establish a secure \n"
+"connection with this mail server which prevents eavesdropping attacks by a \n"
+"(passive) attacker."
+
+msgid "test mailtls passed summary"
+msgstr "Secure connection possible (STARTTLS)"
 
 msgid "test mailtls title"
 msgstr "Secure connection incoming mail?"
 
-msgid "test mailtls failed description"
-msgstr "Unfortunately; the incoming mail server does <strong>not or insufficienly</strong> support (START)TLS. This means that sending mail servers can <strong>not</strong> establish a secure connection with this mail server which makes it vulnerable for eavesdropping attacks by (passive) attackers. You should ask your mail provider to enable TLS and to configure it correctly."
+msgid "test sitednssec description"
+msgstr "Attackers could compromise DNS, the internet directory that handles the \n"
+"translation of domain names to IP addresses. DNSSEC is a security system \n"
+"that adds digital signatures to information published through the DNS \n"
+"system. Visitors who also use DNSSEC at their side are protected from being \n"
+"redirected to false IP addresses."
 
-msgid "test mailtls failed summary"
-msgstr "<strong>No/insufficiently</strong> secure connection possible (TLS)"
+msgid "test sitednssec failed description"
+msgstr "Unfortunately, this domain name does <strong>not</strong> use DNSSEC or there\n"
+"is an error in its configuration. Users of this domain name are currently\n"
+"<strong>not</strong> protected from being redirected to false IP addresses.\n"
+"\n"
+"You should ask your hosting provider to set up DNSSEC or to fix the issues in\n"
+"its configuration."
 
-msgid "test mailtls passed description"
-msgstr "Congratulations; the incoming mail server supports (START)TLS in a correct manner. This means that sending mail servers can establish a secure connection with this mail server which prevents eavesdropping attacks by a (passive) attacker."
+msgid "test sitednssec failed summary"
+msgstr "<strong>Not</strong> protected from redirection to false IP addresses \n"
+"(DNSSEC)"
 
-msgid "test mailtls passed summary"
-msgstr "Secure connection possible (TLS)"
+msgid "test sitednssec label"
+msgstr "DNSSEC"
 
-msgid "detail smtp-dnssec hostname"
-msgstr "Nameserver (NS): \n"
-"{{hostname}}"
+msgid "test sitednssec passed description"
+msgstr "Congratulations; this domain name uses DNSSEC. Visitors who also use DNSSEC \n"
+"at their side are protected from being redirected to false IP addresses."
 
-msgid "detail smtp-tls tls-OK"
-msgstr "the mail server offers TLS"
+msgid "test sitednssec passed summary"
+msgstr "Protected from redirection to false IP addresses (DNSSEC)"
 
-msgid "detail smtp-tls valid-protocol-OK"
-msgstr "connections allowed for supported TLS versions"
+msgid "test sitednssec summary"
+msgstr "Protected against redirection?"
 
-msgid "detail smtp-tls hostname"
-msgstr "Incoming mail server (MX): \n"
-"{{hostname}}"
+msgid "test sitednssec title"
+msgstr "Protected against redirection?"
 
-msgid "detail smtp-tls valid-protocol-FAIL"
-msgstr "connections not allowed for supported TLS versions"
+msgid "test siteipv6 description"
+msgstr "The Internet is moving to a new version of the Internet Protocol. Website \n"
+"owners who want to be reachable from all internet addresses require modern \n"
+"IPv6 addresses in addition to their IPv4 addresses."
 
-msgid "detail smtp-tls valid-cipher-FAIL"
-msgstr "the mail server does not offer  cipher methods that are sufficiently secure"
+msgid "test siteipv6 failed description"
+msgstr "Unfortunately, this website is not reachable by visitors\n"
+"using modern IPv6 addresses, <strong>or</strong> improvement is possible.\n"
+"\n"
+"You should ask your hosting provider to fully enable IPv6."
 
-msgid "detail smtp-tls tls-FAIL"
-msgstr "the mail server does not offer TLS"
+msgid "test siteipv6 failed summary"
+msgstr "<strong>Not</strong> reachable or <strong>improvement</strong> possible \n"
+"(IPv6)"
 
-msgid "detail smtp-tls server-unreachable"
-msgstr "mail server (MX) is unreachable"
+msgid "test siteipv6 label"
+msgstr "IPv6"
 
-msgid "detail smtp-tls cert-hostname-match-OK"
-msgstr "the hostname of the mail server matches the certificate"
+msgid "test siteipv6 passed description"
+msgstr "Congratulations; this website can be reached by visitors using modern IPv6 \n"
+"addresses, making it fully part of the modern Internet."
 
-msgid "detail smtp-tls valid-cipher-OK"
-msgstr "the mail server offers cipher methods that are sufficiently secure "
+msgid "test siteipv6 passed summary"
+msgstr "Reachable from modern internet addresses (IPv6)"
 
-msgid "detail smtp-tls cert-hostname-match-FAIL"
-msgstr "the hostname of the mail server does not match the certificate:  \n"
-"hostname: {{hostmatch_failed}}  \n"
-"domains on the certificate: {{hostmatch_accepted}}"
+msgid "test siteipv6 title"
+msgstr "Modern internet address?"
 
-msgid "detail smtp-tls MX-NO"
-msgstr "no incoming mail servers (MX) set"
+msgid "test sitetls description"
+msgstr "TLS cryptografically protects internet connections from eavesdropping and \n"
+"tampering. However, just enabling TLS does not guarantee security: it needs \n"
+"to be properly configured as well. Using older versions or outdated security\n"
+" options can still make a TLS connection insecure."
 
-msgid "detail gen-tls TLSA-OK"
-msgstr "a valid TLSA record has been found (DANE)"
+msgid "test sitetls failed description"
+msgstr "Unfortunately, the cryptographic protection of TLS on the website is\n"
+"<strong>absent</strong> or <strong>not</strong> strong enough, or there is an\n"
+"error in its configuration. Attackers may eavesdrop on or tamper with\n"
+"connections from visitors.\n"
+"\n"
+"You should ask your hosting provider to enable TLS or to fix the issues in its\n"
+"configuration."
 
-msgid "detail gen-tls cert-hash-OK"
-msgstr "all certificates are signed using a sufficiently secure hash method"
+msgid "test sitetls failed summary"
+msgstr "Connection <strong>not/insufficiently</strong> protected (TLS)"
 
-msgid "detail gen-tls cert-keylength-OK"
-msgstr "the public keys in the certificates are sufficiently long"
+msgid "test sitetls label"
+msgstr "TLS"
 
-msgid "detail gen-tls cert-keylength-FAIL"
-msgstr "some certificates contain public keys of insufficient length:  \n"
-"{{pubkey_bad}}"
+msgid "test sitetls passed description"
+msgstr "Congratulations; the cryptographic protection of TLS on the website is \n"
+"strong enough. Internet connections from visitors who also use strong TLS \n"
+"configurations are protected from eavesdropping and tampering."
 
-msgid "detail gen-tls FS-param-OK"
-msgstr "the forward secrecy parameters are sufficiently secure"
+msgid "test sitetls passed summary"
+msgstr "Adequately protected connection (TLS)"
 
-msgid "detail gen-tls FS-NO"
-msgstr "the server does not allow connections using forward secrecy"
-
-msgid "detail gen-tls cert-trusted-CA-OK"
-msgstr "the certificate chain is complete and signed by a trusted root CA"
-
-msgid "detail gen-tls cert-hash-FAIL"
-msgstr "some certificates are signed using a hash method that is not secure:  \n"
-"{{signature_bad}}"
-
-msgid "detail gen-tls TLSA-INVALID"
-msgstr "the TLSA record is not valid (DANE)"
-
-msgid "detail gen-tls cert-trusted-CA-FAIL"
-msgstr "the certificate chain is not signed by a trusted root CA:  \n"
-"{{certchain}}"
-
-msgid "detail gen-tls TLSA-NO"
-msgstr "no TLSA record found (DANE)"
-
-msgid "detail gen-tls FS-param-FAIL"
-msgstr "the forward secrecy parameters are not secure:  \n"
-"{{fs_bad}}"
-
-msgid "detail web-tls tls-OK"
-msgstr "the website offers TLS"
-
-msgid "detail web-tls secure-renegotiation-FAIL"
-msgstr "the server does not support secure renegotiation"
-
-msgid "detail web-tls client-renegotiation-OK"
-msgstr "the server does not allow client-initiated renegotiation"
-
-msgid "detail web-tls valid-protocol-OK"
-msgstr "connections only allowed for supported TLS versions"
-
-msgid "detail web-tls valid-protocol-FAIL"
-msgstr "connections allowed for TLS versions not supported:  \n"
-"{{protocols_bad}}"
-
-msgid "detail web-tls valid-cipher-FAIL"
-msgstr "some cipher methods offered are not secure:  \n"
-"{{ciphers_bad}}"
-
-msgid "detail web-tls secure-renegotiation-OK"
-msgstr "the server supports secure renegotiation"
-
-msgid "detail web-tls tls-FAIL"
-msgstr "the website does not offer TLS"
-
-msgid "detail web-tls client-renegotiation-FAIL"
-msgstr "the server allows client-initiated renegotiation"
-
-msgid "detail web-tls compression-OK"
-msgstr "the server does not allow TLS compression"
-
-msgid "detail web-tls cert-hostname-match-OK"
-msgstr "the hostname of the website matches the certificate"
-
-msgid "detail web-tls compression-FAIL"
-msgstr "the server allows TLS compression"
-
-msgid "detail web-tls valid-cipher-OK"
-msgstr "all cipher methods offered are sufficiently secure"
-
-msgid "detail web-tls cert-hostname-match-FAIL"
-msgstr "the hostname of the website does not match the certificate:  \n"
-"hostname: {{hostmatch_failed}}  \n"
-"domains on the certificate: {{hostmatch_accepted}}"
+msgid "test sitetls title"
+msgstr "Secure connection?"

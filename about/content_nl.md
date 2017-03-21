@@ -1,3 +1,4 @@
+
 # Over Internet.nl
 
 ## Wat is Internet.nl?
@@ -14,7 +15,7 @@ zijn internationale afspraken nodig over de manier waarop de computers met
 elkaar praten &mdash; de digitale &quot;stekkers en stopcontacten&quot; waarmee
 alles met elkaar verbonden is.
 
-Deze afspraken worden [internetstandaarden](/standards/) of
+Deze afspraken worden internetstandaarden of
 internetprotocollen genoemd. De IETF beheert de meeste van deze standaarden.
 Belanghebbenden kunnen zich bij deze internationale organisatie aansluiten en
 meepraten over nieuwe internetstandaarden.
@@ -68,3 +69,6 @@ De technische realisatie van Internet.nl is in handen van
 - meting van het daadwerkelijk gebruik in Nederland
 - voorlichting en kennisuitwisseling, onder andere via een jaarlijks seminar
 - verbinden van belanghebbenden
+## Open Internet NL
+
+Open Internet NL ([http://open.internet.nl](http://open.internet.nl)) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl.

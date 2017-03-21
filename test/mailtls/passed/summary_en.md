@@ -1,1 +1,1 @@
-Secure connection possible (TLS)
+Secure connection possible (STARTTLS)

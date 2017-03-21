@@ -1,1 +1,3 @@
-the server does not allow TLS compression
+
+TLS compression
+ not allowed

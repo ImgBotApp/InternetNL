@@ -1,3 +1,4 @@
+
 # Gebruiksvoorwaarden
 
 ## Privacy
@@ -33,10 +34,8 @@ Hieronder geven we aan hoe we met jouw persoonsgegevens omgaan.
 
 Voor de precieze juridische beschrijving van jouw rechten en onze plichten
 voor gegevensverwerking verwijzen we je naar de tekst van de
-[Wet bescherming persoonsgegevens](http://wetten.overheid.nl/BWBR0011468/geldigheidsdatum_14-04-2015)
-en de [cookie-bepaling](http://www.rijksoverheid.nl/onderwerpen/internet/bescherming-privacy-op-internet/cookiewet-regels-en-richtlijnen)
-in de
-[Telecommunicatiewet](http://wetten.overheid.nl/BWBR0009950/geldigheidsdatum_14-04-2015).
+[Wet bescherming persoonsgegevens](http://wetten.overheid.nl/BWBR0011468)
+en de [cookie-bepaling in de Telecommunicatiewet](http://wetten.overheid.nl/BWBR0009950/#Hoofdstuk11_Paragraaf11.1_Artikel11.7a).
 
 Heb je na het lezen van deze verklaring nog vragen over de bescherming van je
 privacy op deze site, dan kun je [contact opnemen met Internet.nl](/contact/).
