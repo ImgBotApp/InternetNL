@@ -1,1 +1,1 @@
-website biedt HTTPS aan
+de website biedt TLS aan

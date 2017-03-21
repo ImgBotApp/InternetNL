@@ -60,7 +60,7 @@ Internetstandaarden participeren de volgende [organisaties](/partners/):
 - SURFnet
 
 De technische realisatie van Internet.nl is in handen van
-[NLnet Labs](/partners/#nlnet-labs).
+[NLnet Labs](/partners/#NLnetLabs).
 
 ## Wat biedt het Platform Internetstandaarden?
 

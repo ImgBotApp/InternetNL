@@ -1,2 +1,1 @@
-"client-initiated renegotiation" toe
-gestaan
+de server staat "client-initiated renegotiation" toe

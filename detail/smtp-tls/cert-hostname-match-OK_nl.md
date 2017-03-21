@@ -1,1 +1,1 @@
-hostname van mailserver komt overeen met certificaat
+de hostname van de mailserver komt overeen met het certificaat

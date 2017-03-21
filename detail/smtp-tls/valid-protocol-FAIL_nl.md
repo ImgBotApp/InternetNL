@@ -1,2 +1,1 @@
-voldoende veilige TLS-versies
- niet ondersteund
+verbinding is niet mogelijk voor ondersteunde TLS-versies

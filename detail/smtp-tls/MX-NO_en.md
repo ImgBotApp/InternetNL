@@ -1,1 +1,1 @@
-no mail servers (MX) set
+no incoming mail servers (MX) set

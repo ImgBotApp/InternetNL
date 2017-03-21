@@ -1,1 +1,1 @@
-website offers HTTPS
+the website offers TLS

@@ -1,2 +1,0 @@
-Inkomende mailserver (MX): 
-{{hostname}}

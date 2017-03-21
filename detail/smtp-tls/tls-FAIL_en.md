@@ -1,1 +1,1 @@
-mail server does not offer STARTTLS
+the mail server does not offer TLS

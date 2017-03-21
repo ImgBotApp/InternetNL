@@ -1,1 +1,1 @@
-Secured with DNSSEC. Your registrar (most often also your DNS operator) is: {{registrar}}
+your registrar (most often also your DNS operator) is: {{registrar}}

@@ -1,2 +1,1 @@
-client-initiated renegotiation
- allowed
+the server allows client-initiated renegotiation

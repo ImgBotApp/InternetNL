@@ -1,2 +1,1 @@
-"client-initiated renegotiation" niet toe
-gestaan
+de server staat geen "client-initiated renegotiation" toe

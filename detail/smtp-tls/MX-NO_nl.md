@@ -1,1 +1,1 @@
-geen mailservers (MX) ingesteld
+geen inkomende mailservers (MX) ingesteld

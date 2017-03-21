@@ -1,11 +1,6 @@
 # Nieuws
 
 
-## Internet.nl met Thuiswinkel.org bij Tek Tok late night (3 nov)
-Alle domeinnamen die het Thuiswinkel-keurmerk dragen zijn getest met Internet.nl op ondersteuning van moderne internetstandaarden. Gerben Klein Baltink zal de resultaten presenteren tijdens Tek Tok late night op dinsdag 3 november van 19.00 tot 22.30 in het Paard van Troje te Den Haag. Toegang is gratis, aanmelden kan via de [website van TekTok](http://tektok.nl). 
-
-
-
 ## DMARC masterclass: authenticatie van de afzender is noodzaak geworden
 
 Afgelopen dinsdag organiseerde het Platform Internetstandaarden een DMARC

@@ -1,2 +1,1 @@
-secure renegotiation
- supported
+the server supports secure renegotiation

@@ -1,1 +1,1 @@
-hostname of website matches certificate
+the hostname of the website matches the certificate

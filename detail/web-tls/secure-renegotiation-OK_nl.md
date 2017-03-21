@@ -1,2 +1,1 @@
-"secure renegotiation"
- ondersteund
+de server ondersteunt "secure renegotiation"

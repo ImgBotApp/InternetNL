@@ -1,2 +1,1 @@
-sufficiently secure TLS versions
- not supported
+connections not allowed for supported TLS versions

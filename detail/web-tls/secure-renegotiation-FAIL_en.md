@@ -1,2 +1,1 @@
-secure renegotiation
- not supported
+the server does not support secure renegotiation

@@ -1,1 +1,1 @@
-TLS-compressie niet toegestaan
+de server staat geen TLS-compressie toe

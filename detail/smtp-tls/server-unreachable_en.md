@@ -1,1 +1,1 @@
-mail server is unreachable
+mail server (MX) is unreachable

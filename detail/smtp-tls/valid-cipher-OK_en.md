@@ -1,2 +1,1 @@
-sufficiently secure 
- cipher methods supported
+the mail server offers cipher methods that are sufficiently secure 

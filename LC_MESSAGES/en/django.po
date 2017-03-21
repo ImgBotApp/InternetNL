@@ -93,8 +93,7 @@ msgstr "# News\n"
 
 #,md-format
 msgid "halloffame teaser"
-msgstr "# Hall of fame - website test\n"
-"The websites below are fully using modern internet standards and therefor score 100% in the website  test on Internet.nl."
+msgstr "The websites below are fully using modern internet standards and therefor score 100% in the website- test on Internet.nl."
 
 #,md-format
 msgid "standards teaser"
@@ -1406,10 +1405,10 @@ msgstr "this domain is \"bogus\", a very serious error in its configuration;  \n
 "your registrar (most often also your DNS operator) is: {{registrar}}"
 
 msgid "detail domdnssec domain is insecure"
-msgstr "Not secured with DNSSEC. Your registrar (most often also your DNS operator) is: {{registrar}}"
+msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
 
 msgid "detail domdnssec domain is secure"
-msgstr "Secured with DNSSEC. Your registrar (most often also your DNS operator) is: {{registrar}}"
+msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
 
 msgid "detail domdnssec resolver error"
 msgstr "please contact our helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)"
@@ -1724,7 +1723,7 @@ msgid "base legend bad"
 msgstr "to be improved"
 
 msgid "base permalink"
-msgstr "Permalink testresult {{permadate|date:'(Y-m-d H:i T)'}}"
+msgstr "Permalink testresult"
 
 msgid "news .index"
 msgstr "lancering-internet-nl-tijdens-cyber-week-2015 uitnodiging-masterclass-DMARC"
@@ -1876,66 +1875,62 @@ msgid "detail domipv6 geen mailservers aanwezig"
 msgstr "no mail exchanges (MX) set"
 
 msgid "test mailtls description"
-msgstr "The connection between mail servers can be secured with STARTTLS. Both the incoming and sending mailserver should support STARTTLS in order to set up an encrypted connection. This test checks whether the incoming mail server (MX) of the tested domain name does support STARTTLS in the right manner."
+msgstr "De verbinding tussen de mailservers kan met TLS worden beveiligd. Het gebruikte protocol heet dan STARTTLS. Beide mailservers moeten STARTTLS ondersteunen om de versleuteling te laten werken. De test controleert de inkomende mailserver (MX) van een ingevoerde domeinnaam op de goede werking van STARTTLS."
 
 msgid "test mailtls title"
 msgstr "Secure connection incoming mail?"
 
 msgid "test mailtls failed description"
-msgstr "Unfortunately; this incoming mail server does <strong>not or insufficienly</strong> support STARTTLS. This means that sending mail servers can <strong>not</strong> establish a secure connection with this mail server which makes it vulnerable for eavesdropping attacks by (passive) attackers. You should ask your mail provider to enable STARTTLS and to configure it correctly."
+msgstr "Unfortunately; the incoming mail server does <strong>not or insufficienly</strong> support (START)TLS. This means that sending mail servers can <strong>not</strong> establish a secure connection with this mail server which makes it vulnerable for eavesdropping attacks by (passive) attackers. You should ask your mail provider to enable TLS and to configure it correctly."
 
 msgid "test mailtls failed summary"
-msgstr "<strong>No/insufficiently</strong> secure connection possible (STARTTLS)"
+msgstr "<strong>No/insufficiently</strong> secure connection possible (TLS)"
 
 msgid "test mailtls passed description"
-msgstr "Congratulations; this incoming mail server supports STARTTLS in a correct manner. This means that sending mail servers can establish a secure connection with this mail server which prevents eavesdropping attacks by a (passive) attacker."
+msgstr "Congratulations; the incoming mail server supports (START)TLS in a correct manner. This means that sending mail servers can establish a secure connection with this mail server which prevents eavesdropping attacks by a (passive) attacker."
 
 msgid "test mailtls passed summary"
-msgstr "Secure connection possible (STARTTLS)"
+msgstr "Secure connection possible (TLS)"
 
 msgid "detail smtp-dnssec hostname"
-msgstr "Tested domain name: \n"
+msgstr "Nameserver (NS): \n"
 "{{hostname}}"
 
 msgid "detail smtp-tls tls-OK"
-msgstr "mail server offers STARTTLS"
+msgstr "the mail server offers TLS"
 
 msgid "detail smtp-tls valid-protocol-OK"
-msgstr "sufficiently secure TLS versions\n"
-" supported"
+msgstr "connections allowed for supported TLS versions"
 
 msgid "detail smtp-tls hostname"
 msgstr "Incoming mail server (MX): \n"
 "{{hostname}}"
 
 msgid "detail smtp-tls valid-protocol-FAIL"
-msgstr "sufficiently secure TLS versions\n"
-" not supported"
+msgstr "connections not allowed for supported TLS versions"
 
 msgid "detail smtp-tls valid-cipher-FAIL"
-msgstr "sufficiently secure\n"
-" cipher methods not supported"
+msgstr "the mail server does not offer  cipher methods that are sufficiently secure"
 
 msgid "detail smtp-tls tls-FAIL"
-msgstr "mail server does not offer STARTTLS"
+msgstr "the mail server does not offer TLS"
 
 msgid "detail smtp-tls server-unreachable"
-msgstr "mail server is unreachable"
+msgstr "mail server (MX) is unreachable"
 
 msgid "detail smtp-tls cert-hostname-match-OK"
-msgstr "hostname of mail server matches certificate"
+msgstr "the hostname of the mail server matches the certificate"
 
 msgid "detail smtp-tls valid-cipher-OK"
-msgstr "sufficiently secure \n"
-" cipher methods supported"
+msgstr "the mail server offers cipher methods that are sufficiently secure "
 
 msgid "detail smtp-tls cert-hostname-match-FAIL"
-msgstr "hostname of mail server does not match certificate:  \n"
+msgstr "the hostname of the mail server does not match the certificate:  \n"
 "hostname: {{hostmatch_failed}}  \n"
 "domains on the certificate: {{hostmatch_accepted}}"
 
 msgid "detail smtp-tls MX-NO"
-msgstr "no mail servers (MX) set"
+msgstr "no incoming mail servers (MX) set"
 
 msgid "detail gen-tls TLSA-OK"
 msgstr "a valid TLSA record has been found (DANE)"
@@ -1978,60 +1973,47 @@ msgstr "the forward secrecy parameters are not secure:  \n"
 "{{fs_bad}}"
 
 msgid "detail web-tls tls-OK"
-msgstr "website offers HTTPS"
+msgstr "the website offers TLS"
 
 msgid "detail web-tls secure-renegotiation-FAIL"
-msgstr "secure renegotiation\n"
-" not supported"
+msgstr "the server does not support secure renegotiation"
 
 msgid "detail web-tls client-renegotiation-OK"
-msgstr "client-initiated renegotiation\n"
-" not allowed"
+msgstr "the server does not allow client-initiated renegotiation"
 
 msgid "detail web-tls valid-protocol-OK"
-msgstr "connections only allowed for sufficiently secure TLS versions"
+msgstr "connections only allowed for supported TLS versions"
 
 msgid "detail web-tls valid-protocol-FAIL"
-msgstr "connections allowed for certain insufficiently secure TLS versions: \n"
+msgstr "connections allowed for TLS versions not supported:  \n"
 "{{protocols_bad}}"
 
 msgid "detail web-tls valid-cipher-FAIL"
-msgstr "certain cipher methods offered are not secure:  \n"
+msgstr "some cipher methods offered are not secure:  \n"
 "{{ciphers_bad}}"
 
 msgid "detail web-tls secure-renegotiation-OK"
-msgstr "secure renegotiation\n"
-" supported"
+msgstr "the server supports secure renegotiation"
 
 msgid "detail web-tls tls-FAIL"
-msgstr "website does not offer HTTPS"
+msgstr "the website does not offer TLS"
 
 msgid "detail web-tls client-renegotiation-FAIL"
-msgstr "client-initiated renegotiation\n"
-" allowed"
+msgstr "the server allows client-initiated renegotiation"
 
 msgid "detail web-tls compression-OK"
-msgstr "TLS compression\n"
-" not allowed"
+msgstr "the server does not allow TLS compression"
 
 msgid "detail web-tls cert-hostname-match-OK"
-msgstr "hostname of website matches certificate"
+msgstr "the hostname of the website matches the certificate"
 
 msgid "detail web-tls compression-FAIL"
-msgstr "TLS compression\n"
-" allowed"
+msgstr "the server allows TLS compression"
 
 msgid "detail web-tls valid-cipher-OK"
 msgstr "all cipher methods offered are sufficiently secure"
 
 msgid "detail web-tls cert-hostname-match-FAIL"
-msgstr "hostname of website does not match certificate:  \n"
+msgstr "the hostname of the website does not match the certificate:  \n"
 "hostname: {{hostmatch_failed}}  \n"
 "domains on the certificate: {{hostmatch_accepted}}"
-
-msgid "detail smtp-dnssec mx-hostname"
-msgstr "Incoming mail server (MX): \n"
-"{{hostname}}"
-
-msgid "faqs title"
-msgstr "TLS - Frequently Asked Questions"

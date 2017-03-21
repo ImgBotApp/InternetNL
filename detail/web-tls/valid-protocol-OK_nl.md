@@ -1,1 +1,1 @@
-verbinding alleen mogelijk voor voldoende veilige TLS-versies
+verbinding alleen mogelijk voor ondersteunde TLS-versies
