@@ -17,7 +17,7 @@ Helaas is dat niet zo. Ook in een modern land als Nederland, dat als eerste Euro
 Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.
 
 ## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?
-Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet in Nederland te verbeteren en vraag om modern internet.
+Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om modern internet.
 
 ## 7. Wie zit achter Platform Internetstandaarden?
 De website Internet.nl is een initiatief van het Platform Internetstandaarden, een samenwerkingsverband tussen een aantal [partners](/partners/) uit de internetgemeenschap en de Nederlandse overheid.
