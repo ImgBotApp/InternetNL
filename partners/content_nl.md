@@ -18,7 +18,7 @@ De website Internet.nl is een initiatief van het Platform Internetstandaarden. I
 ---
 
 ## DHPA
-De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerking van hosting- en cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de afgelopen decennia is uitgegroeid tot een factor die van belang is voor de gehele economie. De Nederlandse online sector is een van de grootste ter wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet inEuropa. De activiteiten van de DHPA richten zich op imago, onderwijs, vertrouwen en verbinding.
+De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerking van hosting- en cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de afgelopen decennia is uitgegroeid tot een factor die van belang is voor de gehele economie. De Nederlandse online sector is een van de grootste ter wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in Europa. De activiteiten van de DHPA richten zich op imago, onderwijs, vertrouwen en verbinding.
 
 ## ECP
 [ECP](https://ecp.nl/) is een neutraal platform van bedrijfsleven, overheid en maatschappelijke organisaties en heeft tot doel het gebruik van ICT in de Nederlandse samenleving te versterken. Er wordt gezamenlijk nagedacht over een visie op Nederland als informatiesamenleving. ECP koppelt hieraan concrete activiteiten en projecten. Door middel van debat en onderzoek zet ECP het maatschappelijk en economisch belang van ICT op de agenda.
