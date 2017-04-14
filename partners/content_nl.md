@@ -33,7 +33,7 @@ De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerkin
 [ISOC Nederland](https://isoc.nl/) is de Nederlandse afdeling van de Internet Society.
 
 ## ISPConnect
-[Vereniging ISPConnect Nederland](https//ispconnect.nl/) is de branchevereniging van Internet Service Providers en heeft als belangrijkste doel de belangen van haar leden collectief te behartigen door hen een duidelijke stem te geven in de media, overheid, politiek en andere doelgroepen. ISPConnect doet dit door deel te nemen aan debatten, werkgroepen, eigen projecten en contacten met de media.
+[ISPConnect Nederland](https//ispconnect.nl/) is de branchevereniging van Internet Service Providers en heeft als belangrijkste doel de belangen van haar leden collectief te behartigen door hen een duidelijke stem te geven in de media, overheid, politiek en andere doelgroepen. ISPConnect doet dit door deel te nemen aan debatten, werkgroepen, eigen projecten en contacten met de media.
 
 ## Ministerie van Economische Zaken
 Het [ministerie van Economische Zaken](httpS://www.rijksoverheid.nl/ministeries/ez) staat voor een duurzaam, ondernemend Nederland. Het zet zich in voor een uitstekend ondernemersklimaat en een sterke internationale concurrentiepositie, door de juiste randvoorwaarden te creëren en door ondernemers de ruimte te geven om te vernieuwen en te groeien, door aandacht te hebben voor onze natuur en leefomgeving, en door samenwerking te stimuleren tussen onderzoekers en ondernemers. Zo bouwt het ministerie de Nederlandse topposities in landbouw, industrie, diensten en energie verder uit en investeert het in een krachtig en duurzaam Nederland.
