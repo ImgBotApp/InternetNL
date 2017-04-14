@@ -13,7 +13,7 @@ The original internet standards date from the 70s and 80s, when the number of in
 ## 4. Are the Netherlands taking the lead in using modern internet standards?
 Unfortunately, that is not the case. Even in a modern country like the Netherlands, that became the first connected European country in 1988, we use too many outdated standards that fall short of reliability. Not using these modern standards is a risk for the individual internet user, but also for the Dutch economy and for the world at large. Therefore, help improving the internet and make sure that you use modern internet standards.
 
-## 5. Who is responsible for modern internet standards?
+## 5. Who should act on modern internet standards?
 Our access, hosting and email providers should take care of implementing modern internet standards and setting them correctly. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own connection, webserver or mailserver, you have to take care of the correct settings yourself.
 
 ## 6. Why don’t you address the access, hosting and email providers directly?
