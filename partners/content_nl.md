@@ -32,7 +32,7 @@ De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerkin
 ## Internet Society Nederland
 [ISOC Nederland](https://isoc.nl/) is de Nederlandse afdeling van de Internet Society.
 
-##ISPConnect
+## ISPConnect
 [Vereniging ISPConnect Nederland](https//ispconnect.nl/) is de branchevereniging van Internet Service Providers en heeft als belangrijkste doel de belangen van haar leden collectief te behartigen door hen een duidelijke stem te geven in de media, overheid, politiek en andere doelgroepen. ISPConnect doet dit door deel te nemen aan debatten, werkgroepen, eigen projecten en contacten met de media.
 
 ## Ministerie van Economische Zaken
