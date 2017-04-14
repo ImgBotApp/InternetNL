@@ -10,7 +10,7 @@ Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zij
 ## 3. Waarom is het belangrijk om up-to-date te zijn?
 De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn  er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne standaarden beschikbaar zijn.
 
-## 4. Loopt Nederland voorop met moderne standaarden?
+## 4. Loopt Nederland voorop met moderne internetstandaarden?
 Helaas is dat niet zo. Ook in een modern land als Nederland, dat als eerste Europese land in 1988 internettoegang kreeg, gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Dit is een risico voor de individuele internetgebruiker, maar ook voor de "BV Nederland" en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne internetstandaarden.
 
 ## 5. Wie is verantwoordelijk voor de toepassing van moderne internetstandaarden?
