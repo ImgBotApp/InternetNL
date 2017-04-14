@@ -1,7 +1,7 @@
 
 ## Contact
 
-E-mail: [question@internet.nl](mailto:question@internet.nl)
+E-mail: [vraagn@internet.nl](mailto:vraag@internet.nl)
 
 Platform Internetstandaarden  
 p/a ECP  
@@ -10,3 +10,4 @@ Postbus 262
 2260 AG  Leidschendam  
 
 KvK-nummer: 27169301
+
