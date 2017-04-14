@@ -1,73 +1,12 @@
 
 # About Internet.nl
 
-## What is Internet.nl?
-
-Internet.nl helps you as a user to check whether your internet is up to date.
-Do your [internet connection](/connection/), [e-mail](/mail/) and
-[website](/domain/) use modern internet standards? And if they don&#39;t, what
-can you do about it?
-
-## What are &quot;internet standards&quot;?
-
-So that the Internet can send data around the world, we need international
-agreements on how computers talk to one another &mdash; the digital
-&quot;plugs and sockets&quot; that link everything together.
-
-These agreements are called [internet standards](/standards/) or internet
-protocols. Most of these standards are managed by the IETF, an international
-organisation that is open to anyone who wants to join in the discussion on how
-new standards should be set.
-
-## Why is it important to be &quot;up to date&quot;?
-
-The original internet standards go back to the 1970s and 1980s, when the
-Internet had only a few hundred users and was mostly used by universities to
-share scientific information.
-
-Today the Internet has more than three billion users worldwide, and carries
-many sensitive documents and high-value commercial transactions. The original
-internet technologies no longer provide the security and scalability we need.
-
-The good news is that we have modern versions of the standards that remedy
-these shortcomings. The bad news is that the original, outdated standards are
-still widely used.
-
-The old standards are a risk to individual internet users, who may be
-vulnerable to internet fraud, or simply find that their internet connections
-don&#39;t work properly. They are also a risk to &quot;The Netherlands,
-Inc.&quot; After Schiphol Airport and the Port of Rotterdam, our digital
-infrastructure is the &quot;third mainport&quot; in the Netherlands. A secure,
-reliable Internet is vital to the future of the Dutch economy.
-
-## Who is behind Internet.nl?
-
-Internet.nl is an initiative of the Internet Standards Platform. By
-stimulating the use of modern internet standards, the Platform members aim to
-make the Internet more reliable for everyone. The [organisations](/partners/)
-participating in the Internet Standards Platform are:
-
-- Dutch Hosting Provider Association (DHPA)
-- ECP
-- Standardisation Forum
-- Internet Society international
-- Internet Society Netherlands
-- Ministry of Economic Affairs
-- National Cyber Security Centre (NCSC)
-- NLnet
-- RIPE NCC
-- SIDN
-- SURFnet.
-
-[NLnet Labs](/partners/#NLnetLabs) is responsible for the technical
-implementation of the Internet.nl portal.
-
-## What does the Internet Standards Platform offer?
-
-- self testing through Internet.nl
-- measurement of the actual use in the Netherlands
-- education and the exchange of knowledge, including an annual seminar
-- connecting stakeholders
-## Open Internet NL
-
-Open Internet NL ([http://open.internet.nl/](http://open.internet.nl/)) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl.
+#### 1. What is Internet.nl and who is behind it?The website Internet.nl is an initiative of the Internet Standards Platform, a collaboration of several parties from the internet community and the Dutch government. Internet.nl helps you as a user to check whether your internet is up to date. Do your internet connection, email and website use modern and safe internet standards? And if they don't, what can you do about it?
+#### 2. What are internet standards?In order to exchange data between computers around the world, we need international agreements on how computers talk to one another — the digital "plugs and sockets" that link everything together. These agreements are called internet standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical side of the internet is unvisible and unknown to most users. The consequence is that modern, safe internet standards are implemented too late or not at all.
+#### 3. Why is it important to be up to date?The original internet standards date from the 70s and 80s , when the number of internet users was small. Nowadays, there are more than three billion users worldwide! We also use the internet more and more for transactions that are privacy-sensitive and costly. The old standards cannot meet this scale nor the modern safety requirements. For instance, we know today that you can easily spoof the sender address with the SMTP protocol. This means that we have to start using new, smarter standards. The good news is that these modern standards are available.
+#### 4. Are the Netherlands taking the lead in using the new standards?Unfortunately, that is not the case. Even in a modern country like the Netherlands we use too many outdated standards that fall short of reliability. This is a risk for the individual internet user, but also for the Dutch economy. Therefore, help us improving the internet and make sure that you use modern internet standards.
+#### 5. Who is responsible for the new internet standards ?Our access, hosting and email providers should take care of implementing the new internet standards and setting them correctly. The more signals we send out to these providers about this, the better. Therefore it is important that you take the test here on Internet.nl and check your internet connection, email and website. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own webserver or mailserver, you have to take care of the correct settings yourself.
+#### 6. Why don’t you address the access, hosting and email providers directly?We do. Still it is a great help when internet users send out signals to their provider(s) as well. This may come as a surprise, but in a modern country like the Netherlands we still use many standards that are outdated and lack reliability. Therefore please help us to improve the Internet in the Netherlands.
+#### 7. Who are behind the Internet Standards Platform?The platform aims at stimulating the use of modern Internet standards, thus making the internet more reliable for everyone. In the Internet Standards Platform the following organizations are represented:
+* Dutch Hosting Provider Association (DHPA)* ECP* Forum Standaardisatie* Internet Society internationaal* Internet Society Nederland* Ministerie van Economische Zaken* Nationaal Cyber Security Centrum (NCSC)* NLnet* NLnet Labs* RIPE NCC* SIDN* SURFnet
+NLnet Labs is responsible for the technical implementation of the Internet.nl portal.
