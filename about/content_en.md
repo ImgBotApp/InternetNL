@@ -20,5 +20,4 @@ Our access, hosting and email providers should take care of implementing modern 
 We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but in a modern country like the Netherlands we still use many standards that are outdated and lack reliability. Therefore please help us to improve the Internet together, and demand moder internet standards.
 
 ## 7. Who are behind the Internet Standards Platform?
-The website Internet.nl is an initiative of the Internet Standards Platform, a collaboration of several [partners](/partners/) from the internet community and the Dutch government. ECP is the administrative home of the platform. NLnet Labs is responsible for the technical implementation of the Internet.nl website.
-
+The website Internet.nl is an initiative of the Internet Standards Platform, a collaboration of several [partners](/partners/) from the internet community and the Dutch government. ECP provides the administrative home of the platform. NLnet Labs is responsible for the technical implementation of the Internet.nl website.
