@@ -20,4 +20,4 @@ Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de nieuwe inter
 Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook bewust zijn en zelf ook afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet in Nederland te verbeteren.
 
 ## 7. Wie zit achter Platform Internetstandaarden?
-De website Internet.nl is een initiatief van het Platform Internetstandaarden, een samenwerkingsverband van een aantal partners uit de internetgemeenschap en de Nederlandse overheid.
+De website Internet.nl is een initiatief van het Platform Internetstandaarden, een samenwerkingsverband tussen een aantal [partners](/partners/) uit de internetgemeenschap en de Nederlandse overheid.
