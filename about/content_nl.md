@@ -1,7 +1,7 @@
 
 # Over Internet.nl
 
-## 1. Wat is internet.nl?
+## 1. Wat is Internet.nl?
 Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw internetverbinding, e-mail en website moderne, veilige internetstandaarden? En als dat niet zo is, wat kun je daar aan doen?
 
 ## 2. Wat zijn internetstandaarden?
