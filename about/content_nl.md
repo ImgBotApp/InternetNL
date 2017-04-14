@@ -2,7 +2,7 @@
 # Over Internet.nl
 
 ## 1. Wat is internet.nl?
-Op Internet.nl kun je eenvoudig checken of je internet up-to-date is. Gebruiken jouw internetverbinding, e-mail en website moderne, veilige internetstandaarden? En als dat niet zo is, wat kun je daar aan doen?
+Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw internetverbinding, e-mail en website moderne, veilige internetstandaarden? En als dat niet zo is, wat kun je daar aan doen?
 
 ## 2. Wat zijn internetstandaarden?
 Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten — de digitale "stekkers en stopcontacten" waarmee alles met elkaar verbonden is. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Dit technische deel van internet is voor de meeste gebruikers onzichtbaar en onbekend.
