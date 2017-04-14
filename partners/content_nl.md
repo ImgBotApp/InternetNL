@@ -18,55 +18,21 @@ De website Internet.nl is een initiatief van het Platform Internetstandaarden. I
 ---
 
 ## DHPA
-
-De Dutch Hosting Provider Association is een samenwerking van hosting- en
-cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de
-afgelopen decennia is uitgegroeid tot een factor die van belang is voor de
-gehele economie. De Nederlandse online sector is een van de grootste ter
-wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in
-Europa. De activiteiten van de DHPA richten zich op imago, onderwijs,
-vertrouwen en verbinding.
-
-Website: [DHPA](https://www.dhpa.nl/)
+De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerking van hosting- en cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de afgelopen decennia is uitgegroeid tot een factor die van belang is voor de gehele economie. De Nederlandse online sector is een van de grootste ter wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in
+Europa. De activiteiten van de DHPA richten zich op imago, onderwijs, vertrouwen en verbinding.
 
 ## ECP
-
-ECP is een neutraal platform van bedrijfsleven, overheid en maatschappelijke
-organisaties en heeft tot doel het gebruik van ICT in de Nederlandse
-samenleving te versterken. Er wordt gezamenlijk nagedacht over een visie op
-Nederland als informatiesamenleving. ECP koppelt hieraan concrete activiteiten
-en projecten. Door middel van debat en onderzoek zet ECP het maatschappelijk
-en economisch belang van ICT op de agenda.
-
-- [ECP](https://ecp.nl/)
+[ECP](https://ecp.nl/) is een neutraal platform van bedrijfsleven, overheid en maatschappelijke organisaties en heeft tot doel het gebruik van ICT in de Nederlandse samenleving te versterken. Er wordt gezamenlijk nagedacht over een visie op Nederland als informatiesamenleving. ECP koppelt hieraan concrete activiteiten en projecten. Door middel van debat en onderzoek zet ECP het maatschappelijk en economisch belang van ICT op de agenda.
 
 ## Forum Standaardisatie
-
-Forum Standaardisatie bevordert interoperabiliteit en de toepassing van open
-standaarden binnen de Nederlandse overheid. Digitale systemen zijn
-interoperabel als gegevens onderling kunnen worden uitgewisseld. Open
-standaarden zijn daarbij van essentieel belang. Forum Standaardisatie beheert
-daarvoor de lijst met verplichte open standaarden die gelden voor de gehele
-publieke sector.  
-
-- [Forum Standaardisatie](https://www.forumstandaardisatie.nl/)
+[Forum Standaardisatie](https://forumstandaardisatie.nl) bevordert interoperabiliteit en de toepassing van open standaarden binnen de Nederlandse overheid. Digitale systemen zijn interoperabel als gegevens onderling kunnen worden uitgewisseld. Open standaarden zijn daarbij van essentieel belang. Forum Standaardisatie beheert daarvoor de lijst met verplichte open standaarden die gelden voor de gehele publieke sector.
 
 ## Internet Society internationaal
-
-De Internet Society is een wereldwijde organisatie zorgt ervoor dat Internet
-open, transparant en &quot;van zijn gebruikers%quot; blijft. ISOC werkt aan
-beleid, technische standaarden en de verdere ontwikkeling van Internet. Zo
-zorgen zij dat Internet kan blijven groeien en zich kan doorontwikkelen als
-een platform voor innovatie, economische ontwikkeling en sociale vooruitgang
-voor mensen wereldwijd.
-
-- [Internet Society internationaal](https://www.internetsociety.org/)
+[Internet Society](https:////www.internetsociety.org/) is een wereldwijde organisatie zorgt ervoor dat Internet open, transparant en &quot;van zijn gebruikers%quot; blijft. ISOC werkt aan beleid, technische standaarden en de verdere ontwikkeling van Internet. Zo
+zorgen zij dat Internet kan blijven groeien en zich kan doorontwikkelen als een platform voor innovatie, economische ontwikkeling en sociale vooruitgang voor mensen wereldwijd.
 
 ## Internet Society Nederland
-
-ISOC Nederland is de Nederlandse afdeling van de Internet Society.
-
-- [Internet Society Nederland](http://isoc.nl/)
+[ISOC Nederland](https://isoc.nl/) is de Nederlandse afdeling van de Internet Society.
 
 ## Ministerie van Economische Zaken
 
