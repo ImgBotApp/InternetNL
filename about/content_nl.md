@@ -13,11 +13,11 @@ De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er 
 ## 4. Loopt Nederland voorop met moderne internetstandaarden?
 Helaas is dat niet zo. Ook in een modern land als Nederland, dat als eerste Europese land in 1988 internettoegang kreeg, gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Het niet gebruiken van moderne standaarden is een risico voor de individuele internetgebruiker, maar ook voor de 'BV Nederland' en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne internetstandaarden.
 
-## 5. Wie is verantwoordelijk voor de toepassing van moderne internetstandaarden?
+## 5. Wie moet er nu aan de slag met moderne internetstandaarden?
 Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.
 
 ## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?
 Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om modern internetstandaarden.
 
-## 7. Wie zit achter Platform Internetstandaarden?
+## 7. Wie zit achter Internet.nl?
 De website Internet.nl is een initiatief van het Platform Internetstandaarden, een samenwerkingsverband tussen een aantal [partners](/partners/) uit de internetgemeenschap en de Nederlandse overheid. ECP biedt de administratieve basis voor het platform. De technische realisatie van Internet.nl is in handen van NLnet Labs.
