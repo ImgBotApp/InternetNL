@@ -19,5 +19,5 @@ Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne inte
 ## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?
 Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om modern internetstandaarden.
 
-## 7. Wie zit achter Internet.nl?
+## 7. Wie zit er achter Internet.nl?
 De website Internet.nl is een initiatief van het Platform Internetstandaarden, een samenwerkingsverband tussen een aantal [partners](/partners/) uit de internetgemeenschap en de Nederlandse overheid. ECP biedt de administratieve basis voor het platform. De technische realisatie van Internet.nl is in handen van NLnet Labs.
