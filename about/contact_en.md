@@ -1,7 +1,7 @@
 
 ## Contact
 
-E-mail: [question@internet.nl](mailto:question@internet.nl)
+Email: [question@internet.nl](mailto:question@internet.nl)
 
 Internet Standards Platform  
 c/o ECP  
