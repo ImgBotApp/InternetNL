@@ -27,7 +27,7 @@ De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerkin
 [Forum Standaardisatie](https://forumstandaardisatie.nl) bevordert interoperabiliteit en de toepassing van open standaarden binnen de Nederlandse overheid. Digitale systemen zijn interoperabel als gegevens onderling kunnen worden uitgewisseld. Open standaarden zijn daarbij van essentieel belang. Forum Standaardisatie beheert daarvoor de lijst met verplichte open standaarden die gelden voor de gehele publieke sector.
 
 ## Internet Society internationaal
-[Internet Society](https://www.internetsociety.org/) is een wereldwijde organisatie zorgt ervoor dat Internet open, transparant en "van zijn gebruikers" blijft. ISOC werkt aan beleid, technische standaarden en de verdere ontwikkeling van Internet. Zozorgen zij dat Internet kan blijven groeien en zich kan doorontwikkelen als een platform voor innovatie, economische ontwikkeling en sociale vooruitgang voor mensen wereldwijd.
+[Internet Society](https://www.internetsociety.org/) is een wereldwijde organisatie zorgt ervoor dat Internet open, transparant en "van zijn gebruikers" blijft. Ze werkt aan beleid, technische standaarden en de verdere ontwikkeling van Internet. Zo zorgen Internet Society dat Internet kan blijven groeien en zich kan doorontwikkelen als een platform voor innovatie, economische ontwikkeling en sociale vooruitgang voor mensen wereldwijd.
 
 ## Internet Society Nederland
 [ISOC Nederland](https://isoc.nl/) is de Nederlandse afdeling van de Internet Society.
