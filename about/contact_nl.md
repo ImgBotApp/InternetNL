@@ -1,7 +1,7 @@
 
 ## Contact
 
-E-mail: [vraagn@internet.nl](mailto:vraag@internet.nl)
+E-mail: [vraag@internet.nl](mailto:vraag@internet.nl)
 
 Platform Internetstandaarden  
 p/a ECP  
