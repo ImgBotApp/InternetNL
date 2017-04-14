@@ -1,16 +1,13 @@
 
 # Partners
-
-Het [Platform Internetstandaarden](/about/) is een gezamenlijk initiatief
-vanuit de Nederlandse Internet-wereld, het ministerie van Economische Zaken en
-het Forum Standaardisatie. De uitvoering van Internet.nl is in handen van
-Internet Society Nederland, NLnet, NLnet Labs, SURFnet, SIDN en anderen.
+De website Internet.nl is een initiatief van het Platform Internetstandaarden. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. 
 
 - [DHPA](#dhpa)
 - [ECP](#ecp)
 - [Forum Standaardisatie](#forum-standaardisatie)
 - [Internet Society internationaal](#internet-society-internationaal)
 - [Internet Society Nederland](#internet-society-nederland)
+- [ISPConnect](#ispconnect)
 - [Ministerie van Economische Zaken](#ministerie-van-economische-zaken)
 - [NCSC](#ncsc)
 - [NLnet](#nlnet)
@@ -29,7 +26,7 @@ wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in
 Europa. De activiteiten van de DHPA richten zich op imago, onderwijs,
 vertrouwen en verbinding.
 
-- [DHPA](https://www.dhpa.nl/)
+Website: [DHPA](https://www.dhpa.nl/)
 
 ## ECP
 
