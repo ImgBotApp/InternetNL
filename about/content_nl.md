@@ -16,7 +16,7 @@ Helaas is dat niet zo. Ook in een modern land als Nederland, dat als eerste Euro
 ## 5. Wie is verantwoordelijk voor de nieuwe internetstandaarden?
 Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de nieuwe internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen web- of mailserver dan moet je zelf aan de slag.
 
-## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de hosting- en mailproviders?
+## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?
 Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook bewust zijn en zelf ook afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet in Nederland te verbeteren.
 
 ## 7. Wie zit achter Platform Internetstandaarden?
