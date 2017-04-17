@@ -1,1 +1,1 @@
-View all {{count}} sites
+View all {{count}} websites
