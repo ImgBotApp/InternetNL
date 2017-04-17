@@ -1,19 +1,19 @@
 
 # Responsible disclosure
 
-The Internet Standards Platform thinks the security of the Internet.nl site is
+The Internet Standards Platform thinks the security of the Internet.nl website is
 very important. Despite the care we have taken to ensure security, an existing
 vulnerability may be found or a new one may arise somehow.
 
-Have you found a security flaw in the internet.nl site? You might have
+Have you found a security flaw in the Internet.nl website? You might have
 accidentally run across one in the normal operation of this site, or perhaps
 you have been actively trying to find a vulnerability. In either case, please
 let us know, so we can take action as soon as possible.
 
 By the way, this is **not** an invitation to extensively scan and test our
-site for weaknesses. We can and are doing this ourselves.
+site for weaknesses. We are doing this ourselves.
 
-We would like to work with you to further improve the security of our site. We
+We would like to work with you to further improve the security of our website. We
 will always take your notifications seriously and will look into any suspected
 vulnerabilities.
 
@@ -22,8 +22,7 @@ vulnerabilities.
 - mail your findings to [question@internet.nl](question@internet.nl) as soon as
   possible;
 - provide sufficient information to replicate the problem, so we can fix it as
-  soon as possible;  
-  the IP address or the URL is generally sufficient, along with a
+  soon as possible; the IP address or the URL is generally sufficient, along with a
   description of the vulnerability, but for more complex vulnerabilities we
   may need more information;
 - not run tests that attack via physical security, social engineering, or
