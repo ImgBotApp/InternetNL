@@ -1,3 +1,3 @@
 
-Deze sites hebben recent 100% gescoord op de website-test.  Recentste test: 
-{{latest|date:'d-m-Y'}}
+Websites met 100% in website-test. 
+Meest recente toevoeging op {{latest|date:'d-m-Y'}}
