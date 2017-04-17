@@ -21,7 +21,7 @@ vermoeden van een kwetsbaarheid.
 ## In ruil vragen wij je om:
 
 - je bevindingen zo snel mogelijk te mailen naar
-  [question@internet.nl](question@internet.nl).
+  [vraag@internet.nl](vraag@internet.nl).
 - voldoende informatie te geven om het probleem te reproduceren, zodat we het
   zo snel mogelijk kunnen oplossen;  
   meestal is het IP-adres of de URL, met een omschrijving van de kwetsbaarheid
