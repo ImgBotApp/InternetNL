@@ -1,3 +1,3 @@
 
-These sites have recently scored 100% on the website test. Most recent test:
- {{latest|date:'d-m-Y'}}
+Domains with 100% score in website test. 
+Last addition on {{latest|date:'d-m-Y'}}
