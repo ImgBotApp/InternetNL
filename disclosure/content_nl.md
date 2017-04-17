@@ -21,36 +21,36 @@ vermoeden van een kwetsbaarheid.
 ## In ruil vragen wij je om:
 
 - je bevindingen zo snel mogelijk te mailen naar
-  [vraag@internet.nl](vraag@internet.nl).
+  [vraag@internet.nl](vraag@internet.nl);
 - voldoende informatie te geven om het probleem te reproduceren, zodat we het
   zo snel mogelijk kunnen oplossen;  
   meestal is het IP-adres of de URL, met een omschrijving van de kwetsbaarheid
   voldoende, maar bij complexere kwetsbaarheden kan meer informatie nodig
-  zijn
+  zijn;
 - geen tests uit te voeren die gebruikmaken van aanvallen op fysieke
   beveiliging, social engineering of applicaties van derden
-- geen brute force of denial of service uit te voeren
+- geen brute force of denial of service uit te voeren;
 - de kwetsbaarheid niet te misbruiken door bijvoorbeeld het veranderen of
-  verwijderen van gegevens of het plaatsen van malware
-- het probleem ook niet met anderen te delen totdat we het hebben opgelost
+  verwijderen van gegevens of het plaatsen van malware;
+- het probleem ook niet met anderen te delen totdat we het hebben opgelost;
 - geen gegevens van onze systemen te kopiëren, anders dan absoluut
-  noodzakelijk om het lek aan te tonen
+  noodzakelijk om het lek aan te tonen;
 - contactgegevens (e-mailadres en telefoonnummer) achter te laten zodat we
-  contact met je kunnen opnemen om samen te werken aan een veilig resultaat
+  contact met je kunnen opnemen om samen te werken aan een veilig resultaat.
 
 ## Wij beloven:
 
 - binnen drie werkdagen te reageren op je melding met de beoordeling van de
-  melding en een verwachte datum voor een oplossing
+  melding en een verwachte datum voor een oplossing;
 - je melding vertrouwelijk te behandelen: we delen je persoonlijke gegevens
   niet zonder je toestemming; uitzondering hierop zijn politie en justitie, in
-  geval van aangifte of als gegevens worden opgeëist
+  geval van aangifte of als gegevens worden opgeëist;
 - je op de hoogte te houden van de voortgang bij het oplossen van het probleem
 - in berichtgeving omtrent het gemelde probleem je naam te vermelden als
-  ontdekker, als je dat wenst
+  ontdekker, als je dat wenst;
 - dat een toevallige ontdekking van een kwetsbaarheid niet tot aangifte tegen
   je zal leiden, zolang je je aan de spelregels houdt en je in de geest van
-  responsible disclosure gedraagt
+  responsible disclosure gedraagt;
 - als dank voor je hulp geven we je een mooi t-shirt voor elke melding van een
   ons nog onbekend beveiligingsprobleem; dat is misschien geen grote beloning,
-  maar we willen het actief scannen naar kwetsbaarheden niet aanmoedigen
+  maar we willen het actief scannen naar kwetsbaarheden niet aanmoedigen.
