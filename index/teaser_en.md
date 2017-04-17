@@ -1,4 +1,2 @@
 
-Are your internet connection, website and e-mail using modern internet
-standards?  
-Test it and make sure you are up to date.
+Modern internet standards provide for more reliability and further growth of the Internet. Are you using them?
