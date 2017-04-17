@@ -5,7 +5,7 @@ Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl-website
 heel belangrijk. Ondanks onze zorg voor de beveiliging kan het voorkomen dat
 er toch een zwakke plek in zit of ergens is ontstaan.
 
-Heb je een zwakke plek gevonden in de site internet.nl? Je kunt er
+Heb je een zwakke plek gevonden in de Internet.nl-website? Je kunt er
 bijvoorbeeld per ongeluk tegenaan zijn gelopen bij het normale gebruik van
 deze site. Misschien heb je zelfs je best gedaan om een zwakke plek te vinden.
 Laat het ons in elk geval weten, zodat we zo snel mogelijk maatregelen kunnen
