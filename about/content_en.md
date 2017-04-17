@@ -37,3 +37,6 @@ The website Internet.nl is an initiative of the Dutch **Internet Standards Platf
 - [SURFnet](https://surfnet.nl)
 
 ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. NLnet Labs is responsible for the technical implementation of the Internet.nl website.
+
+---
+[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl.
