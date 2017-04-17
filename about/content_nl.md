@@ -22,19 +22,19 @@ Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook 
 ## 7. Wie zit er achter Internet.nl?
 De website Internet.nl is een initiatief van het **Platform Internetstandaarden**. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. 
 
-- [DHPA](#dhpa)
-- [ECP](#ecp)
-- [Forum Standaardisatie](#forum-standaardisatie)
-- [Internet Society internationaal](#internet-society-internationaal)
-- [Internet Society Nederland](#internet-society-nederland)
-- [ISPConnect](#ispconnect)
-- [Ministerie van Economische Zaken](#ministerie-van-economische-zaken)
-- [NCSC](#ncsc)
-- [NLnet](#nlnet)
-- [NLnet Labs](#nlnet-labs)
-- [RIPE NCC](#ripe-ncc)
-- [SIDN](#sidn)
-- [SURFnet](#surfnet)
+- [DHPA](https://dhpa.nl/)
+- [ECP](https://ecp.nl)
+- [Forum Standaardisatie](https://forumstandaardisatie.nl)
+- [Internet Society internationaal](https://internetsociety.org)
+- [Internet Society Nederland](https://isoc.nl)
+- [ISPConnect](https://ispconnect.nl)
+- [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken)
+- [NCSC](https://ncsc.nl)
+- [NLnet](https://nlnet.nl)
+- [NLnet Labs](https://nlnetlabs.nl)
+- [RIPE NCC](https://ripe.net)
+- [SIDN](https://sidn.nl)
+- [SURFnet](https://surfnet.nl)
 
 ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van NLnet Labs.
 
