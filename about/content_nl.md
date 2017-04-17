@@ -40,4 +40,4 @@ ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl 
 
 ---
 
-Note: Open Internet NL (http://open.internet.nl) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl.
+Note: [Open Internet NL](http://open.internet.nl) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl.
