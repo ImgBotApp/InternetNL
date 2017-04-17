@@ -37,6 +37,3 @@ De website Internet.nl is een initiatief van het **Platform Internetstandaarden*
 - [SURFnet](https://surfnet.nl)
 
 ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van NLnet Labs.
-
-
-
