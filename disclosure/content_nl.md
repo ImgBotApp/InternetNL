@@ -1,7 +1,7 @@
 
 # Responsible disclosure
 
-Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl portal
+Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl-website 
 heel belangrijk. Ondanks onze zorg voor de beveiliging kan het voorkomen dat
 er toch een zwakke plek in zit of ergens is ontstaan.
 
