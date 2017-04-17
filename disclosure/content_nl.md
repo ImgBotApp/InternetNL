@@ -14,7 +14,7 @@ nemen.
 Dit is overigens **geen** uitnodiging om onze site uitgebreid te scannen en te
 testen om zwakke plekken te vinden. Dat doen we zelf wel.
 
-We werken graag met je samen om de veiligheid van onze site nog beter te
+We werken graag met je samen om de veiligheid van onze website nog beter te
 kunnen beschermen. Wij nemen je melding altijd serieus en onderzoeken elk
 vermoeden van een kwetsbaarheid.
 
