@@ -1,3 +1,3 @@
 
-Websites with 100% score in website test. 
+Websites with 100% score. 
 Last addition on {{latest|date:'d-m-Y'}}
