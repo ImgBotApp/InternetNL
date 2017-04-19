@@ -1,4 +1,3 @@
-
 Atakujący może dokonać włamania do DNS, katalogu internetowego, który obsługuje
 tłumaczenie nazw domen na adresy IP, a także publikacje informacji związanych z DKIM, SPF i DMARC. 
 DNSSEC to system zabezpieczeń, który dodaje podpisy cyfrowe do informacji opublikowanych przez system DNS.

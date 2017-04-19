@@ -1,4 +1,3 @@
-
 De website Internet.nl is gisteren op de internationale Cybertop in Den Haag
 gelanceerd. Op Internet.nl kunnen bezoekers hun internet-verbinding, webserver
 en mail-domein testen op het gebruik van moderne internetstandaarden. De

@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the InternetNL package.
 # Berry van Halderen <berry@nlnetlabs.nl>, 2016.
 #
-#,fuzzy
+#, fuzzy
 msgid ""
 msgstr "Project-Id-Version: InternetNL 4.0\n"
 "Report-Msgid-Bugs-To: \n"
@@ -17,9 +17,9 @@ msgstr "Project-Id-Version: InternetNL 4.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);"
 
-#,md-format
+#, md-format
 msgid "about contact"
-msgstr "Kontakt\n"
+msgstr "## Kontakt\n"
 "\n"
 "E-mail: [cybersectest@ik.org.pl](mailto:cybersectest@ik.org.pl)\n"
 "\n"
@@ -92,11 +92,6 @@ msgstr "# O Internet.nl\n"
 "- Edukacje i poszerzenie wiedzy, z włączeniem corocznego seminarium;\n"
 "- Kontakt z interesariuszami."
 
-#,md-format
-msgid "about teaser"
-msgstr "Po lotnisku Schiphol i Porcie Roterdam nasza cyfrowa infrastruktura jest \n"
-"‘trzecim głównym portem’ w Holandii."
-
 msgid "base about"
 msgstr "O Internet.nl"
 
@@ -121,18 +116,18 @@ msgstr "Zaobserwuj nas na Twitterze"
 msgid "base halloffame"
 msgstr "Sala sławy"
 
+msgid "base halloffame lead"
+msgstr "Te strony ostatnio osiągnęły 100% w teście strony internetowej."
+
+msgid "base halloffame link"
+msgstr "Zobacz wszystkie {{count}} strony"
+
 msgid "base home"
 msgstr " "
 
 msgid "base info"
 msgstr "Internet.nl jest inicjatywą społeczeństwa interetowego I holenderskiego \n"
 "rządu."
-
-msgid "base legend bad"
-msgstr "Być ulepszone"
-
-msgid "base legend good"
-msgstr "Dobrze"
 
 msgid "base news"
 msgstr "Aktualności"
@@ -142,21 +137,6 @@ msgstr "Indeks aktualności"
 
 msgid "base partners"
 msgstr "Partnerzy"
-
-msgid "base permalink"
-msgstr "Wyniki testu dla bezpośredniego odnośnika {{permadate|date:'(Y-m-d H:i T)'}}"
-
-msgid "base probe-verdict failed"
-msgstr "Failed"
-
-msgid "base probe-verdict passed"
-msgstr "Passed"
-
-msgid "base sitemap"
-msgstr "Site-overzicht"
-
-msgid "base standards"
-msgstr " "
 
 msgid "base terms"
 msgstr "Warunki korzystania"
@@ -176,23 +156,26 @@ msgstr " "
 msgid "base test connection title"
 msgstr " "
 
-msgid "base test email input"
-msgstr " "
-
-msgid "base test email label"
-msgstr "przetestuj e-mail"
-
-msgid "base test email text"
-msgstr " "
-
 msgid "base test explain"
 msgstr " "
 
 msgid "base test mail explain"
 msgstr " "
 
+msgid "base test mail input"
+msgstr " "
+
+msgid "base test mail label"
+msgstr "przetestuj e-mail"
+
+msgid "base test mail text"
+msgstr " "
+
 msgid "base test mail title"
 msgstr " "
+
+msgid "base test prechecks invalid domain"
+msgstr "Podana domena jest nieprawidłowa!"
 
 msgid "base test start"
 msgstr "Rozpocznij test"
@@ -261,34 +244,21 @@ msgstr "# Odpowiedzialne odkrycie\n"
 "- Jako wyraz wdzięczności przekazać t-shirt za każdy raport o błędzie, który nie był nam znany.\n"
 "  Wiemy, że nie jest to duża nagroda, ale nie chcemy zachęcać do nadaktywnego testowania strony pod względem błędów."
 
-msgid "disclosure teaser"
-msgstr "Chcielibyśmy współpracować z Tobą w celu dalszej poprawy bezpieczeństwa \n"
-"naszej storny."
-
 msgid "domain forward"
 msgstr "Do szczegółowego raportu >>"
 
-#,md-format
+#, md-format
 msgid "domain title"
 msgstr "Test strony internetowej: {{prettyaddr}}"
 
 msgid "domain tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
 
-msgid "empty argument alternative text"
-msgstr "Wartość niedostępna"
-
-#,md-format
+#, md-format
 msgid "faqs content"
 msgstr " "
 
-msgid "halloffame lead"
-msgstr "Te strony ostatnio osiągnęły 100% w teście strony internetowej."
-
-msgid "halloffame link"
-msgstr "Zobacz wszystkie {{count}} strony"
-
-#,md-format
+#, md-format
 msgid "halloffame teaser"
 msgstr "# Sala chwały\n"
 "Poniższe strony w pełni spełniają nowoczesne standardy, co oznacza osiągnięcie 100% w teście na Internet.nl."
@@ -297,8 +267,8 @@ msgid "index newteaser"
 msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
 "Internetu. Używasz je?"
 
-#,md-format
-msgid "index teaser"
+#, md-format
+msgid "home teaser"
 msgstr "Czy twoje połączenie internetowe, strona i e-mail używają nowoczesnych standardów \n"
 "internetowych?   \n"
 "Przetestuj i sprawdź czy jesteś na bieżąco."
@@ -444,7 +414,7 @@ msgstr " "
 msgid "page404 title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "partners content"
 msgstr "# Wsparcie polskiej wersji portalu zapewniają\n"
 "\n"
@@ -586,13 +556,6 @@ msgstr "# Wsparcie polskiej wersji portalu zapewniają\n"
 "\n"
 "- [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)"
 
-msgid "partners teaser"
-msgstr "Internet Standards Platform jest wspólną inicjatywą Dutch internet World,\n"
-"Ministerstwa Gospodarki i Forum Normalizacyjnego. "
-
-msgid "prechecks invalid domain"
-msgstr "Podana domena jest nieprawidłowa!"
-
 msgid "probes auto-redirect"
 msgstr " "
 
@@ -635,6 +598,9 @@ msgstr "Certificate"
 msgid "results domain-mail tls dane label"
 msgstr "DANE"
 
+msgid "results empty-argument-alt-text"
+msgstr "Wartość niedostępna"
+
 msgid "results explanation label"
 msgstr "Test explanation:"
 
@@ -650,6 +616,21 @@ msgstr "Mail servers"
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
 
+msgid "results no-icon-status failed"
+msgstr "Failed"
+
+msgid "results no-icon-status good-not-tested"
+msgstr "Needs translation (These are good results mixed with not-tested)"
+
+msgid "results no-icon-status not-tested"
+msgstr "Not tested"
+
+msgid "results no-icon-status passed"
+msgstr "Passed"
+
+msgid "results no-icon-status warning"
+msgstr "Warning"
+
 msgid "results panel-button hide"
 msgstr "Hide all results"
 
@@ -658,6 +639,9 @@ msgstr "Show all results"
 
 msgid "results perfect-score"
 msgstr "Congratulations! You are in the Hall of Fame!"
+
+msgid "results permalink"
+msgstr "Wyniki testu dla bezpośredniego odnośnika {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
 msgstr "Rerun test"
@@ -683,15 +667,7 @@ msgstr " "
 msgid "results verdict label"
 msgstr "Verdict:"
 
-#,md-format
-msgid "sitemap content"
-msgstr "Sitemap."
-
-#,md-format
-msgid "sitemap teaser"
-msgstr "Sitemap."
-
-#,md-format
+#, md-format
 msgid "stats connavgscore description"
 msgstr " "
 
@@ -701,7 +677,7 @@ msgstr " "
 msgid "stats connavgscore title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats conndnssecprovider description"
 msgstr " "
 
@@ -711,7 +687,7 @@ msgstr " "
 msgid "stats conndnssecprovider title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats connipv6provider description"
 msgstr " "
 
@@ -739,7 +715,7 @@ msgstr " "
 msgid "stats connpercprovider title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats doubleperfect description"
 msgstr " "
 
@@ -749,7 +725,7 @@ msgstr " "
 msgid "stats doubleperfect title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats halloffamesize description"
 msgstr " "
 
@@ -759,7 +735,7 @@ msgstr " "
 msgid "stats halloffamesize title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats numconntests description"
 msgstr " "
 
@@ -769,7 +745,7 @@ msgstr " "
 msgid "stats numconntests title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats siteavgdnssec description"
 msgstr " "
 
@@ -779,7 +755,7 @@ msgstr " "
 msgid "stats siteavgdnssec title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats siteavgipv6 description"
 msgstr " "
 
@@ -789,7 +765,7 @@ msgstr " "
 msgid "stats siteavgipv6 title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore description"
 msgstr " "
 
@@ -799,7 +775,7 @@ msgstr " "
 msgid "stats siteavgscore title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore2 description"
 msgstr " "
 
@@ -809,7 +785,7 @@ msgstr " "
 msgid "stats siteavgscore2 title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats siteavgtls description"
 msgstr " "
 
@@ -819,7 +795,7 @@ msgstr " "
 msgid "stats siteavgtls title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgdnssec description"
 msgstr " "
 
@@ -829,7 +805,7 @@ msgstr " "
 msgid "stats sitenlavgdnssec title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgipv6 description"
 msgstr " "
 
@@ -839,7 +815,7 @@ msgstr " "
 msgid "stats sitenlavgipv6 title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore description"
 msgstr " "
 
@@ -849,7 +825,7 @@ msgstr " "
 msgid "stats sitenlavgscore title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore2 description"
 msgstr " "
 
@@ -859,7 +835,7 @@ msgstr " "
 msgid "stats sitenlavgscore2 title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgtls description"
 msgstr " "
 
@@ -869,7 +845,7 @@ msgstr " "
 msgid "stats sitenlavgtls title"
 msgstr " "
 
-#,md-format
+#, md-format
 msgid "stats sitetests description"
 msgstr " "
 
@@ -930,10 +906,6 @@ msgstr "# Warunki korzystania\n"
 "> projektu Internet Standards Platform. \n"
 "\n"
 "Jeżeli konkretna treść jest wyjęta z pod obowiązywania wspomnianej Creative Commons licencji zostanie to wyszczególnione na stronie. "
-
-msgid "terms teaser"
-msgstr "Zawartość tej strony może być ponownie wykorzystana przez innych w ramach \n"
-"licencji CC-BY 4.0."
 
 msgid "test connipv6 description"
 msgstr "Nowe miejsca w Internecie mogą być zrealizowane tylko z adresami IPv6. Mogą \n"

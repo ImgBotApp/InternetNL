@@ -1,4 +1,3 @@
-
 Het Platform Internetstandaarden biedt via deze website Internet.nl zowel
 achtergrondinformatie als hulpmiddelen. Doel van dit initiatief is ervoor te
 zorgen dat het Internet voor iedere Nederlander &mdash; maar eigenlijk voor

@@ -1,4 +1,3 @@
-
 Internet is inmiddels zodanig gemeengoed geworden dat we dreigen te vergeten
 hoe het netwerk eigenlijk functioneert. En dat terwijl de meesten van ons
 Internet dagelijks gebruiken of er zelfs afhankelijk van zijn. Voor overheid,

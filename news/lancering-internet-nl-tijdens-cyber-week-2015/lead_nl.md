@@ -1,4 +1,3 @@
-
 Tijdens de Cyber Week 2015 is de website Internet.nl gelanceerd door het
 Platform Internetstandaarden, een samenwerkingsverband met partijen uit de
 internetgemeenschap en de Nederlandse overheid. Op deze website kunnen

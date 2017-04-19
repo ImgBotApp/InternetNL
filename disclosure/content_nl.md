@@ -1,4 +1,3 @@
-
 # Responsible disclosure
 
 Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl-website 

@@ -1,4 +1,3 @@
-
 Een mail-bericht is gemakkelijk te vervalsen. Aanvallers misbruiken deze
 kwetsbaarheid op grote schaal voor phishing en om spam, virussen en andere
 narigheid die per e-mail bezorgd wordt te sturen. DKIM en SPF bieden

@@ -1,4 +1,3 @@
-
 Afgelopen dinsdag organiseerde het Platform Internetstandaarden een
 [DMARC masterclass](/news/uitnodiging-masterclass-DMARC/).
 De hoofdspreker was Tim Draegen, een van de bedenkers van de DMARC-standaard

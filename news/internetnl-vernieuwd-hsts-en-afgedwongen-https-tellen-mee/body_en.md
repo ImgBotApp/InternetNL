@@ -1,4 +1,3 @@
-
 The following improvements have been made on [Internet.nl](/).
 ## Generic
 * The ability to choose a different language from a dropdown menu. Visitors will get the equivalent page in the selected language (if available).

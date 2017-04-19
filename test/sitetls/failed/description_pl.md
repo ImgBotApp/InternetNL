@@ -1,4 +1,3 @@
-
 Niestety, ochrona kryptograficzna TLS na stronie internetowej nie jest wystarczająco silna, 
 lub wystąpił błąd podczas konfiguracji. Atakujący może podsłuchiwać lub manipulować połączeniami gości.
 

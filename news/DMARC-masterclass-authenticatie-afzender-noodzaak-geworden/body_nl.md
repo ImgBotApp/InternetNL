@@ -1,4 +1,3 @@
-
 Op de masterclass waren meer dan 60 geïnteresseerden afgekomen. De sessie werd
 geopend door
 [Gerben Klein Baltink](/news/het-internet-is-van-ons-allemaal/),

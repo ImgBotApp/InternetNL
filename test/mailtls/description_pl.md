@@ -1,4 +1,3 @@
-
 Połączenie pomiędzy serwerami pocztowymi można zabezpieczyć przez STARTTLS. 
 Zarówno serwery mailowe nadawcze i odbiorcze powinny wspierać STARTTLS w 
 celu ustanowienia połączenia szyfrowanego. Ten test pozwala sprawdzić, czy 

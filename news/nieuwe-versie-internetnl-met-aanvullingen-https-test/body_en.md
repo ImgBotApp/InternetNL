@@ -1,4 +1,3 @@
-
 Below we describe the major changes.
 
 * The previous version of Internet.nl did test the **security of the HTTPS configuration over either IPv6 or IPv4**. Through manual testing we regularly see websites that have unintended different HTTPS configurations over IPv6 and IPv4. Therefore in the new release the HTTPS configuration is tested over both IPv6 and IPv4. **From now on** the result of this test item  is part of the overall score in the website test.

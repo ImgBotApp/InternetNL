@@ -1,4 +1,3 @@
-
 Unfortunately; this incoming mail server does <strong>not or 
 insufficienly</strong> support STARTTLS. This means that sending mail 
 servers can <strong>not</strong> establish a secure connection with this 

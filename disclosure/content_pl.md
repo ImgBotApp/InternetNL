@@ -1,4 +1,3 @@
-
 # Odpowiedzialne odkrycie
 
 Zdaniem Internet Standards Platform bezpieczeństwo strony Internet.nl jest bardzo ważne.

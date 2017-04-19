@@ -1,4 +1,3 @@
-
 Kwaadwillenden zouden kunnen inbreken op het DNS-systeem. Dat is het
 internet-telefoonboek dat zorgt voor de vertaling van domeinnamen naar
 IP-adressen alsook voor de publicatie van informatie voor DKIM, SPF en DMARC.

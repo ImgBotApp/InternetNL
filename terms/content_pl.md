@@ -1,4 +1,3 @@
-
 # Warunki korzystania
 
 ## Prywatność

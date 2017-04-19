@@ -1,4 +1,3 @@
-
 During the Dutch Cyber Week 2015 the website Internet.nl was launched by the
 Internet Standards Platform, a collaboration among organisations from the
 Internet community and the Dutch government. On this website, visitors can

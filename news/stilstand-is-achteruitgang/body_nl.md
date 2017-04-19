@@ -1,4 +1,3 @@
-
 Dat we al in een vroeg stadium het Internet in al zijn facetten hebben omarmd,
 is iets waar we vandaag de dag volop de vruchten van plukken. Het heeft geleid
 tot veel kennis en expertise, die tot ver over de landsgrenzen wordt erkend en

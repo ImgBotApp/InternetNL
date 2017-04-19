@@ -1,4 +1,3 @@
-
 Bedrijfsleven, brancheorganisaties en overheid gaan gezamenlijk misbruik
 zoals phishing en het afluisteren van e-mail aanpakken.  Daartoe hebben
 zij met steun van het ministerie van Economische Zaken de 'Veilige E-mail

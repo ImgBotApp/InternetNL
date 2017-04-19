@@ -1,4 +1,3 @@
-
 # Terms of use
 
 ## Privacy

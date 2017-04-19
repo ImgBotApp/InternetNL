@@ -1,4 +1,3 @@
-
 # Partners
 De website Internet.nl is een initiatief van het Platform Internetstandaarden. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. 
 
@@ -15,6 +14,7 @@ De website Internet.nl is een initiatief van het Platform Internetstandaarden. I
 - [RIPE NCC](#ripe-ncc)
 - [SIDN](#sidn)
 - [SURFnet](#surfnet)
+
 ---
 
 ## DHPA

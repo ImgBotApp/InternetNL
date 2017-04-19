@@ -1,4 +1,3 @@
-
 ## Aanvullende eisen voor IPv6
 Vergeleken met mail die via IPv4 binnenkomt, stellen verschillende (grote) mailproviders extra eisen aan mail die ze over IPv6 ontvangen. Deze aanvullende eisen zorgen ervoor dat de mailproviders kunnen filteren op basis van domeinnaamreputatie in plaats van of naast IP-adresreputatie. Daardoor kunnen ze over IPv6 verstuurde spam en phishing mail beter tegengaan. Bij Gmail staat IPv6-ontvangst overigens standaard aan. Bij Office365 kan Microsoft het nu op verzoek van de klant aanzetten.
 

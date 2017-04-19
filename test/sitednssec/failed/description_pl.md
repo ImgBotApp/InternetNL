@@ -1,4 +1,3 @@
-
 Niestety, ta nazwa domeny używa DNSSEC lub wystąpił błąd w konfiguracji. 
 Użytkownicy tej nazwy domeny są obecnie chronione przed przekierowaniem do fałszywych adresów IP.
 

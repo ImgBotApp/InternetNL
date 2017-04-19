@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#,fuzzy
+#, fuzzy
 msgid ""
 msgstr "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -17,11 +17,11 @@ msgstr "Project-Id-Version: PACKAGE VERSION\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);"
 
-#,md-format
+#, md-format
 msgid "about contact"
-msgstr "Contact\n"
+msgstr "## Contact\n"
 "\n"
-"E-mail: [question@internet.nl](mailto:question@internet.nl)\n"
+"Email: [question@internet.nl](mailto:question@internet.nl)\n"
 "\n"
 "Internet Standards Platform  \n"
 "c/o ECP  \n"
@@ -32,94 +32,58 @@ msgstr "Contact\n"
 "\n"
 "CoC number: 27169301"
 
-#,md-format
+#, md-format
 msgid "about content"
 msgstr "# About Internet.nl\n"
 "\n"
-"## What is Internet.nl?\n"
+"## 1. What is Internet.nl?\n"
+"Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail) and [internet connection](/test-connection/) use modern and reliable internet standards? And if they don't, what can you do about it?\n"
 "\n"
-"Internet.nl helps you as a user to check whether your internet is up to date.\n"
-"Do your [internet connection](/connection/), [e-mail](/mail/) and\n"
-"[website](/domain/) use modern internet standards? And if they don&#39;t, what\n"
-"can you do about it?\n"
+"## 2. What are internet standards?\n"
+"In order to exchange data between computers around the world, we need international agreements on how computers talk to one another. The digital \"plugs and sockets\" that link everything together, so to speak. These agreements are called internet standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical core of the internet is unvisible and unknown to most users. However it is crucial for a working internet today and in the future.\n"
 "\n"
-"## What are &quot;internet standards&quot;?\n"
+"## 3. Why is it important to be up to date?\n"
+"The original internet standards date from the 70s and 80s, when the number of internet users was small. Nowadays, there are more than three billion users worldwide! And these people use the internet more and more for transactions that are privacy-sensitive and costly. The old standards cannot meet this scale nor the modern safety requirements. For instance, criminals are abusing the SMTP standard to  spoof the sender address of an email. This means that we have to start using new, smarter standards that keep our internet reliable. The good news is that these modern standards are available.\n"
 "\n"
-"So that the Internet can send data around the world, we need international\n"
-"agreements on how computers talk to one another &mdash; the digital\n"
-"&quot;plugs and sockets&quot; that link everything together.\n"
+"## 4. Are the Netherlands taking the lead in using modern internet standards?\n"
+"Unfortunately, that is not the case. Even in a modern country like the Netherlands (that became the first internet connected European country in 1988) we use too many outdated standards that fall short of reliability. Not using these modern standards is a risk for the individual internet user, but also for the Dutch economy and for the world at large. Therefore, please help improving the internet and make sure that you use modern internet standards.\n"
 "\n"
-"These agreements are called [internet standards](/standards/) or internet\n"
-"protocols. Most of these standards are managed by the IETF, an international\n"
-"organisation that is open to anyone who wants to join in the discussion on how\n"
-"new standards should be set.\n"
+"## 5. Who should act on modern internet standards?\n"
+"Our access, hosting and email providers should take care of implementing modern internet standards and setting them correctly. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own connection, webserver or mailserver, you have to take care of the correct settings yourself.\n"
 "\n"
-"## Why is it important to be &quot;up to date&quot;?\n"
+"## 6. Why don’t you address the access, hosting and email providers directly?\n"
+"We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but in a modern country like the Netherlands we still use many standards that are outdated and lack reliability. Therefore please help us to improve the internet together, and demand moder internet standards.\n"
 "\n"
-"The original internet standards go back to the 1970s and 1980s, when the\n"
-"Internet had only a few hundred users and was mostly used by universities to\n"
-"share scientific information.\n"
+"## 7. Who is behind Internet.nl?\n"
+"The website Internet.nl is an initiative of the Dutch **Internet Standards Platform**. In this platform the below partners from the internet community and the Dutch government collaborate.\n"
 "\n"
-"Today the Internet has more than three billion users worldwide, and carries\n"
-"many sensitive documents and high-value commercial transactions. The original\n"
-"internet technologies no longer provide the security and scalability we need.\n"
+"- [DHPA](https://dhpa.nl/)\n"
+"- [ECP](https://ecp.nl)\n"
+"- [Forum Standaardisatie](https://forumstandaardisatie.nl)\n"
+"- [Internet Society internationaal](https://internetsociety.org)\n"
+"- [Internet Society Nederland](https://isoc.nl)\n"
+"- [ISPConnect](https://ispconnect.nl)\n"
+"- [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken)\n"
+"- [NCSC](https://ncsc.nl)\n"
+"- [NLnet](https://nlnet.nl)\n"
+"- [NLnet Labs](https://nlnetlabs.nl)\n"
+"- [RIPE NCC](https://ripe.net)\n"
+"- [SIDN](https://sidn.nl)\n"
+"- [SURFnet](https://surfnet.nl)\n"
 "\n"
-"The good news is that we have modern versions of the standards that remedy\n"
-"these shortcomings. The bad news is that the original, outdated standards are\n"
-"still widely used.\n"
+"ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. NLnet Labs is responsible for the technical implementation of the Internet.nl website.\n"
 "\n"
-"The old standards are a risk to individual internet users, who may be\n"
-"vulnerable to internet fraud, or simply find that their internet connections\n"
-"don&#39;t work properly. They are also a risk to &quot;The Netherlands,\n"
-"Inc.&quot; After Schiphol Airport and the Port of Rotterdam, our digital\n"
-"infrastructure is the &quot;third mainport&quot; in the Netherlands. A secure,\n"
-"reliable Internet is vital to the future of the Dutch economy.\n"
-"\n"
-"## Who is behind Internet.nl?\n"
-"\n"
-"Internet.nl is an initiative of the Internet Standards Platform. By\n"
-"stimulating the use of modern internet standards, the Platform members aim to\n"
-"make the Internet more reliable for everyone. The [organisations](/partners/)\n"
-"participating in the Internet Standards Platform are:\n"
-"\n"
-"- Dutch Hosting Provider Association (DHPA)\n"
-"- ECP\n"
-"- Standardisation Forum\n"
-"- Internet Society international\n"
-"- Internet Society Netherlands\n"
-"- Ministry of Economic Affairs\n"
-"- National Cyber Security Centre (NCSC)\n"
-"- NLnet\n"
-"- RIPE NCC\n"
-"- SIDN\n"
-"- SURFnet.\n"
-"\n"
-"[NLnet Labs](/partners/#NLnetLabs) is responsible for the technical\n"
-"implementation of the Internet.nl portal.\n"
-"\n"
-"## What does the Internet Standards Platform offer?\n"
-"\n"
-"- self testing through Internet.nl\n"
-"- measurement of the actual use in the Netherlands\n"
-"- education and the exchange of knowledge, including an annual seminar\n"
-"- connecting stakeholders\n"
-"## Open Internet NL\n"
-"\n"
-"Open Internet NL ([http://open.internet.nl/](http://open.internet.nl/)) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl."
+"---\n"
+"[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl."
 
-#,md-format
-msgid "about teaser"
-msgstr "After Schiphol Airport and the Port of Rotterdam, our digital infrastructure\n"
-"is the &quot;third mainport&quot; in the Netherlands."
-
-#,md-format
+#, md-format
 msgid "author olaf-kolkman bio"
 msgstr "Olaf Kolkman is the Chief Internet Technology Officer (CITO) at ISOC\n"
 "international. He is responsibility for leading ISOC&#39;s Strategic Technical\n"
 "activities, particularly as they pertain to issues and opportunities for\n"
 "enhancing the Internet&#39;s evolution."
 
-#,md-format
+#, md-format
 msgid "author olaf-kolkman name"
 msgstr "Olaf Kolkman"
 
@@ -147,18 +111,19 @@ msgstr "Follow us on Twitter"
 msgid "base halloffame"
 msgstr "Hall of Fame"
 
+msgid "base halloffame lead"
+msgstr "Websites with 100% score. \n"
+"Last addition on {{latest|date:'d-m-Y'}}"
+
+msgid "base halloffame link"
+msgstr "View all {{count}} websites"
+
 msgid "base home"
 msgstr "Home"
 
 msgid "base info"
 msgstr "Internet.nl is an initiative of the Internet community and the Dutch \n"
 "government."
-
-msgid "base legend bad"
-msgstr "to be improved"
-
-msgid "base legend good"
-msgstr "good"
 
 msgid "base news"
 msgstr "News"
@@ -168,21 +133,6 @@ msgstr "To the news overview"
 
 msgid "base partners"
 msgstr "Partners"
-
-msgid "base permalink"
-msgstr "Permalink test result {{permadate|date:'(Y-m-d H:i T)'}}"
-
-msgid "base probe-verdict failed"
-msgstr "Failed"
-
-msgid "base probe-verdict passed"
-msgstr "Passed"
-
-msgid "base sitemap"
-msgstr "Sitemap"
-
-msgid "base standards"
-msgstr "Internet standards"
 
 msgid "base terms"
 msgstr "Terms of use"
@@ -201,16 +151,6 @@ msgstr "Hele internet bereikbaar? Beschermd tegen omleiding?"
 msgid "base test connection title"
 msgstr "Do the connection test"
 
-msgid "base test email input"
-msgstr "Your email address:"
-
-msgid "base test email label"
-msgstr "Test your e-mail"
-
-msgid "base test email text"
-msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? \n"
-"Beveiligde mail-verbinding?"
-
 msgid "base test explain"
 msgstr "Test explanation"
 
@@ -219,8 +159,21 @@ msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dap
 "\n"
 "Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non."
 
+msgid "base test mail input"
+msgstr "Your email address:"
+
+msgid "base test mail label"
+msgstr "Test your e-mail"
+
+msgid "base test mail text"
+msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? \n"
+"Beveiligde mail-verbinding?"
+
 msgid "base test mail title"
 msgstr "Do the e-mail test"
+
+msgid "base test prechecks invalid domain"
+msgstr "The given domain was invalid!"
 
 msgid "base test start"
 msgstr "Start test"
@@ -415,9 +368,15 @@ msgid "detail domipv6 alle mailservers hebben een IPv6 adres"
 msgstr "all mail servers (MX) come with an IPv6 address. Mailservers: \n"
 "{{has_aaaa}}"
 
+msgid "detail domipv6 alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "all mail servers (MX) having an IPv6 address are also reachable through IPv6"
+
 msgid "detail domipv6 alle nameservers hebben een IPv6 adres"
 msgstr "all name servers (NS) come with an IPv6 address. Nameservers: \n"
 "{{has_aaaa}}"
+
+msgid "detail domipv6 alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "all name servers (NS) having an IPv6 address are also reachable through IPv6"
 
 msgid "detail domipv6 geen mailservers aanwezig"
 msgstr "no mail exchanges (MX) set"
@@ -445,9 +404,17 @@ msgid "detail domipv6 niet alle mailservers hebben een IPv6 adres"
 msgstr "some mail servers (MX) do not have an IPv6 address:  \n"
 "{{no_aaaa}}"
 
+msgid "detail domipv6 niet alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "some mail servers (MX) having an IPv6 address can not be reached over IPv6:  \n"
+"{{no_conn}}"
+
 msgid "detail domipv6 niet alle nameservers hebben een IPv6 adres"
 msgstr "some name servers (NS) do not have an IPv6 address:  \n"
 "{{no_aaaa}}"
+
+msgid "detail domipv6 niet alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "some name servers (NS) having an IPv6 address can not be reached over IPv6:  \n"
+"{{no_conn}}"
 
 msgid "detail domipv6 ns-aaaa-insufficient"
 msgstr "An insufficient number of name servers (NS) come with an IPv6 address."
@@ -482,6 +449,15 @@ msgid "detail domtls certchain niet vertrouwd"
 msgstr "the certificate chain is not signed by a trusted root CA:  \n"
 "{{certchain}}"
 
+msgid "detail domtls certificaten zijn ondertekend met een voldoende hashing algoritme"
+msgstr "all certificates are signed using a sufficiently secure hash method"
+
+msgid "detail domtls certificaten-chain is vertrouwd, ondertekend door root CA"
+msgstr "the certificate chain is complete and signed by a trusted root CA"
+
+msgid "detail domtls de lengte van de publieke sleutels in de certificaten zijn voldoende"
+msgstr "the public keys in the certificates are sufficiently long"
+
 msgid "detail domtls forward secrecy parameters onvoldoende"
 msgstr "the forward secrecy parameters are not secure:  \n"
 "{{fs_bad}}"
@@ -491,6 +467,14 @@ msgstr "the forward secrecy parameters are sufficiently secure"
 
 msgid "detail domtls geen TLSA aanwezig"
 msgstr "no TLSA record found (DANE)"
+
+msgid "detail domtls niet alle certificaten zijn ondertekend met een voldoende hashing algoritme"
+msgstr "some certificates are signed using a hash method that is not secure:  \n"
+"{{signature_bad}}"
+
+msgid "detail domtls niet alle publieke sleutels in de certificaten zijn van voldoende lengte"
+msgstr "some certificates contain public keys of insufficient length:  \n"
+"{{pubkey_bad}}"
 
 msgid "detail domtls server ondersteund geen secure renegotiation"
 msgstr "the server does not support secure renegotiation"
@@ -1291,19 +1275,19 @@ msgstr "connections only allowed for sufficiently secure TLS versions"
 msgid "disclosure content"
 msgstr "# Responsible disclosure\n"
 "\n"
-"The Internet Standards Platform thinks the security of the Internet.nl site is\n"
+"The Internet Standards Platform thinks the security of the Internet.nl website is\n"
 "very important. Despite the care we have taken to ensure security, an existing\n"
 "vulnerability may be found or a new one may arise somehow.\n"
 "\n"
-"Have you found a security flaw in the internet.nl site? You might have\n"
+"Have you found a security flaw in the Internet.nl website? You might have\n"
 "accidentally run across one in the normal operation of this site, or perhaps\n"
 "you have been actively trying to find a vulnerability. In either case, please\n"
 "let us know, so we can take action as soon as possible.\n"
 "\n"
 "By the way, this is **not** an invitation to extensively scan and test our\n"
-"site for weaknesses. We can and are doing this ourselves.\n"
+"site for weaknesses. We are doing this ourselves.\n"
 "\n"
-"We would like to work with you to further improve the security of our site. We\n"
+"We would like to work with you to further improve the security of our website. We\n"
 "will always take your notifications seriously and will look into any suspected\n"
 "vulnerabilities.\n"
 "\n"
@@ -1312,8 +1296,7 @@ msgstr "# Responsible disclosure\n"
 "- mail your findings to [question@internet.nl](question@internet.nl) as soon as\n"
 "  possible;\n"
 "- provide sufficient information to replicate the problem, so we can fix it as\n"
-"  soon as possible;  \n"
-"  the IP address or the URL is generally sufficient, along with a\n"
+"  soon as possible; the IP address or the URL is generally sufficient, along with a\n"
 "  description of the vulnerability, but for more complex vulnerabilities we\n"
 "  may need more information;\n"
 "- not run tests that attack via physical security, social engineering, or\n"
@@ -1344,24 +1327,17 @@ msgstr "# Responsible disclosure\n"
 "  a problem not yet known to us; we know this is not a big reward, but we do\n"
 "  not want to stimulate active scanning for vulnerabilities."
 
-msgid "disclosure teaser"
-msgstr "We would like to work with you in order to further improve the security of our\n"
-"site."
-
 msgid "domain pagetitle"
 msgstr "Website test:"
 
-#,md-format
+#, md-format
 msgid "domain title"
 msgstr "Website test: {{prettyaddr}}"
 
 msgid "domain tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
 
-msgid "empty argument alternative text"
-msgstr "value not available"
-
-#,md-format
+#, md-format
 msgid "faqs content"
 msgstr "# Frequently Asked Questions\n"
 "\n"
@@ -1374,23 +1350,16 @@ msgstr "# Frequently Asked Questions\n"
 "- [TLS](/faqs/tls/)\n"
 "- [DKIM, SPF and DMARC](/faqs/mail/)"
 
-msgid "halloffame lead"
-msgstr "These sites have recently scored 100% on the website test. Most recent test:\n"
-" {{latest|date:'d-m-Y'}}"
-
-msgid "halloffame link"
-msgstr "View all {{count}} sites"
-
-#,md-format
+#, md-format
 msgid "halloffame teaser"
 msgstr "# Hall of fame - website test\n"
-"The websites below are fully using modern internet standards and therefore score 100% in the website  test on Internet.nl."
+"The websites below are fully using modern internet standards.\n"
+"They therefore score 100% in the website test on Internet.nl."
 
-#,md-format
-msgid "index teaser"
-msgstr "Are your internet connection, website and e-mail using modern internet\n"
-"standards?  \n"
-"Test it and make sure you are up to date."
+#, md-format
+msgid "home teaser"
+msgstr "Modern internet standards provide for more reliability and further growth of the Internet.   \n"
+"Are you using them?"
 
 msgid "mail pagetitle"
 msgstr "E-mail test:"
@@ -1402,9 +1371,11 @@ msgid "mail tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20mailtest%20of%20%40Internet_nl%3A"
 
 msgid "news .index"
-msgstr "internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee nieuwe-versie-\n"
-"internetnl-met-aanvullingen-https-test lancering-internet-nl-tijdens-cyber-\n"
-"week-2015 uitnodiging-masterclass-DMARC internet-draait-om-samenwerking"
+msgstr "internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee\n"
+"nieuwe-versie-internetnl-met-aanvullingen-https-test\n"
+"lancering-internet-nl-tijdens-cyber-week-2015\n"
+"uitnodiging-masterclass-DMARC\n"
+"internet-draait-om-samenwerking"
 
 msgid "news internet-draait-om-samenwerking author"
 msgstr "olaf-kolkman"
@@ -1679,13 +1650,12 @@ msgstr "Internet.nl"
 
 msgid "page404 content"
 msgstr "The page you are looking for is not on this server.  \n"
-"[Go to the home page](/)  \n"
-"Send an email to [question@internet.nl](mailto:webstukgemaakt@internet.nl)"
+"[Go to the home page](/)  "
 
 msgid "page404 title"
 msgstr "Page not found!"
 
-#,md-format
+#, md-format
 msgid "partners content"
 msgstr "# Partners\n"
 "\n"
@@ -1846,14 +1816,6 @@ msgstr "# Partners\n"
 "\n"
 "- [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)"
 
-#,md-format
-msgid "partners teaser"
-msgstr "The Internet Standards Platform is a joint initiative by the Dutch internet\n"
-"world, the Ministry of Economic Affairs and the Standardisation Forum."
-
-msgid "prechecks invalid domain"
-msgstr "The given domain was invalid!"
-
 msgid "probes auto-redirect"
 msgstr "You will be automatically redirected to the results page when all the tests \n"
 "finish."
@@ -1900,6 +1862,9 @@ msgstr "Certificate"
 msgid "results domain-mail tls dane label"
 msgstr "DANE"
 
+msgid "results empty-argument-alt-text"
+msgstr "value not available"
+
 msgid "results explanation label"
 msgstr "Test explanation:"
 
@@ -1915,6 +1880,21 @@ msgstr "Mail servers"
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
 
+msgid "results no-icon-status failed"
+msgstr "Failed"
+
+msgid "results no-icon-status good-not-tested"
+msgstr "Needs translation (These are good results mixed with not-tested)"
+
+msgid "results no-icon-status not-tested"
+msgstr "Not tested"
+
+msgid "results no-icon-status passed"
+msgstr "Passed"
+
+msgid "results no-icon-status warning"
+msgstr "Warning"
+
 msgid "results panel-button hide"
 msgstr "Hide all results"
 
@@ -1923,6 +1903,9 @@ msgstr "Show all results"
 
 msgid "results perfect-score"
 msgstr "Congratulations! You are in the Hall of Fame!"
+
+msgid "results permalink"
+msgstr "Permalink test result {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
 msgstr "Rerun test"
@@ -1948,15 +1931,7 @@ msgstr "Test your site also"
 msgid "results verdict label"
 msgstr "Verdict:"
 
-#,md-format
-msgid "sitemap content"
-msgstr "Sitemap."
-
-#,md-format
-msgid "sitemap teaser"
-msgstr "Sitemap."
-
-#,md-format
+#, md-format
 msgid "stats connavgscore description"
 msgstr "Per period."
 
@@ -1966,7 +1941,7 @@ msgstr "Average score"
 msgid "stats connavgscore title"
 msgstr "Average score over all connection tests"
 
-#,md-format
+#, md-format
 msgid "stats conndnssecprovider description"
 msgstr " "
 
@@ -1976,7 +1951,7 @@ msgstr "Volledige score DNSSEC provider"
 msgid "stats conndnssecprovider title"
 msgstr "Aantal tests welke bij DNSSEC goed scoren per provider"
 
-#,md-format
+#, md-format
 msgid "stats connipv6provider description"
 msgstr " "
 
@@ -2025,7 +2000,7 @@ msgstr "Score ontwikkeling per provider"
 msgid "stats connpercprovider title"
 msgstr "Score ontwikkeling per providers"
 
-#,md-format
+#, md-format
 msgid "stats doubleperfect description"
 msgstr "Een lijst van geteste sites die ooit een 100% score hebben \n"
 "gehaald op zowel de web-site tests als de mail tests.  Let echter op \n"
@@ -2041,7 +2016,7 @@ msgstr "Perfecte score web en mail"
 msgid "stats doubleperfect title"
 msgstr "Ooit perfecte score web en mail behaald"
 
-#,md-format
+#, md-format
 msgid "stats halloffamesize description"
 msgstr "Number of sites in absolute terms that are included in the Hall of Fame, \n"
 "as measured over time."
@@ -2052,7 +2027,7 @@ msgstr "Statistics"
 msgid "stats halloffamesize title"
 msgstr "Number of sites in Hall of Fame"
 
-#,md-format
+#, md-format
 msgid "stats numconntests description"
 msgstr "Number of successful connection tests."
 
@@ -2062,7 +2037,7 @@ msgstr "Connection tests"
 msgid "stats numconntests title"
 msgstr "Number of connection tests"
 
-#,md-format
+#, md-format
 msgid "stats siteavgdnssec description"
 msgstr "Gemiddelde score behaald bij het onderdeel DNSSEC test van de \n"
 "web-site tests. \n"
@@ -2080,7 +2055,7 @@ msgstr "Gemiddelde DNSSEC score"
 msgid "stats siteavgdnssec title"
 msgstr "Gemiddelde DNSSEC score"
 
-#,md-format
+#, md-format
 msgid "stats siteavgipv6 description"
 msgstr "Gemiddelde score behaald bij het onderdeel IPv6 test van de \n"
 "web-site tests. \n"
@@ -2098,7 +2073,7 @@ msgstr "Gemiddelde IPv6 score"
 msgid "stats siteavgipv6 title"
 msgstr "Gemiddelde IPv6 score"
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore description"
 msgstr "Gemiddelde score van de web-site tests welke als eindresultaat \n"
 "is getoond aan de gebruiker. \n"
@@ -2119,7 +2094,7 @@ msgstr "Gemiddelde totaal score"
 msgid "stats siteavgscore title"
 msgstr "Gemiddelde score uit de Web-site domein tests"
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore2 description"
 msgstr "Alternatief voor de Gemiddelde totaal score grafiek. \n"
 " \n"
@@ -2132,7 +2107,7 @@ msgstr "Gemiddelde (berekende) score"
 msgid "stats siteavgscore2 title"
 msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores"
 
-#,md-format
+#, md-format
 msgid "stats siteavgtls description"
 msgstr "Gemiddelde score behaald bij het onderdeel TLS test van de \n"
 "web-site tests. \n"
@@ -2150,7 +2125,7 @@ msgstr "Gemiddelde TLS score"
 msgid "stats siteavgtls title"
 msgstr "Gemiddelde TLS score"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgdnssec description"
 msgstr " "
 
@@ -2160,7 +2135,7 @@ msgstr "Gemiddelde DNSSEC score (.nl)"
 msgid "stats sitenlavgdnssec title"
 msgstr "Gemiddelde DNSSEC score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgipv6 description"
 msgstr " "
 
@@ -2170,7 +2145,7 @@ msgstr "Gemiddelde IPv6 score (.nl)"
 msgid "stats sitenlavgipv6 title"
 msgstr "Gemiddelde IPv6 score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore description"
 msgstr " "
 
@@ -2180,7 +2155,7 @@ msgstr "Gemiddelde totaal score (.nl)"
 msgid "stats sitenlavgscore title"
 msgstr "Gemiddelde score uit de Web-site domein tests nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore2 description"
 msgstr " "
 
@@ -2190,7 +2165,7 @@ msgstr "Gemiddelde (berekende) score (.nl)"
 msgid "stats sitenlavgscore2 title"
 msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgtls description"
 msgstr " "
 
@@ -2200,7 +2175,7 @@ msgstr "Gemiddelde TLS score (.nl)"
 msgid "stats sitenlavgtls title"
 msgstr "Gemiddelde TLS score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitetests description"
 msgstr "Per period."
 
@@ -2269,10 +2244,6 @@ msgstr "# Terms of use\n"
 "\n"
 "Where specific content is excepted from this Creative Commons licensing, this\n"
 "is explicitly stated on the page."
-
-msgid "terms teaser"
-msgstr "The content of this site may be re-used by others under the CC-BY 4.0 \n"
-"license."
 
 msgid "test connipv6 description"
 msgstr "New destinations on the Internet can only be provided with IPv6 addresses. \n"

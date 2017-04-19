@@ -1,4 +1,3 @@
-
 Attackers could compromise DNS, the internet directory that handles the
 translation of domain names to IP addresses as well as the publication of
 information related to DKIM, SPF and DMARC. DNSSEC is a security system that

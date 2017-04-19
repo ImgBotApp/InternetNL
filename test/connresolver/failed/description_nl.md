@@ -1,4 +1,3 @@
-
 Helaas; je maakt <strong>geen</strong> gebruik van DNSSEC.Je bent nu
 <strong>niet</strong> beschermd tegen omleiding naar valse IP-adressen.
 

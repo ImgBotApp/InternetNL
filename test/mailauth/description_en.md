@@ -1,4 +1,3 @@
-
 An e-mail message can easily be forged. Attackers often abuse this
 vulnerability for phishing, and to send spam, viruses and other nasties that
 are delivered by e-mail. DKIM and SPF provide electronic mailboxes with the

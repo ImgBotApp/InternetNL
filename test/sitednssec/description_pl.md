@@ -1,4 +1,3 @@
-
 Atakujący może zaatakować DNS, katalog internetowy, który obsługuje zmianę 
 nazw domen na adresy IP. DNSSEC to system zabezpieczeń, który dodaje podpisy
  cyfrowe do informacji opublikowanych przez system DNS. Użytkownicy, którzy 

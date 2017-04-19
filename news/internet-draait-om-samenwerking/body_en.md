@@ -1,4 +1,3 @@
-
 The basis for this collaboration is a number of open standards and practices
 that all the network operators have adopted voluntarily. In fact, voluntary
 adoptions is one of the core principles of the

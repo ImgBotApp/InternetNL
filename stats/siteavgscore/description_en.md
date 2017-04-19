@@ -1,4 +1,3 @@
-
 Gemiddelde score van de web-site tests welke als eindresultaat 
 is getoond aan de gebruiker. 
  

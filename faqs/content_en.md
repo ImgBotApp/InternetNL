@@ -1,4 +1,3 @@
-
 # Frequently Asked Questions
 
 If you have a question about the [internet standards](/standards/) promoted

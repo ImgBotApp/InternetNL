@@ -1,4 +1,3 @@
-
 Een open, toegankelijk en betrouwbaar Internet is inmiddels een onmisbaar
 onderdeel van onze maatschappij en onze economie. Om de ontwikkeling van
 Internet in die rol blijvend mogelijk te maken is het toepassen van open

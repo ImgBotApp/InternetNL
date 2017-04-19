@@ -1,4 +1,3 @@
-
 In de coalitie nemen de volgende partijen deel: PostNL, KPN, Betaalvereniging
 Nederland, DDMA, Thuiswinkel.org, VNO-NCW, MKB-Nederland, Stichting
 Zeker-OnLine, Dutch Datacenter Association, Stichting DINL, XS4all,

@@ -1,4 +1,3 @@
-
 ## Contact
 
 E-mail: [vraag@internet.nl](mailto:vraag@internet.nl)
@@ -10,4 +9,3 @@ Postbus 262
 2260 AG  Leidschendam  
 
 KvK-nummer: 27169301
-

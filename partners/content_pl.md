@@ -1,4 +1,3 @@
-
 # Wsparcie polskiej wersji portalu zapewniają
 
 ![The Kosciuszko Institute](/static/logo-ikang-icann.png)![Made possible by](/static/logo-icann.png)

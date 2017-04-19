@@ -1,4 +1,3 @@
-
 # Gebruiksvoorwaarden
 
 ## Privacy

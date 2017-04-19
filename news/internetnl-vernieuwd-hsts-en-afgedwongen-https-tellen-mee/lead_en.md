@@ -1,4 +1,3 @@
-
 **Today (June 27, 2016) the Dutch Internet Standard PLatform launches a new 
 version of the website [Internet.nl](/). From now on, 'HSTS' and 'enforced 
 HTTPS' are part of the score of the website test. This was already announced

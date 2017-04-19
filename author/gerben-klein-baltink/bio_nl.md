@@ -1,4 +1,3 @@
-
 Gerben Klein Baltink is werkzaam als ondernemer, zowel op het gebied van
 digitale veiligheid (MKB Cyber Advies Nederland) als op het gebied van moderne
 technologie (Trefecta Mobility). Zijn grote passie is het leggen van

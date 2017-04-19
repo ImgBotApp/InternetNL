@@ -1,4 +1,3 @@
-
 Marco Davids is Technisch Adviseur bij SIDN, de beheerder van het .nl-domein.
 Hij doet onderzoek naar en geeft advies over technologische ontwikkelingen en
 concepten, zodat technische verbeteringen en vernieuwingen tot stand komen.

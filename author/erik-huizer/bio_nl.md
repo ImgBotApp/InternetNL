@@ -1,4 +1,3 @@
-
 Erik Huizer is technisch directeur bij SURFnet, het netwerk voor hoger
 onderwijs en onderzoek. Daarnaast is hij ook deeltijd-hoogleraar
 &quot;Internet toepassingen&quot; bij de afdeling Media- en

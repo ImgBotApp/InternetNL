@@ -1,4 +1,3 @@
-
 Gemiddelde score behaald bij het onderdeel TLS test van de 
 web-site tests. 
  

@@ -1,4 +1,3 @@
-
 De meest in het oog springende verbeteringen staan hieronder. 
 
 1. De vorige versie van Internet.nl testte de veiligheid van de HTTPS-configuratie over IPv6 óf over IPv4. Omdat we via handmatig testen regelmatig websites tegen zijn gekomen die onbedoeld verschillende HTTPS-configuraties over IPv6 en IPv4 hanteren, wordt vanaf nu de **HTTPS-configuratie zowel over IPV6 als over IPv4** getest.  Het resultaat van dit uitgebreide testonderdeel weegt **vanaf nu** mee in de score van de websitetest.

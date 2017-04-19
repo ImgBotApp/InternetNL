@@ -1,4 +1,3 @@
-
 # O Internet.nl
 
 ## Czym jest Internet.nl?

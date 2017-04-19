@@ -1,4 +1,3 @@
-
 # Responsible disclosure
 
 The Internet Standards Platform thinks the security of the Internet.nl website is

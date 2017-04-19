@@ -1,4 +1,3 @@
-
 Wiadomość e-mail może być w łatwy sposób sfałszowana. Atakujący zawsze wykorzystują tą wrażliwość do phishingu, 
 wysyłania spamu, wirusów i innych groźnych rzeczy, które mogą być rozsyłane drogą elektroniczną. 
 DKIM i SPF wyposażają skrzynkę mailową w możliwości do potwierdzania nadawcy i systemu nadawczego oraz do zweryfikowania, 

@@ -1,4 +1,3 @@
-
 Niestety twój dostawca internetu nie dał Ci nowoczesngo adresu IPv6
 lub wystąpił błąd przy konfiguracji. Nie jesteś w stanie osiągnąć wszystkich
 miejsc docelowych w internecie.

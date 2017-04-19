@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#,fuzzy
+#, fuzzy
 msgid ""
 msgstr "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
@@ -17,11 +17,11 @@ msgstr "Project-Id-Version: PACKAGE VERSION\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);"
 
-#,md-format
+#, md-format
 msgid "about contact"
 msgstr "## Contact\n"
 "\n"
-"E-mail: [question@internet.nl](mailto:question@internet.nl)\n"
+"E-mail: [vraag@internet.nl](mailto:vraag@internet.nl)\n"
 "\n"
 "Platform Internetstandaarden  \n"
 "p/a ECP  \n"
@@ -31,87 +31,49 @@ msgstr "## Contact\n"
 "\n"
 "KvK-nummer: 27169301"
 
-#,md-format
+#, md-format
 msgid "about content"
 msgstr "# Over Internet.nl\n"
 "\n"
-"## Wat is Internet.nl?\n"
+"## 1. Wat is Internet.nl?\n"
+"Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel moderne, betrouwbare internetstandaarden? En als dat niet zo is, wat kun je daar aan doen?\n"
 "\n"
-"Op Internet.nl kan je als gebruiker eenvoudig checken of jouw internet\n"
-"up-to-date is. Gebruiken jouw [internetverbinding](/connection/),\n"
-"[e-mail](/mail/) en [website](/domain/) wel moderne internetstandaarden? En\n"
-"als dat niet zo is, wat kan je daaraan doen?\n"
+"## 2. Wat zijn internetstandaarden?\n"
+"Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale \"stekkers en stopcontacten\" die alles met elkaar verbinden. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern  van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.\n"
 "\n"
-"## Wat zijn &quot;internetstandaarden&quot;?\n"
+"## 3. Waarom is het belangrijk om up-to-date te zijn?\n"
+"De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn  er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne standaarden beschikbaar zijn.\n"
 "\n"
-"Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen,\n"
-"zijn internationale afspraken nodig over de manier waarop de computers met\n"
-"elkaar praten &mdash; de digitale &quot;stekkers en stopcontacten&quot; waarmee\n"
-"alles met elkaar verbonden is.\n"
+"## 4. Loopt Nederland voorop met moderne internetstandaarden?\n"
+"Helaas is dat niet zo. Ook in een modern land als Nederland (dat als eerste Europese land in 1988 internettoegang kreeg) gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Het niet gebruiken van moderne standaarden is een risico voor de individuele internetgebruiker, maar ook voor de \"BV Nederland\" en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne internetstandaarden.\n"
 "\n"
-"Deze afspraken worden internetstandaarden of\n"
-"internetprotocollen genoemd. De IETF beheert de meeste van deze standaarden.\n"
-"Belanghebbenden kunnen zich bij deze internationale organisatie aansluiten en\n"
-"meepraten over nieuwe internetstandaarden.\n"
+"## 5. Wie moet er nu aan de slag met moderne internetstandaarden?\n"
+"Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.\n"
 "\n"
-"## Waarom is het belangrijk om &quot;up-to-date&quot; te zijn?\n"
+"## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?\n"
+"Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om modern internetstandaarden.\n"
 "\n"
-"De oorspronkelijke internetstandaarden stammen uit de jaren &#39;70 en\n"
-"&#39;80, toen het Internet nog maar een paar honderd gebruikers had en vooral\n"
-"door universiteiten werd gebruikt om wetenschappelijke informatie te delen.\n"
+"## 7. Wie zit er achter Internet.nl?\n"
+"De website Internet.nl is een initiatief van het **Platform Internetstandaarden**. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. \n"
 "\n"
-"Inmiddels zijn er meer dan drie miljard internetgebruikers wereldwijd en gaan\n"
-"er veel gevoelige, kostbare transacties via Internet. De oorspronkelijke\n"
-"internettechnologie schiet inmiddels tekort in beveiliging en schaalbaarheid.\n"
+"- [DHPA](https://dhpa.nl/)\n"
+"- [ECP](https://ecp.nl)\n"
+"- [Forum Standaardisatie](https://forumstandaardisatie.nl)\n"
+"- [Internet Society internationaal](https://internetsociety.org)\n"
+"- [Internet Society Nederland](https://isoc.nl)\n"
+"- [ISPConnect](https://ispconnect.nl)\n"
+"- [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken)\n"
+"- [NCSC](https://ncsc.nl)\n"
+"- [NLnet](https://nlnet.nl)\n"
+"- [NLnet Labs](https://nlnetlabs.nl)\n"
+"- [RIPE NCC](https://ripe.net)\n"
+"- [SIDN](https://sidn.nl)\n"
+"- [SURFnet](https://surfnet.nl)\n"
 "\n"
-"Het goede nieuws is dat er moderne versies van de standaarden beschikbaar zijn\n"
-"die deze problemen oplossen. Het slechte nieuws is dat de oorspronkelijke,\n"
-"verouderde standaarden nog veel gebruikt worden.\n"
+"ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van NLnet Labs.\n"
 "\n"
-"De oude standaarden vormen een risico voor de individuele internetgebruiker\n"
-"die daardoor te maken kan krijgen met internetfraude of een gebrekkige\n"
-"verbinding, maar ook voor de &quot;BV Nederland&quot;. Na luchthaven Schiphol\n"
-"en de Rotterdamse haven is onze digitale infrastructuur de &quot;derde\n"
-"mainport&quot; van Nederland. Een betrouwbaar Internet is daarom essentieel\n"
-"voor de toekomst van de Nederlandse economie.\n"
-"\n"
-"## Wie zit achter Internet.nl?\n"
-"\n"
-"Internet.nl is een initiatief van het Platform Internetstandaarden. Het doel\n"
-"van het platform is het gebruik van moderne internetstandaarden te stimuleren\n"
-"en daarmee het Internet betrouwbaarder te maken voor iedereen. In het Platform\n"
-"Internetstandaarden participeren de volgende [organisaties](/partners/):\n"
-"\n"
-"- Dutch Hosting Provider Association (DHPA)\n"
-"- ECP\n"
-"- Forum Standaardisatie\n"
-"- Internet Society internationaal\n"
-"- Internet Society Nederland\n"
-"- Ministerie van Economische Zaken\n"
-"- Nationaal Cyber Security Centrum (NCSC)\n"
-"- NLnet\n"
-"- RIPE NCC\n"
-"- SIDN\n"
-"- SURFnet\n"
-"\n"
-"De technische realisatie van Internet.nl is in handen van\n"
-"[NLnet Labs](/partners/#NLnetLabs).\n"
-"\n"
-"## Wat biedt het Platform Internetstandaarden?\n"
-"\n"
-"- zelftest via Internet.nl\n"
-"- meting van het daadwerkelijk gebruik in Nederland\n"
-"- voorlichting en kennisuitwisseling, onder andere via een jaarlijks seminar\n"
-"- verbinden van belanghebbenden\n"
-"## Open Internet NL\n"
-"\n"
-"Open Internet NL ([http://open.internet.nl](http://open.internet.nl)) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl."
-
-#,md-format
-msgid "about teaser"
-msgstr "Na Schiphol en de Rotterdamse haven is de digitale infrastructuur de derde\n"
-"&quot;mainport&quot; van Nederland en daarmee essentieel voor de verdere\n"
-"uitbreiding en toekomstige groei van de Nederlandse economie."
+"---\n"
+"Note: [Open Internet NL](http://open.internet.nl) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl."
 
 msgid "author erik-huizer bio"
 msgstr "Erik Huizer is technisch directeur bij SURFnet, het netwerk voor hoger\n"
@@ -133,7 +95,7 @@ msgstr "Erik Huizer is technisch directeur bij SURFnet, het netwerk voor hoger\n
 msgid "author erik-huizer name"
 msgstr "Erik Huizer"
 
-#,md-format
+#, md-format
 msgid "author gerben-klein-baltink bio"
 msgstr "Gerben Klein Baltink is werkzaam als ondernemer, zowel op het gebied van\n"
 "digitale veiligheid (MKB Cyber Advies Nederland) als op het gebied van moderne\n"
@@ -143,11 +105,11 @@ msgstr "Gerben Klein Baltink is werkzaam als ondernemer, zowel op het gebied van
 "noodzaak van de geselecteerde standaarden bij een breed publiek duidelijk te\n"
 "maken."
 
-#,md-format
+#, md-format
 msgid "author gerben-klein-baltink name"
 msgstr "Gerben Klein Baltink"
 
-#,md-format
+#, md-format
 msgid "author marco-davids bio"
 msgstr "Marco Davids is Technisch Adviseur bij SIDN, de beheerder van het .nl-domein.\n"
 "Hij doet onderzoek naar en geeft advies over technologische ontwikkelingen en\n"
@@ -160,14 +122,14 @@ msgstr "Marco Davids is Technisch Adviseur bij SIDN, de beheerder van het .nl-do
 msgid "author marco-davids name"
 msgstr "Marco Davids"
 
-#,md-format
+#, md-format
 msgid "author olaf-kolkman bio"
 msgstr "Olaf Kolkman is de Chief Internet Technology Officer (CITO) van ISOC\n"
 "internationaal. Hij is verantwoordelijk voor de\n"
 "\"Strategic Technical\"-activiteiten, met name voor wat betreft problemen en\n"
 "kansen bij de verdere evolutie van het Internet."
 
-#,md-format
+#, md-format
 msgid "author olaf-kolkman name"
 msgstr "Olaf Kolkman"
 
@@ -195,18 +157,19 @@ msgstr "Volg ons op Twitter"
 msgid "base halloffame"
 msgstr "Hall of Fame"
 
+msgid "base halloffame lead"
+msgstr "Websites met 100% score. \n"
+"Meest recente toevoeging op {{latest|date:'d-m-Y'}}"
+
+msgid "base halloffame link"
+msgstr "Bekijk alle {{count}} sites"
+
 msgid "base home"
 msgstr "Home"
 
 msgid "base info"
 msgstr "Internet.nl is een initiatief van de internetgemeenschap en de Nederlandse \n"
 "overheid."
-
-msgid "base legend bad"
-msgstr "te verbeteren"
-
-msgid "base legend good"
-msgstr "goed"
 
 msgid "base news"
 msgstr "Nieuws"
@@ -216,21 +179,6 @@ msgstr "Naar nieuwsoverzicht"
 
 msgid "base partners"
 msgstr "Partners"
-
-msgid "base permalink"
-msgstr "Permalink testresultaat {{permadate|date:'(Y-m-d H:i T)'}}"
-
-msgid "base probe-verdict failed"
-msgstr "Failed"
-
-msgid "base probe-verdict passed"
-msgstr "Passed"
-
-msgid "base sitemap"
-msgstr "Site-overzicht"
-
-msgid "base standards"
-msgstr "Internet standards"
 
 msgid "base terms"
 msgstr "Gebruiksvoorwaarden"
@@ -249,16 +197,6 @@ msgstr "Hele internet bereikbaar? Beschermd tegen omleiding?"
 msgid "base test connection title"
 msgstr "Doe de connectie-test"
 
-msgid "base test email input"
-msgstr "Jouw e-mailadres:"
-
-msgid "base test email label"
-msgstr "Test je e-mail"
-
-msgid "base test email text"
-msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? \n"
-"Beveiligde mail-verbinding?"
-
 msgid "base test explain"
 msgstr "Uitleg over test"
 
@@ -267,8 +205,21 @@ msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dap
 "\n"
 "Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non."
 
+msgid "base test mail input"
+msgstr "Jouw e-mailadres:"
+
+msgid "base test mail label"
+msgstr "Test je e-mail"
+
+msgid "base test mail text"
+msgstr "Duurzaam bereikbaar? Beschermd tegen spoofing?\n"
+"Beveiligde mail-verbinding?"
+
 msgid "base test mail title"
 msgstr "Doe de e-mail-test"
+
+msgid "base test prechecks invalid domain"
+msgstr "Het opgegeven domein is niet geldig!"
 
 msgid "base test start"
 msgstr "Start test"
@@ -464,9 +415,15 @@ msgid "detail domipv6 alle mailservers hebben een IPv6 adres"
 msgstr "alle mail-servers (MX) zijn van een IPv6-adres voorzien. Mailservers: \n"
 "{{has_aaaa}}"
 
+msgid "detail domipv6 alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "alle mail-servers (MX) met een IPv6-adres zijn ook via IPv6 te benaderen"
+
 msgid "detail domipv6 alle nameservers hebben een IPv6 adres"
 msgstr "alle name-servers (NS) zijn van een IPv6-adres voorzien. Nameservers: \n"
 "{{has_aaaa}}"
+
+msgid "detail domipv6 alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "alle name-servers (NS) met een IPv6-adres zijn ook via IPv6 te benaderen"
 
 msgid "detail domipv6 geen mailservers aanwezig"
 msgstr "geen \"mail exchanges\" (MX) ingesteld"
@@ -494,9 +451,19 @@ msgid "detail domipv6 niet alle mailservers hebben een IPv6 adres"
 msgstr "sommige mail-servers (MX) hebben geen IPv6-adres:  \n"
 "{{no_aaaa}}"
 
+msgid "detail domipv6 niet alle mailservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "sommige mail-servers (MX) met een IPv6-adres zijn niet te bereiken over\n"
+"IPv6:  \n"
+"{{no_conn}}"
+
 msgid "detail domipv6 niet alle nameservers hebben een IPv6 adres"
 msgstr "sommige name-servers (NS) hebben geen IPv6-adres:  \n"
 "{{no_aaaa}}"
+
+msgid "detail domipv6 niet alle nameservers met IPv6 adres zijn over ipv6 benaderbaar"
+msgstr "sommige name-servers (NS) met een IPv6-adres zijn niet te bereiken over\n"
+"IPv6:  \n"
+"{{no_conn}}"
 
 msgid "detail domipv6 ns-aaaa-insufficient"
 msgstr "Een onvoldoende aantal van de name-servers (NS) heeft een IPv6-adres"
@@ -531,6 +498,15 @@ msgid "detail domtls certchain niet vertrouwd"
 msgstr "de certificaat-keten is niet ondertekend door een vertrouwde root CA:  \n"
 "{{certchain}}"
 
+msgid "detail domtls certificaten zijn ondertekend met een voldoende hashing algoritme"
+msgstr "alle certificaten zijn ondertekend met een voldoende veilige hash-methode"
+
+msgid "detail domtls certificaten-chain is vertrouwd, ondertekend door root CA"
+msgstr "de certificaat-keten is compleet en ondertekend door een vertrouwde root CA"
+
+msgid "detail domtls de lengte van de publieke sleutels in de certificaten zijn voldoende"
+msgstr "de publieke sleutels in de certificaten zijn voldoende lang"
+
 msgid "detail domtls forward secrecy parameters onvoldoende"
 msgstr "de \"forward secrecy\"-instellingen zijn niet veilig:  \n"
 "{{fs_bad}}"
@@ -540,6 +516,15 @@ msgstr "de \"forward secrecy\"-instellingen zijn voldoende veilig"
 
 msgid "detail domtls geen TLSA aanwezig"
 msgstr "geen TLSA record beschikbaar (DANE)"
+
+msgid "detail domtls niet alle certificaten zijn ondertekend met een voldoende hashing algoritme"
+msgstr "sommige certificaten zijn ondertekend met een hash-methode die niet veilig\n"
+"is:  \n"
+"{{signature_bad}}"
+
+msgid "detail domtls niet alle publieke sleutels in de certificaten zijn van voldoende lengte"
+msgstr "sommige certificaten bevatten publieke sleutels die niet lang genoeg zijn:  \n"
+"{{pubkey_bad}}"
 
 msgid "detail domtls server ondersteund geen secure renegotiation"
 msgstr "de server ondersteunt geen \"secure renegotiation\""
@@ -1337,11 +1322,11 @@ msgstr "verbinding alleen mogelijk voor voldoende veilige TLS-versies"
 msgid "disclosure content"
 msgstr "# Responsible disclosure\n"
 "\n"
-"Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl portal\n"
+"Het Platform Internetstandaarden vindt de veiligheid van de Internet.nl-website \n"
 "heel belangrijk. Ondanks onze zorg voor de beveiliging kan het voorkomen dat\n"
 "er toch een zwakke plek in zit of ergens is ontstaan.\n"
 "\n"
-"Heb je een zwakke plek gevonden in de site internet.nl? Je kunt er\n"
+"Heb je een zwakke plek gevonden in de Internet.nl-website? Je kunt er\n"
 "bijvoorbeeld per ongeluk tegenaan zijn gelopen bij het normale gebruik van\n"
 "deze site. Misschien heb je zelfs je best gedaan om een zwakke plek te vinden.\n"
 "Laat het ons in elk geval weten, zodat we zo snel mogelijk maatregelen kunnen\n"
@@ -1350,65 +1335,58 @@ msgstr "# Responsible disclosure\n"
 "Dit is overigens **geen** uitnodiging om onze site uitgebreid te scannen en te\n"
 "testen om zwakke plekken te vinden. Dat doen we zelf wel.\n"
 "\n"
-"We werken graag met je samen om de veiligheid van onze site nog beter te\n"
+"We werken graag met je samen om de veiligheid van onze website nog beter te\n"
 "kunnen beschermen. Wij nemen je melding altijd serieus en onderzoeken elk\n"
 "vermoeden van een kwetsbaarheid.\n"
 "\n"
 "## In ruil vragen wij je om:\n"
 "\n"
 "- je bevindingen zo snel mogelijk te mailen naar\n"
-"  [question@internet.nl](question@internet.nl).\n"
+"  [vraag@internet.nl](vraag@internet.nl);\n"
 "- voldoende informatie te geven om het probleem te reproduceren, zodat we het\n"
 "  zo snel mogelijk kunnen oplossen;  \n"
 "  meestal is het IP-adres of de URL, met een omschrijving van de kwetsbaarheid\n"
 "  voldoende, maar bij complexere kwetsbaarheden kan meer informatie nodig\n"
-"  zijn\n"
+"  zijn;\n"
 "- geen tests uit te voeren die gebruikmaken van aanvallen op fysieke\n"
 "  beveiliging, social engineering of applicaties van derden\n"
-"- geen brute force of denial of service uit te voeren\n"
+"- geen brute force of denial of service uit te voeren;\n"
 "- de kwetsbaarheid niet te misbruiken door bijvoorbeeld het veranderen of\n"
-"  verwijderen van gegevens of het plaatsen van malware\n"
-"- het probleem ook niet met anderen te delen totdat we het hebben opgelost\n"
+"  verwijderen van gegevens of het plaatsen van malware;\n"
+"- het probleem ook niet met anderen te delen totdat we het hebben opgelost;\n"
 "- geen gegevens van onze systemen te kopiëren, anders dan absoluut\n"
-"  noodzakelijk om het lek aan te tonen\n"
+"  noodzakelijk om het lek aan te tonen;\n"
 "- contactgegevens (e-mailadres en telefoonnummer) achter te laten zodat we\n"
-"  contact met je kunnen opnemen om samen te werken aan een veilig resultaat\n"
+"  contact met je kunnen opnemen om samen te werken aan een veilig resultaat.\n"
 "\n"
 "## Wij beloven:\n"
 "\n"
 "- binnen drie werkdagen te reageren op je melding met de beoordeling van de\n"
-"  melding en een verwachte datum voor een oplossing\n"
+"  melding en een verwachte datum voor een oplossing;\n"
 "- je melding vertrouwelijk te behandelen: we delen je persoonlijke gegevens\n"
 "  niet zonder je toestemming; uitzondering hierop zijn politie en justitie, in\n"
-"  geval van aangifte of als gegevens worden opgeëist\n"
+"  geval van aangifte of als gegevens worden opgeëist;\n"
 "- je op de hoogte te houden van de voortgang bij het oplossen van het probleem\n"
 "- in berichtgeving omtrent het gemelde probleem je naam te vermelden als\n"
-"  ontdekker, als je dat wenst\n"
+"  ontdekker, als je dat wenst;\n"
 "- dat een toevallige ontdekking van een kwetsbaarheid niet tot aangifte tegen\n"
 "  je zal leiden, zolang je je aan de spelregels houdt en je in de geest van\n"
-"  responsible disclosure gedraagt\n"
+"  responsible disclosure gedraagt;\n"
 "- als dank voor je hulp geven we je een mooi t-shirt voor elke melding van een\n"
 "  ons nog onbekend beveiligingsprobleem; dat is misschien geen grote beloning,\n"
-"  maar we willen het actief scannen naar kwetsbaarheden niet aanmoedigen"
-
-msgid "disclosure teaser"
-msgstr "We werken graag met je samen om de veiligheid van onze site nog beter te\n"
-"kunnen beschermen."
+"  maar we willen het actief scannen naar kwetsbaarheden niet aanmoedigen."
 
 msgid "domain pagetitle"
 msgstr "Website-test:"
 
-#,md-format
+#, md-format
 msgid "domain title"
 msgstr "Website-test: {{prettyaddr}}  "
 
 msgid "domain tweetmessage"
 msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%20%40Internet_nl%3A"
 
-msgid "empty argument alternative text"
-msgstr "waarde niet beschikbaar"
-
-#,md-format
+#, md-format
 msgid "faqs content"
 msgstr "# Veelgestelde vragen\n"
 "\n"
@@ -1416,22 +1394,15 @@ msgstr "# Veelgestelde vragen\n"
 "internetstandaarden, dan vind je waarschijnlijk een antwoord\n"
 "bij de \"veelgestelde vragen\""
 
-msgid "halloffame lead"
-msgstr "Deze sites hebben recent 100% gescoord op de website-test.  Recentste test: \n"
-"{{latest|date:'d-m-Y'}}"
-
-msgid "halloffame link"
-msgstr "Bekijk alle {{count}} sites"
-
-#,md-format
+#, md-format
 msgid "halloffame teaser"
-msgstr "# Hall of Fame \n"
-"De onderstaande {{count}} websites werken volledig met moderne internetstandaarden en scoren daarom 100% in de [websitetest op Internet.nl](/faqs/)."
+msgstr "# Hall of Fame - websitetest\n"
+"De onderstaande {{count}} websites werken volledig met moderne internetstandaarden. \n"
+"Ze scoren daarom 100% in de websitetest op Internet.nl."
 
-#,md-format
-msgid "index teaser"
-msgstr "Moderne standaarden zorgen voor meer veiligheid en verdere groei van\n"
-"het Internet.  \n"
+#, md-format
+msgid "home teaser"
+msgstr "Moderne internetstandaarden zorgen voor meer betrouwbaarheid en verdere groei van het Internet.  \n"
 "Gebruik jij ze al?"
 
 msgid "mail pagetitle"
@@ -1444,13 +1415,17 @@ msgid "mail tweetmessage"
 msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20mailtest%20van%20%40Internet_nl%3A"
 
 msgid "news .index"
-msgstr "nederland-voor-veilig-emailverkeer mail-over-ipv6-waar-moet-ik-op-letten \n"
-"internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee nieuwe-versie-\n"
-"internetnl-met-aanvullingen-https-test DMARC-masterclass-authenticatie-\n"
-"afzender-noodzaak-geworden website-internet-nl-drukbezocht-na-cybertop \n"
-"lancering-internet-nl-tijdens-cyber-week-2015 uitnodiging-masterclass-DMARC \n"
-"het-internet-is-van-ons-allemaal internet-draait-om-samenwerking ipv6-vergt-\n"
-"de-medewerking-van-iedereen-in-de-wereld stilstand-is-achteruitgang"
+msgstr "nederland-voor-veilig-emailverkeer\n"
+"mail-over-ipv6-waar-moet-ik-op-letten\n"
+"internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee\n"
+"nieuwe-versie-internetnl-met-aanvullingen-https-test\n"
+"DMARC-masterclass-authenticatie-afzender-noodzaak-geworden\n"
+"website-internet-nl-drukbezocht-na-cybertop\n"
+"lancering-internet-nl-tijdens-cyber-week-2015\n"
+"uitnodiging-masterclass-DMARC\n"
+"het-internet-is-van-ons-allemaal\n"
+"internet-draait-om-samenwerking ipv6-vergt-de-medewerking-van-iedereen-in-de-wereld\n"
+"stilstand-is-achteruitgang"
 
 msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
 msgstr "Op de masterclass waren meer dan 60 geïnteresseerden afgekomen. De sessie werd\n"
@@ -2219,26 +2194,22 @@ msgstr "Internet.nl"
 
 msgid "page404 content"
 msgstr "De pagina die u zocht staat niet op deze server.  \n"
-"[Ga naar de homepage](/)  \n"
-"Stuur een mailtje aan [vraag@internet.nl](mailto:webstukgemaakt@internet.nl)"
+"[Ga naar de homepage](/)"
 
 msgid "page404 title"
 msgstr "Pagina niet gevonden!"
 
-#,md-format
+#, md-format
 msgid "partners content"
 msgstr "# Partners\n"
-"\n"
-"Het [Platform Internetstandaarden](/about/) is een gezamenlijk initiatief\n"
-"vanuit de Nederlandse Internet-wereld, het ministerie van Economische Zaken en\n"
-"het Forum Standaardisatie. De uitvoering van Internet.nl is in handen van\n"
-"Internet Society Nederland, NLnet, NLnet Labs, SURFnet, SIDN en anderen.\n"
+"De website Internet.nl is een initiatief van het Platform Internetstandaarden. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. \n"
 "\n"
 "- [DHPA](#dhpa)\n"
 "- [ECP](#ecp)\n"
 "- [Forum Standaardisatie](#forum-standaardisatie)\n"
 "- [Internet Society internationaal](#internet-society-internationaal)\n"
 "- [Internet Society Nederland](#internet-society-nederland)\n"
+"- [ISPConnect](#ispconnect)\n"
 "- [Ministerie van Economische Zaken](#ministerie-van-economische-zaken)\n"
 "- [NCSC](#ncsc)\n"
 "- [NLnet](#nlnet)\n"
@@ -2247,153 +2218,46 @@ msgstr "# Partners\n"
 "- [SIDN](#sidn)\n"
 "- [SURFnet](#surfnet)\n"
 "\n"
+"---\n"
+"\n"
 "## DHPA\n"
-"\n"
-"De Dutch Hosting Provider Association is een samenwerking van hosting- en\n"
-"cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de\n"
-"afgelopen decennia is uitgegroeid tot een factor die van belang is voor de\n"
-"gehele economie. De Nederlandse online sector is een van de grootste ter\n"
-"wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in\n"
-"Europa. De activiteiten van de DHPA richten zich op imago, onderwijs,\n"
-"vertrouwen en verbinding.\n"
-"\n"
-"- [DHPA](https://www.dhpa.nl/)\n"
+"De [Dutch Hosting Provider Association](https://www.dhpa.nl/) is een samenwerking van hosting- en cloud-providers en leveranciers. De DHPA vertegenwoordigt een sector die in de afgelopen decennia is uitgegroeid tot een factor die van belang is voor de gehele economie. De Nederlandse online sector is een van de grootste ter wereld en faciliteert meer dan 20 procent van de gehele e-commerce omzet in Europa. De activiteiten van de DHPA richten zich op imago, onderwijs, vertrouwen en verbinding.\n"
 "\n"
 "## ECP\n"
-"\n"
-"ECP is een neutraal platform van bedrijfsleven, overheid en maatschappelijke\n"
-"organisaties en heeft tot doel het gebruik van ICT in de Nederlandse\n"
-"samenleving te versterken. Er wordt gezamenlijk nagedacht over een visie op\n"
-"Nederland als informatiesamenleving. ECP koppelt hieraan concrete activiteiten\n"
-"en projecten. Door middel van debat en onderzoek zet ECP het maatschappelijk\n"
-"en economisch belang van ICT op de agenda.\n"
-"\n"
-"- [ECP](https://ecp.nl/)\n"
+"[ECP](https://ecp.nl/) is een neutraal platform van bedrijfsleven, overheid en maatschappelijke organisaties en heeft tot doel het gebruik van ICT in de Nederlandse samenleving te versterken. Er wordt gezamenlijk nagedacht over een visie op Nederland als informatiesamenleving. ECP koppelt hieraan concrete activiteiten en projecten. Door middel van debat en onderzoek zet ECP het maatschappelijk en economisch belang van ICT op de agenda.\n"
 "\n"
 "## Forum Standaardisatie\n"
-"\n"
-"Forum Standaardisatie bevordert interoperabiliteit en de toepassing van open\n"
-"standaarden binnen de Nederlandse overheid. Digitale systemen zijn\n"
-"interoperabel als gegevens onderling kunnen worden uitgewisseld. Open\n"
-"standaarden zijn daarbij van essentieel belang. Forum Standaardisatie beheert\n"
-"daarvoor de lijst met verplichte open standaarden die gelden voor de gehele\n"
-"publieke sector.  \n"
-"\n"
-"- [Forum Standaardisatie](https://www.forumstandaardisatie.nl/)\n"
+"[Forum Standaardisatie](https://forumstandaardisatie.nl) bevordert interoperabiliteit en de toepassing van open standaarden binnen de Nederlandse overheid. Digitale systemen zijn interoperabel als gegevens onderling kunnen worden uitgewisseld. Open standaarden zijn daarbij van essentieel belang. Forum Standaardisatie beheert daarvoor de lijst met verplichte open standaarden die gelden voor de gehele publieke sector.\n"
 "\n"
 "## Internet Society internationaal\n"
-"\n"
-"De Internet Society is een wereldwijde organisatie zorgt ervoor dat Internet\n"
-"open, transparant en &quot;van zijn gebruikers%quot; blijft. ISOC werkt aan\n"
-"beleid, technische standaarden en de verdere ontwikkeling van Internet. Zo\n"
-"zorgen zij dat Internet kan blijven groeien en zich kan doorontwikkelen als\n"
-"een platform voor innovatie, economische ontwikkeling en sociale vooruitgang\n"
-"voor mensen wereldwijd.\n"
-"\n"
-"- [Internet Society internationaal](https://www.internetsociety.org/)\n"
+"[Internet Society](https://www.internetsociety.org/) is een wereldwijde organisatie zorgt ervoor dat Internet open, transparant en \"van zijn gebruikers\" blijft. Ze werkt aan beleid, technische standaarden en de verdere ontwikkeling van Internet. Zo zorgen Internet Society dat Internet kan blijven groeien en zich kan doorontwikkelen als een platform voor innovatie, economische ontwikkeling en sociale vooruitgang voor mensen wereldwijd.\n"
 "\n"
 "## Internet Society Nederland\n"
+"[ISOC Nederland](https://isoc.nl/) is de Nederlandse afdeling van de Internet Society.\n"
 "\n"
-"ISOC Nederland is de Nederlandse afdeling van de Internet Society.\n"
-"\n"
-"- [Internet Society Nederland](http://isoc.nl/)\n"
+"## ISPConnect\n"
+"[ISPConnect Nederland](https//ispconnect.nl/) is de branchevereniging van Internet Service Providers en heeft als belangrijkste doel de belangen van haar leden collectief te behartigen door hen een duidelijke stem te geven in de media, overheid, politiek en andere doelgroepen. ISPConnect doet dit door deel te nemen aan debatten, werkgroepen, eigen projecten en contacten met de media.\n"
 "\n"
 "## Ministerie van Economische Zaken\n"
-"\n"
-"Het ministerie van Economische Zaken staat voor een duurzaam, ondernemend\n"
-"Nederland. Het zet zich in voor een uitstekend ondernemersklimaat en een\n"
-"sterke internationale concurrentiepositie, door de juiste randvoorwaarden te\n"
-"creëren en door ondernemers de ruimte te geven om te vernieuwen en te groeien,\n"
-"door aandacht te hebben voor onze natuur en leefomgeving, en door samenwerking\n"
-"te stimuleren tussen onderzoekers en ondernemers. Zo bouwt het ministerie de\n"
-"Nederlandse topposities in landbouw, industrie, diensten en energie verder uit\n"
-"en investeert het in een krachtig en duurzaam Nederland.\n"
-"\n"
-"- [Ministerie van Economische Zaken](http://www.rijksoverheid.nl/ministeries/ez)\n"
+"Het [ministerie van Economische Zaken](httpS://www.rijksoverheid.nl/ministeries/ez) staat voor een duurzaam, ondernemend Nederland. Het zet zich in voor een uitstekend ondernemersklimaat en een sterke internationale concurrentiepositie, door de juiste randvoorwaarden te creëren en door ondernemers de ruimte te geven om te vernieuwen en te groeien, door aandacht te hebben voor onze natuur en leefomgeving, en door samenwerking te stimuleren tussen onderzoekers en ondernemers. Zo bouwt het ministerie de Nederlandse topposities in landbouw, industrie, diensten en energie verder uit en investeert het in een krachtig en duurzaam Nederland.\n"
 "\n"
 "## NCSC\n"
-"\n"
-"Het Nationaal Cyber Security Centrum (NCSC) bestaat sinds 2012 en valt onder\n"
-"de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) van het\n"
-"ministerie van Veiligheid en Justitie. De organisatie levert inzicht en biedt\n"
-"handelingsperspectief. Zo draagt het NCSC draagt bij aan het vergroten van de\n"
-"weerbaarheid van de Nederlandse samenleving in het digitale domein, en daarmee\n"
-"aan een veilige, open en stabiele informatiesamenleving.\n"
-"\n"
-"- [NCSC](https://www.ncsc.nl/)\n"
+"Het [Nationaal Cyber Security Centrum (NCSC)](https://www.ncsc.nl/) bestaat sinds 2012 en valt onder de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) van het ministerie van Veiligheid en Justitie. De organisatie levert inzicht en biedt handelingsperspectief. Zo draagt het NCSC draagt bij aan het vergroten van de weerbaarheid van de Nederlandse samenleving in het digitale domein, en daarmee aan een veilige, open en stabiele informatiesamenleving.\n"
 "\n"
 "## NLnet\n"
-"\n"
-"NLnet levert financiële ondersteuning aan organisaties en mensen wereldwijd\n"
-"die bijdragen aan een open informatiemaatschappij. De stichting promoot\n"
-"informatie-uitwisseling in de breedste zin des woords, en alles dat deze\n"
-"doelstelling ten goede komt. NLnet ondersteunt onder andere software,\n"
-"evenementen en educatieve activiteiten. Bijdragen gingen naar belangrijke en\n"
-"bekende projecten als [NLnet Labs](/partners/#NLnetLabs), Jitsi, de SSL\n"
-"Observatory, NoScript, Tor, GPLv3, het Serval project, Calligra en webODF,\n"
-"maar ook naar essentiële maar minder zichtbare projecten.\n"
-"\n"
-"- [NLnet](https://nlnet.nl/)\n"
+"[NLnet](https://www.nlnet.nl/) levert financiële ondersteuning aan organisaties en mensen wereldwijd die bijdragen aan een open  informatiemaatschappij. De stichting promoot informatie-uitwisseling in de breedste zin des woords, en alles dat deze doelstelling ten goede komt. NLnet ondersteunt onder andere software, evenementen en educatieve activiteiten. Bijdragen gingen naar belangrijke enbekende projecten als [NLnet Labs](/partners/#NLnetLabs), Jitsi, de SSL Observatory, NoScript, Tor, GPLv3, het Serval project, Calligra en webODF, maar ook naar essentiële maar minder zichtbare projecten.\n"
 "\n"
 "## NLnet Labs\n"
-"\n"
-"NLnet Labs ontwikkelt open source software en open standaarden die internet\n"
-"ten goede komen. Uitgangspunt van de stichting is dat de openheid van Internet\n"
-"&mdash; ondersteund in zowel technologie als beleid &mdash; welzijn en\n"
-"welvaart van de mensheid verhogen. De missie van NLnet Labs is om innovaties\n"
-"en expertise van wereldniveau te ontwikkelen, en daarmee de technologie die\n"
-"een &quot;netwerk van netwerken&quot; maakt tot een open Internet voor\n"
-"iedereen.\n"
-"\n"
-"- [NLnet Labs](http://www.nlnetlabs.nl/)\n"
+"[NLnet Labs](http://www.nlnetlabs.nl/) ontwikkelt open source software en open standaarden die internet ten goede komen. Uitgangspunt van de stichting is dat de openheid van Internet -mogelijk gemaakt door zowel technologie als beleid- welzijn en welvaart van de mensheid verhoogt. De missie van NLnet Labs is om innovaties en expertise van wereldniveau te ontwikkelen, en daarmee de technologie die een \"netwerk van netwerken\" maakt tot een open Internet voor iedereen.\n"
 "\n"
 "## RIPE NCC\n"
-"\n"
-"Het Réseaux IP Européens Network Coordination Centre (RIPE NCC) is\n"
-"medeverantwoordelijk voor de instandhouding van de internet-infrastructuur.\n"
-"Deze onafhankelijke not-for-profit organisatie verzorgt daartoe de technische\n"
-"coördinatie voor de EMEA regio. De belangrijkste activiteit van het RIPE NCC\n"
-"is als Regional Internet Registry (RIR) op te treden en internet resources\n"
-"(IPv4, IPv6 en AS Number resources) met bijbehorende diensten\n"
-"te leveren aan RIPE NCC leden in deze service-regio.\n"
-"\n"
-"- [RIPE NCC](https://www.ripe.net/)\n"
+"[RIPE NCC](https://www.ripe.net/) is medeverantwoordelijk voor de instandhouding van de internet-infrastructuur. Deze onafhankelijke not-for-profit organisatie verzorgt daartoe de technische coördinatie voor de EMEA regio. De belangrijkste activiteit van het RIPE NCC is als Regional Internet Registry (RIR) op te treden en internet resources (IPv4, IPv6 en AS Number resources) met bijbehorende diensten te leveren aan RIPE NCC leden in deze service-regio.\n"
 "\n"
 "## SIDN\n"
-"\n"
-"SIDN registreert en beheert alle .nl-domeinnamen en is verantwoordelijk voor\n"
-"een veilig, stabiel en wereldwijd bereikbaar .nl-netwerk. Op dit moment\n"
-"beheert de stichting meer dan vijf miljoen domeinnamen en verwerkt zij meer\n"
-"dan een miljard opvragingen per dag. Daarnaast adviseert SIDN de overheid over\n"
-"de technische, juridische en beleidsmatige kant van domeinnamen en de\n"
-"bijbehorende infrastructuur. SIDN is betrokken bij diverse initiatieven voor\n"
-"een veilig, betrouwbaar en toegankelijk Internet, en zij vertegenwoordigt de\n"
-"belangen van .nl op zowel nationaal als internationaal niveau.\n"
-"\n"
-"- [SIDN](https://www.sidn.nl/)\n"
+"[SIDN](https://www.sidn.nl/) registreert en beheert alle .nl-domeinnamen en is verantwoordelijk voor een veilig, stabiel en wereldwijd bereikbaar .nl-netwerk. Op dit moment beheert de stichting meer dan vijf miljoen domeinnamen en verwerkt zij meer dan een miljard opvragingen per dag. Daarnaast adviseert SIDN de overheid over de technische, juridische en beleidsmatige kant van domeinnamen en de bijbehorende infrastructuur. SIDN is betrokken bij diverse initiatieven voor een veilig, betrouwbaar en toegankelijk Internet, en zij vertegenwoordigt de belangen van .nl op zowel nationaal als internationaal niveau.\n"
 "\n"
 "## SURFnet\n"
-"\n"
-"SURFnet heeft als missie om de kwaliteit van hoger onderwijs en onderzoek te\n"
-"verbeteren, daarbij optimaal gebruikmakend van alle mogelijkheden die ICT te\n"
-"bieden heeft. Daartoe stimuleert, innoveert, ontwikkelt en exploiteert de\n"
-"stichting een geavanceerde, vertrouwde en verbindende ICT-infrastructuur. Deze\n"
-"infrastructuur bestaat uit twee complementaire en naar elkaar toe groeiende\n"
-"delen: een netwerkinfrastructuur die onbegrensd en efficiënt datatransport\n"
-"realiseert als basis onder alle samenwerking, en een\n"
-"samenwerkingsinfrastructuur die zorgt voor een omgeving waarin systemen,\n"
-"diensten, instrumenten en mensen naadloos met elkaar verbonden worden.\n"
-"\n"
-"- [SURFnet](https://www.surf.nl/over-surf/werkmaatschappijen/surfnet)"
-
-#,md-format
-msgid "partners teaser"
-msgstr "Het Platform Internetstandaarden is een gezamenlijk initiatief vanuit de\n"
-"Nederlandse internetwereld, het ministerie van Economische Zaken en het Forum\n"
-"Standaardisatie."
-
-msgid "prechecks invalid domain"
-msgstr "Het opgegeven domein is niet geldig!"
+"[SURFnet](https://www.surfnet.nl) heeft als missie om de kwaliteit van hoger onderwijs en onderzoek te verbeteren, daarbij optimaal gebruikmakend van alle mogelijkheden die ICT te bieden heeft. Daartoe stimuleert, innoveert, ontwikkelt en exploiteert de stichting een geavanceerde, vertrouwde en verbindende ICT-infrastructuur. Deze infrastructuur bestaat uit twee complementaire en naar elkaar toe groeiende delen: een netwerkinfrastructuur die onbegrensd en efficiënt datatransport realiseert als basis onder alle samenwerking, en een samenwerkingsinfrastructuur die zorgt voor een omgeving waarin systemen, diensten, instrumenten en mensen naadloos met elkaar verbonden worden."
 
 msgid "probes auto-redirect"
 msgstr "Als de test gereed is word je automatisch doorgestuurd naar de \n"
@@ -2441,6 +2305,9 @@ msgstr "Certificate"
 msgid "results domain-mail tls dane label"
 msgstr "DANE"
 
+msgid "results empty-argument-alt-text"
+msgstr "waarde niet beschikbaar"
+
 msgid "results explanation label"
 msgstr "Test explanation:"
 
@@ -2456,6 +2323,21 @@ msgstr "Mail servers"
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
 
+msgid "results no-icon-status failed"
+msgstr "Failed"
+
+msgid "results no-icon-status good-not-tested"
+msgstr "Needs translation (These are good results mixed with not-tested)"
+
+msgid "results no-icon-status not-tested"
+msgstr "Not tested"
+
+msgid "results no-icon-status passed"
+msgstr "Passed"
+
+msgid "results no-icon-status warning"
+msgstr "Warning"
+
 msgid "results panel-button hide"
 msgstr "Hide all results"
 
@@ -2464,6 +2346,9 @@ msgstr "Show all results"
 
 msgid "results perfect-score"
 msgstr "Congratulations! You are in the Hall of Fame!"
+
+msgid "results permalink"
+msgstr "Permalink testresultaat {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
 msgstr "Rerun test"
@@ -2489,15 +2374,7 @@ msgstr "Test your site also"
 msgid "results verdict label"
 msgstr "Verdict:"
 
-#,md-format
-msgid "sitemap content"
-msgstr "Sitemap."
-
-#,md-format
-msgid "sitemap teaser"
-msgstr "Sitemap."
-
-#,md-format
+#, md-format
 msgid "stats connavgscore description"
 msgstr "Gemiddelde score van de connectie tests die successvol geheel \n"
 "doorlopen zijn naar de rapportage pagina.  Gemiddelde is afgrond als \n"
@@ -2510,7 +2387,7 @@ msgstr "Gemiddelde score"
 msgid "stats connavgscore title"
 msgstr "Gemiddelde score van de connectie tests"
 
-#,md-format
+#, md-format
 msgid "stats conndnssecprovider description"
 msgstr " "
 
@@ -2520,7 +2397,7 @@ msgstr "Volledige score DNSSEC provider"
 msgid "stats conndnssecprovider title"
 msgstr "Aantal tests welke bij DNSSEC goed scoren per provider"
 
-#,md-format
+#, md-format
 msgid "stats connipv6provider description"
 msgstr " "
 
@@ -2569,7 +2446,7 @@ msgstr "Score ontwikkeling per provider"
 msgid "stats connpercprovider title"
 msgstr "Score ontwikkeling per providers"
 
-#,md-format
+#, md-format
 msgid "stats doubleperfect description"
 msgstr "Een lijst van geteste sites die ooit een 100% score hebben \n"
 "gehaald op zowel de web-site tests als de mail tests.  Let echter op \n"
@@ -2585,7 +2462,7 @@ msgstr "Perfecte score web en mail"
 msgid "stats doubleperfect title"
 msgstr "Ooit perfecte score web en mail behaald"
 
-#,md-format
+#, md-format
 msgid "stats halloffamesize description"
 msgstr "Hoeveel sites er in absolute termen in de Hall of Fame staan, \n"
 "gemeten in de loop van de tijd. \n"
@@ -2597,7 +2474,7 @@ msgstr "Generiek"
 msgid "stats halloffamesize title"
 msgstr "Aantal sites in de Hall of Fame"
 
-#,md-format
+#, md-format
 msgid "stats numconntests description"
 msgstr "Aantal Connectie tests uitgevoerd op de site, die successvol geheel \n"
 "doorlopen zijn naar de rapportage pagina.  Gemeten in aantallen per maand."
@@ -2608,7 +2485,7 @@ msgstr "Connectie tests"
 msgid "stats numconntests title"
 msgstr "Aantal uitgevoerde connectie tests"
 
-#,md-format
+#, md-format
 msgid "stats siteavgdnssec description"
 msgstr "Gemiddelde score behaald bij het onderdeel DNSSEC test van de \n"
 "web-site tests. \n"
@@ -2626,7 +2503,7 @@ msgstr "Gemiddelde DNSSEC score"
 msgid "stats siteavgdnssec title"
 msgstr "Gemiddelde DNSSEC score"
 
-#,md-format
+#, md-format
 msgid "stats siteavgipv6 description"
 msgstr "Gemiddelde score behaald bij het onderdeel IPv6 test van de \n"
 "web-site tests. \n"
@@ -2644,7 +2521,7 @@ msgstr "Gemiddelde IPv6 score"
 msgid "stats siteavgipv6 title"
 msgstr "Gemiddelde IPv6 score"
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore description"
 msgstr "Gemiddelde score van de web-site tests welke als eindresultaat \n"
 "is getoond aan de gebruiker. \n"
@@ -2665,7 +2542,7 @@ msgstr "Gemiddelde totaal score"
 msgid "stats siteavgscore title"
 msgstr "Gemiddelde score uit de Web-site domein tests"
 
-#,md-format
+#, md-format
 msgid "stats siteavgscore2 description"
 msgstr "Alternatief voor de Gemiddelde totaal score grafiek. \n"
 " \n"
@@ -2678,7 +2555,7 @@ msgstr "Gemiddelde (berekende) score"
 msgid "stats siteavgscore2 title"
 msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores"
 
-#,md-format
+#, md-format
 msgid "stats siteavgtls description"
 msgstr "Gemiddelde score behaald bij het onderdeel TLS test van de \n"
 "web-site tests. \n"
@@ -2696,7 +2573,7 @@ msgstr "Gemiddelde TLS score"
 msgid "stats siteavgtls title"
 msgstr "Gemiddelde TLS score"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgdnssec description"
 msgstr " "
 
@@ -2706,7 +2583,7 @@ msgstr "Gemiddelde DNSSEC score (.nl)"
 msgid "stats sitenlavgdnssec title"
 msgstr "Gemiddelde DNSSEC score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgipv6 description"
 msgstr " "
 
@@ -2716,7 +2593,7 @@ msgstr "Gemiddelde IPv6 score (.nl)"
 msgid "stats sitenlavgipv6 title"
 msgstr "Gemiddelde IPv6 score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore description"
 msgstr " "
 
@@ -2726,7 +2603,7 @@ msgstr "Gemiddelde totaal score (.nl)"
 msgid "stats sitenlavgscore title"
 msgstr "Gemiddelde score uit de Web-site domein tests nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgscore2 description"
 msgstr " "
 
@@ -2736,7 +2613,7 @@ msgstr "Gemiddelde (berekende) score (.nl)"
 msgid "stats sitenlavgscore2 title"
 msgstr "Gemiddelde score berekend uit DNSSEC, IPv6 en TLS scores nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitenlavgtls description"
 msgstr " "
 
@@ -2746,7 +2623,7 @@ msgstr "Gemiddelde TLS score (.nl)"
 msgid "stats sitenlavgtls title"
 msgstr "Gemiddelde TLS score nederlandse sites"
 
-#,md-format
+#, md-format
 msgid "stats sitetests description"
 msgstr "Hoeveel web-site domeinen er per periode van een maand zijn getests. \n"
 "Als er eenzelfde web-site twee maal is getest in een periode, telt deze \n"
@@ -2818,10 +2695,6 @@ msgstr "# Gebruiksvoorwaarden\n"
 "\n"
 "Waar bepaalde content niet onder deze Creative Commons licentie valt, staat\n"
 "dat expliciet op de betreffende pagina vermeld."
-
-msgid "terms teaser"
-msgstr "De inhoud van deze site mag door anderen hergebruikt worden onder de CC-BY 4.0\n"
-"licentie."
 
 msgid "test connipv6 description"
 msgstr "Nieuwe bestemmingen op Internet kunnen voorzien zijn van enkel een \n"

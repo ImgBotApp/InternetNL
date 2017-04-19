@@ -1,4 +1,3 @@
-
 Deze grafiek laat per periode van een maand zien hoevaal bepaalde scores 
 voorkomen voor alle ISPs gezamelijk.  Er zijn voor veel voorkomende 
 providers ook te zien hoe de trend zich ontwikkeld per provider. 

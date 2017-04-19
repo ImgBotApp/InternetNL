@@ -1,4 +1,3 @@
-
 De onderstaande verbeteringen zijn doorgevoerd op Internet.nl.
 ## Generiek
 * De mogelijkheid om voor een andere taal te kiezen via een dropdown-menu. Bezoekers krijgen dan de equivalente pagina in de gekozen taal (als die beschikbaar is).

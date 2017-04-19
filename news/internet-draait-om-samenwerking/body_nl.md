@@ -1,4 +1,3 @@
-
 De basis onder deze samenwerking wordt gevormd door een aantal open
 standaarden en werkwijzen die door alle betrokken netwerkbeheerders vrijwillig
 zijn overgenomen. Vrijwillige overname is trouwens ook een van de

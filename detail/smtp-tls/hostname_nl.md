@@ -1,3 +1,2 @@
-
 Inkomende mailserver (MX): 
 {{hostname}}

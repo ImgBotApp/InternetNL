@@ -1,4 +1,3 @@
-
 Gemiddelde score behaald bij het onderdeel IPv6 test van de 
 web-site tests. 
  

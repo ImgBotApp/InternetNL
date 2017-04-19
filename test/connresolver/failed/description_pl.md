@@ -1,4 +1,3 @@
-
 Niestety, nie używasz DNSSEC. Nie jesteś obecnie chroniony 
 przed przekierowaniami do fałszywych adresów IP.
 

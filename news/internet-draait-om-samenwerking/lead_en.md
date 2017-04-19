@@ -1,4 +1,3 @@
-
 The Internet, as a global system, is a network-of-networks held together by a
 spirit of collaboration. When information traverses the Internet it may pass
 through a handful of networks, and the network from which the traffic

@@ -1,4 +1,3 @@
-
 Helaas; je internet-provider heeft je <strong>geen</strong> modern IPv6-adres gegeven of
 niet alles correct ingesteld. Daardoor kun je <strong>niet</strong> alle computers die op
 Internet zijn aangesloten bereiken.

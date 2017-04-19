@@ -1,4 +1,3 @@
-
 Unfortunately, you are <strong>not</strong> using DNSSEC. You are currently
 <strong>not</strong> protected from being redirected to false IP addresses.
 

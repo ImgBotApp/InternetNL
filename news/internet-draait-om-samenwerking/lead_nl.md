@@ -1,4 +1,3 @@
-
 Het wereldwijde Internet is een netwerk van netwerken, bij elkaar gehouden
 door een geest van samenwerking. Informatie die over het Internet reist kan
 door een meerdere netwerken lopen, waarbij het netwerk waar de reis begon

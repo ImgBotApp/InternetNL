@@ -1,4 +1,3 @@
-
 Een lijst van geteste sites die ooit een 100% score hebben 
 gehaald op zowel de web-site tests als de mail tests.  Let echter op 
 dat dit niet noodzakelijkerwijs tegelijkertijd hoeft te zijn geweest en 

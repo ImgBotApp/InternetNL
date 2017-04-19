@@ -1,4 +1,3 @@
-
 Zie ook de beschrijving van de score ontwikkeling van de providers 
 gecombineerd.  Deze grafiek laat echter de score ontwikkeling zien van 
 een enkele provider.  Hiervoor dient eerst een provider uit de lijst 

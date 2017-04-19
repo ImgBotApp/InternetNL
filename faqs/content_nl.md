@@ -1,4 +1,3 @@
-
 # Veelgestelde vragen
 
 Als je een vraag hebt over de hier gepromote

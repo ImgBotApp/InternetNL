@@ -1,4 +1,3 @@
-
 ## Bindende factor
 
 Het Internet Protocol (IP) is de bindende factor die alle internetgebruikers

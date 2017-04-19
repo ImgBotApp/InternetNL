@@ -1,4 +1,3 @@
-
 Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DNSSEC of
 niet alles is correct ingesteld. Verzenders van berichten naar dit adres zijn
 nu <strong>niet</strong> beschermd tegen aflevering bij een valse brievenbus.
