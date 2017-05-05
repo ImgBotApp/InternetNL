@@ -1,1 +1,1 @@
-Bekijk alle {{count}} sites
+Naar Hall of Fame
