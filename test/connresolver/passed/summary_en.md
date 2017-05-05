@@ -1,1 +1,1 @@
-Protected from redirection to false IP addresses (DNSSEC)
+Check on authenticity of domain data (DNSSEC)
