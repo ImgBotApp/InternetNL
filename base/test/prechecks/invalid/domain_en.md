@@ -1,1 +1,1 @@
-The given domain was invalid!
+The given domain is invalid!
