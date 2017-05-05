@@ -1,2 +1,2 @@
-*Geen* controle op echtheid domeinnaam-data (DNSSEC)
+*Geen* controle op echtheid van domeinnaam-data (DNSSEC)
 
