@@ -1,1 +1,1 @@
-Alle internet-bestemmingen bereikbaar (IPv6)
+Moderne adressen bereikbaar (IPv6)
