@@ -1,1 +1,1 @@
-The following items are being tested:
+The items below are being tested.
