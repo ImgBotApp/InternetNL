@@ -1,1 +1,1 @@
-Moderne adressen bereikbaar? Verificatie van digtale handtekeningen van domeinnamen?
+Moderne adressen bereikbaar? Controle van digtale domeinnaam-handtekeningen?
