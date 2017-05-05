@@ -1,1 +1,1 @@
-All internet destinations reachable?
+Modern addresses reachable?
