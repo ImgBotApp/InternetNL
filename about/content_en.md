@@ -1,7 +1,7 @@
 # About Internet.nl
 
 ## 1. What is Internet.nl?
-Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail) and [internet connection](/test-connection/) use modern and reliable internet standards? And if they don't, what can you do about it?
+Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail) and [internet connection](/test-connection/) use **modern and reliable internet standards**? And if they don't, what can you do about it?
 
 ## 2. What are internet standards?
 In order to exchange data between computers around the world, we need international agreements on how computers talk to one another. The digital "plugs and sockets" that link everything together, so to speak. These agreements are called internet standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical core of the internet is unvisible and unknown to most users. However it is crucial for a working internet today and in the future.
@@ -33,7 +33,7 @@ The website Internet.nl is an initiative of the Dutch **Internet Standards Platf
 - [NLnet Labs](https://nlnetlabs.nl)
 - [RIPE NCC](https://ripe.net)
 - [SIDN](https://sidn.nl)
-- [SURFnet](https://surfnet.nl)
+- [SURFnet](https://surfnet.nl)   
 
 ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. NLnet Labs is responsible for the technical implementation of the Internet.nl website.
 
