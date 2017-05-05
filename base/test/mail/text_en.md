@@ -1,1 +1,1 @@
-Modern adress? Protected against spoofing? Mail encryption in transit?
+Modern adress? Protection against spoofing? Encryption in transit?
