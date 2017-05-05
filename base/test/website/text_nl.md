@@ -1,1 +1,1 @@
-Duurzaam bereikbaar? Beschermd tegen omleiding? Beveiligde verbinding?
+Modern adres? Beschermd domein? Beveiligde verbinding?
