@@ -1,2 +1,1 @@
-You will be automatically redirected to the results page when all the tests 
-finish.
+You will be automatically redirected to the results page when all tests are finished.
