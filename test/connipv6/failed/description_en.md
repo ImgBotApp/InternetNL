@@ -1,1 +1,1 @@
-Unfortunately your internet provider has *not* given you a modern internet address (IPv6) or there is a configuration error. Therefore you are *not* able to reach computers with modern internet adresses. Please ask your internet provider to fix this for you.
+Unfortunately your internet provider has *not* given you a modern internet address (IPv6) or there is a configuration error. Therefore you are *not* able to reach computers with modern adresses. Please ask your internet provider to fix this for you.
