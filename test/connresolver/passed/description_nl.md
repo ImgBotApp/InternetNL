@@ -1,1 +1,1 @@
-Gefeliciteerd! Digitale handtekeningen worden, indien aanwezig, gecontroleerd bij de vertaling van domeinnamen naar internetadressen. Daardoor ben je beschermd tegen omleiding naar 'vervalste' internetadressen.
+Gefeliciteerd! Digitale domein-handtekeningen worden, indien aanwezig, gecontroleerd bij de vertaling van domeinnamen naar internetadressen en naar andere domeingegevens. Daardoor ben je beschermd tegen vervalste doorverwijzing naar kwaadaardige internetadressen.
