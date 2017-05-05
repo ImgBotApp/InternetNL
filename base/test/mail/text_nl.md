@@ -1,1 +1,1 @@
-Modern adres? Beschermd tegen spoofing? E-mailversleuteling tijdens overdracht?
+Modern adres? Beschermd tegen spoofing? Versleuteld tijdens overdracht?
