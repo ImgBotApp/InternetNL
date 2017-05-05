@@ -1,4 +1,1 @@
-Gefeliciteerd; je maakt gebruik van DNSSEC. Dit beveiligingssysteem voor DNS
- controleert de digitale handtekeningen bij de vertaling van domeinnamen 
-naar IP-adressen. Daardoor ben je beschermd tegen omleiding naar valse IP-
-adressen.
+Gefeliciteerd! Digitale handtekeningen worden, indien aanwezig, gecontroleerd bij de vertaling van domeinnamen naar internetadressen. Daardoor ben je beschermd tegen omleiding naar 'vervalste' internetadressen.
