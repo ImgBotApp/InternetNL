@@ -1,3 +1,1 @@
-Congratulations; your internet provider has given you a moderen IPv6 address
-in addition to your IPv4 address. That allows you to reach all internet
-destinations, including those that have only IPv6 addresses.
+Congratulations! Your internet provider has provided you with a modern internet address (IPv6). Therefore you can reach other computers with modern adresses.
