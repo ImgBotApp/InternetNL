@@ -1,1 +1,1 @@
-De volgende onderdelen worden getest:
+De onderstaande onderdelen worden getest.
