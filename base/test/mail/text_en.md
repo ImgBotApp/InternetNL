@@ -1,2 +1,1 @@
-Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? 
-Beveiligde mail-verbinding?
+Modern adress? Protected against spoofing? Mail encryption in transit?
