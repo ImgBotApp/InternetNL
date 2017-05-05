@@ -1,1 +1,1 @@
-Modern address? Domain with digital signature? Encrypted connection?
+Modern internet address? Signed domain name? Encrypted connection?
