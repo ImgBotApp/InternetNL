@@ -1,1 +1,1 @@
-Check on authenticity of domain data (DNSSEC)
+Check of domain signature (DNSSEC)
