@@ -1,1 +1,1 @@
-<strong>Not</strong> all internet destinations reachable (IPv6)
+Modern addresses **not** reachable (IPv6)
