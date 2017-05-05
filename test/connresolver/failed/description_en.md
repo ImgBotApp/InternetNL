@@ -1,6 +1,1 @@
-Unfortunately, you are <strong>not</strong> using DNSSEC. You are currently
-<strong>not</strong> protected from being redirected to false IP addresses.
-
-You should ask your internet provider or network administrator to enable
-DNSSEC validation or to fix the issues in its configuration. More experienced
-internet users can install DNSSEC on their own systems.
+Unfortunately digital domain signatures, if available, are *not* checked. Therefore you are *not* protected against false translation from domain names into rogue internet addresses. Please ask your internet provider to enable DNSSEC validation and/or configure it on your own systems.
