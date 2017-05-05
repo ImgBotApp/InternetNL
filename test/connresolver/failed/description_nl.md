@@ -1,6 +1,1 @@
-Helaas; je maakt <strong>geen</strong> gebruik van DNSSEC.Je bent nu
-<strong>niet</strong> beschermd tegen omleiding naar valse IP-adressen.
-
-Vraag je internet-provider of netwerkbeheerder om DNSSEC-validatie aan te
-zetten of de problemen in de configuratie op te lossen. Meer ervaren
-internetgebruikers kunnen DNSSEC ook op hun eigen systemen installeren.
+Helaas worden digitale domein-handtekeningen, indien aanwezig, nu *niet* gecontroleerd. Daardoor ben je *niet* beschermd tegen vervalste vertaling van domeinnamen naar kwaadaardige internetadressen. Vraag je internetprovider om DNSSEC-validatie aan te zetten en/of activeer het op je eigen systemen.
