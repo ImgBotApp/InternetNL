@@ -1,1 +1,1 @@
-Controle op echtheid domeinnaam-data (DNSSEC)
+Controle op domein-handtekening (DNSSEC)
