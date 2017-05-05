@@ -1,3 +1,1 @@
-Congratulations; you are using DNSSEC. This security system checks the 
-digital signatures provided with the translation of domain names to IP 
-addresses. You are protected from being redirected to false IP addresses.
+Congratulations! Digital domain signatures are checked, if available, when translating domain names to internet addresses and to other domain data. Therefore you are protected from false translation to rogue internet addresses.
