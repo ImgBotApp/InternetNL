@@ -1,1 +1,1 @@
-Beschermd tegen vervalste domeinnaam-informatie (DNSSEC)
+Controle op echtheid domeinnaam-data (DNSSEC)
