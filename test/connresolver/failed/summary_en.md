@@ -1,2 +1,1 @@
-<strong>Not</strong> protected from redirection to false IP addresses 
-(DNSSEC)
+*No* check on authenticity of domain data (DNSSEC)
