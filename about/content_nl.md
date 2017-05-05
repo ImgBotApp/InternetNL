@@ -1,7 +1,7 @@
 # Over Internet.nl
 
 ## 1. Wat is Internet.nl?
-Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel moderne, betrouwbare internetstandaarden? En als dat niet zo is, wat kun je daar aan doen?
+Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel **moderne, betrouwbare internetstandaarden**? En, als dat niet zo is, wat kun je daar aan doen?
 
 ## 2. Wat zijn internetstandaarden?
 Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale "stekkers en stopcontacten" die alles met elkaar verbinden. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern  van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.
@@ -15,8 +15,8 @@ Helaas is dat niet zo. Ook in een modern land als Nederland (dat als eerste Euro
 ## 5. Wie moet er nu aan de slag met moderne internetstandaarden?
 Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.
 
-## 6. Waarom gaan jullie niet rechtstreeks in gesprek met de providers?
-Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om modern internetstandaarden.
+## 6. Waarom gaan jullie niet direct in gesprek met de providers?
+Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om moderne internetstandaarden.
 
 ## 7. Wie zit er achter Internet.nl?
 De website Internet.nl is een initiatief van het **Platform Internetstandaarden**. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. 
@@ -34,8 +34,8 @@ De website Internet.nl is een initiatief van het **Platform Internetstandaarden*
 - [RIPE NCC](https://ripe.net)
 - [SIDN](https://sidn.nl)
 - [SURFnet](https://surfnet.nl)
-
+ 
 ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van NLnet Labs.
 
 ---
-Note: [Open Internet NL](http://open.internet.nl) is geen onderdeel van het project Internet.nl. Het is een separaat initiatief van Internet Society Nederland. Vragen en reacties daarover kunt u sturen naar voorzitter [at] isoc.nl.
+Let op: [Open Internet NL](http://open.internet.nl) is geen onderdeel van het project Internet.nl. Vragen en reacties daarover kunt u sturen naar Internet Society Nederland via voorzitter [at] isoc.nl.
