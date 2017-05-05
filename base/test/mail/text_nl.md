@@ -1,1 +1,1 @@
-Modern adres? Bescherming tegen spoofing? Versleuteling tijdens overdracht?
+Modern adres? Ondertekende domeinnaam? Phishing-bescherming? Versleuteld transport?
