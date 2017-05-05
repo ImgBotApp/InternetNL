@@ -1,1 +1,1 @@
-Hele internet bereikbaar? Beschermd tegen omleiding?
+Modern internet address? Validation of digital domain signatures?
