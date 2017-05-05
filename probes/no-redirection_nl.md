@@ -1,2 +1,1 @@
-An error was encountered during testing. Please try again later, or test 
-another domain.
+Er is een fout opgetreden tijdens het testen. Probeert u het later opnieuw, of test een andere domeinnaam.
