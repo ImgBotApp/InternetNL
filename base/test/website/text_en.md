@@ -1,1 +1,1 @@
-Modern address? Protected domain? Secure connection?
+Modern address? Domain with digital signature? Encrypted connection?
