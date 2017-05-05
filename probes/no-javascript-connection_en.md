@@ -1,2 +1,1 @@
-This test cannot run without javascript. Please enable javascript and try 
-again.
+Unfortuntely this test cannot run without JavaScript. If you still would like to exectute the test, please enable JavaScript in your browser.
