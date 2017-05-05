@@ -1,1 +1,1 @@
-Modern adres? Beschermd domein? Beveiligde verbinding?
+Modern adres? Domein met digitale handtekening? Beveiligde verbinding?
