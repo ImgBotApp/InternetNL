@@ -1,1 +1,1 @@
-Alle internet-bestemmingen bereikbaar?
+Moderne adressen bereikbaar?
