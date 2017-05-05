@@ -1,1 +1,1 @@
-*No* check on authenticity of domain data (DNSSEC)
+*No* check on domain signature (DNSSEC)
