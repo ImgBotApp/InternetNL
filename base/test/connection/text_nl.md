@@ -1,1 +1,1 @@
-Hele internet bereikbaar? Beschermd tegen omleiding?
+Moderne adressen bereikbaar? Controle digtale handtekeningen van domeinnamen?
