@@ -1,2 +1,2 @@
-*Geen* controle op domein-handtekening (DNSSEC)
+*Geen* controle van domein-handtekening (DNSSEC)
 
