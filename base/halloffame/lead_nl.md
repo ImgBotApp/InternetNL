@@ -1,2 +1,2 @@
-Websites met 100% score. 
+Websites met 100% score.   
 Laatste toevoeging op {{latest|date:'d-m-Y'}}.
