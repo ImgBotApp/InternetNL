@@ -1,1 +1,1 @@
-Modern adres? Ondertekende domeinnaam? Versleutelde verbinding?
+Modern adres? Ondertekend domein? Versleutelde verbinding?
