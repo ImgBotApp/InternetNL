@@ -1,1 +1,1 @@
-Beschermd tegen omleiding naar valse IP-adressen (DNSSEC)
+Beschermd tegen vervalste domeinnaam-informatie (DNSSEC)
