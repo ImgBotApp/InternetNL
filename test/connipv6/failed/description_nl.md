@@ -1,1 +1,1 @@
-Helaas; je internetprovider heeft je *geen* modern internetadres (IPv6) gegeven of niet alles correct ingesteld. Daardoor kun je computers met een modern internetadres *niet* bereiken. Vraag je internetprovider om dit op te lossen.
+Helaas heeft je internetprovider je *geen* modern internetadres (IPv6) gegeven of niet alles correct ingesteld. Daardoor kun je computers met modern internetadressen *niet* bereiken. Vraag je internetprovider om dit voor je op te lossen.
