@@ -1,1 +1,1 @@
-All internet destinations reachable (IPv6)
+Modern addresses reachable (IPv6)
