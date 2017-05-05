@@ -1,1 +1,1 @@
-Congratulations! Digital domain signatures are checked, if available, when translating domain names to internet addresses and to other domain data. Therefore you are protected from false translation to rogue internet addresses.
+Congratulations! Digital domain signatures, if available, are checked. Therefore you are protected against false translation from domain names into rogue internet addresses.
