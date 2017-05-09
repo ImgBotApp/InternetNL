@@ -1,1 +1,1 @@
-We check whether your (recursing) DNS resolver is able to query (authoritative) name servers over IPv6.
+We check whether your (recursing) DNS resolver is able to query (authoritative) name servers over IPv6. Normally your internet provider provides the resolver. Alternatively you can configure a resolver from a different provider on your systems (e.g. modem/router). It is also possible to set up your own local resolver.
