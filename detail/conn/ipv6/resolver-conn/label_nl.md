@@ -1,1 +1,1 @@
-Resolver's IPv6 connection
+IPv6-connectiviteit van DNS-resolver
