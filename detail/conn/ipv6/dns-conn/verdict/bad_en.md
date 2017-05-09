@@ -1,1 +1,1 @@
-An IPv6 connection (via DNS) could not be established.
+Your device is *not* able to connect to other computers *via DNS* over IPv6.
