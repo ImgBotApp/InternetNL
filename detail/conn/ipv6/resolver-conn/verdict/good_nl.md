@@ -1,1 +1,1 @@
-The resolver can connect to a name server over IPv6.
+Je DNS-resolver kan een autoritatieve nameserver over IPv6 bevragen.
