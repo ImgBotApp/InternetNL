@@ -1,1 +1,1 @@
-Your device is able to connect to other computers *via DNS* over IPv6.
+Your device is able to establish an IPv6 connection via DNS with other computers.
