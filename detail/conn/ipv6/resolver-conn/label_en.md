@@ -1,1 +1,1 @@
-DNS resolver's IPv6 connectivity
+ IPv6 connectivity of DNS resolver
