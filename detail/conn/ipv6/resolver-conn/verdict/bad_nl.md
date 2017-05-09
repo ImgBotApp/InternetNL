@@ -1,1 +1,1 @@
-The resolver was not able to connect to a name server over IPv6.
+Je DNS-resolver is niet in staat om autoritatieve nameservers over IPv6 te bevragen.
