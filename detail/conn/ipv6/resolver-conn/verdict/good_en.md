@@ -1,1 +1,1 @@
-The resolver can connect to a name server over IPv6.
+Your DNS resolver is able to query name servers over IPv6.
