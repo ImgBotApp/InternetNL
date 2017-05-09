@@ -1,1 +1,1 @@
-The resolver was not able to connect to a name server over IPv6.
+Your DNS resolver is *not* able to connect to name servers over IPv6.
