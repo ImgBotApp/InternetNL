@@ -1,1 +1,1 @@
-Congratulations, your domain will be added to the Hal of Fame soon!
+Gefeliciteerd, je domain wordt binnenkort toegevoegd aan de de **Hall of Fame**!
