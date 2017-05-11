@@ -1,1 +1,1 @@
-Seconds until retest:
+Seconden tot hertest-mogelijkheid:
