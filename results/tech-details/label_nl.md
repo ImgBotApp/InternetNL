@@ -1,1 +1,1 @@
-Technical details:
+Technische details:
