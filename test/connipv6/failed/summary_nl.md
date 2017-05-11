@@ -1,1 +1,1 @@
-Moderne adressen **niet** bereikbaar (IPv6)
+Moderne adressen *niet* bereikbaar (IPv6)
