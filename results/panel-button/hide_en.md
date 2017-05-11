@@ -1,1 +1,1 @@
-Hide all results
+Hide detailed results
