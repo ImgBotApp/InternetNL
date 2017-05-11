@@ -1,1 +1,1 @@
-Modern addresses **not** reachable (IPv6)
+Modern addresses *not* reachable (IPv6)
