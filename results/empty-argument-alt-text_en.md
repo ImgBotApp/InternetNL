@@ -1,1 +1,1 @@
-value not available
+*No value available*
