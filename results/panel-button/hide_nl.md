@@ -1,1 +1,1 @@
-Verberg detailresultaten
+Verberg details
