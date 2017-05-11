@@ -1,1 +1,1 @@
-waarde niet beschikbaar
+*Geen waarde beschikbaar*
