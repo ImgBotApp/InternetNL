@@ -1,1 +1,1 @@
-Verdict:
+Uitslag:
