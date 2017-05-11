@@ -1,1 +1,1 @@
-Mailserver-domeinnamen
+Mailservers
