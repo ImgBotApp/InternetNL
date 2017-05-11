@@ -1,1 +1,1 @@
-Passed
+Geslaagd
