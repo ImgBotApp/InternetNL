@@ -1,1 +1,1 @@
-Congratulations! You are in the Hall of Fame!
+Congratulations, your domain will be added to the **Hall of Fame** soon!
