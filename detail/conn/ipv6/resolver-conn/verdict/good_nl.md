@@ -1,1 +1,1 @@
-Je DNS-resolver kan nameservers via IPv6 bevragen.
+Je DNS-resolver kan nameservers via IPv6 bereiken.
