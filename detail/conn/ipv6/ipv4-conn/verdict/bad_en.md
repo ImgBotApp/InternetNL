@@ -1,1 +1,1 @@
-An IPv4 connection (via DNS) could not be established.
+You are not able to reach other computers via DNS on their IPv6-address.
