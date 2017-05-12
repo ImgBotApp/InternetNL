@@ -1,1 +1,1 @@
-An IPv6 connection (directly to an address) was established successfully.
+Je apparaat is in staat direct (d.w.z. zonder DNS-vertaling) een verbinding te maken met computers via hun IPv6-adres.
