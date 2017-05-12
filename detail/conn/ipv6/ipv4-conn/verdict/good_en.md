@@ -1,1 +1,1 @@
-An IPv4 connection (via DNS) was established successfully.
+You are able to reach other computers via DNS on their IPv6-address.
