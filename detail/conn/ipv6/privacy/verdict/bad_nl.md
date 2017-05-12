@@ -1,1 +1,1 @@
-You are using SLAAC without the IPv6 privacy extensions.
+Je gebruikt SLAAC zonder de 'IPv6 Privacy Extensions'.
