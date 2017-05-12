@@ -1,1 +1,1 @@
-You are not leaking the privacy sensitive MAC address of your device via IPV6.
+You have enabled 'IPv6 Privacy Extensions' (or you are not using SLAAC).
