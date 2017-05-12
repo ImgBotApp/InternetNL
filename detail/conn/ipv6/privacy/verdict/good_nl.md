@@ -1,1 +1,1 @@
-Je hebt IPv6 Privacy Extensions geactiveerd of je gebruikt geen SLAAC.
+Je lekt niet het unieke MAC-adres van je apparaat via IPv6.
