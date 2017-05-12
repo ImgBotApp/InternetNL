@@ -1,1 +1,1 @@
-IPv6 connection (direct)
+IPv6-connectiviteit (direct)
