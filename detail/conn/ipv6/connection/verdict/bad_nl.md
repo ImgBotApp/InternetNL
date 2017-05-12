@@ -1,1 +1,1 @@
-Your device is *not* able to connect directly (i.e. without DNS translation) to computers through their IPv6 address.
+Je apparaat is *niet* in staat direct (d.w.z. zonder DNS-vertaling) een verbinding te maken met computers via hun IPv6-adres.
