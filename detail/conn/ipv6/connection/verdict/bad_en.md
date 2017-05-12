@@ -1,1 +1,1 @@
-You are *not* able to connect directly to computers using their IPv6 address.
+You are *not* able to reach other computers directly on their IPv6 address.
