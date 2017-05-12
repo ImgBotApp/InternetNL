@@ -1,1 +1,1 @@
-We testen of jouw apparaat via zijn huidige internetverbinding in staat is om direct (d.w.z. zonder DNS-vertaling) verbinding te maken met onze webserver via zijn IPv6-adres.
+We testen of jouw apparaat via zijn huidige internetverbinding in staat is om direct (d.w.z. zonder DNS-vertaling) verbinding te maken met onze webserver via het IPv6-adres van onze webserver.
