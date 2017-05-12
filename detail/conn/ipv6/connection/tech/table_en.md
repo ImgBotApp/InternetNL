@@ -1,1 +1,1 @@
-Address|Reverse address|Internet provider
+IPv6 address|Reverse name|Internet provider
