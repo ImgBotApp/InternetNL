@@ -1,1 +1,1 @@
-We check if the resolvers that you use validate the DNSSEC signatures of our domain name.
+We check if the resolvers that you use validate the DNSSEC signatures of our domain name. DNSSEC-validation can take place on the DNS resolvers of your internet provider (or of a different DNS provider that you use), or on your own local systems.
