@@ -1,1 +1,1 @@
-The domain {{prettyaddr}} scores {{score}}%.
+The domain {{prettyaddr}} has a test score of {{score}}%.
