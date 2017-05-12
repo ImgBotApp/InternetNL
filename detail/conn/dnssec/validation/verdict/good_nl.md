@@ -1,1 +1,1 @@
-Je bent *niet* beschermd door validatie van DNSSEC-handtekeningen.
+Je bent beschermd door validatie van DNSSEC-handtekeningen.
