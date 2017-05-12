@@ -1,1 +1,1 @@
-Je bent in staat direct verbinding te maken met computers via hun IPv6-adres.
+Je bent in staat om andere computers direct op hun IPv6-adres te bereiken.
