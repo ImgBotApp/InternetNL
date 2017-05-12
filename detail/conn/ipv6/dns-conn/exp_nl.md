@@ -1,1 +1,1 @@
-We check that you are IPv6 connected via DNS.
+We testen of jouw apparaat middels zijn huidige internetverbinding verbinding kan maken met onze webserver via het IPv6-adres van onze webserver, nadat onze domeinnaam via DNS is vertaald in dit IPv6-adres.
