@@ -1,1 +1,1 @@
-An IPv4 connection (via DNS) was established successfully.
+Je bent niet in staat om andere computers via DNS op hun IPv6-adres te bereiken.
