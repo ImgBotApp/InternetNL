@@ -1,1 +1,1 @@
-We check that you are IPv6 connected via DNS.
+We check if your device through its current internet connection is able to connect with our webserver using the IPv6 address of our web server, after the domain name was translated via DNS in this IPv6 address.
