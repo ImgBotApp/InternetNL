@@ -1,1 +1,1 @@
-DNNSEC validation
+DNSSEC validation
