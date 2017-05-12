@@ -1,1 +1,1 @@
-Je DNS-resolver kan *niet* nameservers over IPv6 bevragen.
+Je DNS-resolver kan *niet* nameservers via IPv6 bevragen.
