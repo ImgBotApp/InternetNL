@@ -1,1 +1,1 @@
-Privacy extensions voor IPv6
+Privacy Extensions voor IPv6
