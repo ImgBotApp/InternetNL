@@ -1,1 +1,1 @@
-We check the IPv6 privacy extensions.
+We testen of je apparaat 'IPv6 Privacy Extensions for SLAAC' (of een ander IPv6-configuratieproces dan SLAAC) gebruikt om het lekken van zijn unieke MAC-adres (als onderdeel van zijn statische IPv6-adres) naar computers waarmee het via IPv6 verbinding maakt te voorkomen.
