@@ -1,1 +1,1 @@
-We testen of de door jou gebruikte (caching/recursing) DNS resolver in staat is om autoritatieve nameservers te bevragen over IPv6. Vaak levert je internetprovider de resolver. Als alternatief kan je op je eigen systemen (bijv. op je router/modem) een resolver van een andere dienstverlener instellen. Je kan ook zelf een eigen lokale resolver opzetten.
+We testen of de door jou gebruikte (caching/recursing) DNS resolver in staat is om autoritatieve nameservers te bevragen over IPv6. Vaak levert je internetprovider de resolver.
