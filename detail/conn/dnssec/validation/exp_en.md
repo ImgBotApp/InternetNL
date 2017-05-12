@@ -1,1 +1,1 @@
-We check if you validate DNSSEC signatures.
+We check if your resolvers validates DNSSEC signatures.
