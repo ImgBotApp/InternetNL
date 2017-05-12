@@ -1,1 +1,1 @@
-Je hebt IPv6 privacy extensions geactiveerd of je gebruikt geen SLAAC.
+Je hebt IPv6 Privacy Extensions geactiveerd of je gebruikt geen SLAAC.
