@@ -1,1 +1,1 @@
-DNSSEC signatures are not being validated.
+DNSSEC-handtekningen worden *niet* gevalideerd.
