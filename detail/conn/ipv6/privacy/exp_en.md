@@ -1,1 +1,1 @@
-We check if your device uses IPv6 Privacy Extensions for SLAAC (or another IPv6 configuration process than SLAAC) in order to prevent leakage of its unique MAC address to computers it connects with over IPV6.
+We check if your device uses IPv6 Privacy Extensions for SLAAC (or another IPv6 configuration process than SLAAC) in order to prevent leakage of its unique MAC address to computers it connects with via IPV6.
