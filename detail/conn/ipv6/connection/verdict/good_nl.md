@@ -1,1 +1,1 @@
-Je apparaat is in staat direct (d.w.z. zonder DNS-vertaling) een verbinding te maken met computers via hun IPv6-adres.
+Je bent in staat direct verbinding te maken met computers via hun IPv6-adres.
