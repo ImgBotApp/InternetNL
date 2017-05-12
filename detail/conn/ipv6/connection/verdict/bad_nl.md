@@ -1,1 +1,1 @@
-Je bent *niet* in staat direct verbinding te maken met computers via hun IPv6-adres.
+Je bent *niet* in staat om andere computers direct op hun IPv6-adres te bereiken.
