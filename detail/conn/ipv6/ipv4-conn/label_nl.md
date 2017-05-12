@@ -1,1 +1,1 @@
-IPv4 connectivity via DNS
+IPv4-connectiviteit via DNS
