@@ -1,1 +1,1 @@
-DNSSEC signatures are being validated for you.
+You are protected by DNSSEC signature validation.
