@@ -1,1 +1,1 @@
-You are not leaking the privacy sensitive MAC address of your device over IPV6.
+You are not leaking the privacy sensitive MAC address of your device via IPV6.
