@@ -1,1 +1,1 @@
-DNSSEC signatures are being validated.
+DNSSEC-handtekeningen worden gevalideerd.
