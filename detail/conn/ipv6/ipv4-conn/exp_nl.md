@@ -1,1 +1,1 @@
-We check that you are IPv4 connected via DNS.
+We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv4-adres, nadat onze domeinnaam via DNS is vertaald in dit IPv4-adres.
