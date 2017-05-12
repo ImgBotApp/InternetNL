@@ -1,1 +1,1 @@
-DNSSEC-handtekeningen worden gevalideerd.
+DNSSEC-handtekeningen worden voor jou gevalideerd.
