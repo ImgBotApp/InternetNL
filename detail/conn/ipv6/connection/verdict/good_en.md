@@ -1,1 +1,1 @@
-Your device is able to connect directly (i.e. without DNS translation) to computers through their IPv6 address.
+You are able to connect directly to computers using their IPv6 address.
