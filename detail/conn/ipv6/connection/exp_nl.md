@@ -1,1 +1,1 @@
-We check if your device is able to connect directly (i.e. without DNS translation) to the IPv6 address of our web server.
+We testen of jouw apparaat via zijn huidige internetverbinding in staat is om direct (d.w.z. zonder DNS-vertaling) verbinding te maken met onze webserver via zijn IPv6-adres.
