@@ -1,1 +1,1 @@
-Address|Reverse address|Internet provider
+IPv4-adres|Reverse name|Internetprovider
