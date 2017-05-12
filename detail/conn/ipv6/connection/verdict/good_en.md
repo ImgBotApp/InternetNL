@@ -1,1 +1,1 @@
-You are able to connect directly to computers using their IPv6 address.
+You are able to reach other computers directly on their IPv6 address.
