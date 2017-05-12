@@ -1,1 +1,1 @@
-You score {{score}}% in the test for {{prettyaddr}}
+Het domein {{prettyaddr}} scoort {{score}}%.
