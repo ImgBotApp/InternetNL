@@ -1,1 +1,1 @@
-An IPv6 connection (directly to an address) was established successfully.
+Your device is able to connect directly (i.e. without DNS translation) to computers through their IPv6 address.
