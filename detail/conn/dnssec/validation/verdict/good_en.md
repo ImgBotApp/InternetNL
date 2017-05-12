@@ -1,1 +1,1 @@
-DNSSEC signatures are being validated.
+DNSSEC signatures are being validated for you.
