@@ -1,1 +1,1 @@
-We testen of de door jou gebruikte resolvers de DNSSEC-handtekeningen van onze domeinnaam valideren. DNSSEC-validatie kan plaatsvinden op de DNS-resolvers van jouw internetprovider (of van een andere door jou gebruikte DNS-provider) of op je eigen lokale systemen.
+We testen of de door jou gebruikte resolvers de DNSSEC-handtekeningen van onze domeinnaam valideren. DNSSEC-validatie kan plaatsvinden op de DNS-resolvers van jouw internetprovider of van een andere door jou gebruikte DNS-provider en/of op je eigen lokale systemen.
