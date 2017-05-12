@@ -1,1 +1,1 @@
-Je bent *niet* in staat om via DNS andere computers op hun IPv6-adres te bereiken.
+Je bent *niet* in staat om andere computers via DNS op hun IPv6-adres te bereiken.
