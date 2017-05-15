@@ -37,7 +37,7 @@ msgid "about content"
 msgstr "# About Internet.nl\n"
 "\n"
 "## 1. What is Internet.nl?\n"
-"Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail) and [internet connection](/test-connection/) use modern and reliable internet standards? And if they don't, what can you do about it?\n"
+"Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail) and [internet connection](/test-connection/) use **modern and reliable internet standards**? And if they don't, what can you do about it?\n"
 "\n"
 "## 2. What are internet standards?\n"
 "In order to exchange data between computers around the world, we need international agreements on how computers talk to one another. The digital \"plugs and sockets\" that link everything together, so to speak. These agreements are called internet standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical core of the internet is unvisible and unknown to most users. However it is crucial for a working internet today and in the future.\n"
@@ -52,7 +52,7 @@ msgstr "# About Internet.nl\n"
 "Our access, hosting and email providers should take care of implementing modern internet standards and setting them correctly. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own connection, webserver or mailserver, you have to take care of the correct settings yourself.\n"
 "\n"
 "## 6. Why don’t you address the access, hosting and email providers directly?\n"
-"We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but in a modern country like the Netherlands we still use many standards that are outdated and lack reliability. Therefore please help us to improve the internet together, and demand moder internet standards.\n"
+"We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but in a modern country like the Netherlands we still use many standards that are outdated and lack reliability. Therefore please help us to improve the internet together, and demand modern internet standards.\n"
 "\n"
 "## 7. Who is behind Internet.nl?\n"
 "The website Internet.nl is an initiative of the Dutch **Internet Standards Platform**. In this platform the below partners from the internet community and the Dutch government collaborate.\n"
@@ -69,12 +69,12 @@ msgstr "# About Internet.nl\n"
 "- [NLnet Labs](https://nlnetlabs.nl)\n"
 "- [RIPE NCC](https://ripe.net)\n"
 "- [SIDN](https://sidn.nl)\n"
-"- [SURFnet](https://surfnet.nl)\n"
+"- [SURFnet](https://surfnet.nl)   \n"
 "\n"
 "ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. NLnet Labs is responsible for the technical implementation of the Internet.nl website.\n"
 "\n"
 "---\n"
-"[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. It a separate initiative of Internet Society Netherlands. Questions and reactions regarding it can be sent to voorzitter [at] isoc.nl."
+"[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. Questions and reactions regarding it can be sent to Internet Society Netherlands via voorzitter [at] isoc.nl."
 
 #, md-format
 msgid "author olaf-kolkman bio"
@@ -112,11 +112,11 @@ msgid "base halloffame"
 msgstr "Hall of Fame"
 
 msgid "base halloffame lead"
-msgstr "Websites with 100% score. \n"
-"Last addition on {{latest|date:'d-m-Y'}}"
+msgstr "{{count}} websites with 100% score.    \n"
+"Last addition on {{latest|date:'d-m-Y'}}."
 
 msgid "base halloffame link"
-msgstr "View all {{count}} websites"
+msgstr "To Hall of Fame"
 
 msgid "base home"
 msgstr "Home"
@@ -146,13 +146,13 @@ msgid "base test connection label"
 msgstr "Test your connection"
 
 msgid "base test connection text"
-msgstr "Hele internet bereikbaar? Beschermd tegen omleiding?"
+msgstr "Modern addresses reachable? Check of domain signatures?"
 
 msgid "base test connection title"
 msgstr "Do the connection test"
 
 msgid "base test explain"
-msgstr "Test explanation"
+msgstr "About the test"
 
 msgid "base test mail explain"
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.\n"
@@ -166,14 +166,13 @@ msgid "base test mail label"
 msgstr "Test your e-mail"
 
 msgid "base test mail text"
-msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding en mail-vervalsing? \n"
-"Beveiligde mail-verbinding?"
+msgstr "Modern adress? Signed domain? Phishing protection? Encrypted tranport?"
 
 msgid "base test mail title"
 msgstr "Do the e-mail test"
 
 msgid "base test prechecks invalid domain"
-msgstr "The given domain was invalid!"
+msgstr "The given domain is invalid!"
 
 msgid "base test start"
 msgstr "Start test"
@@ -190,10 +189,10 @@ msgid "base test website label"
 msgstr "Test your website"
 
 msgid "base test website text"
-msgstr "Duurzaam bereikbaar? Beschermd tegen omleiding? Beveiligde verbinding?"
+msgstr "Modern address? Signed domain? Encrypted connection?"
 
 msgid "base test website title"
-msgstr "Do the website test"
+msgstr "About the website test"
 
 msgid "connection pagetitle"
 msgstr "Internet connection test"
@@ -202,85 +201,85 @@ msgid "connection title"
 msgstr "Internet connection test"
 
 msgid "detail conn dnssec validation exp"
-msgstr "We check if you validate DNSSEC signatures."
+msgstr "We check if the resolvers that you use validate the DNSSEC signatures of our domain name. DNSSEC-validation can take place on the DNS resolvers of your internet provider or of a different DNS provider that you use, and/or on your own local systems."
 
 msgid "detail conn dnssec validation label"
-msgstr "DNNSEC validation"
+msgstr "DNSSEC validation"
 
 msgid "detail conn dnssec validation tech table"
 msgstr "DNS provider"
 
 msgid "detail conn dnssec validation verdict bad"
-msgstr "DNSSEC signatures are not being validated."
+msgstr "You are *not* protected by DNSSEC signature validation."
 
 msgid "detail conn dnssec validation verdict good"
-msgstr "DNSSEC signatures are being validated."
+msgstr "You are protected by DNSSEC signature validation."
 
 msgid "detail conn ipv6 connection exp"
-msgstr "We check that you are directly IPv6 connected."
+msgstr "We check if your device through its current internet connection is able to connect *directly* (i.e. without DNS translation) with our webserver using our corresponding IPv6 address."
 
 msgid "detail conn ipv6 connection label"
-msgstr "IPv6 connection (direct)"
+msgstr "IPv6 connectivity (direct)"
 
 msgid "detail conn ipv6 connection tech table"
-msgstr "Address|Reverse address|Internet provider"
+msgstr "IPv6 address|Reverse name|Internet provider"
 
 msgid "detail conn ipv6 connection verdict bad"
-msgstr "An IPv6 connection (directly to an address) could not be established."
+msgstr "You are *not* able to reach computers directly on their IPv6 address."
 
 msgid "detail conn ipv6 connection verdict good"
-msgstr "An IPv6 connection (directly to an address) was established successfully."
+msgstr "You are able to reach computers directly on their IPv6 address."
 
 msgid "detail conn ipv6 dns-conn exp"
-msgstr "We check that you are IPv6 connected via DNS."
+msgstr "We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv6 address, after our domain name has been translated *via DNS* in this IPv6 address."
 
 msgid "detail conn ipv6 dns-conn label"
-msgstr "IPv6 connection (via DNS)"
+msgstr "IPv6 connectivity via DNS"
 
 msgid "detail conn ipv6 dns-conn verdict bad"
-msgstr "An IPv6 connection (via DNS) could not be established."
+msgstr "You are *not* able to reach computers via DNS on their IPv6 address."
 
 msgid "detail conn ipv6 dns-conn verdict good"
-msgstr "An IPv6 connection (via DNS) was established successfully."
+msgstr "You are able to reach computers via DNS on their IPv6 address."
 
 msgid "detail conn ipv6 ipv4-conn exp"
-msgstr "We check that you are IPv4 connected via DNS."
+msgstr "We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv4 address, after our domain name has been translated *via DNS* in this IPv4 address."
 
 msgid "detail conn ipv6 ipv4-conn label"
 msgstr "IPv4 connection (via DNS)"
 
 msgid "detail conn ipv6 ipv4-conn tech table"
-msgstr "Address|Reverse address|Internet provider"
+msgstr "IPv4 address|Reverse name|Internet provider"
 
 msgid "detail conn ipv6 ipv4-conn verdict bad"
-msgstr "An IPv4 connection (via DNS) could not be established."
+msgstr "You are *not* able to reach computers via DNS on their IPv6 address."
 
 msgid "detail conn ipv6 ipv4-conn verdict good"
-msgstr "An IPv4 connection (via DNS) was established successfully."
+msgstr "You are able to reach computers via DNS on their IPv6 address."
 
 msgid "detail conn ipv6 privacy exp"
-msgstr "We check the IPv6 privacy extensions."
+msgstr "We check if your device uses IPv6 Privacy Extensions for SLAAC (or another IPv6 configuration process than SLAAC) in order to prevent leakage of its potentially privacy sensitive MAC address to computers it connects with over IPV6."
 
 msgid "detail conn ipv6 privacy label"
-msgstr "Privacy extensions"
+msgstr "Privacy Extensions for IPv6"
 
 msgid "detail conn ipv6 privacy verdict bad"
-msgstr "You are using SLAAC without the IPv6 privacy extensions."
+msgstr "You are using SLAAC *without* 'IPv6 Privacy Extensions'."
 
 msgid "detail conn ipv6 privacy verdict good"
-msgstr "The IPv6 privacy extensions are enabled (or you are not using SLAAC)."
+msgstr "You have enabled 'IPv6 Privacy Extensions' (or you are not using SLAAC)."
 
 msgid "detail conn ipv6 resolver-conn exp"
-msgstr "We check that you resolver is IPv6 connected."
+msgstr "We check if at least one of the (caching/recursing) DNS resolvers that you are using is able to reach our authoritative name servers over IPv6. Usually your internet provider provides the DNS resolver(s)."
 
 msgid "detail conn ipv6 resolver-conn label"
-msgstr "Resolver's IPv6 connection"
+msgstr " IPv6 connectivity of DNS resolver"
 
 msgid "detail conn ipv6 resolver-conn verdict bad"
-msgstr "The resolver was not able to connect to a name server over IPv6."
+msgstr "Your DNS resolver is *not* able to reach name servers over IPv6."
 
 msgid "detail conn ipv6 resolver-conn verdict good"
-msgstr "The resolver can connect to a name server over IPv6."
+msgstr "Your DNS resolver is able to reach name servers over IPv6."
 
 msgid "detail conndnssec gevalideerd"
 msgstr "DNSSEC signatures are being validated;  \n"
@@ -1352,8 +1351,8 @@ msgstr "# Frequently Asked Questions\n"
 
 #, md-format
 msgid "halloffame teaser"
-msgstr "# Hall of fame - website test\n"
-"The websites below are fully using modern internet standards.\n"
+msgstr "# Hall of Fame - website test\n"
+"The {{count}} websites below are fully using modern internet standards.   \n"
 "They therefore score 100% in the website test on Internet.nl."
 
 #, md-format
@@ -1817,26 +1816,22 @@ msgstr "# Partners\n"
 "- [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)"
 
 msgid "probes auto-redirect"
-msgstr "You will be automatically redirected to the results page when all the tests \n"
-"finish."
+msgstr "You will be automatically redirected to the results page when all tests are finished."
 
 msgid "probes no-javascript"
-msgstr "Check if the test is finished. If the test is not finished you will return \n"
-"to this screen."
+msgstr "Check if the test is finished and the results are available. If not, please return to this page."
 
 msgid "probes no-javascript-connection"
-msgstr "This test cannot run without javascript. Please enable javascript and try \n"
-"again."
+msgstr "Unfortuntely this test cannot run without JavaScript. If you still would like to exectute the test, please enable JavaScript in your browser."
 
 msgid "probes no-redirection"
-msgstr "An error was encountered during testing. Please try again later, or test \n"
-"another domain."
+msgstr "An error was encountered during testing. Please try again later, or test another domain name."
 
 msgid "probes test-running"
 msgstr "Running..."
 
 msgid "probes tests-description"
-msgstr "The following items are being tested:"
+msgstr "The items below are being tested."
 
 msgid "probes tests-duration"
 msgstr "The duration of the test is between 5 and 120 seconds."
@@ -1863,22 +1858,22 @@ msgid "results domain-mail tls dane label"
 msgstr "DANE"
 
 msgid "results empty-argument-alt-text"
-msgstr "value not available"
+msgstr "*No value available*"
 
 msgid "results explanation label"
 msgstr "Test explanation:"
 
 msgid "results mail dnssec domain label"
-msgstr "Domain"
+msgstr "Email adress domain"
 
 msgid "results mail dnssec mail-servers label"
-msgstr "Mail servers"
+msgstr "Mail server domain(s)"
 
 msgid "results mail ipv6 mail-servers label"
-msgstr "Mail servers"
+msgstr "Mail server(s)"
 
 msgid "results mail tls starttls label"
-msgstr "STARTTLS"
+msgstr "TLS"
 
 msgid "results no-icon-status failed"
 msgstr "Failed"
@@ -1893,16 +1888,16 @@ msgid "results no-icon-status passed"
 msgstr "Passed"
 
 msgid "results no-icon-status warning"
-msgstr "Warning"
+msgstr "Suggestion"
 
 msgid "results panel-button hide"
-msgstr "Hide all results"
+msgstr "Hide details"
 
 msgid "results panel-button show"
-msgstr "Show all results"
+msgstr "Show details"
 
 msgid "results perfect-score"
-msgstr "Congratulations! You are in the Hall of Fame!"
+msgstr "Congratulations, your domain will be added to the **Hall of Fame** soon!"
 
 msgid "results permalink"
 msgstr "Permalink test result {{permadate|date:'(Y-m-d H:i T)'}}"
@@ -1911,22 +1906,22 @@ msgid "results rerun-test"
 msgstr "Rerun test"
 
 msgid "results retest-time"
-msgstr "Seconds until retest:"
+msgstr "Seconds until retest option:"
 
 msgid "results score-description"
-msgstr "You score {{score}}% in the test for {{prettyaddr}}"
+msgstr "The domain {{prettyaddr}} has a test score of {{score}}%."
 
 msgid "results tech-details label"
 msgstr "Technical details:"
 
 msgid "results test direct"
-msgstr "Test direct:"
+msgstr "Directly test:"
 
 msgid "results test email label"
-msgstr "Test your email also"
+msgstr "Test your email too"
 
 msgid "results test website label"
-msgstr "Test your site also"
+msgstr "Test your website too"
 
 msgid "results verdict label"
 msgstr "Verdict:"
@@ -2251,29 +2246,22 @@ msgstr "New destinations on the Internet can only be provided with IPv6 addresse
 "addition to your IPv4 address."
 
 msgid "test connipv6 failed description"
-msgstr "Unfortunately, your internet provider has <strong>not</strong> given you a modern IPv6\n"
-"address or there is an error in its configuration. You are <strong>not</strong> able to\n"
-"reach all internet destinations.\n"
-"\n"
-"You should ask your internet provider or network administrator to enable IPv6\n"
-"or to fix the issues in its configuration."
+msgstr "Unfortunately your internet provider has *not* given you a modern internet address, or there is a configuration error. Therefore you are *not* able to reach other computers with modern adresses. Please ask your internet provider for IPv6 connectivity."
 
 msgid "test connipv6 failed summary"
-msgstr "<strong>Not</strong> all internet destinations reachable (IPv6)"
+msgstr "Modern addresses *not* reachable (IPv6)"
 
 msgid "test connipv6 label"
 msgstr "IPv6"
 
 msgid "test connipv6 passed description"
-msgstr "Congratulations; your internet provider has given you a moderen IPv6 address\n"
-"in addition to your IPv4 address. That allows you to reach all internet\n"
-"destinations, including those that have only IPv6 addresses."
+msgstr "Congratulations! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses."
 
 msgid "test connipv6 passed summary"
-msgstr "All internet destinations reachable (IPv6)"
+msgstr "Modern addresses reachable (IPv6)"
 
 msgid "test connipv6 title"
-msgstr "All internet destinations reachable?"
+msgstr "Modern addresses reachable?"
 
 msgid "test connresolver description"
 msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
@@ -2282,30 +2270,22 @@ msgstr "Attackers could compromise DNS, the internet directory that handles the\
 "you from being redirected to false IP addresses."
 
 msgid "test connresolver failed description"
-msgstr "Unfortunately, you are <strong>not</strong> using DNSSEC. You are currently\n"
-"<strong>not</strong> protected from being redirected to false IP addresses.\n"
-"\n"
-"You should ask your internet provider or network administrator to enable\n"
-"DNSSEC validation or to fix the issues in its configuration. More experienced\n"
-"internet users can install DNSSEC on their own systems."
+msgstr "Unfortunately digital domain signatures, if available, are *not* checked. Therefore you are *not* protected against false translation from domain names into rogue internet addresses. Please ask your internet provider to enable DNSSEC validation and/or configure it on your own systems."
 
 msgid "test connresolver failed summary"
-msgstr "<strong>Not</strong> protected from redirection to false IP addresses \n"
-"(DNSSEC)"
+msgstr "*No* check of domain signature (DNSSEC)"
 
 msgid "test connresolver label"
 msgstr "DNSSEC"
 
 msgid "test connresolver passed description"
-msgstr "Congratulations; you are using DNSSEC. This security system checks the \n"
-"digital signatures provided with the translation of domain names to IP \n"
-"addresses. You are protected from being redirected to false IP addresses."
+msgstr "Congratulations! Digital domain signatures, if available, are checked. Therefore you are protected against false translation from domain names into rogue internet addresses."
 
 msgid "test connresolver passed summary"
-msgstr "Protected from redirection to false IP addresses (DNSSEC)"
+msgstr "Check of domain signature (DNSSEC)"
 
 msgid "test connresolver title"
-msgstr "Protected against redirection?"
+msgstr "Check domain signatures?"
 
 msgid "test error description"
 msgstr "An <strong>error</strong> has occured during the execution of a test. This \n"
