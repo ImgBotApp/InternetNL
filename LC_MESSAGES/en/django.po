@@ -1702,6 +1702,23 @@ msgstr "*No value available*"
 msgid "results explanation label"
 msgstr "Test explanation:"
 
+msgid "results further-testing label"
+msgstr "Further testing"
+
+msgid "results further-testing content"
+msgstr "- Test 1\n"
+"\n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 2\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 3 -- very very very very veryvery long title for test 3\n"
+" \n"
+"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
+"- Test 4\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)"
+
 msgid "results mail dnssec domain label"
 msgstr "Email adress domain"
 
@@ -2079,11 +2096,6 @@ msgstr "# Terms of use\n"
 "Where specific content is excepted from this Creative Commons licensing, this\n"
 "is explicitly stated on the page."
 
-msgid "test connipv6 description"
-msgstr "New destinations on the Internet can only be provided with IPv6 addresses. \n"
-"These can only be reached if you yourself have a modern IPv6 address in \n"
-"addition to your IPv4 address."
-
 msgid "test connipv6 failed description"
 msgstr "Unfortunately your internet provider has *not* given you a modern internet address, or there is a configuration error. Therefore you are *not* able to reach other computers with modern adresses. Please ask your internet provider for IPv6 connectivity."
 
@@ -2101,12 +2113,6 @@ msgstr "Modern addresses reachable (IPv6)"
 
 msgid "test connipv6 title"
 msgstr "Modern addresses reachable?"
-
-msgid "test connresolver description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
-"translation of domain names to IP addresses. DNSSEC is a security system that\n"
-"checks the digital signatures provided with the DNS information. That protects\n"
-"you from being redirected to false IP addresses."
 
 msgid "test connresolver failed description"
 msgstr "Unfortunately digital domain signatures, if available, are *not* checked. Therefore you are *not* protected against false translation from domain names into rogue internet addresses. Please ask your internet provider to enable DNSSEC validation and/or configure it on your own systems."
@@ -2126,23 +2132,8 @@ msgstr "Check of domain signature (DNSSEC)"
 msgid "test connresolver title"
 msgstr "Check domain signatures?"
 
-msgid "test error description"
-msgstr "An <strong>error</strong> has occured during the execution of a test. This \n"
-"can happen when the Internet.nl site is overloaded or when your internet \n"
-"connection is having serious problems."
-
 msgid "test error summary"
 msgstr "<strong>Error</strong> during execution!"
-
-msgid "test mailauth description"
-msgstr "An e-mail message can easily be forged. Attackers often abuse this\n"
-"vulnerability for phishing, and to send spam, viruses and other nasties that\n"
-"are delivered by e-mail. DKIM and SPF provide electronic mailboxes with the\n"
-"means to validate the sender and the sending system of a mail message, and to\n"
-"verify that the content of the message has not been altered in transit. DMARC\n"
-"provides a policy on how to handle incoming mail messages that do not pass the\n"
-"DKIM or SPF checks. All three standards use the DNS system to publish their\n"
-"information for receiving mail systems."
 
 msgid "test mailauth failed description"
 msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SPF, and\n"
@@ -2171,15 +2162,6 @@ msgstr "Protected from mail spoofing (DKIM/SPF/DMARC)"
 
 msgid "test mailauth title"
 msgstr "Protection against message forgery?"
-
-msgid "test maildnssec description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the\n"
-"translation of domain names to IP addresses as well as the publication of\n"
-"information related to DKIM, SPF and DMARC. DNSSEC is a security system that\n"
-"adds digital signatures to information published through the DNS system.\n"
-"Senders who also use DNSSEC at their side are protected from having their\n"
-"messages delivered to a fake mailbox. Receiving systems using DNSSEC can be\n"
-"sure that the published DKIM, SPF and DMARC information is genuine."
 
 msgid "test maildnssec failed description"
 msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DNSSEC or\n"
@@ -2210,11 +2192,6 @@ msgstr "Protected from false DNS information (DNSSEC)"
 msgid "test maildnssec title"
 msgstr "Protected against redirection?"
 
-msgid "test mailipv6 description"
-msgstr "The Internet is moving to a new version of the Internet Protocol. E-mail users\n"
-"who want to be reachable from all internet addresses require modern IPv6\n"
-"addresses in addition to their IPv4 addresses."
-
 msgid "test mailipv6 failed description"
 msgstr "Unfortunately, this e-mail domain can not be reached by\n"
 "senders using modern IPv6 addresses, <strong>or</strong> improvement is possible.\n"
@@ -2237,12 +2214,6 @@ msgstr "Reachable from modern internet addresses (IPv6)"
 
 msgid "test mailipv6 title"
 msgstr "Modern internet address?"
-
-msgid "test mailtls description"
-msgstr "The connection between mail servers can be secured with STARTTLS. Both the \n"
-"incoming and sending mailserver should support STARTTLS in order to set up \n"
-"an encrypted connection. This test checks whether the incoming mail server \n"
-"(MX) of the tested domain name does support STARTTLS in the right manner."
 
 msgid "test mailtls failed description"
 msgstr "Unfortunately; this incoming mail server does <strong>not or \n"
@@ -2269,13 +2240,6 @@ msgstr "Secure connection possible (STARTTLS)"
 
 msgid "test mailtls title"
 msgstr "Secure connection incoming mail?"
-
-msgid "test sitednssec description"
-msgstr "Attackers could compromise DNS, the internet directory that handles the \n"
-"translation of domain names to IP addresses. DNSSEC is a security system \n"
-"that adds digital signatures to information published through the DNS \n"
-"system. Visitors who also use DNSSEC at their side are protected from being \n"
-"redirected to false IP addresses."
 
 msgid "test sitednssec failed description"
 msgstr "Unfortunately, this domain name does <strong>not</strong> use DNSSEC or there\n"
@@ -2305,11 +2269,6 @@ msgstr "Protected against redirection?"
 msgid "test sitednssec title"
 msgstr "Protected against redirection?"
 
-msgid "test siteipv6 description"
-msgstr "The Internet is moving to a new version of the Internet Protocol. Website \n"
-"owners who want to be reachable from all internet addresses require modern \n"
-"IPv6 addresses in addition to their IPv4 addresses."
-
 msgid "test siteipv6 failed description"
 msgstr "Unfortunately, this website is not reachable by visitors\n"
 "using modern IPv6 addresses, <strong>or</strong> improvement is possible.\n"
@@ -2332,12 +2291,6 @@ msgstr "Reachable from modern internet addresses (IPv6)"
 
 msgid "test siteipv6 title"
 msgstr "Modern internet address?"
-
-msgid "test sitetls description"
-msgstr "TLS cryptografically protects internet connections from eavesdropping and \n"
-"tampering. However, just enabling TLS does not guarantee security: it needs \n"
-"to be properly configured as well. Using older versions or outdated security\n"
-" options can still make a TLS connection insecure."
 
 msgid "test sitetls failed description"
 msgstr "Unfortunately, the cryptographic protection of TLS on the website is\n"
