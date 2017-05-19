@@ -1399,6 +1399,9 @@ msgstr "# Hall of Fame - websitetest\n"
 "De onderstaande {{count}} websites werken volledig met moderne internetstandaarden.   \n"
 "Ze scoren daarom 100% in de websitetest op Internet.nl."
 
+msgid "home pagetitle"
+msgstr "Test hier of je internet aan moderne standaarden voldoet."
+
 #, md-format
 msgid "home teaser"
 msgstr "Moderne internetstandaarden zorgen voor meer betrouwbaarheid en verdere groei van het Internet.  \n"

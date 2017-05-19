@@ -267,6 +267,9 @@ msgid "index newteaser"
 msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
 "Internetu. Używasz je?"
 
+msgid "home pagetitle"
+msgstr " "
+
 #, md-format
 msgid "home teaser"
 msgstr "Czy twoje połączenie internetowe, strona i e-mail używają nowoczesnych standardów \n"

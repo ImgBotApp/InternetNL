@@ -1355,6 +1355,9 @@ msgstr "# Hall of Fame - website test\n"
 "The {{count}} websites below are fully using modern internet standards.   \n"
 "They therefore score 100% in the website test on Internet.nl."
 
+msgid "home pagetitle"
+msgstr "Test whether your internet meets modern standards."
+
 #, md-format
 msgid "home teaser"
 msgstr "Modern internet standards provide for more reliability and further growth of the Internet.   \n"
@@ -1559,7 +1562,7 @@ msgstr "During the Dutch Cyber Week 2015 the website Internet.nl was launched by
 "not, what can you do about it?"
 
 msgid "news lancering-internet-nl-tijdens-cyber-week-2015 title"
-msgstr "# Internet.nl launched during Dutch Cyber Week 2015"
+msgstr "Internet.nl launched during Dutch Cyber Week 2015"
 
 msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test body"
 msgstr "Below we describe the major changes.\n"
