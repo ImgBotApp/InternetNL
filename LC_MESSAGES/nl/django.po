@@ -1389,9 +1389,20 @@ msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%
 msgid "faqs content"
 msgstr "# Veelgestelde vragen\n"
 "\n"
-"Als je een vraag hebt over de hier gepromote\n"
-"internetstandaarden, dan vind je waarschijnlijk een antwoord\n"
-"bij de \"veelgestelde vragen\""
+"## Websitetest\n"
+"* Modern adres (IPv6)\n"
+"* Domeinnaamondertekening (DNSSEC)\n"
+"* Versleutelde verbinding (HTTPS, HSTS en DANE)\n"
+"\n"
+"## Mailtest\n"
+"* Modern adres (IPv6)\n"
+"* Domeinnaamondertekening (DNSSEC)\n"
+"* Phishingprotectie (DMARC+DKIM+SPF)\n"
+"* Versleuteld transport (STARTTLS en DANE)\n"
+"\n"
+"## Verbindingtest\n"
+"* Bereikbaarheid moderne adressen (IPv6) \n"
+"* Controle van domein-handtekeningen (DNSSEC)"
 
 #, md-format
 msgid "halloffame teaser"
@@ -2876,3 +2887,24 @@ msgstr "Voldoende beveiligde verbinding (TLS)"
 
 msgid "test sitetls title"
 msgstr "Beveiligde verbinding?"
+
+msgid "home stats header"
+msgstr "Statistieken"
+
+msgid "home stats website"
+msgstr "websitetesten"
+
+msgid "home stats mail"
+msgstr "e-mailtesten"
+
+msgid "home stats connection"
+msgstr "verbindingstesten"
+
+msgid "home stats sites"
+msgstr "sites"
+
+msgid "home stats passed"
+msgstr "100% score:"
+
+msgid "home stats notpassed"
+msgstr "<100% score:"

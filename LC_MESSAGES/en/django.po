@@ -2320,3 +2320,24 @@ msgstr "Adequately protected connection (TLS)"
 
 msgid "test sitetls title"
 msgstr "Secure connection?"
+
+msgid "home stats header"
+msgstr "Statistics"
+
+msgid "home stats website"
+msgstr "websitetests"
+
+msgid "home stats mail"
+msgstr "e-mailtests"
+
+msgid "home stats connection"
+msgstr "connectiontests"
+
+msgid "home stats sites"
+msgstr "sites"
+
+msgid "home stats passed"
+msgstr "100% score:"
+
+msgid "home stats notpassed"
+msgstr "<100% score:"
