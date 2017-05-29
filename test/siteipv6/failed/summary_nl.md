@@ -1,2 +1,1 @@
-<strong>Niet</strong> toegankelijk of <strong>verbetering</strong> mogelijk 
-(IPv6)
+*Niet* toegankelijk via modern adres óf verbetering mogelijk (IPv6)
