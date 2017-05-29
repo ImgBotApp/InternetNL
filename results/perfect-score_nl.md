@@ -1,1 +1,1 @@
-Gefeliciteerd, je domeinnaam wordt binnenkort in de **Hall of Fame** opgenomen!
+Gefeliciteerd, je domeinnaam wordt spoedig in de **Hall of Fame** opgenomen!
