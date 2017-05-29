@@ -1,1 +1,1 @@
-DNS provider
+DNS-provider
