@@ -1,2 +1,2 @@
-{{count}} websites with 100% score    
-Last entry: {{latest|date:'d-m-Y'}}
+{{count}} websites with 100% score   
+Latest entry: {{latest|date:'d-m-Y'}}
