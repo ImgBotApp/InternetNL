@@ -1,1 +1,1 @@
-We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv6-adres, nadat onze domeinnaam *via DNS* is vertaald in dit IPv6-adres.
+We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv6-adres, nadat onze domeinnaam *door DNS* is vertaald in dit IPv6-adres.
