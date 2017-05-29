@@ -1,1 +1,1 @@
-Beveiligde verbinding?
+Versleutelde verbinding?
