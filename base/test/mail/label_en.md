@@ -1,1 +1,1 @@
-Test your e-mail
+Test your email
