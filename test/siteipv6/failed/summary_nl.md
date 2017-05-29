@@ -1,1 +1,1 @@
-*Niet* toegankelijk via modern adres, of verbetering mogelijk (IPv6)
+*Niet* toegankelijk via modern adres óf verbetering mogelijk (IPv6)
