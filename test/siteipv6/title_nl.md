@@ -1,1 +1,1 @@
-Modern internet-adres?
+Modern adres?
