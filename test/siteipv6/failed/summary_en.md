@@ -1,2 +1,1 @@
-<strong>Not</strong> reachable or <strong>improvement</strong> possible 
-(IPv6)
+*Not* reachable on modern address, or improvement possible (IPv6)
