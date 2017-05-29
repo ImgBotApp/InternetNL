@@ -1,1 +1,1 @@
-We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv6 address, after our domain name has been translated *via DNS* in this IPv6 address.
+We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv6 address, after our domain name has been translated *by DNS* into this IPv6 address.
