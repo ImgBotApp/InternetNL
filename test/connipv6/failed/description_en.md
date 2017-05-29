@@ -1,1 +1,1 @@
-Unfortunately your internet provider has *not* given you a modern internet address, or there is a configuration error. Therefore you are *not* able to reach other computers with modern adresses. Please ask your internet provider for IPv6 connectivity.
+Too bad! Your internet provider has *not* given you a modern internet address, or there is a configuration error. Therefore you are *not* able to reach other computers with modern adresses. Please ask your internet provider for full IPv6 connectivity.
