@@ -1,1 +1,1 @@
-Internet connection test
+Connection test
