@@ -1,1 +1,1 @@
-We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv4 address, after our domain name has been translated *via DNS* in this IPv4 address.
+We check if your device through its current internet connection is able to connect with our webserver using our corersponding IPv4 address, after our domain name has been translated *by DNS* in this IPv4 address.
