@@ -1,1 +1,1 @@
-E-mail test: {{prettyaddr}}
+Email test: {{prettyaddr}}
