@@ -1,1 +1,1 @@
-Internetverbinding-test
+Verbindingstest
