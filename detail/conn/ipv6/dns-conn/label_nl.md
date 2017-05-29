@@ -1,1 +1,1 @@
-IPv6-connectiviteit via DNS
+IPv6-connectiviteit (via DNS)
