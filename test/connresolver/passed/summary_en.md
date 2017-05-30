@@ -1,1 +1,1 @@
-Check of domain signature (DNSSEC)
+Domain signatures validated (DNSSEC)
