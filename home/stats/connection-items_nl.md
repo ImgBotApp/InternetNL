@@ -1,1 +1,1 @@
-connections
+verbindingen
