@@ -1,1 +1,1 @@
-Controle van domein-handtekening (DNSSEC)
+Domein-handtekeningen gecontroleerd (DNSSEC)
