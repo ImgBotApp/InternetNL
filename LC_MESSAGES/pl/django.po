@@ -962,9 +962,6 @@ msgstr "Gratulacje; Ta nazwa domeny używa DNSSEC. Użytkownicy, którzy równie
 msgid "test sitednssec passed summary"
 msgstr "Chroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)"
 
-msgid "test sitednssec summary"
-msgstr "Chroniony przed przekierowaniem?"
-
 msgid "test sitednssec title"
 msgstr "Chroniony przed przekierowaniem?"
 
@@ -1032,8 +1029,14 @@ msgstr "e-mailtests"
 msgid "home stats connection"
 msgstr "connectiontests"
 
-msgid "home stats sites"
-msgstr "sites"
+msgid "home stats website-items"
+msgstr "web servers"
+
+msgid "home stats mail-items"
+msgstr "mail servers"
+
+msgid "home stats connection-items"
+msgstr "connections"
 
 msgid "home stats passed"
 msgstr "100% score:"

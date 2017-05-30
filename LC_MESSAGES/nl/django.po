@@ -158,8 +158,8 @@ msgid "base halloffame"
 msgstr "Hall of Fame"
 
 msgid "base halloffame lead"
-msgstr "{{count}} websites met 100% score.    \n"
-"Laatste toevoeging op {{latest|date:'d-m-Y'}}."
+msgstr "{{count}} websites met 100%-score  \n"
+"Laatste toevoeging: {{latest|date:'d-m-Y'}}"
 
 msgid "base halloffame link"
 msgstr "Naar Hall of Fame"
@@ -212,7 +212,7 @@ msgid "base test mail label"
 msgstr "Test je e-mail"
 
 msgid "base test mail text"
-msgstr "Modern adres? Ondertekend domein? Phishingbescherming? Versleuteld transport?"
+msgstr "Modern adres? Ondertekend domein? Anti-phishing? Versleuteld transport?"
 
 msgid "base test mail title"
 msgstr "Doe de e-mail-test"
@@ -241,10 +241,10 @@ msgid "base test website title"
 msgstr "Over de websitetest"
 
 msgid "connection pagetitle"
-msgstr "Internetverbinding-test"
+msgstr "Verbindingstest"
 
 msgid "connection title"
-msgstr "Internetverbinding-test"
+msgstr "Verbindingstest"
 
 msgid "detail conn dnssec validation exp"
 msgstr "We testen of de door jou gebruikte resolvers de DNSSEC-handtekeningen van onze domeinnaam valideren. DNSSEC-validatie kan plaatsvinden op de DNS-resolvers van jouw internetprovider of van een andere door jou gebruikte DNS-provider en/of op je eigen lokale systemen."
@@ -253,7 +253,7 @@ msgid "detail conn dnssec validation label"
 msgstr "DNSSEC-validatie"
 
 msgid "detail conn dnssec validation tech table"
-msgstr "DNS provider"
+msgstr "DNS-provider"
 
 msgid "detail conn dnssec validation verdict bad"
 msgstr "Je bent *niet* beschermd door validatie van DNSSEC-handtekeningen."
@@ -277,10 +277,10 @@ msgid "detail conn ipv6 connection verdict good"
 msgstr "Je bent in staat om computers direct op hun IPv6-adres te bereiken."
 
 msgid "detail conn ipv6 dns-conn exp"
-msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv6-adres, nadat onze domeinnaam *via DNS* is vertaald in dit IPv6-adres."
+msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv6-adres, nadat onze domeinnaam *door DNS* is vertaald in dit IPv6-adres."
 
 msgid "detail conn ipv6 dns-conn label"
-msgstr "IPv6-connectiviteit via DNS"
+msgstr "IPv6-connectiviteit (via DNS)"
 
 msgid "detail conn ipv6 dns-conn verdict bad"
 msgstr "Je bent *niet* in staat om computers via DNS op hun IPv6-adres te bereiken."
@@ -289,19 +289,19 @@ msgid "detail conn ipv6 dns-conn verdict good"
 msgstr "Je bent in staat om computers via DNS op hun IPv6-adres te bereiken."
 
 msgid "detail conn ipv6 ipv4-conn exp"
-msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv4-adres, nadat onze domeinnaam *via DNS* is vertaald in dit IPv4-adres."
+msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv4-adres, nadat onze domeinnaam *door DNS* is vertaald in dit IPv4-adres."
 
 msgid "detail conn ipv6 ipv4-conn label"
-msgstr "IPv4-connectiviteit via DNS"
+msgstr "IPv4-connectiviteit (via DNS)"
 
 msgid "detail conn ipv6 ipv4-conn tech table"
 msgstr "IPv4-adres|Reverse name|Internetprovider"
 
 msgid "detail conn ipv6 ipv4-conn verdict bad"
-msgstr "Je bent *niet* in staat om computers via DNS op hun IPv6-adres te bereiken."
+msgstr "Je bent *niet* in staat om computers via DNS op hun IPv4-adres te bereiken."
 
 msgid "detail conn ipv6 ipv4-conn verdict good"
-msgstr "Je bent niet in staat om computers via DNS op hun IPv6-adres te bereiken."
+msgstr "Je bent in staat om computers via DNS op hun IPv4-adres te bereiken."
 
 msgid "detail conn ipv6 privacy exp"
 msgstr "We testen of je apparaat 'IPv6 Privacy Extensions for SLAAC' (of een ander IPv6-configuratieproces dan SLAAC) gebruikt om het lekken van zijn mogelijk privacygevoelige MAC-adres naar computers waarmee het via IPv6 verbinding maakt te voorkomen."
@@ -1376,14 +1376,14 @@ msgstr "# Responsible disclosure\n"
 "  maar we willen het actief scannen naar kwetsbaarheden niet aanmoedigen."
 
 msgid "domain pagetitle"
-msgstr "Website-test:"
+msgstr "Websitetest:"
 
 #, md-format
 msgid "domain title"
-msgstr "Website-test: {{prettyaddr}}  "
+msgstr "Websitetest: {{prettyaddr}}  "
 
 msgid "domain tweetmessage"
-msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%20%40Internet_nl%3A"
+msgstr "De%20website%20{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%20%40Internet_nl%3A"
 
 #, md-format
 msgid "faqs content"
@@ -1419,13 +1419,13 @@ msgstr "Moderne internetstandaarden zorgen voor meer betrouwbaarheid en verdere 
 "Gebruik jij ze al?"
 
 msgid "mail pagetitle"
-msgstr "E-mail-test:"
+msgstr "E-mailtest:"
 
 msgid "mail title"
-msgstr "E-mail-test: {{prettyaddr}}"
+msgstr "E-mailtest: {{prettyaddr}}"
 
 msgid "mail tweetmessage"
-msgstr "{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20mailtest%20van%20%40Internet_nl%3A"
+msgstr "De%20mailvoorziening%20op%20{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20e-mailtest%20van%20%40Internet_nl%3A"
 
 msgid "news .index"
 msgstr "nederland-voor-veilig-emailverkeer\n"
@@ -2312,7 +2312,7 @@ msgid "results panel-button show"
 msgstr "Toon details"
 
 msgid "results perfect-score"
-msgstr "Gefeliciteerd, je domeinnaam wordt binnenkort in de **Hall of Fame** opgenomen!"
+msgstr "Gefeliciteerd, je domeinnaam wordt spoedig in de **Hall of Fame** opgenomen!"
 
 msgid "results permalink"
 msgstr "Permalink testresultaat {{permadate|date:'(Y-m-d H:i T)'}}"
@@ -2664,7 +2664,7 @@ msgstr "# Gebruiksvoorwaarden\n"
 "dat expliciet op de betreffende pagina vermeld."
 
 msgid "test connipv6 failed description"
-msgstr "Helaas heeft je internetprovider je *geen* modern internetadres gegeven, of *niet* alles correct ingesteld. Je kan daardoor andere  computers met moderne adressen *niet* bereiken. Vraag je internetprovider om IPv6-connectiviteit."
+msgstr "Helaas! Je internetprovider heeft je *geen* modern internetadres gegeven, of *niet* alles correct ingesteld. Je kan daardoor andere  computers met moderne adressen *niet* bereiken. Vraag je internetprovider om IPv6-connectiviteit."
 
 msgid "test connipv6 failed summary"
 msgstr "Moderne adressen *niet* bereikbaar (IPv6)"
@@ -2682,7 +2682,7 @@ msgid "test connipv6 title"
 msgstr "Moderne adressen bereikbaar?"
 
 msgid "test connresolver failed description"
-msgstr "Helaas worden digitale domein-handtekeningen, indien aanwezig, nu *niet* gecontroleerd. Daardoor ben je *niet* beschermd tegen vervalste vertaling van domeinnamen naar kwaadaardige internetadressen. Vraag je internetprovider om DNSSEC-validatie aan te zetten en/of activeer het op je eigen systemen."
+msgstr "Helaas! Digitale domein-handtekeningen, indien aanwezig, worden nu *niet* gecontroleerd. Daardoor ben je *niet* beschermd tegen vervalste vertaling van domeinnamen naar kwaadaardige internetadressen. Vraag je internetprovider om DNSSEC-validatie aan te zetten en/of activeer het op je eigen systemen."
 
 msgid "test connresolver failed summary"
 msgstr "*Geen* controle van domein-handtekening (DNSSEC)"
@@ -2831,35 +2831,26 @@ msgstr "Gefeliciteerd; deze domeinnaam maakt gebruik van DNSSEC. Bezoekers die z
 msgid "test sitednssec passed summary"
 msgstr "Beschermd tegen omleiding naar valse IP-adressen (DNSSEC)"
 
-msgid "test sitednssec summary"
-msgstr "Beschermd tegen omleiding?"
-
 msgid "test sitednssec title"
-msgstr "Beschermd tegen omleiding?"
+msgstr "Ondertekend domein?"
 
 msgid "test siteipv6 failed description"
-msgstr "Helaas; deze website is niet toegankelijk voor bezoekers met\n"
-"moderne IPv6-adressen, <strong>of</strong> er is verbetering mogelijk.\n"
-"\n"
-"Vraag je hosting provider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Deze website is *niet* toegankelijk voor bezoekers met moderne IPv6-adressen, of er is verbetering mogelijk. Vraag je hosting provider om IPv6 volledig aan te zetten."
 
 msgid "test siteipv6 failed summary"
-msgstr "<strong>Niet</strong> toegankelijk of <strong>verbetering</strong> mogelijk \n"
-"(IPv6)"
+msgstr "*Niet* toegankelijk via modern adres, of verbetering mogelijk (IPv6)"
 
 msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Gefeliciteerd; deze website biedt toegang voor bezoekers met moderne \n"
-"IPv6-adressen. Daarmee is deze site volledig onderdeel van het moderne \n"
-"Internet."
+msgstr "Gefeliciteerd! Deze website biedt toegang voor bezoekers met moderne IPv6-adressen. Daarmee is deze website volledig onderdeel van het moderne internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Toegankelijk vanaf moderne internetadressen (IPv6)"
 
 msgid "test siteipv6 title"
-msgstr "Modern internet-adres?"
+msgstr "Modern adres?"
 
 msgid "test sitetls failed description"
 msgstr "Helaas; de cryptografische bescherming van TLS op de website is\n"
@@ -2886,7 +2877,7 @@ msgid "test sitetls passed summary"
 msgstr "Voldoende beveiligde verbinding (TLS)"
 
 msgid "test sitetls title"
-msgstr "Beveiligde verbinding?"
+msgstr "Versleutelde verbinding?"
 
 msgid "home stats header"
 msgstr "Statistieken"
@@ -2900,11 +2891,17 @@ msgstr "e-mailtesten"
 msgid "home stats connection"
 msgstr "verbindingstesten"
 
-msgid "home stats sites"
-msgstr "sites"
+msgid "home stats website-items"
+msgstr "web servers"
+
+msgid "home stats mail-items"
+msgstr "mail servers"
+
+msgid "home stats connection-items"
+msgstr "connections"
 
 msgid "home stats passed"
-msgstr "100% score:"
+msgstr "100%-score:"
 
 msgid "home stats notpassed"
-msgstr "<100% score:"
+msgstr "<100%-score:"

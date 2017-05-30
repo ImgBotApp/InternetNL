@@ -1,1 +1,0 @@
-Chroniony przed przekierowaniem?

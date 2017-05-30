@@ -1,1 +1,0 @@
-Protected against redirection?
