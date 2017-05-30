@@ -1,1 +1,1 @@
-Too bad! Digital domain signatures, if available, are *not* checked. Therefore you are *not* protected against false translation from domain names into rogue internet addresses. Please ask your internet provider to enable DNSSEC validation and/or configure it on your own systems.
+Too bad! Digital domain signatures, if available, are *not* checked. Therefore you are *not* protected against false translation from domain names into rogue internet addresses. Please ask your internet provider for DNSSEC validation and/or enable it on your own systems.
