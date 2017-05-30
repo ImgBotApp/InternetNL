@@ -1,1 +1,1 @@
-Modern addresses reachable? Check of domain signatures?
+Modern addresses reachable? Domain signature validated?
