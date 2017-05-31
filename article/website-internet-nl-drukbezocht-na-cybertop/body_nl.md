@@ -36,4 +36,4 @@ vanochtend tien uur werd de Internet.nl site al druk bezocht. Er werden meer
 dan 1000 unieke webdomeinen, 340 unieke mail-domeinen en 540 verbindingen
 getest. Bij elkaar ging het in deze korte tijd al om 5000 unieke bezoekers.
 
-![introduction at GCCS 2015 conference - Olaf Kolkman](/news/website-internet-nl-drukbezocht-na-cybertop/GCCS2015-OlafKolkman-600x399.jpg)
+![introduction at GCCS 2015 conference - Olaf Kolkman](GCCS2015-OlafKolkman-600x399.jpg)

@@ -42,7 +42,7 @@ Cyber Security Centrum (NCSC), NLnet, NLnet Labs, RIPE NCC, SIDN en
 SURFnet.
 
 <video controls>
-<source src="/static/news/nederland-voor-veilig-emailverkeer/ondertekening_veilig_email_coalitie-scaled.webm" type="video/webm">
+<source src="/static/article/nederland-voor-veilig-emailverkeer/ondertekening_veilig_email_coalitie-scaled.webm" type="video/webm">
 I'm sorry; your browser doesn't support this video.
 </video>
 

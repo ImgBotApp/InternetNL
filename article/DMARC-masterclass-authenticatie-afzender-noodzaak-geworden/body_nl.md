@@ -1,10 +1,10 @@
 Op de masterclass waren meer dan 60 geïnteresseerden afgekomen. De sessie werd
 geopend door
-[Gerben Klein Baltink](/news/het-internet-is-van-ons-allemaal/),
+[Gerben Klein Baltink](/article/het-internet-is-van-ons-allemaal/),
 kwartiermaker voor het Platform Internetstandaarden, die de
 [Internet.nl portal](https://internet.nl/) aan het publiek demonstreerde. De
 site werd anderhalve week geleden
-[tijdens de GCCS Cybertop gelanceerd](/news/website-internet-nl-drukbezocht-na-cybertop/)
+[tijdens de GCCS Cybertop gelanceerd](/article/website-internet-nl-drukbezocht-na-cybertop/)
 Er zijn sindsdien ruim 20 duizend tests uitgevoerd. DMARC is een van de zes
 [standaarden](/standards/) die door het Platform gepromoot
 worden.

@@ -285,109 +285,109 @@ msgstr "Test e-maila: {{prettyaddr}}"
 msgid "mail tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20mailtest%20of%20%40Internet_nl%3A"
 
-msgid "news .index"
+msgid "article .index"
 msgstr "internetnl-in-polish"
 
-msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
 msgstr " "
 
-msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden date"
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden date"
 msgstr " "
 
-msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden lead"
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden lead"
 msgstr " "
 
-msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden teaser"
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden teaser"
 msgstr " "
 
-msgid "news DMARC-masterclass-authenticatie-afzender-noodzaak-geworden title"
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden title"
 msgstr " "
 
-msgid "news internetnl-in-polish body"
+msgid "article internetnl-in-polish body"
 msgstr "Inicjatywa na rzecz standardów internetowych promowana będzie\n"
 "podczas drugiego Europejskiego Forum Cyberbezpieczeństwa CYBERSEC 2016\n"
 "\n"
 "![CYBERSEC](/static/logo-cybersec.png)"
 
-msgid "news internetnl-in-polish date"
+msgid "article internetnl-in-polish date"
 msgstr "Piątek, 26 sierpnia"
 
-msgid "news internetnl-in-polish lead"
+msgid "article internetnl-in-polish lead"
 msgstr " "
 
-msgid "news internetnl-in-polish title"
+msgid "article internetnl-in-polish title"
 msgstr "Internet.nl teraz rówież w języku polskim"
 
-msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
 msgstr " "
 
-msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
 msgstr " "
 
-msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
 msgstr " "
 
-msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
 msgstr " "
 
-msgid "news internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
 msgstr " "
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 body"
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 body"
 msgstr " "
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 date"
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 date"
 msgstr " "
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 lead"
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 lead"
 msgstr " "
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 teaser"
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 teaser"
 msgstr " "
 
-msgid "news lancering-internet-nl-tijdens-cyber-week-2015 title"
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 title"
 msgstr " "
 
-msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test body"
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test body"
 msgstr " "
 
-msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test date"
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test date"
 msgstr "19 maart 2016"
 
-msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
 msgstr " "
 
-msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
 msgstr " "
 
-msgid "news nieuwe-versie-internetnl-met-aanvullingen-https-test title"
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test title"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC body"
+msgid "article uitnodiging-masterclass-DMARC body"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC date"
+msgid "article uitnodiging-masterclass-DMARC date"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC lead"
+msgid "article uitnodiging-masterclass-DMARC lead"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC teaser"
+msgid "article uitnodiging-masterclass-DMARC teaser"
 msgstr " "
 
-msgid "news uitnodiging-masterclass-DMARC title"
+msgid "article uitnodiging-masterclass-DMARC title"
 msgstr " "
 
-msgid "news website-internet-nl-drukbezocht-na-cybertop body"
+msgid "article website-internet-nl-drukbezocht-na-cybertop body"
 msgstr " "
 
-msgid "news website-internet-nl-drukbezocht-na-cybertop date"
+msgid "article website-internet-nl-drukbezocht-na-cybertop date"
 msgstr " "
 
-msgid "news website-internet-nl-drukbezocht-na-cybertop lead"
+msgid "article website-internet-nl-drukbezocht-na-cybertop lead"
 msgstr " "
 
-msgid "news website-internet-nl-drukbezocht-na-cybertop title"
+msgid "article website-internet-nl-drukbezocht-na-cybertop title"
 msgstr " "
 
 msgid "page gotocontents"
@@ -465,10 +465,44 @@ msgstr "Wartość niedostępna"
 msgid "results explanation label"
 msgstr "Test explanation:"
 
-msgid "results further-testing label"
+msgid "results further-testing web label"
 msgstr "Further testing"
 
-msgid "results further-testing content"
+msgid "results further-testing web content"
+msgstr "- Test 1\n"
+"\n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 2\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 3 -- very very very very veryvery long title for test 3\n"
+" \n"
+"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
+"- Test 4\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)"
+
+msgid "results further-testing mail label"
+msgstr "Further testing"
+
+msgid "results further-testing mail content"
+msgstr "- Test 1\n"
+"\n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 2\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)\n"
+"- Test 3 -- very very very very veryvery long title for test 3\n"
+" \n"
+"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
+"- Test 4\n"
+" \n"
+"  [https://internet.nl](https://internet.nl/)"
+
+msgid "results further-testing connection label"
+msgstr "Further testing"
+
+msgid "results further-testing connection content"
 msgstr "- Test 1\n"
 "\n"
 "  [https://internet.nl](https://internet.nl/)\n"
