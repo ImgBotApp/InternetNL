@@ -1,1 +1,1 @@
-Controle van domein-handtekeningen?
+Domein-handtekeningen gecontroleerd?
