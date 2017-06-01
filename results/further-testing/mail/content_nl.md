@@ -4,7 +4,7 @@
 
 **DMARC, DKIM en SPF:**
 * [Mail-tester.com](https://www.mail-tester.com/)
-* DMARC Inspector(https://dmarcian.com/dmarc-inspector/)
+* [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
 
 **DANE:**
 * [DANE SMTP Validator](https://dane.sys4.de/)
