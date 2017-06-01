@@ -1,12 +1,12 @@
-- Test 1
+IPv6:
+* [IP6.nl](https://ip6.nl/)
+* [IPv6 health check](https://www.mythic-beasts.com/ipv6/health-check/)
 
-  [https://internet.nl](https://internet.nl/)
-- Test 2
+DNSSEC:
+* [DNSViz](http://dnsviz.net/)
+* [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
  
-  [https://internet.nl](https://internet.nl/)
-- Test 3 -- very very very very veryvery long title for test 3
+ HTTPS/TLS:
+ * [SSLlabs](https://www.ssllabs.com/ssltest/)
  
-  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)
-- Test 4
- 
-  [https://internet.nl](https://internet.nl/)
+
