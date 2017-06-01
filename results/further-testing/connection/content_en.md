@@ -1,5 +1,4 @@
-IPv6:
-===
+**IPv6:**
 * [IPv6 test](http://ipv6-test.com/)
 
 **HTTPS/TLS:**
