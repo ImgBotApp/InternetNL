@@ -1,1 +1,1 @@
-Check domain signatures?
+Domain signatures validated?
