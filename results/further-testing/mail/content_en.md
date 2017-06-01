@@ -1,12 +1,11 @@
-- Test 1
+**DNSSEC:**
+* [DNSViz](http://dnsviz.net/)
+* [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
 
-  [https://internet.nl](https://internet.nl/)
-- Test 2
- 
-  [https://internet.nl](https://internet.nl/)
-- Test 3 -- very very very very veryvery long title for test 3
- 
-  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)
-- Test 4
- 
-  [https://internet.nl](https://internet.nl/)
+**DMARC, DKIM en SPF:**
+* [Mail-tester.com](https://www.mail-tester.com/)
+* [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
+
+**DANE:**
+* [DANE SMTP Validator](https://dane.sys4.de/)
+* [HaveDane.net](https://havedane.net/)
