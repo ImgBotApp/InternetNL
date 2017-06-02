@@ -1,1 +1,1 @@
-Name servers’ IPv6 addresses
+IPv6-addressen voor nameservers
