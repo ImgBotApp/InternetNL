@@ -42,20 +42,23 @@ Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen c
 ## Hoe onderteken ik mijn domeinnaam met DNSSEC?
 Als jouw domeinnaam nog niet beveiligd is met DNSSEC:
 1. Vraag jouw registrar om DNSSEC op korte termijn te ondersteunen;
-2. Als hij dat niet kan, kies dan voor een registrar die wel DNSSEC ondersteunt. Voor .nl-domeinnamen zie [Registraroverzicht van SIDN](https://www.sidn.nl/registrars/?name=&country=&dnssec=true);
-3. Verhuis je domeinnaam naar een registrar naar keuze. Voor verhuizing van .nl-domeinnamen zie ["Domeinnaam verhuizen"](https://www.sidn.nl/a/nl-domeinnaam/domeinnaam-verhuizen).
+2. Als hij dat niet kan, kies dan voor een registrar die wel DNSSEC ondersteunt. Voor .nl-domeinnamen zie het [registraroverzicht](https://www.sidn.nl/registrars/?name=&country=&dnssec=true) van SIDN;
+3. Verhuis je domeinnaam naar een registrar naar keuze. Voor verhuizing van .nl-domeinnamen zie [domeinnaam verhuizen](https://www.sidn.nl/a/nl-domeinnaam/domeinnaam-verhuizen) van SIDN.
 
-De registrar is de partij die voor jou de domeinnaam heeft geregistreerd. Voor DNSSEC is ook de medewerking nodig van de beheerder van de domeinnaam-servers (oftewel nameservers). Vaak is dat de registrar, maar dat kan ook een andere partij zijn. De registrar en de domeinnamen van de namservers voor .nl-domeinen zijn in te zien via de [Whois van SIDN](https://www.sidn.nl/whois/).
+De registrar is de partij die voor jou de domeinnaam heeft geregistreerd. Voor DNSSEC is ook de medewerking nodig van de beheerder van de domeinnaam-servers (oftewel nameservers). Vaak is dat de registrar, maar dat kan ook een andere partij zijn. De registrar en de domeinnamen van de nameservers voor .nl-domeinen zijn in te zien via de [whois](https://www.sidn.nl/whois/) van SIDN.
 
 ## Hoeveel andere partijen hebben hun domeinnaam ondertekend met DNSSEC?
+Op de website van SIDN Labs wordt [bijgehouden](https://stats.sidnlabs.nl/#/dnssec) hoeveel .nl domeinnamen inmiddels zijn beveiligd met DNSSEC. Als je wilt weten of een specifieke domeinnaam beveiligd is met DNSSEC, doe dan de website- of e-mailtest op Internet.nl.
 
 # III. Voor internetgebruikers
 
 ## Hoe weet ik of domeinnaam-handtekeningen worden gecontroleerd?
+Dit kun je controleren door de verbindingentest op Internet.nl uit te voeren. Deze test controleert of de internetverbinding die je op dat moment gebruikt over een modern adres (IPv6) beschikt, en of domein-handtekeningen worden gecontroleerd (DNSSEC validatie). 
 
 ## Hoe kan ik ervoor zorgen dat domeinnaam-handtekeningen worden gecontroleerd?
 
 ## Hoeveel andere partijen controleren domeinnaam-handtekeningen?
+
 
 ***
 
