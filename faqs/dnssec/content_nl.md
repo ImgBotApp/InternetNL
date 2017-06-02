@@ -56,6 +56,7 @@ Op de website van SIDN Labs wordt [bijgehouden](https://stats.sidnlabs.nl/#/dnss
 Dit kun je controleren door de verbindingentest op Internet.nl uit te voeren. Deze test controleert of de internetverbinding die je op dat moment gebruikt over een modern adres (IPv6) beschikt, en of domein-handtekeningen worden gecontroleerd (DNSSEC validatie). 
 
 ## Hoe kan ik ervoor zorgen dat domeinnaam-handtekeningen worden gecontroleerd?
+Vraag aan je internetprovider op welke termijn deze van plan is om DNSSEC validatie toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet, of maak gebruik van een aparte DNS provider die DNSSEC validatie ondersteunt. 
 
 ## Hoeveel andere partijen controleren domeinnaam-handtekeningen?
 
