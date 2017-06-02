@@ -1,1 +1,1 @@
-TLS
+HTTPS
