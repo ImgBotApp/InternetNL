@@ -1,1 +1,1 @@
-IPv6 addresses of name servers
+IPv6 addresses for name servers
