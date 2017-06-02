@@ -1,1 +1,1 @@
-Too bad! Your website is *not* reachable for visitors using modern internet address, or improvement is possible. Therefore it is not part of the modern internet yet. You should ask your hosting provider to fully enable IPv6.
+Too bad! Your website is *not* reachable for visitors using modern internet address, or improvement is possible. Therefore this website is *not* part of the modern internet yet. You should ask your hosting provider to fully enable IPv6.
