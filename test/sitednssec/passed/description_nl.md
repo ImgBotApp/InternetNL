@@ -1,1 +1,1 @@
-Gefeliciteerd! Je domeinnaam is ondertekend met DNSSEC. Bezoekers die domeinnaam-handtekeningen controleren zijn daardoor beschermd tegen vervalste vertaling naar kwaadaardige IP-adressen.
+Gefeliciteerd! Je domeinnaam is ondertekend. Bezoekers die domeinnaam-handtekeningen controleren zijn daardoor beschermd tegen vervalste vertaling naar kwaadaardige internetadressen.
