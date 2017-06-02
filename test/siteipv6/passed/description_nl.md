@@ -1,1 +1,1 @@
-Gefeliciteerd! Je website is bereikbaar voor bezoekers die moderne internetadressen gebruiken, en daarom volledig onderdeel van het moderne internet.
+Gefeliciteerd! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daarom volledig onderdeel van het moderne internet.
