@@ -1,1 +1,1 @@
-Connection *not* or *in*sufficiently secured (HTTPS)
+Connection *not* or insufficiently secured (HTTPS)
