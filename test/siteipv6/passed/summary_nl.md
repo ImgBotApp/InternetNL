@@ -1,1 +1,1 @@
-Bereikbaar vanaf moderne internetadressen (IPv6)
+Via moderne adressen bereikbaar (IPv6)
