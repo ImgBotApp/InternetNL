@@ -39,13 +39,14 @@ Verschillende e-mailproviders (Gmail, Office 365) stellen de volgende twee eisen
 * Via een IPv6 mailserver verzonden e-mail moet óf de SPF-controle (“mag dit IP-adres mailen voor dit afzenderdomein?”) óf de DKIM-controle (“is deze mail ondertekend met de geldige digitale handtekening van dit afzenderdomein?”) succesvol doorstaan.
 
 ## Aandachtspunten implementatie
-https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2011/rapport_201102_IPv6_Case_Study_Leidraad_voor_de_invoering_van_IPv6_in_organisaties-1.pdf
-
-https://kpnlokaleoverheid.nl/wp-content/uploads/2009/03/Whitepaper-IPv6-versie-1-5-26-06-2013.pdf
+Bij kleine en eenvoudige websites hoeft de implementatie van IPv6 niet zoveel werk te zijn. Bij grote websites en complexe IT omgevingen, kan de implementatie van IPv6 een behoorlijke impact hebben. Neem ter voorbereiding op de implementatie van IPv6 de volgende documenten door: [SURFnet - leidraad voor de invoering van IPv6 in organisaties](https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2011/rapport_201102_IPv6_Case_Study_Leidraad_voor_de_invoering_van_IPv6_in_organisaties-1.pdf) en [KPN - whitepaper IPv6](https://kpnlokaleoverheid.nl/wp-content/uploads/2009/03/Whitepaper-IPv6-versie-1-5-26-06-2013.pdf).
 
 # III. Voor bezoekers/gebruikers.
 ## Hoe kom ik aan een IPV6 adres?
+Vraag aan je internetprovider of deze 
+
 ## Hoe weet ik of een domein over IPv6 communiceert.
+Dit kun je controleren door het uitvoeren van de website- of e-mailtest op Internet.nl.
 
 # Interessante bronnen
 * Pas toe of leg uit-lijst
