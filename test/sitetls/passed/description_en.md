@@ -1,3 +1,1 @@
-Congratulations; the cryptographic protection of TLS on the website is 
-strong enough. Internet connections from visitors who also use strong TLS 
-configurations are protected from eavesdropping and tampering.
+Congratulations! The connection with your website is sufficiently secured. Therefore information in transit between your website and its  visitors is protected against eavesdropping and tampering.
