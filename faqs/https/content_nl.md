@@ -15,21 +15,18 @@ Mits veilig geconfigureerd, zorgt HTTPS voor de volgende drie beveiligingsaspect
 ## Moet je HTTPS doen voor alle websites?
 Op voorhand is vaak niet te voorspellen hoe informatie wordt gebruikt en welke waarde de informatie voor de afnemer heeft. Daarom is het gebruik van HTTPS in alle gevallen verstandig.  Bij inlog- en medische gegevens is dat evident, maar er zijn ook situaties waarin bijvoorbeeld openbare informatie van cruciaal belang is. Denk bijvoorbeeld aan de agrarische sector waar besluiten worden genomen op basis van weersverwachtingen, of aan transportbedrijven die afhankelijk zijn van actuele verkeersinformatie. Ook bij het gebruik van publieke (en vaak open) Wi-Fi netwerken biedt HTTPS noodzakelijke bescherming om misbruik te voorkomen.
 
-## Hoe kan ik zien of een website HTTPS doet?
-Het gebruik van HTTPS is doorgaans te herkennen aan het slotje in de browser. Voer de website test op Internet.nl uit om het zeker te weten.
-
 ## Hoe werkt HTTPS?
 Voor het tot stand brengen van een beveiligde verbinding maakt de webclient gebruik van een certificaat dat wordt aangeboden door de webserver, en is uitgegeven door een vertrouwde certificaatinstantie. Dit certificaat bevat een zogenaamde publieke sleutel en wordt samen met de bijhorende privésleutel op de webserver, gebruikt voor het veilig uitwisselen van een sessiesleutel. Deze sessiesleutel wordt vervolgens gebruikt voor de daadwerkelijke versleuteling van de verbinding tussen de webclient en de webserver.
 
 ## Waarom is het belangrijk om HTTPS veilig in te stellen?
 Onder de oppervlakte kan voor het toepassen van een versleutelde HTTPS verbinding, gebruik worden gemaakt van verschillende versies van het TLS- of SSL-protocol en verschillende versleutelingsstandaarden. Aangezien niet alle versies en combinaties als voldoende veilig worden beschouwd, is het belangrijk om hierin de juiste keuze te maken en ook regelmatig te controleren of de gebruikte instellingen nog veilig zijn. Een foutieve toepassing van HTTPS kan immers net zo onveilig zijn als het gebruik van HTTP zonder TLS.
 
+# II. Voor eigenaren/beheerder van websites
+
 ## Maakt HTTPS mijn website trager?
 De toevoeging van TLS aan HTTP zorgt ervoor dat er meer data wordt verzonden tussen de client en de server. Ook kan de belasting van zowel de server als de client als gevolg van HTTPS toenemen vanwege de cryptografische berekeningen. Aan de serverkant is dit bij kleinere websites en IT omgevingen te verwaarlozen, maar in het geval van grote en complexe IT omgevingen kan deze impact aanzienlijk zijn. Ondanks het feit dat servers steeds krachtiger worden, komt het nog steeds voor dat er specialistische apparatuur wordt gebruikt om de serverbelasting van TLS te verplaatsen (ook wel 'offloaden' en/of 'onloaden' genoemd) van een (web)server naar een hiervoor geoptimaliseerd apparaat. 
 
 Zoals eerder beschreven op deze pagina, biedt het gebruik van HTTP/2 verschillende voordelen voor de snelheid waarmee websites over HTTPS worden geladen in browsers (client zijde). 
-
-# II. Voor eigenaren/beheerder van websites
 
 ## Hoe kan ik HTTPS implementeren?
 Voor het toepassen van HTTPS in de praktijk, kunnen (afhankelijk van de context) de volgende stappen worden gezet:
@@ -56,6 +53,9 @@ b. betrouwbare versleutelingsalgorimen
 * Kijk uit met het gebruik van certificaten op meerdere plaatsen. Voorkom dat certificaten in meerdere type omgevingen (OTAP) worden gebruikt. Dit verkleint de impact op het vervangen van een certificaat.
 
 # III. Voor bezoekers van websites
+
+## Hoe kan ik zien of een website HTTPS doet?
+Het gebruik van HTTPS is doorgaans te herkennen aan het slotje in de browser. Voer de website test op Internet.nl uit om het zeker te weten.
 
 ## Aandachtspunten gebruik
 * Aanvullende standaarden die afhankelijk zijn van caching bij de webclient (HSTS, HPKP) verliezen hun werking wanneer de webbrowser is ingesteld in de privémodus, of wanneer de browser geschiedenis wordt gewist. Dit geldt ook voor organisaties die medewerkers iedere dag van een “schone” installatie van hun werkplek voorzien.
