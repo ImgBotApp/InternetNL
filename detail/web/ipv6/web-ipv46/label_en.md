@@ -1,1 +1,1 @@
-IPv4/IPv6 website difference
+Same IPv6 and IPv4 website
