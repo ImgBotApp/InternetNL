@@ -738,7 +738,7 @@ msgid "results domain ipv6 web-server label"
 msgstr "Web server"
 
 msgid "results domain tls https label"
-msgstr "HTTP(S)"
+msgstr "HTTP"
 
 msgid "results domain tls tls label"
 msgstr "TLS"
@@ -1318,7 +1318,7 @@ msgid "test sitetls failed summary"
 msgstr "Połączenie nie jest chronione, lub jest chronione niedostatecznienie (TLS)"
 
 msgid "test sitetls label"
-msgstr "TLS"
+msgstr "HTTPS"
 
 msgid "test sitetls passed description"
 msgstr "Gratulacje; ochrona kryptograficzna TLS na stronie internetowej jest \n"

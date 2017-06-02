@@ -213,7 +213,7 @@ msgid "base test mail label"
 msgstr "Test je e-mail"
 
 msgid "base test mail text"
-msgstr "Modern adres? Ondertekend domein? Anti-phishing? Versleuteld transport?"
+msgstr "Modern adres? Ondertekend domein? Anti-phishing? Beveiligd transport?"
 
 msgid "base test mail title"
 msgstr "Doe de e-mail-test"
@@ -236,7 +236,7 @@ msgid "base test website label"
 msgstr "Test je website"
 
 msgid "base test website text"
-msgstr "Modern adres? Ondertekend domein? Versleutelde verbinding?"
+msgstr "Modern adres? Ondertekend domein? Beveiligde verbinding?"
 
 msgid "base test website title"
 msgstr "Over de websitetest"
@@ -886,7 +886,7 @@ msgid "detail web dnssec exists exp"
 msgstr "We check if there are DNSSEC records."
 
 msgid "detail web dnssec exists label"
-msgstr "DNSSEC existence"
+msgstr "DNSSEC aanwezig"
 
 msgid "detail web dnssec exists tech table"
 msgstr "Domain|Registrar"
@@ -908,7 +908,7 @@ msgid "detail web dnssec valid exp"
 msgstr "We check if the DNSSEC records are valid."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC validation"
+msgstr "DNSSEC valide"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domain|Status"
@@ -924,7 +924,7 @@ msgid "detail web ipv6 web-AAAA exp"
 msgstr "We check if there is at least 1 AAAA record."
 
 msgid "detail web ipv6 web-AAAA label"
-msgstr "Web servers’ IPv6 addresses"
+msgstr "IPv6-adressen voor webserver"
 
 msgid "detail web ipv6 web-AAAA tech table"
 msgstr "Web server|IPv6|IPv4"
@@ -940,7 +940,7 @@ msgstr "We compare the served content of the web server on both Ipv4 and Ipv6 an
 " accept a difference of at most 10%."
 
 msgid "detail web ipv6 web-ipv46 label"
-msgstr "IPv4/IPv6 website difference"
+msgstr "Gelijke website op IPv6 en IPv4"
 
 msgid "detail web ipv6 web-ipv46 verdict bad"
 msgstr "The websites at IPv4 and IPv6 seem to be different."
@@ -952,7 +952,7 @@ msgid "detail web ipv6 web-reach exp"
 msgstr "We check if we can contact the web server over IPv6."
 
 msgid "detail web ipv6 web-reach label"
-msgstr "Web servers’ IPv6 reachability"
+msgstr "IPv6 bereikbaarheid van webserver"
 
 msgid "detail web ipv6 web-reach tech table"
 msgstr "Web server|Unreachable IPv6"
@@ -1145,7 +1145,7 @@ msgid "detail web-mail ipv6 ns-AAAA exp"
 msgstr "We check for at least 2 AAAA name servers."
 
 msgid "detail web-mail ipv6 ns-AAAA label"
-msgstr "Name servers’ IPv6 addresses"
+msgstr "IPv6-addressen voor nameservers"
 
 msgid "detail web-mail ipv6 ns-AAAA tech table"
 msgstr "Name server|IPv6|IPv4"
@@ -1163,7 +1163,7 @@ msgid "detail web-mail ipv6 ns-reach exp"
 msgstr "We check if we can contact all IPv6 enabled name servers over IPv6."
 
 msgid "detail web-mail ipv6 ns-reach label"
-msgstr "Name servers’ IPv6 reachability"
+msgstr "IPv6-bereikbaarheid van nameservers"
 
 msgid "detail web-mail ipv6 ns-reach tech table"
 msgstr "Name server|Unreachable IPv6"
@@ -1401,7 +1401,7 @@ msgstr "# Veelgestelde vragen\n"
 "* [Phishingprotectie (DMARC+DKIM+SPF)](/faqs/mailauth/)\n"
 "* [Versleuteld transport (STARTTLS en DANE)](/faqs/starttls/)\n"
 "\n"
-"## Verbindingtest\n"
+"## Verbindingstest\n"
 "* [Bereikbaarheid moderne adressen (IPv6)](/faqs/ipv6/)\n"
 "* [Controle van domein-handtekeningen (DNSSEC)](/faqs/dnssec/)"
 
@@ -2520,7 +2520,7 @@ msgid "results domain ipv6 web-server label"
 msgstr "Webserver"
 
 msgid "results domain tls https label"
-msgstr "HTTP(S)"
+msgstr "HTTP"
 
 msgid "results domain tls tls label"
 msgstr "TLS"
@@ -2586,7 +2586,7 @@ msgid "results mail ipv6 mail-servers label"
 msgstr "Mailserver(s)"
 
 msgid "results mail tls starttls label"
-msgstr "TLS"
+msgstr "STARTTLS"
 
 msgid "results no-icon-status failed"
 msgstr "Gezakt"
@@ -3107,75 +3107,58 @@ msgid "test mailtls title"
 msgstr "Beveiligde verbinding inkomende mail?"
 
 msgid "test sitednssec failed description"
-msgstr "Helaas; deze domeinnaam maakt <strong>geen</strong> gebruik van DNSSEC of niet\n"
-"alles is correct ingesteld. Bezoekers van deze domeinnaam zijn nu\n"
-"<strong>niet</strong> beschermd tegen omleiding naar valse IP-adressen.\n"
-"\n"
-"Vraag je hosting provider om DNSSEC op te zetten of de problemen in de\n"
-"configuratie op te lossen."
+msgstr "Helaas! Je domeinnaam is *niet* digitaal ondertekend. Bezoekers voor wie domeinnaam-handtekeningen worden gecontroleerd, zijn daardoor helaas *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen. Vraag je registrar (vaak je hosting provider) om DNSSEC te activeren."
 
 msgid "test sitednssec failed summary"
-msgstr "<strong>Niet</strong> beschermd tegen omleiding naar valse IP-adressen \n"
-"(DNSSEC)"
+msgstr "Domeinnaam *niet* ondertekend (DNSSEC)"
 
 msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Gefeliciteerd; deze domeinnaam maakt gebruik van DNSSEC. Bezoekers die zelf \n"
-"ook DNSSEC aan hun kant gebruiken zijn hiermee beschermd tegen omleiding \n"
-"naar valse IP-adressen."
+msgstr "Gefeliciteerd! Je domeinnaam is digitaal ondertekend. Bezoekers voor wie domeinnaam-handtekeningen worden gecontroleerd, zijn daardoor beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
 
 msgid "test sitednssec passed summary"
-msgstr "Beschermd tegen omleiding naar valse IP-adressen (DNSSEC)"
+msgstr "Domeinnaam ondertekend (DNSSEC)"
 
 msgid "test sitednssec title"
-msgstr "Ondertekend domein?"
+msgstr "Domeinnaam ondertekend?"
 
 msgid "test siteipv6 failed description"
-msgstr "Helaas! Deze website is *niet* toegankelijk voor bezoekers met moderne IPv6-adressen, of er is verbetering mogelijk. Vraag je hosting provider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Je website is *niet* bereikbaar voor bezoekers die moderne internetadressen gebruiken, of er is verbetering mogelijk. Deze website  maakt daardoor nog *geen* onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten."
 
 msgid "test siteipv6 failed summary"
-msgstr "*Niet* toegankelijk via modern adres, of verbetering mogelijk (IPv6)"
+msgstr "Via modern adres *niet* bereikbaar *of* verbetering mogelijk (IPv6)"
 
 msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Gefeliciteerd! Deze website biedt toegang voor bezoekers met moderne IPv6-adressen. Daarmee is deze website volledig onderdeel van het moderne internet."
+msgstr "Gefeliciteerd! Je website is bereikbaar voor bezoekers die moderne internetadressen gebruiken, en daarom volledig onderdeel van het moderne internet."
 
 msgid "test siteipv6 passed summary"
-msgstr "Toegankelijk vanaf moderne internetadressen (IPv6)"
+msgstr "Via moderne adressen bereikbaar (IPv6)"
 
 msgid "test siteipv6 title"
-msgstr "Modern adres?"
+msgstr "Via modern adres bereikbaar?"
 
 msgid "test sitetls failed description"
-msgstr "Helaas; de cryptografische bescherming van TLS op de website is\n"
-"<strong>afwezig</strong> of <strong>niet</strong> sterk genoeg, of niet alles\n"
-"is correct ingesteld. Verbindingen van bezoekers zouden kunnen worden\n"
-"afgeluisterd of aangepast door kwaadwillenden.\n"
-"\n"
-"Vraag je hosting provider om TLS aan te zetten of de problemen in de\n"
-"configuratie op te lossen."
+msgstr "Helaas! De verbinding met je website is *niet* of *on*voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor *niet* beschermd tegen afluisteren en manipulatie. Vraag je hostingprovider om HTTPS aan te zetten en veilig te configureren."
 
 msgid "test sitetls failed summary"
-msgstr "Verbinding <strong>niet/onvoldoende</strong> beveiligd (TLS)"
+msgstr "Verbinding *niet* of *on*voldoende beveiligd (HTTPS)"
 
 msgid "test sitetls label"
-msgstr "TLS"
+msgstr "HTTPS"
 
 msgid "test sitetls passed description"
-msgstr "Gefeliciteerd; de cryptografische instellingen van TLS op de website zijn \n"
-"voldoende sterk. Verbindingen van bezoekers die zelf ook goede TLS-\n"
-"instellingen gebruiken kunnen niet worden afgeluisterd of aangepast door \n"
-"kwaadwillenden."
+msgstr "Gefeliciteerd! De verbinding met je website is voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor beschermd tegen afluisteren en manipulatie."
 
 msgid "test sitetls passed summary"
-msgstr "Voldoende beveiligde verbinding (TLS)"
+msgstr "Verbinding voldoende beveiligd (HTTPS)"
 
 msgid "test sitetls title"
-msgstr "Versleutelde verbinding?"
+msgstr "Beveiligde verbinding?"
 
 msgid "home stats header"
 msgstr "Statistieken"

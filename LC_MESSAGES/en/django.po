@@ -167,7 +167,7 @@ msgid "base test mail label"
 msgstr "Test your email"
 
 msgid "base test mail text"
-msgstr "Modern address? Signed domain? Anti-phishing? Encrypted transport?"
+msgstr "Modern address? Signed domain? Anti-phishing? Secure transport?"
 
 msgid "base test mail title"
 msgstr "Do the e-mail test"
@@ -190,7 +190,7 @@ msgid "base test website label"
 msgstr "Test your website"
 
 msgid "base test website text"
-msgstr "Modern address? Signed domain? Encrypted connection?"
+msgstr "Modern address? Signed domain? Secure connection?"
 
 msgid "base test website title"
 msgstr "About the website test"
@@ -859,7 +859,7 @@ msgid "detail web dnssec valid exp"
 msgstr "We check if the DNSSEC records are valid."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC validation"
+msgstr "DNSSEC valid"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domain|Status"
@@ -875,7 +875,7 @@ msgid "detail web ipv6 web-AAAA exp"
 msgstr "We check if there is at least 1 AAAA record."
 
 msgid "detail web ipv6 web-AAAA label"
-msgstr "Web servers’ IPv6 addresses"
+msgstr "IPv6 addresses for web server"
 
 msgid "detail web ipv6 web-AAAA tech table"
 msgstr "Web server|IPv6|IPv4"
@@ -891,7 +891,7 @@ msgstr "We compare the served content of the web server on both Ipv4 and Ipv6 an
 " accept a difference of at most 10%."
 
 msgid "detail web ipv6 web-ipv46 label"
-msgstr "IPv4/IPv6 website difference"
+msgstr "Same website on IPv6 and IPv4"
 
 msgid "detail web ipv6 web-ipv46 verdict bad"
 msgstr "The websites at IPv4 and IPv6 seem to be different."
@@ -903,7 +903,7 @@ msgid "detail web ipv6 web-reach exp"
 msgstr "We check if we can contact the web server over IPv6."
 
 msgid "detail web ipv6 web-reach label"
-msgstr "Web servers’ IPv6 reachability"
+msgstr "IPv6 reachability of web server"
 
 msgid "detail web ipv6 web-reach tech table"
 msgstr "Web server|Unreachable IPv6"
@@ -1096,7 +1096,7 @@ msgid "detail web-mail ipv6 ns-AAAA exp"
 msgstr "We check for at least 2 AAAA name servers."
 
 msgid "detail web-mail ipv6 ns-AAAA label"
-msgstr "Name servers’ IPv6 addresses"
+msgstr "IPv6 addresses for name servers"
 
 msgid "detail web-mail ipv6 ns-AAAA tech table"
 msgstr "Name server|IPv6|IPv4"
@@ -1114,7 +1114,7 @@ msgid "detail web-mail ipv6 ns-reach exp"
 msgstr "We check if we can contact all IPv6 enabled name servers over IPv6."
 
 msgid "detail web-mail ipv6 ns-reach label"
-msgstr "Name servers’ IPv6 reachability"
+msgstr "IPv6 reachability of name servers"
 
 msgid "detail web-mail ipv6 ns-reach tech table"
 msgstr "Name server|Unreachable IPv6"
@@ -1970,7 +1970,7 @@ msgid "results domain ipv6 web-server label"
 msgstr "Web server"
 
 msgid "results domain tls https label"
-msgstr "HTTP(S)"
+msgstr "HTTP"
 
 msgid "results domain tls tls label"
 msgstr "TLS"
@@ -2036,7 +2036,7 @@ msgid "results mail ipv6 mail-servers label"
 msgstr "Mail server(s)"
 
 msgid "results mail tls starttls label"
-msgstr "TLS"
+msgstr "STARTTLS"
 
 msgid "results no-icon-status failed"
 msgstr "Failed"
@@ -2549,73 +2549,58 @@ msgid "test mailtls title"
 msgstr "Secure connection incoming mail?"
 
 msgid "test sitednssec failed description"
-msgstr "Unfortunately, this domain name does <strong>not</strong> use DNSSEC or there\n"
-"is an error in its configuration. Users of this domain name are currently\n"
-"<strong>not</strong> protected from being redirected to false IP addresses.\n"
-"\n"
-"You should ask your hosting provider to set up DNSSEC or to fix the issues in\n"
-"its configuration."
+msgstr "Too bad! Your domain name is *not* digitally signed. Visitors for whom domain signatures are validated, are *not* protected against manipulated translation from your domain name into rogue internet addresses. You should ask your registrar (often your hosting provider) to enable DNSSEC."
 
 msgid "test sitednssec failed summary"
-msgstr "<strong>Not</strong> protected from redirection to false IP addresses \n"
-"(DNSSEC)"
+msgstr "Domain name *not* signed (DNSSEC)"
 
 msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Congratulations; this domain name uses DNSSEC. Visitors who also use DNSSEC \n"
-"at their side are protected from being redirected to false IP addresses."
+msgstr "Congratulations! Your domain name is digitally signed. Visitors for whom domain signatures are validated, are protected against manipulated translation from your domain name into rogue internet addresses."
 
 msgid "test sitednssec passed summary"
 msgstr "Protected from redirection to false IP addresses (DNSSEC)"
 
 msgid "test sitednssec title"
-msgstr "Signed domain?"
+msgstr "Domain name signed?"
 
 msgid "test siteipv6 failed description"
-msgstr "Too bad! Your website is *not* reachable by visitors using modern IPv6 addresses, or improvement is possible. You should ask your hosting provider to fully enable IPv6."
+msgstr "Too bad! Your website is *not* reachable for visitors using modern internet address, or improvement is possible. Therefore this website is *not* part of the modern internet yet. You should ask your hosting provider to fully enable IPv6."
 
 msgid "test siteipv6 failed summary"
-msgstr "*Not* reachable on modern address, or improvement possible (IPv6)"
+msgstr "Via modern address *not* reachable *or* improvement possible (IPv6)"
 
 msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Congratulations! This website can be reached by visitors using modern IPv6 addresses, making it fully part of the modern Internet."
+msgstr "Congratulations! Your website is reachable for visitors using modern internet addresses, making it fully part of the modern Internet."
 
 msgid "test siteipv6 passed summary"
-msgstr "Reachable from modern internet addresses (IPv6)"
+msgstr "Via modern internet addresses reachable (IPv6)"
 
 msgid "test siteipv6 title"
-msgstr "Modern address?"
+msgstr "Via modern address reachable?"
 
 msgid "test sitetls failed description"
-msgstr "Unfortunately, the cryptographic protection of TLS on the website is\n"
-"<strong>absent</strong> or <strong>not</strong> strong enough, or there is an\n"
-"error in its configuration. Attackers may eavesdrop on or tamper with\n"
-"connections from visitors.\n"
-"\n"
-"You should ask your hosting provider to enable TLS or to fix the issues in its\n"
-"configuration."
+msgstr "Too bad! The connection with your website is *not* or *in*sufficiently secured. Therefore information in transit between your website and its  visitors is *not* protected against eavesdropping and tampering. You should ask your hosting provider to enable HTTPS and configure it securely."
 
 msgid "test sitetls failed summary"
-msgstr "Connection <strong>not/insufficiently</strong> protected (TLS)"
+msgstr "Connection *not* or *in*sufficiently secured (HTTPS)"
 
 msgid "test sitetls label"
-msgstr "TLS"
+msgstr "HTTPS"
 
 msgid "test sitetls passed description"
-msgstr "Congratulations; the cryptographic protection of TLS on the website is \n"
-"strong enough. Internet connections from visitors who also use strong TLS \n"
-"configurations are protected from eavesdropping and tampering."
+msgstr "Congratulations! The connection with your website is sufficiently secured. Therefore information in transit between your website and its  visitors is protected against eavesdropping and tampering."
 
 msgid "test sitetls passed summary"
-msgstr "Adequately protected connection (TLS)"
+msgstr "Connection sufficiently secured (HTTPS)"
 
 msgid "test sitetls title"
-msgstr "Encrypted connection?"
+msgstr "Secure connection?"
 
 msgid "home stats header"
 msgstr "Statistics"
