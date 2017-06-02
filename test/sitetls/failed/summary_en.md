@@ -1,1 +1,1 @@
-Connection <strong>not/insufficiently</strong> protected (TLS)
+Connection not or insufficiently secure (HTTPS)
