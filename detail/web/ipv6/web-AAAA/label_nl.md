@@ -1,1 +1,1 @@
-IPv6 adressen voor webserver
+IPv6-adressen voor webserver
