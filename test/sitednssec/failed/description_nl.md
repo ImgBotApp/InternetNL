@@ -1,6 +1,1 @@
-Helaas; deze domeinnaam maakt <strong>geen</strong> gebruik van DNSSEC of niet
-alles is correct ingesteld. Bezoekers van deze domeinnaam zijn nu
-<strong>niet</strong> beschermd tegen omleiding naar valse IP-adressen.
-
-Vraag je hosting provider om DNSSEC op te zetten of de problemen in de
-configuratie op te lossen.
+Helaas! Je domeinnaam is *niet* digitaal ondertekend. Bezoekers voor wie domeinnaam-handtekeningen worden gecontroleerd, zijn daardoor helaas *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar een kwaadaardige internetadres. Vraag je technisch domeinnaam-beheerder (vaak je hosting provider) om DNSSEC te activeren.
