@@ -1,1 +1,1 @@
-Name servers’ IPv6 reachability
+IPv6 reachability of name servers
