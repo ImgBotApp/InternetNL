@@ -1,1 +1,1 @@
-*Not* reachable on modern address *or* improvement possible (IPv6)
+Via modern address *not* reachable *or* improvement possible (IPv6)
