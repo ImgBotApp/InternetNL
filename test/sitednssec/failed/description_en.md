@@ -1,1 +1,1 @@
-Too bad! Your domain name is *not* digitally signed. Visitors for whom domain signatures are validated, are *not* protected against manipulated translation from your domain name into a rogue internet address. You should ask your registrar (often your hosting provider) to enable DNSSEC.
+Too bad! Your domain name is *not* digitally signed. Visitors for whom domain signatures are validated, are *not* protected against manipulated translation from your domain name into rogue internet addresses. You should ask your registrar (often your hosting provider) to enable DNSSEC.
