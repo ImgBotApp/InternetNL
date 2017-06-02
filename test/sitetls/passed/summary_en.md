@@ -1,1 +1,1 @@
-Connection sufficiently secured (HTTPS)
+Connection sufficiently secure (HTTPS)
