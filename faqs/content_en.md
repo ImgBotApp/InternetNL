@@ -1,11 +1,16 @@
-# Frequently Asked Questions
+# Veelgestelde vragen
 
-If you have a question about the internet standards promoted
-here, you most likely will find an answer in the &quot;Frequently Asked
-Questions&quot;:
+## Websitetest
+* [Modern adres (IPv6)](/faqs/ipv6/)
+* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
+* [Versleutelde verbinding (HTTPS, HSTS en DANE)](/faqs/https/)
 
-- [IPv6](/faqs/ipv6/)
-- [DNSSEC](/faqs/dnssec/)
-- [HTTPS](/faqs/https/)
-- [SPF, DKIM and DMARC](/faqs/mailauth/)
-- [STARTTLS and DANE](/faqs/starttls/)
+## Mailtest
+* [Modern adres (IPv6)](/faqs/ipv6/)
+* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
+* [Phishingprotectie (DMARC+DKIM+SPF)](/faqs/mailauth/)
+* [Versleuteld transport (STARTTLS en DANE)](/faqs/starttls/)
+
+## Verbindingtest
+* [Bereikbaarheid moderne adressen (IPv6)](/faqs/ipv6/)
+* [Controle van domein-handtekeningen (DNSSEC)](/faqs/dnssec/)
