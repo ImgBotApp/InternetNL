@@ -1,1 +1,1 @@
-Voldoende beveiligde verbinding (TLS)
+Verbinding voldoende beveiligd (HTTPS)
