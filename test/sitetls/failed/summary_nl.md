@@ -1,1 +1,1 @@
-Verbinding *niet* of *on*voldoende beveiligd (HTTPS)
+Verbinding *niet* of onvoldoende beveiligd (HTTPS)
