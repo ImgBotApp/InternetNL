@@ -1,1 +1,1 @@
-Web servers’ IPv6 reachability
+IPv6 reachability of web server
