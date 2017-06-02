@@ -1,1 +1,1 @@
-Gefeliciteerd! Je domeinnaam is digitaal ondertekend. Bezoekers die domeinnaam-handtekeningen controleren, zijn daardoor beschermd tegen vervalste vertaling naar kwaadaardige internetadressen.
+Gefeliciteerd! Je domeinnaam is digitaal ondertekend. Bezoekers voor wie domeinnaam-handtekeningen worden gecontroleerd, zijn daardoor beschermd tegen vervalste vertaling naar kwaadaardige internetadressen.
