@@ -1341,14 +1341,55 @@ msgstr "The%20website%20{{report.domain}}%20scores%20{{score}}%25%20in%20the%20w
 msgid "faqs content"
 msgstr "# Frequently Asked Questions\n"
 "\n"
-"If you have a question about the [internet standards](/standards/) promoted\n"
+"If you have a question about the internet standards promoted\n"
 "here, you most likely will find an answer in the &quot;Frequently Asked\n"
 "Questions&quot;:\n"
 "\n"
 "- [IPv6](/faqs/ipv6/)\n"
 "- [DNSSEC](/faqs/dnssec/)\n"
-"- [TLS](/faqs/tls/)\n"
-"- [DKIM, SPF and DMARC](/faqs/mail/)"
+"- [HTTPS](/faqs/https/)\n"
+"- [SPF, DKIM and DMARC](/faqs/mailauth/)\n"
+"- [STARTTLS and DANE](/faqs/starttls/)"
+
+#, md-format
+msgid "faqs ipv6 content"
+msgstr " "
+
+#, md-format
+msgid "faqs ipv6 title"
+msgstr "IPv6"
+
+#, md-format
+msgid "faqs dnssec content"
+msgstr " "
+
+#, md-format
+msgid "faqs dnssec title"
+msgstr "DNSSEC"
+
+#, md-format
+msgid "faqs https content"
+msgstr " "
+
+#, md-format
+msgid "faqs https title"
+msgstr "HTTPS"
+
+#, md-format
+msgid "faqs mailauth content"
+msgstr " "
+
+#, md-format
+msgid "faqs mailauth title"
+msgstr "SPF DKIM DMARC"
+
+#, md-format
+msgid "faqs starttls content"
+msgstr " "
+
+#, md-format
+msgid "faqs starttls title"
+msgstr "STARTTLS and DANE"
 
 #, md-format
 msgid "halloffame teaser"
@@ -1371,7 +1412,7 @@ msgid "mail title"
 msgstr "Email test: {{prettyaddr}}"
 
 msgid "mail tweetmessage"
-msgstr "The%20email%20service%20at%20{{report.domain}}%20scores%20{{score}}%25%20in%20the%20email%20test%20of%20%40Internet_nl%3A"
+msgstr "The%20mail%20server%20at%20{{report.domain}}%20scores%20{{score}}%25%20in%20the%20email%20test%20of%20%40Internet_nl%3A"
 
 msgid "article .index"
 msgstr "internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee\n"
@@ -1707,55 +1748,40 @@ msgid "results explanation label"
 msgstr "Test explanation:"
 
 msgid "results further-testing web label"
-msgstr "Further testing"
+msgstr "Further website testing"
 
 msgid "results further-testing web content"
-msgstr "- Test 1\n"
-"\n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 2\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 3 -- very very very very veryvery long title for test 3\n"
-" \n"
-"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
-"- Test 4\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)"
+msgstr "- **IPv6:** \n"
+"  - [IP6.nl](https://ip6.nl/)\n"
+"  - [IPv6 health check](https://www.mythic-beasts.com/ipv6/health-check/) \n"
+"- **DNSSEC:**\n"
+"  - [DNSViz](http://dnsviz.net/)\n"
+"  - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/) \n"
+"- **HTTPS/TLS:**\n"
+"  - [SSLlabs](https://www.ssllabs.com/ssltest/)"
 
 msgid "results further-testing mail label"
-msgstr "Further testing"
+msgstr "Further email testing"
 
 msgid "results further-testing mail content"
-msgstr "- Test 1\n"
-"\n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 2\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 3 -- very very very very veryvery long title for test 3\n"
-" \n"
-"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
-"- Test 4\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)"
+msgstr "- **DNSSEC:**\n"
+"  - [DNSViz](http://dnsviz.net/)\n"
+"  - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)\n"
+"- **DMARC, DKIM en SPF:**\n"
+"  - [Mail-tester.com](https://www.mail-tester.com/)\n"
+"  - [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)\n"
+"- **DANE:**\n"
+"  - [DANE SMTP Validator](https://dane.sys4.de/)\n"
+"  - [HaveDane.net](https://havedane.net/)"
 
 msgid "results further-testing connection label"
-msgstr "Further testing"
+msgstr "Further connection testing"
 
 msgid "results further-testing connection content"
-msgstr "- Test 1\n"
-"\n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 2\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)\n"
-"- Test 3 -- very very very very veryvery long title for test 3\n"
-" \n"
-"  [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
-"- Test 4\n"
-" \n"
-"  [https://internet.nl](https://internet.nl/)"
+msgstr "- **IPv6:**\n"
+"  - [IPv6 test](http://ipv6-test.com/)\n"
+"- **HTTPS/TLS:**\n"
+"  - [SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)"
 
 msgid "results mail dnssec domain label"
 msgstr "Email adress domain"
@@ -2168,7 +2194,7 @@ msgid "test connresolver passed summary"
 msgstr "Domain signatures validated (DNSSEC)"
 
 msgid "test connresolver title"
-msgstr "Check domain signatures?"
+msgstr "Domain signatures validated?"
 
 msgid "test error summary"
 msgstr "<strong>Error</strong> during execution!"
@@ -2364,7 +2390,7 @@ msgid "home stats website-items"
 msgstr "websites"
 
 msgid "home stats mail-items"
-msgstr "email services"
+msgstr "mail servers"
 
 msgid "home stats connection-items"
 msgstr "connections"
