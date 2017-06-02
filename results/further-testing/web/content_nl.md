@@ -4,5 +4,6 @@
 - **DNSSEC:**
   - [DNSViz](http://dnsviz.net/)
   - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
-- **HTTPS/TLS:**
+- **HTTPS:**
   - [SSLlabs](https://www.ssllabs.com/ssltest/)
+  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
