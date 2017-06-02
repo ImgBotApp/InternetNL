@@ -1,1 +1,1 @@
-Web servers’ IPv6 addresses
+IPv6 addresses of web server
