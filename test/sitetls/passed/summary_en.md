@@ -1,1 +1,1 @@
-Adequately protected connection (TLS)
+Connection sufficiently secured (HTTPS)
