@@ -1,1 +1,1 @@
-Gefeliciteerd! De verbinding met je website is voldoende beveiligd. Met bezoekers uitgewisselde gegevens kunnen daardoor onderweg niet  door kwaadwillenden worden onderschept of aangepast.
+Gefeliciteerd! De verbinding met je website is voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor beschermd tegen afluisteren en manipulatie.
