@@ -1,1 +1,1 @@
-Signed domain?
+Domain name signed?
