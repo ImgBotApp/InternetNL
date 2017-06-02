@@ -64,6 +64,5 @@ Het gebruik van HTTPS is doorgaans te herkennen aan het slotje in de browser. Vo
 * ICT-beveiligingsrichtlijnen voor Webapplicaties (NCSC)
 * ICT-beveiligingsrichtlijnen voor TLS (NCSC)
 * Factsheet Veilig beheer van digitale certificaten (NCSC)
-* Pas toe of leg uit-lijst
 * https://www.ibdgemeenten.nl/3619-2/
 * https://scotthelme.co.uk/still-think-you-dont-need-https/
