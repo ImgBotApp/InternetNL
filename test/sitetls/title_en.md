@@ -1,1 +1,1 @@
-Encrypted connection?
+Secure connection?
