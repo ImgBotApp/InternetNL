@@ -1,1 +1,1 @@
-Modern address? Signed domain? Anti-phishing? Encrypted transport?
+Modern address? Signed domain? Anti-phishing? Secure transport?
