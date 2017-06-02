@@ -1,1 +1,1 @@
-Verbinding <strong>niet/onvoldoende</strong> beveiligd (TLS)
+Verbinding niet of onvoldoende beveiligd (HTTPS)
