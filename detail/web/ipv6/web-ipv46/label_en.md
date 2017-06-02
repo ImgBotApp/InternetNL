@@ -1,1 +1,1 @@
-Same IPv6 and IPv4 website
+Same website on IPv6 and IPv4
