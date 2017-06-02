@@ -43,11 +43,10 @@ Bij kleine en eenvoudige websites hoeft de implementatie van IPv6 niet zoveel we
 
 # III. Voor bezoekers/gebruikers.
 ## Hoe kom ik aan een IPV6 adres?
-Vraag aan je internetprovider of deze 
+Vraag aan je internetprovider op welke termijn deze van plan is om IPv6 toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet.
 
 ## Hoe weet ik of een domein over IPv6 communiceert.
 Dit kun je controleren door het uitvoeren van de website- of e-mailtest op Internet.nl.
 
-# Interessante bronnen
-* Pas toe of leg uit-lijst
-* Deze eisen zijn gebaseerd op de best practice 'Policy Issues for Receiving Email in a World with IPv6 Hosts' van M³AAWG: https://www.m3aawg.org/sites/default/files/document/M3AAWG_Inbound_IPv6_Policy_Issues-2014-09.pdf
+# Meer informatie
+* [Policy Issues for Receiving Email in a World with IPv6 Hosts](https://www.m3aawg.org/sites/default/files/document/M3AAWG_Inbound_IPv6_Policy_Issues-2014-09.pdf) van M³AAWG
