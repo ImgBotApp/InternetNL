@@ -60,7 +60,7 @@ Het gebruik van HTTPS is doorgaans te herkennen aan het slotje in de browser. Vo
 ## Aandachtspunten gebruik
 * Aanvullende standaarden die afhankelijk zijn van caching bij de webclient (HSTS, HPKP) verliezen hun werking wanneer de webbrowser is ingesteld in de privémodus, of wanneer de browser geschiedenis wordt gewist. Dit geldt ook voor organisaties die medewerkers iedere dag van een “schone” installatie van hun werkplek voorzien.
 
-# Interessante bronnen
+# Meer informatie
 * ICT-beveiligingsrichtlijnen voor Webapplicaties (NCSC)
 * ICT-beveiligingsrichtlijnen voor TLS (NCSC)
 * Factsheet Veilig beheer van digitale certificaten (NCSC)
