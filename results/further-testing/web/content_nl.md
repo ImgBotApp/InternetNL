@@ -6,4 +6,4 @@
   - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
 - **HTTPS:**
   - [SSLlabs](https://www.ssllabs.com/ssltest/)
-  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
+  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
