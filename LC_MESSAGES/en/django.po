@@ -2000,8 +2000,9 @@ msgstr "- **IPv6:** \n"
 "- **DNSSEC:**\n"
 "  - [DNSViz](http://dnsviz.net/)\n"
 "  - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/) \n"
-"- **HTTPS/TLS:**\n"
-"  - [SSLlabs](https://www.ssllabs.com/ssltest/)"
+"- **HTTPS:**\n"
+"  - [SSLlabs](https://www.ssllabs.com/ssltest/)\n"
+"  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)"
 
 msgid "results further-testing mail label"
 msgstr "Further email testing"
@@ -2549,7 +2550,7 @@ msgid "test mailtls title"
 msgstr "Secure connection incoming mail?"
 
 msgid "test sitednssec failed description"
-msgstr "Too bad! Your domain name is *not* digitally signed. Visitors for whom domain signatures are validated, are *not* protected against manipulated translation from your domain name into rogue internet addresses. You should ask your registrar (often your hosting provider) to enable DNSSEC."
+msgstr "Too bad! Your domain is *not* digitally signed. Therefore visitors who let their providers and/or local systems validate domain signatures, are *not* protected against manipulated translation from your domain into rogue internet addresses. You should ask your registrar (often your hosting provider) to enable DNSSEC."
 
 msgid "test sitednssec failed summary"
 msgstr "Domain name *not* signed (DNSSEC)"
@@ -2558,7 +2559,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Congratulations! Your domain name is digitally signed. Visitors for whom domain signatures are validated, are protected against manipulated translation from your domain name into rogue internet addresses."
+msgstr "Congratulations! Your domain is digitally signed. Therefore visitors who let their provider and/or local systems validate domain signatures, are protected against manipulated translation from your domain into rogue internet addresses."
 
 msgid "test sitednssec passed summary"
 msgstr "Protected from redirection to false IP addresses (DNSSEC)"
@@ -2567,16 +2568,16 @@ msgid "test sitednssec title"
 msgstr "Domain name signed?"
 
 msgid "test siteipv6 failed description"
-msgstr "Too bad! Your website is *not* reachable for visitors using modern internet address, or improvement is possible. Therefore this website is *not* part of the modern internet yet. You should ask your hosting provider to fully enable IPv6."
+msgstr "Too bad! Your website is *not* reachable for visitors using a modern internet address, or improvement is possible. Therefore this website is *not* part of the modern Internet yet. You should ask your hosting provider to fully enable IPv6."
 
 msgid "test siteipv6 failed summary"
-msgstr "Via modern address *not* reachable *or* improvement possible (IPv6)"
+msgstr "Via modern internet address *not* reachable, or improvement possible (IPv6)"
 
 msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Congratulations! Your website is reachable for visitors using modern internet addresses, making it fully part of the modern Internet."
+msgstr "Congratulations! Your website is reachable for visitors using a modern internet addresses, making it fully part of the modern Internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Via modern internet addresses reachable (IPv6)"
@@ -2585,10 +2586,10 @@ msgid "test siteipv6 title"
 msgstr "Via modern address reachable?"
 
 msgid "test sitetls failed description"
-msgstr "Too bad! The connection with your website is *not* or *in*sufficiently secured. Therefore information in transit between your website and its  visitors is *not* protected against eavesdropping and tampering. You should ask your hosting provider to enable HTTPS and configure it securely."
+msgstr "Too bad! The connection with your website is *not* or *in*sufficiently secured. Therefore information in transit between your website and its visitors is *not* protected against eavesdropping and tampering. You should ask your hosting provider to enable HTTPS and to configure it securely."
 
 msgid "test sitetls failed summary"
-msgstr "Connection *not* or *in*sufficiently secured (HTTPS)"
+msgstr "Connection *not* or insufficiently secured (HTTPS)"
 
 msgid "test sitetls label"
 msgstr "HTTPS"
