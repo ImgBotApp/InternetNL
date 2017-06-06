@@ -1,1 +1,1 @@
-The websites on IPv4 and IPv6 seem to correspond.
+Your website on IPv6 seems to correspond with your website on IPv4.
