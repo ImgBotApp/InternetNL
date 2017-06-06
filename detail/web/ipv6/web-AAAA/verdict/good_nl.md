@@ -1,1 +1,1 @@
-The web server (AAAA) comes with an IPv6 address.
+Je nameserver bevat een AAAA-record met een IPv6-adres voor je webserver.
