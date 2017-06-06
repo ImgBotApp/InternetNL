@@ -1,1 +1,1 @@
-Your name server does *not* contain an AAAA record with an IPv6 addresss for you web server.
+Je nameserver bevat *geen* AAAA-record met een IPv6-adres voor je webserver.
