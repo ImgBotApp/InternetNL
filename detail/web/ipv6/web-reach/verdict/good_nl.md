@@ -1,1 +1,1 @@
-Your web server can be reached over IPv6.
+Je webserver is bereikbaar via IPv6.
