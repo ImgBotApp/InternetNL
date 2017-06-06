@@ -1,1 +1,1 @@
-The websites at IPv4 and IPv6 seem to be different.
+Je website op IPv6 lijkt *niet* overeen te komen met je website op IPv4.
