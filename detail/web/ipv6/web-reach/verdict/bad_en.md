@@ -1,1 +1,1 @@
-Your web server can *not* be reached over IPv6.
+Your web server is *not* reachable over IPv6.
