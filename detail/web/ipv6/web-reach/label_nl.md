@@ -1,1 +1,1 @@
-IPv6 bereikbaarheid van webserver
+IPv6-bereikbaarheid van webserver
