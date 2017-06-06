@@ -1,1 +1,1 @@
-We check if we can connect to your web server over IPv6. If your name server contains more than one AAAA record, we test the reachability of your webserver on the first IPv6 address that we receive.
+We check if we can connect to your web server over IPv6. If your name server contains more than one AAAA record, we test the reachability of your webserver on the first IPv6 address that we receive. This subtest comprises a check on the syntactic validity of the IPv6 address too.
