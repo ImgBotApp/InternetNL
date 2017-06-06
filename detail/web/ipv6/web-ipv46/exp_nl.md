@@ -1,2 +1,1 @@
-We compare the served content of the web server on both Ipv4 and Ipv6 and we
- accept a difference of at most 10%.
+We vergelijken de content die de webserver serveert over zowel IPv6 als IPv4, en we accepteren een verschil van ten hoogste 10%.
