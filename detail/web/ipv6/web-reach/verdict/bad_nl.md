@@ -1,1 +1,1 @@
-Your web server can *not* be reached over IPv6.
+Je webserver is *niet* bereikbaar over IPv6.
