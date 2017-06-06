@@ -1,1 +1,1 @@
-The web server is reachable through IPv6.
+The web server is reachable over IPv6.
