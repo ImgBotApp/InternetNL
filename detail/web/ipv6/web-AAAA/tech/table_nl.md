@@ -1,1 +1,1 @@
-Webserver|IPv6|IPv4
+Webserver|IPv6-adres|IPv4-adres
