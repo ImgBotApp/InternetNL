@@ -1,1 +1,1 @@
-We check if there is at least 1 AAAA record.
+We testen of de je nameserver tenminste 1 AAAA-record bevat.
