@@ -1387,10 +1387,12 @@ msgid "domain tweetmessage"
 msgstr "De%20website%20{{report.domain}}%20scoort%20{{score}}%25%20in%20de%20websitetest%20van%20%40Internet_nl%3A"
 
 #, md-format
+msgid "faqs title"
+msgstr "Veelgestelde vragen"
+
+#, md-format
 msgid "faqs content"
-msgstr "# Veelgestelde vragen\n"
-"\n"
-"## Websitetest\n"
+msgstr "## Websitetest\n"
 "* [Modern adres (IPv6)](/faqs/ipv6/)\n"
 "* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)\n"
 "* [Versleutelde verbinding (HTTPS, HSTS en DANE)](/faqs/https/)\n"
@@ -1401,7 +1403,7 @@ msgstr "# Veelgestelde vragen\n"
 "* [Phishingprotectie (DMARC+DKIM+SPF)](/faqs/mailauth/)\n"
 "* [Versleuteld transport (STARTTLS en DANE)](/faqs/starttls/)\n"
 "\n"
-"## Verbindingstest\n"
+"## Verbindingtest\n"
 "* [Bereikbaarheid moderne adressen (IPv6)](/faqs/ipv6/)\n"
 "* [Controle van domein-handtekeningen (DNSSEC)](/faqs/dnssec/)"
 

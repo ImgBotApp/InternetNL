@@ -255,10 +255,12 @@ msgid "domain tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
 
 #, md-format
+msgid "faqs title"
+msgstr "Veelgestelde vragen"
+
+#, md-format
 msgid "faqs content"
-msgstr "# Veelgestelde vragen\n"
-"\n"
-"## Websitetest\n"
+msgstr "## Websitetest\n"
 "* [Modern adres (IPv6)](/faqs/ipv6/)\n"
 "* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)\n"
 "* [Versleutelde verbinding (HTTPS, HSTS en DANE)](/faqs/https/)\n"

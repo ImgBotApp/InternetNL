@@ -1,5 +1,3 @@
-# Veelgestelde vragen
-
 ## Websitetest
 * [Modern adres (IPv6)](/faqs/ipv6/)
 * [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
