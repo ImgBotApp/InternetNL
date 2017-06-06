@@ -1,1 +1,1 @@
-Web server|Unreachable IPv6
+Web server|Unreachable IPv6-address
