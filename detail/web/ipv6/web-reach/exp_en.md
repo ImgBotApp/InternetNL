@@ -1,1 +1,1 @@
-We check if we can contact the web server over IPv6.
+We test if we can contact your web server over IPv6.
