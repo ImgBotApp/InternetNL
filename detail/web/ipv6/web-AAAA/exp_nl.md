@@ -1,1 +1,1 @@
-We testen of de nameservers van je domeinnaam tenminste één AAAA-record voor een IPv6-adres bevat.
+We testen of de nameservers van je domeinnaam tenminste één AAAA-record met een IPv6-adres voor je webserver bevat. Dit testonderdeel test niet of een IPv6-adres ook valide is. Dat wordt getest in het testonderdeel met betrekkingt tot "Bereikbaarheid "
