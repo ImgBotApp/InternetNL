@@ -1,1 +1,1 @@
-DNSSEC valide
+DNSSEC veilig
