@@ -1,1 +1,1 @@
-We check if we can contact all IPv6 enabled name servers over IPv6.
+We testen of we alle nameservers die een IPv6-adres hebben, kunnen bereiken via IPv6.
