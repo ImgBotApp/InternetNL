@@ -1,1 +1,1 @@
-We check if there are DNSSEC records.
+We testen of er DNSSEC-records zijn.
