@@ -1,1 +1,1 @@
-None of the name servers (NS) comes with an IPv6 address.
+Geen van de nameservers heeft een IPv6-adres.
