@@ -1,1 +1,1 @@
-We check if your name server contains at least one AAAA record for an IPv6-address.
+We check if your name servers contain at least one AAAA record for an IPv6-address.
