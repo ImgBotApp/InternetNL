@@ -1,1 +1,1 @@
-Some name servers (NS) having an IPv6 address can not be reached over IPv6.
+*Not* all name servers that have an IPv6 address are reachable over IPv6.
