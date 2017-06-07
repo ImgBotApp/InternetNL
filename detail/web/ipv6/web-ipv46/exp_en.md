@@ -1,1 +1,1 @@
-We compare the web content that we receive from your web server over both IPv6 and IPv4, and we accept a content difference of at most 10%.
+We compare the web content that we receive from your web server over both IPv6 and IPv4. If the content difference is not higher than 10%, we expect the main web content to be the same. Therefore websites with for example changing ads or an "reached over IPv6" notification will pass the test as well.
