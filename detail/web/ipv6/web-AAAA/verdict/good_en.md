@@ -1,1 +1,1 @@
-Your name server contains an AAAA record with an IPv6 addresss for you web server.
+The name servers of your domain name contain one or more AAAA records with IPv6 addresses for you web server.
