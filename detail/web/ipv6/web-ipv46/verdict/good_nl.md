@@ -1,1 +1,1 @@
-Je website op IPv6 lijkt overeen te komen met je website op IPv4.
+Je website op IPv6 lijkt gelijk aan je website op IPv4.
