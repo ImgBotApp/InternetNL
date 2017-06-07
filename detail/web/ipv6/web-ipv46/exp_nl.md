@@ -1,1 +1,1 @@
-We vergelijken de webcontent die we van je webserver ontvangen over zowel IPv6 als IPv4, en we accepteren een contentverschil van ten hoogste 10%.
+We vergelijken de webcontent die we van je webserver ontvangen over zowel IPv6 als IPv4. Verschillen in content kunnen voortkomen uit bijvoorbeeld wisselende advertenties of een melding dat de website via IPv6 is bereikt. Indien het contentverschil niet groter is dan 10%, dan gaan we ervanuit uit dat de primaire webcontent gelijk is.
