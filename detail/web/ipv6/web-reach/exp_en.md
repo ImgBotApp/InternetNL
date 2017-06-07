@@ -1,1 +1,1 @@
-We check if we can connect to your web server over IPv6. We test all AAAA records that the nameservers of the domain contain. Only if all IPv6 addresses are reachable, the full score will be given. If an AAAA record is (syntacticly) invalid, a domain will fail for this subtest.
+We check if we can connect to your web server over IPv6 op poort 80 of 443. We test all AAAA records that the nameservers of the domain contain. Only if all IPv6 addresses are reachable, the full score will be given. If an AAAA record is (syntacticly) invalid, a domain will fail for this subtest.
