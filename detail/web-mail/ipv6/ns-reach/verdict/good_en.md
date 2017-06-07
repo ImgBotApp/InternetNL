@@ -1,2 +1,1 @@
-All name servers (NS) having an IPv6 address are also reachable through 
-IPv6.
+All name servers that have an IPv6 address are also reachable over IPv6.
