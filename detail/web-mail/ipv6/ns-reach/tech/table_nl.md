@@ -1,1 +1,1 @@
-Name server|Unreachable IPv6
+Nameserver|Onbereikbaar IPv6-adres
