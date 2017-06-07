@@ -1,1 +1,1 @@
-We check if we can connect to your web server over IPv6. If your name server contains more than one AAAA record, we test the reachability of your webserver on the first IPv6 address that we receive. This subtest comprises a check on the syntactic validity of the IPv6 address too.
+We check if we can connect to your web server over IPv6. We test all AAAA records that the nameservers of the domain contain. Only if all IPv6 addresses are reachable, the full score will be given. If an AAAA record is (syntacticly) invalid, a domain will fail for this subtest.
