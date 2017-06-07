@@ -1,1 +1,1 @@
-An insufficient number of name servers (NS) come with an IPv6 address.
+An insufficient number of name servers have an IPv6 address.
