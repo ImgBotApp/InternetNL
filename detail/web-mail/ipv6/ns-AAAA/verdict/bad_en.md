@@ -1,1 +1,1 @@
-None of the name servers (NS) have an IPv6 address.
+None of the name servers has an IPv6 address.
