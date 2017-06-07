@@ -1,1 +1,1 @@
-Name server|Unreachable IPv6
+Name server|Unreachable IPv6 address
