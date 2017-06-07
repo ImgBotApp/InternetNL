@@ -1,1 +1,1 @@
-Name server|IPv6|IPv4
+Nameserver|IPv6|IPv4
