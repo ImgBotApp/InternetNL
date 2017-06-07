@@ -1,1 +1,1 @@
-We testen of je nameserver tenminste 1 AAAA-record bevat.
+We testen of de nameserver van je domeinnaam tenminste één AAAA-record voor een IPv6-adres bevat.
