@@ -1,1 +1,1 @@
-Je webserver biedt ondersteuning aan voor secure renegotiation. 
+Je webserver ondersteunt secure renegotiation. 
