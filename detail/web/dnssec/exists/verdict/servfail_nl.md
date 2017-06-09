@@ -1,1 +1,1 @@
-De nameservers van je domeinnaam zijn stuk. Ze geven een foutmelding (SERVFAIL) terug op onze bevragingen voor DNSSEC. Vraag de beheerder van je nameserver (vaak je hoster of registrar) om dit op te lossen.
+De nameservers van je domeinnaam zijn stuk. Ze geven een foutmelding (SERVFAIL) terug op onze bevragingen voor DNSSEC. Vraag de nameserver-beheerder (vaak je registrar of hostingprovider) om dit op te lossen.
