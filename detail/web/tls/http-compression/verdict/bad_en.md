@@ -1,1 +1,1 @@
-HTTP compression is supported.
+Your web server supports HTTP compression, which could be a security risk.
