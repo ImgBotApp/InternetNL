@@ -1,1 +1,1 @@
-We check if the client (i.e. a web browser) can initiate a renegotiation with your web server.
+WeWe check if a client (usually a web browser) can initiate a renegotiation with your web server. There seems to be no need to support client-initiated renegotiation. However it does make a web server vulnerable for DDoS attacks. Therefore you should not support it. See ['Security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-1.
