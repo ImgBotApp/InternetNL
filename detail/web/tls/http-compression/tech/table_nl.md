@@ -1,1 +1,1 @@
-Web server|HTTP compression
+Webserver|HTTPcompressie
