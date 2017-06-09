@@ -1,1 +1,1 @@
-Je webserver staat alleen connecties toe voor voldoende veilige TLS versies.
+Je webserver staat connecties toe met alleen voldoende veilige TLS-versies.
