@@ -1,1 +1,1 @@
-Client-initiated renegotiation
+No client-initiated renegotiation
