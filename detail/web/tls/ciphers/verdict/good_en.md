@@ -1,1 +1,1 @@
-Your web server offers support for sufficiently secure cipher suites only.
+Your web server supports sufficiently secure cipher suites only.
