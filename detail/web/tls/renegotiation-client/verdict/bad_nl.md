@@ -1,1 +1,1 @@
-Client-initiated renegotiation allowed.
+Je webserver staat client-initiated renegotiation toe.
