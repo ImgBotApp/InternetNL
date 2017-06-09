@@ -1,1 +1,1 @@
-Domain|Registrar
+Domein|Registrar
