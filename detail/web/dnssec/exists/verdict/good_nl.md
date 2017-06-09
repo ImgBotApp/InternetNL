@@ -1,1 +1,1 @@
-Je domein is ondertekend met DNSSEC.
+Je domein heeft een DNSSEC-handtekening.
