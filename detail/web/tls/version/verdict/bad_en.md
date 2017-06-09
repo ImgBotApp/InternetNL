@@ -1,1 +1,1 @@
-Your webserver allows for seure connections with *insufficiently* secure TLS versions.
+Your webserver allows for secure connections with *insufficiently* secure TLS versions.
