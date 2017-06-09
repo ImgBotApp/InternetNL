@@ -1,2 +1,1 @@
-This domain is "bogus", a very serious error in its configuration.
-Please contact your DNS operator as soon as possible.
+Your domain is 'bogus', because the DNSSEC signature is not valid. Either someone manipulated the response from your name server, or your domain has a serious DNSSEC configuration error. The latter makes your domain unreachable for users who check DNSSEC signatures. You should contact your name server operator (often your registrar or hosting provider) as soon as possible.
