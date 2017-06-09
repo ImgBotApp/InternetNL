@@ -1,1 +1,1 @@
-Certain cipher methods offered are not secure.
+Your web server allows for connections with *insufficiently* secure cipher suites.
