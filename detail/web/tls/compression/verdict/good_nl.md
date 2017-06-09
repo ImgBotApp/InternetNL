@@ -1,1 +1,1 @@
-Je webserver staat geen TLS-compressie toe.
+Je webserver ondersteunt geen TLS-compressie.
