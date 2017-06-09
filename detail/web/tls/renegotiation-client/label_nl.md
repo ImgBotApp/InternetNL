@@ -1,1 +1,1 @@
-Client-initiated renegotiation
+Geen client-initiated renegotiation
