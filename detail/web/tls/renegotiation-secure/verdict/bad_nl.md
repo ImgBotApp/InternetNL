@@ -1,1 +1,1 @@
-Je webserver biedt ondersteuning aan voor *insecure* renegotiation.
+Je webserver biedt ondersteuning aan voor insecure renegotiation, wat *niet* veilig is.
