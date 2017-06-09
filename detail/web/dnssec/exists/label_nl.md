@@ -1,1 +1,1 @@
-DNSSEC aanwezig
+DNSSEC aanwezigheid
