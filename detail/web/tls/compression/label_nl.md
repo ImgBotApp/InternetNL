@@ -1,1 +1,1 @@
-TLS compression
+TLS-compressie
