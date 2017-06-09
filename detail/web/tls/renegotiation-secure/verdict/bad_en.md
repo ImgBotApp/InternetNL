@@ -1,1 +1,1 @@
-Your web server offers support for insecure renegotiation, which is *not* secure.
+Your web server supports insecure renegotiation, which is obviously *not* secure.
