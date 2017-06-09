@@ -1,1 +1,1 @@
-Je webserver staat beveiligde verbindingen toe met *onvoldoende* veilige cipher suites.
+Je webserver biedt ondersteuning voor *onvoldoende* veilige cipher suites aan.
