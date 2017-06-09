@@ -1,1 +1,1 @@
-Certain cipher methods offered are not secure.
+Je webserver staat beveiligde verbindingen toe met *onvoldoende* cipher suites.
