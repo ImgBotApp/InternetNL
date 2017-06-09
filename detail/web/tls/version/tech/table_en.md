@@ -1,1 +1,1 @@
-Web server|Insufficiently secure TLS versions
+Web server|Insecure TLS versions
