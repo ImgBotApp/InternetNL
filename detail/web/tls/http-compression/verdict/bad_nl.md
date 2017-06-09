@@ -1,1 +1,1 @@
-Your web server supports HTTP compression, which could be a security risk.
+Je webserver ondersteunt HTTP-compressie, wat een beveiligingsrisico kan vormen.
