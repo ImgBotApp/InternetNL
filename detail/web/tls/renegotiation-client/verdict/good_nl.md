@@ -1,1 +1,1 @@
-Your web server does not allow for client-initiated renegotiation.
+Je webserver staat geen client-initiated renegotiation toe.
