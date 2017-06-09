@@ -1,1 +1,1 @@
-Your web server offers support for *insufficiently* secure TLS versions.
+Your web server supports *insufficiently* secure TLS versions.
