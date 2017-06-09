@@ -1,1 +1,1 @@
-All cipher methods offered are sufficiently secure.
+Je webserver staat beveiligde verbindingen alleen toe met voldoende veilige cipher suites.
