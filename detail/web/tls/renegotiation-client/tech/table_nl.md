@@ -1,1 +1,1 @@
-Web server|Client-initiated renegotiation
+Webserver|Client-initiated renegotiation
