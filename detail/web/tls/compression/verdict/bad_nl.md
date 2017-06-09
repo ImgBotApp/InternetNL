@@ -1,1 +1,1 @@
-Je webserver staat TLS-compresie toe, wat *niet* veilig is.
+Je webserver ondersteunt TLS-compressie, wat *niet* veilig is.
