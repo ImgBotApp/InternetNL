@@ -1,1 +1,1 @@
-TLS compression not allowed.
+Your web server does not allow for TLS compression.
