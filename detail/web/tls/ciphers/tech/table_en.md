@@ -1,1 +1,1 @@
-Web server|Insecure cipher suites
+Web server|Insufficiently secure cipher suites
