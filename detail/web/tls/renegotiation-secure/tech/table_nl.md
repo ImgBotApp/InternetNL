@@ -1,1 +1,1 @@
-Web server|Secure renegotiation
+Webserver|Secure renegotiation
