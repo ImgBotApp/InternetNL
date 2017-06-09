@@ -1,1 +1,1 @@
-No HTTP-compressie
+Geen HTTP-compressie
