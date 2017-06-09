@@ -1,1 +1,1 @@
-The domain is not DNSSEC signed.
+Je domein is onveilig oftewel insecure, omdat het *niet* ondertekend is met DNSSEC.
