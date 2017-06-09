@@ -1,1 +1,1 @@
-We check if HTTP compression is supported.
+We testen of je webserver HTTP-compressie ondersteunt. Het gebruik van compressie kan een aanvaller informatie bieden over geheime delen van versleutelde communicatie. Maak je eigen afweging over het inzetten van HTTP-compressie. Als je het inzet, ga dan na of het mogelijk is maatregelen te treffen op applicatieniveau tegen de aanvalstechniek. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-1].
