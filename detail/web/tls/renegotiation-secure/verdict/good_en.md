@@ -1,1 +1,1 @@
-Your web server offers support for secure renegotiation.
+Your web server supports secure renegotiation.
