@@ -1,1 +1,1 @@
-Your domain is secure, because it has a valid DNSSEC signature.
+Je domein is veilig oftewel 'secure', omdat het een geldige DNSSEC handtekening heeft.
