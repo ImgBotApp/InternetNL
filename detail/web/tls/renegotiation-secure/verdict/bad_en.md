@@ -1,1 +1,1 @@
-Secure renegotiation not supported.
+Your web server offers support for *insecure* renegotiation.
