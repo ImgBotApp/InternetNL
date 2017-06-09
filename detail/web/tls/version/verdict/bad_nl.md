@@ -1,1 +1,1 @@
-Your webserver allows for connections with *insufficiently* secure TLS versions.
+Je webserver staat beveiligde verbindingen toe met *onvoldoende* veilige TLS-versies.
