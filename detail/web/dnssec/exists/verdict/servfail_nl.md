@@ -1,1 +1,1 @@
-We were missing the text here for servfail. Their DNS is completely broken.
+De nameservers van je domeinnaam zijn stuk. Ze geven een foutmelding (SERVFAIL) terug op onze bevragingen voor DNSSEC. Vraag de beheerder van je nameserver (vaak je hoster of registrar) om dit op te lossen.
