@@ -1,1 +1,1 @@
-All cipher methods offered are sufficiently secure.
+Your web server allows for secure connections with sufficiently secure cipher suites only.
