@@ -1,1 +1,1 @@
-We check if the client can initiate a renegotiation.
+We testen of een client (doorgaans een webbrowser) een renegotiation kan initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om client-initiated renegotiation in te schakelen. De optie maakt een server wel vatbaar voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie ['Beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-1].
