@@ -1,1 +1,1 @@
-De nameservers van je domeinnaam bevatten *geen* AAAA-record met IPv6-adres voor je webserver.
+De nameservers van je domeinnaam geven *geen* AAAA-record met IPv6-adres voor je webserver terug.
