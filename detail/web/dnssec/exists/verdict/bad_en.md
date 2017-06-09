@@ -1,1 +1,1 @@
-The domain is not DNSSEC signed.
+Your domain is insecure. It is *not* signed with DNSSEC.
