@@ -1,1 +1,1 @@
-Je webserver biedt ondersteuning aan voor *onvoldoende* veilige TLS-versies.
+Je webserver ondersteunt *onvoldoende* veilige TLS-versies.
