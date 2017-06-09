@@ -1,1 +1,1 @@
-We check the supported TLS versions.
+We check if your webserver only supports secure TLS versions. The oldest three TLS versions, i.e. SSL 1.0, SSL 2.0 and SSL 3.0, are not secure anymore. TLS 1.0  and TLS 1.1 are sufficiently secure. The most recent version, TLS 1.2, offers the best protection. See: guideline B1-1, ICT security guidelines for TLS from NCSC-NL.
