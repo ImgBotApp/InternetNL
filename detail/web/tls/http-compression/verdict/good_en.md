@@ -1,1 +1,1 @@
-HTTP compression is not supported.
+Your web server does not support HTTP compression.
