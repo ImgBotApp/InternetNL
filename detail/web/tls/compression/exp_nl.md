@@ -1,1 +1,2 @@
-We check the TLS compression.
+We testen of je webserver ondersteuning aanbiedt voor TLS-compressie. Het gebruik van compressie kan een aanvaller informatie
+bieden over geheime delen van versleutelde communicatie. TLS-compressie wordt zo weinig gebruikt dat het geen kwaad kan het uit te schakelen. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-1].
