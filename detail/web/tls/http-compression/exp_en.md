@@ -1,1 +1,1 @@
-We check if HTTP compression is supported.
+We test if your web server supports HTTP compression. The use of compression can give an attacker insights in secret parts of encrypted communication. Make your own assement on using HTTP compression. If you use it, check if it is possible to take countermeasures on the  application level against the attack vector. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-1.
