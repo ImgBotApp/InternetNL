@@ -1,1 +1,1 @@
-You domain is signed with DNSSEC.
+Your domain is signed with DNSSEC.
