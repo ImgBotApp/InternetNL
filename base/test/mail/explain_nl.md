@@ -1,4 +1,4 @@
-Nadat de bezoeker een domeinnaam van een maildienst heeft opgegeven, testen we of de e-mailtest ondersteuning biedt voor de volgende moderne internetstandaarden:
+Nadat de bezoeker een domeinnaam van een e-maildienst heeft opgegeven, testen we of de e-maildienst ondersteuning biedt voor de volgende moderne internetstandaarden:
 * IPv6 (modern adres);
 * DNSSEC (ondertekende domeinnaam);
 * DMARC, DKIM en SPF (phishingprotectie);
