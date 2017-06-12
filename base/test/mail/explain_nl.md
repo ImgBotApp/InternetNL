@@ -4,6 +4,6 @@ Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-m
 * DMARC, DKIM en SPF: beschermd tegen phishing?
 * STARTTLS en DANE: beveiligd transport?
 
-Nadat de testen zijn afgerond, tonen we de testresultaten in de vorm van een overall score in procenten en per testonderdeel een resultaat met een nadere toelichting. Deze testrapportage kan je gebruiken om je e-maildienst te verbeteren. Daarvoor zal je in de regel bij je e-mailbeheerder moeten zijn.
+Nadat de testen zijn afgerond, tonen we de testresultaten in de vorm van een overall score in procenten en per testonderdeel een resultaat met een nadere toelichting. Deze testrapportage kan je gebruiken om je e-maildienst te verbeteren. Daarvoor zal je in de regel bij je e-mailhoster moeten zijn.
 
 Voor de duidelijkheid: de e-mailtest controleert op moderne internetstandaarden die deels ook bijdragen aan een betrouwbaarder, veiliger internet. Het is echter geen allesomvattende beveiligingstest voor e-mail.
