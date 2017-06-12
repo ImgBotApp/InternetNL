@@ -1,1 +1,1 @@
-DNSSEC secure
+DNSSEC validity
