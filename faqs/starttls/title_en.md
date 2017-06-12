@@ -1,1 +1,1 @@
-STARTTLS and DANE
+Secure transport (STARTTLS and DANE)
