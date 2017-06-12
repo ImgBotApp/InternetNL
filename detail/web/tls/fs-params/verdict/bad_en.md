@@ -1,1 +1,1 @@
-Your web server supports *insufficiently* secure Diffie-Hellman parameters.
+Your web server supports *insufficiently* secure Diffie-Hellman parameters for key excchange.
