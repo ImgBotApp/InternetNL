@@ -1,1 +1,1 @@
-SPF DKIM DMARC
+Phishing protection (DMARC, DKIM and SPF)
