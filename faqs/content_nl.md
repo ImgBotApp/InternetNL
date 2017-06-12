@@ -1,14 +1,14 @@
 ## Websitetest
 * [Modern adres (IPv6)](/faqs/ipv6/)
 * [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
-* [Versleutelde verbinding (HTTPS, HSTS en DANE)](/faqs/https/)
+* [Beveiligde verbinding (HTTPS en HSTS)](/faqs/https/)
 
 ## Mailtest
 * [Modern adres (IPv6)](/faqs/ipv6/)
 * [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
-* [Phishingprotectie (DMARC+DKIM+SPF)](/faqs/mailauth/)
-* [Versleuteld transport (STARTTLS en DANE)](/faqs/starttls/)
+* [Phishingprotectie (DMARC, DKIM en SPF)](/faqs/mailauth/)
+* [Beveiligde transport (STARTTLS en DANE)](/faqs/starttls/)
 
-## Verbindingtest
-* [Bereikbaarheid moderne adressen (IPv6)](/faqs/ipv6/)
-* [Controle van domein-handtekeningen (DNSSEC)](/faqs/dnssec/)
+## Verbindingstest
+* [Moderne adres (IPv6)](/faqs/ipv6/)
+* [Domeinondertekening (DNSSEC)](/faqs/dnssec/)
