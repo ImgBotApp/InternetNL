@@ -1,9 +1,10 @@
-Nadat de bezoeker een domeinnaam van een website heeft opgegeven, testen we of de wesite ondersteuning biedt voor de volgende moderne internetstandaarden:
-* IPv6 (modern adres);
-* DNSSEC (ondertekende domeinnaam);
-* HTTPS en HSTS (beveiligde verbinding).
+Nadat je een domeinnaam van een website heb opgegeven, testen we of de wesite ondersteuning biedt voor de onderstaande moderne internetstandaarden.
 
-Nadat de testen zijn afgerond, tonen we de testresultaten in de vorm van een overall score in procenten en per testonderdeel een resultaat met een toelichting. Deze testrapportage kan een website-eigenaar gebruiken om zijn/haar website te verbeteren.
+* IPv6: bereikbaar op modern adres?
+* DNSSEC: domeinnaam ondertekend?
+* HTTPS: beveiligde verbinding?
+
+Nadat de testen zijn afgerond, wordt een testrapport getoond met een overall score in procenten, en met resultaten per testonderdeel inclusief telkens een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je het beste hierover contact opnemen met je webhoster.
 
 Websites met een score van 100% worden opgenomen in de [Hall of Fame](/halloffame/). 
 
