@@ -7,7 +7,7 @@
 * ["HTTPS Usage" by Google](https://www.google.com/transparencyreport/https/metrics/?hl=en)
 
 ## Further information
-* [ICT securitity guidelines for TLS](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html) (in Dutch) by NCSC-NL
+* [ICT securitity guidelines for TLS](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html) by NCSC-NL (in Dutch)
 * [ICT security guidelines for web applications](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html) by NCSC-NL (in Dutch)
 * [Wikipedia on HTTPS](https://en.wikipedia.org/wiki/HTTPS)
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
