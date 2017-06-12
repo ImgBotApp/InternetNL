@@ -1,4 +1,6 @@
 ## Why
+Below you will find some links to descriptions of some known incidents that DNSSEC probably could have prevented. 
+
 * ["Cache-poisoning attack snares top Brazilian bank"](https://www.theregister.co.uk/2009/04/22/bandesco_cache_poisoning_attack/)
 * ["Eircom reveals ‘cache poisoning’ attack by hacker led to outages"](https://www.siliconrepublic.com/enterprise/eircom-reveals-cache-poisoning-attack-by-hacker-led-to-outages)
 * ["DNS cache poisonings foist malware attacks on Brazilians"](https://www.theregister.co.uk/2011/11/07/brazilian_dns_cache_poisoing_attacks/)
