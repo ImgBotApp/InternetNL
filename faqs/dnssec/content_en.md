@@ -12,12 +12,12 @@ Below follows a quotation from the last mentioned research publication:
 > Mail security, like that of many other protocols, is intrinsically tangled with the security of DNS resolution. Rather than target the SMTP protocol, an active network attacker can spoof the DNS records of a destination mail server to redirect SMTP connections to a server under the attacker’s control. [...] We find evidence that 178,439 out of 8,860,639(2.01%) publicly accessible DNS servers provided invalid IPs or MX records for one or more of these domains.
 
 ## Adoption statistics
-* [.nl stats and data by SIDN Labs](http://stats.sidnlabs.nl/#/dnssec)
-* [DNSSEC Validation Measurement by APNIC](https://stats.labs.apnic.net/dnssec)
+* [.nl stats and data](http://stats.sidnlabs.nl/#/dnssec) by SIDN Labs
+* [DNSSEC Validation Measurement](https://stats.labs.apnic.net/dnssec) by APNIC
 * [DNSSEC Deployment Report](http://dnssec-deployment.icann.org/dctld/)
 
 ## Further information
-* [ISOC's Deploy360](http://www.internetsociety.org/deploy360/dnssec/)
+* [ISOC's Deploy360 on DNSSEC](http://www.internetsociety.org/deploy360/dnssec/)
 * [SIDN about DNSSEC](https://www.sidn.nl/a/internet-security/dnssec?language_id=2)
 * [Wikipedia on DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 * [DNSSEC.net](http://www.dnssec.net/)
