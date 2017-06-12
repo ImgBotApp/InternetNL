@@ -1,6 +1,6 @@
 ## Why
 * ["Three reasons why ISPs should deploy IPv6 now"](https://internetnz.nz/blog/three-reasons-why-isps-should-deploy-ipv6-now)
-* ["Making a Strong Case for IPv6"(http://www.baselinemag.com/networking/making-a-strong-case-for-ipv6.html)
+* ["Making a Strong Case for IPv6"](http://www.baselinemag.com/networking/making-a-strong-case-for-ipv6.html)
 * ["IPv6: It's time to get on board"](https://code.facebook.com/posts/1192894270727351/ipv6-it-s-time-to-get-on-board/)
 
 ## Adoption statistics
