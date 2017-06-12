@@ -10,4 +10,4 @@ Nadat de test is afgerond, wordt een testrapport getoond met een overall score i
 
 
 ## Scope
-Voor de duidelijkheid: de e-mailtest controleert op moderne internetstandaarden die ook bijdragen aan beveiliging. Het is echter geen allesomvattende beveiligingstest voor e-mail.
+De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mail.
