@@ -1,1 +1,1 @@
-The forward secrecy parameters are sufficiently secure.
+Je webserver ondersteunt voldoende veilige Diffie-Hellman-parameters voor sleuteluitwisseling.
