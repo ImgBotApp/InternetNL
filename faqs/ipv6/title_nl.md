@@ -1,1 +1,1 @@
-IPv6
+Modern adres (IPv6)
