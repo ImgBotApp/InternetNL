@@ -1,1 +1,1 @@
-The server does not allow connections using forward secrecy.
+The web server does not support Diffie-Hellman.
