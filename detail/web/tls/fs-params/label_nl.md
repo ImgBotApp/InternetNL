@@ -1,1 +1,1 @@
-Forward secrecy
+Diffie-Hellman-parameters
