@@ -1,3 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.
+After the visitor has entered a domain name of a mail service, we test if the mail service offers support for the following modern internet standards:
 
-Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non.
+* IPv6 (modern address);
+* DNSSEC (signed domain);
+* DMARC, DKIM and SPF (phishing protection);
+* STARTLS and DANE (secure transport).
+
+After executing the tests, the results are displayed in the form of an overall percentage score and a result per subtest with a detailed explanation. This test report can be used by an owner to improve his/her mail service.
+
+To be clear: the e-mail test checks on modern internet standards that partly also contribute to a more reliable and secrure internet. But it should not be considered as an all-encompassing security test for e-mail.
+
