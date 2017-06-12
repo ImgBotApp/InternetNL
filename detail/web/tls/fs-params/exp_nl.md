@@ -1,2 +1,1 @@
-We check the forward secrecy parameters and we expect their bit-length to be
- sufficiently secure.
+We check if the bit-length of the DH is sufficiently secure.
