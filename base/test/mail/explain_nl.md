@@ -1,7 +1,7 @@
 Nadat de bezoeker een domeinnaam van een maildienst heeft opgegeven, testen we of de e-mailtest ondersteuning biedt voor de volgende moderne internetstandaarden:
-* IPv6 (modern adres)
-* DNSSEC (ondertekende domeinnaam)
-* DMARC, DKIM en SPF (phishingprotectie)
+* IPv6 (modern adres);
+* DNSSEC (ondertekende domeinnaam);
+* DMARC, DKIM en SPF (phishingprotectie);
 * STARTTLS en DANE (beveiligd transport).
 
 Uiteindelijk tonen we de testresultaten in de vorm van een overall score in procenten en per testonderdeel een resultaat met een toelichting.
