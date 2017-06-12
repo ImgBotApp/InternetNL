@@ -1,1 +1,1 @@
-Web server|Insecure parameters
+Webserver|Onveilige parameters
