@@ -4,7 +4,7 @@ Nadat je een domeinnaam van een website heb opgegeven, testen we of de wesite on
 * DNSSEC: domeinnaam ondertekend?
 * HTTPS: beveiligde verbinding?
 
-Nadat de testen zijn afgerond, wordt een testrapport getoond met een overall score in procenten, en met resultaten per testonderdeel inclusief telkens een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je het beste hierover contact opnemen met je webhoster.
+Nadat de testen zijn afgerond, wordt een testrapport getoond met een overall score in procenten, en met resultaten per testonderdeel inclusief telkens een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je hierover het beste je webhoster aanspreken.
 
 Websites met een score van 100% worden opgenomen in de [Hall of Fame](/halloffame/). 
 
