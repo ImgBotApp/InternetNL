@@ -1,1 +1,1 @@
-Do the connection test
+About the connection test
