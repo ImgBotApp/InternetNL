@@ -1,1 +1,1 @@
-Je webserver ondersteunt voldoende veilige Diffie-Hellman-parameters voor sleuteluitwisseling.
+Je webserver ondersteunt *onvoldoende* veilige Diffie-Hellman-parameters voor sleuteluitwisseling.
