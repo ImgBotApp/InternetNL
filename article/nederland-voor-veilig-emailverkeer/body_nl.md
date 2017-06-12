@@ -41,9 +41,9 @@ Society Nederland, ISPConnect, Ministerie van Economische Zaken, Nationaal
 Cyber Security Centrum (NCSC), NLnet, NLnet Labs, RIPE NCC, SIDN en
 SURFnet.
 
-<video controls width="640" height="360" poster="/static/news/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_PNG_1280x720.png">
-<source src="/static/news/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_WEBM_1280x720.webm" type="video/webm">
-<source src="/static/news/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_MP4_1280x720.mp4" type="video/mp4">
+<video controls width="640" height="360" poster="/static/article/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_PNG_1280x720.png">
+<source src="/static/article/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_WEBM_1280x720.webm" type="video/webm">
+<source src="/static/article/nederland-voor-veilig-emailverkeer/20170202_ondertekening_veilige_email_coalitie_MP4_1280x720.mp4" type="video/mp4">
 I'm sorry; your browser doesn't support this video.
 </video>
 
