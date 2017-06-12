@@ -1,1 +1,1 @@
-We check if the DNSSEC records are valid.
+We check if your domain is signed with a valid signature.
