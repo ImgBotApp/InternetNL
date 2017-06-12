@@ -1,1 +1,1 @@
-HTTPS
+Secure connection (HTTPS and HSTS)
