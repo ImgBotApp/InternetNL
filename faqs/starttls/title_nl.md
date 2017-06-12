@@ -1,1 +1,1 @@
-STARTTLS and DANE
+Beveiligd transport (STARTTLS en DANE)
