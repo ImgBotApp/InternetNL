@@ -1,1 +1,1 @@
-DNSSEC veilig
+DNSSEC geldigheid
