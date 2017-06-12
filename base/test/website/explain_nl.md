@@ -10,4 +10,4 @@ Nadat de test is afgerond, wordt een testrapport getoond met een overall score i
 Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). 
 
 ## Scope
-De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan duurzame bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.
+De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.
