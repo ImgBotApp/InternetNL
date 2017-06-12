@@ -1,1 +1,1 @@
-Do the e-mail test
+About the email test
