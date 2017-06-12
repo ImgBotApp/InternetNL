@@ -1,1 +1,1 @@
-Doe de connectie-test
+Over de verbindingstest
