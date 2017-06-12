@@ -9,4 +9,4 @@ After test has finished, you are directed to a test report with an overall perce
 If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). 
 
 ## Scope
-To be clear: the website test checks on modern internet standards that also contribute security. However it should not be considered as an all-encompassing security test for websites.
+The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites.
