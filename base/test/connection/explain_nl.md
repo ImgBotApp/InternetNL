@@ -1,3 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed maximus dapibus tempor. In iaculis dapibus nunc at molestie. Nullam a interdum sapien. Mauris lacinia, leo eget accumsan sollicitudin, ipsum ex suscipit diam, eget finibus odio enim quis urna. Integer sit amet felis vel velit lobortis sagittis ac sed tellus. Phasellus fringilla dictum turpis lobortis congue. Pellentesque semper ante ut lacus fringilla iaculis. Ut non tincidunt enim, a luctus velit. Nulla eget commodo velit. Integer felis est, molestie et consequat vel, commodo vitae dolor. Sed feugiat congue facilisis. Suspendisse potenti. Suspendisse eu nisi pretium, pharetra erat sed, efficitur lorem. Nunc eu nisl dignissim urna luctus viverra. Sed quis quam a felis lacinia mollis vel quis nisl.
+Nadat de bezoeker de verbindingstest heeft gestart, testen we of zijn/haar verbinding ondersteuning biedt voor de onderstaande moderne internetstandaarden.
+* IPv6: zijn websites met moderne adressen bereikbaar?
+* DNSSEC: worden domeinnaam-handtekeningen gecontroleerd?
 
-Morbi quis congue dui. Vestibulum sit amet nisi eget quam efficitur mattis gravida a lacus. Vivamus ipsum velit, tempor non auctor non, pulvinar sed velit. Cras tempor pharetra arcu sed bibendum. Fusce posuere nunc vitae nisl maximus, posuere vulputate ex molestie. Nulla finibus imperdiet mauris, eu molestie sapien fermentum a. Sed imperdiet est gravida posuere tincidunt. Fusce consectetur, nunc vel tempor rhoncus, sem sem tempor est, vitae tempor turpis diam ac ligula. Nam sagittis mauris lorem, sit amet laoreet lorem faucibus non.
+
+Nadat de testen zijn afgerond, tonen we de testresultaten in de vorm van een overall score in procenten en per testonderdeel een resultaat met een toelichting. Deze testrapportage kan een internetgebruiker gebruiken om zijn/haar verbinding te verbeteren. Vaak is de internetprovider 
+
+Voor de duidelijkheid: de verbindingstest controleert op moderne internetstandaarden die deels ook bijdragen aan een betrouwbaarder en veiliger internet. Het is echter geen allesomvattende beveiligingstest voor internetverbindingen.
