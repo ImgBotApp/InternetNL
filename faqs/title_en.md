@@ -1,1 +1,1 @@
-Veelgestelde vragen
+Knowledge base
