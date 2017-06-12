@@ -1,1 +1,1 @@
-e-mail tests
+email tests
