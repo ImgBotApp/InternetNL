@@ -1,1 +1,1 @@
-Your web server does not support Diffie-Hellman.
+Je webserver ondersteunt geen Diffie-Hellman.
