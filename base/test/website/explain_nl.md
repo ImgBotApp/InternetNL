@@ -1,3 +1,3 @@
 * In de websitetest kan een bezoeker testen of een website ondersteuning biedt voor moderne internetstandaarden. Nadat de bezoeker een domeinnaam van een website heeft opgegeven, testen we of deze website een modern adres (IPv6), een ondertekende domeinnaam (DNSSEC), en een beveiligde verbinding (HTTPS) heeft. 
-* Uiteindelijk tonen we het testresultaten in de vorm van een overall score in procenten en per subtest een resultaat met een toelichting. Websites met een score van 100% worden opgenomen in de Hall of Fame. 
+* Uiteindelijk tonen we de testresultaten in de vorm van een overall score in procenten en per subtest een resultaat met een toelichting. Websites met een score van 100% worden opgenomen in de Hall of Fame. 
 * Voor de duidelijkheid: de websitetest controleert dus op moderne internetstandaarden die deels ook bijdragen aan een betrouwbaarder, veiliger internet. Het is echter geen allesomvattende beveiligingstest voor websites.
