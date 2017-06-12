@@ -1,1 +1,2 @@
-The forward secrecy parameters are sufficiently secure.
+Your web server supports insufficiently secure Diffie-Hellman parameters.
+
