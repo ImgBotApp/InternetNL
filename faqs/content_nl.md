@@ -11,4 +11,4 @@
 
 ## Verbindingstest
 * [Moderne adres (IPv6)](/faqs/ipv6/)
-* [Domeinondertekening (DNSSEC)](/faqs/dnssec/)
+* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
