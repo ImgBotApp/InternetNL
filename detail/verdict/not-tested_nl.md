@@ -1,1 +1,1 @@
-This test didn't run because a parent test gave no/insufficient results.
+Deze test is niet uitgevoerd, omdat de geteste domeinnaam al zakte voor een hogergelegen ('parent') test.
