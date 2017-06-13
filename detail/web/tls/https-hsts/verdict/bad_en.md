@@ -1,1 +1,1 @@
-Your web server does *not* support HSTS.
+Your web server does *not* offer a HSTS policy.
