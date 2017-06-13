@@ -1,1 +1,1 @@
-Web server|Bad certificate chain
+Web server|Untrusted certificate chain
