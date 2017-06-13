@@ -1,1 +1,1 @@
-HTTPS enforced by redirecting HTTP to HTTPS.
+Your web server enforces HTTPS by redirecting HTTP to HTTPS.
