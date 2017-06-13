@@ -1,1 +1,1 @@
-HTTPS enforced by supporting only HTTPS and no HTTP.
+Je webserver dwingt HTTPS af door alleen HTTPS en geen HTTP te ondersteunen.
