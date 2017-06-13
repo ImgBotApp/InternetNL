@@ -1,1 +1,1 @@
-HSTS policy has been found.
+Je webserver ondersteunt HSTS.
