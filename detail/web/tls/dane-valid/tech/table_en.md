@@ -1,1 +1,1 @@
-Web server|valid TLSA
+Web server|TLSA valid
