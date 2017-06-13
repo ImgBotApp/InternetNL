@@ -1,1 +1,1 @@
-Je webserver biedt HSTS aan.
+Je webserver ondersteunt HSTS.
