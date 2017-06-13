@@ -1,1 +1,1 @@
-Je webserver biedt *geen* HSTS-beleid aan.
+Je webserver biedt *geen* HSTS-policy aan.
