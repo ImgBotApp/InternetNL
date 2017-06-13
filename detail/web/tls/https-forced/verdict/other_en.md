@@ -1,1 +1,1 @@
-HTTPS enforced by supporting only HTTPS and no HTTP.
+Your web server enforces HTTPS by supporting only HTTPS and no HTTP.
