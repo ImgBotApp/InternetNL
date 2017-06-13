@@ -1,1 +1,1 @@
-Diffie-Hellman-parameters
+Sleuteluitwisselingsparameters
