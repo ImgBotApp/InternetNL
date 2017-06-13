@@ -1,1 +1,1 @@
-Web server|HSTS policy
+Webserver|HSTS-policy
