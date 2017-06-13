@@ -1,1 +1,1 @@
-Web server|Insecure hash method
+Webserver|Insecure hash algorithm
