@@ -3,4 +3,4 @@ We check if your web server enfroces HTTPS by a 301/302 redirect from HTTP to HT
 * http://example.nl --> https://example.nl --> https://www.example.nl
 * http://www.example.nl --> https://www.example.nl
 
-See Web application guidelines from NCSC-NL(https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), guideline U/WA.05 (in Dutch).
+See [Web application guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), guideline U/WA.05 (in Dutch).
