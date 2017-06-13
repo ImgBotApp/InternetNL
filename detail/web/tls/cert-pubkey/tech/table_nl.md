@@ -1,1 +1,1 @@
-Web server|Public key with insufficient length
+Webserver|Publieke sleutel met onvoldoende lengte
