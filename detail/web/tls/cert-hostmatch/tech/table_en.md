@@ -1,1 +1,1 @@
-Web server|Unmatched domains on the certificate
+Web server|Unmatched domains on certificate
