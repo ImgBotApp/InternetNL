@@ -1,2 +1,1 @@
-We check the forward secrecy parameters and we expect their bit-length to be
- sufficiently secure.
+We check whether the public key length is sufficiently secure if your web server supports Diffie-Hellman key exchange. Note: it is also important that the bit-length of the secret Diffie-Hellman key is sufficiently secure. However, due to its secret nature we are not able to check this. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guidelines B4-1 to B4-3.
