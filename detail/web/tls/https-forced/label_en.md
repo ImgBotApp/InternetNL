@@ -1,1 +1,1 @@
-HTTPS redirection
+HTTPS redirect
