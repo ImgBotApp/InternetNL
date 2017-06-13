@@ -1,1 +1,1 @@
-HSTS policy
+HSTS
