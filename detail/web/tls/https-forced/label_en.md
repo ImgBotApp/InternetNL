@@ -1,1 +1,1 @@
-HTTPS redirect
+HTTPS enforced
