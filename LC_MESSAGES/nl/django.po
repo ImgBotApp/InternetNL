@@ -399,9 +399,6 @@ msgstr "het opzetten van een IPv6-verbinding (direct naar een adres) is gelukt; 
 msgid "detail connipv6 werkende ipv6 verbinding via dns"
 msgstr "het opzetten van een IPv6-verbinding (via DNS) is gelukt"
 
-msgid "detail could-not-perform-test"
-msgstr "Testfout. Graag later opnieuw proberen."
-
 msgid "detail domdnssec domain is bogus"
 msgstr "dit domein is \"bogus\", een zeer ernstige fout in de configuratie;  \n"
 "neem zo snel mogelijk contact op met je DNS-beheerder;  \n"

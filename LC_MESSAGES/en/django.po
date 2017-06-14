@@ -351,9 +351,6 @@ msgstr "an IPv6 connection (directly to an address) was established successfully
 msgid "detail connipv6 werkende ipv6 verbinding via dns"
 msgstr "an IPv6 connection (via DNS) was established successfully"
 
-msgid "detail could-not-perform-test"
-msgstr "Test error. Please try again later."
-
 msgid "detail domdnssec domain is bogus"
 msgstr "this domain is \"bogus\", a very serious error in its configuration;  \n"
 "please contact your DNS operator as soon as possible;  \n"
