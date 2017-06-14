@@ -188,9 +188,11 @@ msgstr "Nadat je de verbindingstest hebt gestart, testen we of de momenteel door
 "* IPv6: zijn websites met moderne adressen voor jou bereikbaar?\n"
 "* DNSSEC: worden domeinnaam-handtekeningen voor jou gecontroleerd?\n"
 "\n"
+"## Testrapport\n"
 "Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om je internetverbinding te verbeteren. Normaalgesproken kan je hierover het beste je internetprovider aanspreken.\n"
 "\n"
-"Voor de duidelijkheid: de verbindingstest controleert op belangrijke moderne internetstandaarden die ook bijdragen aan beveiliging. Het is echter geen allesomvattende beveiligingstest voor internetverbindingen."
+"## Scope\n"
+"De verbindingstest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor internetverbindingen."
 
 msgid "base test connection label"
 msgstr "Test je verbinding"
@@ -207,14 +209,18 @@ msgstr "Over de test"
 
 msgid "base test mail explain"
 msgstr "Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-maildienst ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
+"\n"
 "* IPv6: bereikbaar op modern adres?\n"
 "* DNSSEC: domeinnaam ondertekend?\n"
 "* DMARC, DKIM en SPF: beschermd tegen phishing?\n"
 "* STARTTLS en DANE: beveiligd transport?\n"
 "\n"
-"Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om de e-maildienst die jij gebruikt te verbeteren. Normaalgesproken kan je hierover het beste je e-mailhoster aanspreken.\n"
+"## Testrapport\n"
+"Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om de e-maildienst die jij gebruikt te verbeteren. Normaalgesproken kan je hierover het beste je e-mailhoster aanspreken.   \n"
 "\n"
-"Voor de duidelijkheid: de e-mailtest controleert op moderne internetstandaarden die ook bijdragen aan beveiliging. Het is echter geen allesomvattende beveiligingstest voor e-mail."
+"\n"
+"## Scope\n"
+"De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mail."
 
 msgid "base test mail input"
 msgstr "Jouw e-mailadres:"
@@ -241,11 +247,13 @@ msgstr "Nadat je een domeinnaam van een website heb opgegeven, testen we of de w
 "* DNSSEC: domeinnaam ondertekend?\n"
 "* HTTPS: beveiligde verbinding?\n"
 "\n"
+"## Testrapport\n"
 "Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je hierover het beste je webhoster aanspreken.\n"
 "\n"
 "Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). \n"
 "\n"
-"Voor de duidelijkheid: de websitetest controleert op belangrijke moderne internetstandaarden die ook bijdragen aan beveiliging. Het is echter geen allesomvattende beveiligingstest voor websites."
+"## Scope\n"
+"De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites."
 
 msgid "base test website input"
 msgstr "Jouw domeinnaam:"
@@ -895,13 +903,13 @@ msgid "detail tech data yes"
 msgstr "Yes"
 
 msgid "detail verdict could-not-test"
-msgstr "Test error. Please try again later."
+msgstr "Testfout. Graag later opnieuw proberen."
 
 msgid "detail verdict not-tested"
-msgstr "This test didn't run because a parent test gave no/insufficient results."
+msgstr "Deze test is niet uitgevoerd, omdat de geteste domeinnaam al zakte voor een hogergelegen ('parent') test."
 
 msgid "detail web dnssec exists exp"
-msgstr "We testen of de nameserver van je domeinnaam een DNSSEC-handtekening teruggeeft. Let op: de geldigheid van de DNSSEC-ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel."
+msgstr "We testen of de nameserver van je domeinnaam een DNSSEC-handtekening teruggeeft. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel."
 
 msgid "detail web dnssec exists label"
 msgstr "DNSSEC aanwezigheid"
@@ -922,13 +930,13 @@ msgid "detail web dnssec exists verdict servfail"
 msgstr "De nameservers van je domeinnaam zijn *kapot*. Ze gaven een foutmelding (SERVFAIL) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je registrar en/of hostingprovider) om dit op te lossen."
 
 msgid "detail web dnssec valid exp"
-msgstr "We check if the DNSSEC records are valid."
+msgstr "We testen of je domeinnaam is ondertekend met een geldige DNSSEC-handtekening."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC veilig"
+msgstr "DNSSEC geldigheid"
 
 msgid "detail web dnssec valid tech table"
-msgstr "Domain|Status"
+msgstr "Domein|Status"
 
 msgid "detail web dnssec valid verdict bad"
 msgstr "Je domeinnaam is onbetrouwbaar oftewel 'bogus', omdat de DNSSEC-handtekening *niet* geldig is. Óf iemand manipuleerde het antwoord van jouw nameserver, óf je domeinnaam heeft een *serieuze DNSSEC-configuratiefout*. Dit laatste maakt je domeinnaam onbereikbaar voor alle  gebruikers die DNSSEC-handtekeningen conroleren. Neem zo spoedig mogelijk contact op met je nameserver-beheerder (vaak je registrar of hostingprovider)."
@@ -979,19 +987,19 @@ msgid "detail web ipv6 web-reach verdict good"
 msgstr "Je webserver is bereikbaar via IPv6."
 
 msgid "detail web tls cert-hostmatch tech table"
-msgstr "Web server|Unmatched domains on the certificate"
+msgstr "Webserver|Niet-overeenkomende domeinen op certificaat"
 
 msgid "detail web tls cert-pubkey tech table"
-msgstr "Web server|Public key with insufficient length"
+msgstr "Webserver|Publieke sleutel met onvoldoende lengte"
 
 msgid "detail web tls cert-signature tech table"
-msgstr "Web server|Insecure hash method"
+msgstr "Webserver|Onveilig hashing-algoritme"
 
 msgid "detail web tls cert-trust tech table"
-msgstr "Web server|Bad certificate chain"
+msgstr "Webserver|Onvertrouwde certificaatketen"
 
 msgid "detail web tls ciphers exp"
-msgstr "We testen of je webserver alleen voldoende veilige cipher suites ondersteunt. TLS gebruikt cryptografische algoritmes voor vier verschillende doeleinden: Certificaatverificatie, Sleuteluitwisseling, Bulkversleuteling, en Hashing. Een volgens de TLS-standaard geldige samenstelling van algoritmes heet een cipher suite. Een webserver kan ondersteuning aanbieden voor meerdere cipher suites. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B2-1 t/m B2-4."
+msgstr "We testen of je webserver alleen voldoende veilige cipher suites ondersteunt. TLS gebruikt cryptografische algoritmes voor vier verschillende doeleinden: Certificaatverificatie, Sleuteluitwisseling, Bulkversleuteling, en Hashing. Een volgens de TLS-standaard geldige samenstelling van algoritmes heet een cipher suite. Een webserver kan meerdere cipher suites ondersteunen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B2-1 t/m B2-4."
 
 msgid "detail web tls ciphers label"
 msgstr "Cipher suites"
@@ -1021,32 +1029,31 @@ msgid "detail web tls compression verdict good"
 msgstr "Je webserver ondersteunt geen TLS-compressie."
 
 msgid "detail web tls dane-exists tech table"
-msgstr "Web server|TLSA"
+msgstr "Webserver|TLSA aanwezig"
 
 msgid "detail web tls dane-valid tech table"
-msgstr "Web server|valid TLSA"
+msgstr "Webserver|TLSA geldig"
 
 msgid "detail web tls fs-params exp"
-msgstr "We check the forward secrecy parameters and we expect their bit-length to be\n"
-" sufficiently secure."
+msgstr "We testen of de bit-lengte van de publieke sleutel voldoende veilig is als je webserver Diffie-Hellman voor sleuteluitwisseling ondersteunt. Let op: het is ook belangrijk dat de bit-lengte van de geheime Diffie-Hellman-sleutel voldoende veilig is. Dit kunnen we vanwege zijn geheime aard echter niet testen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijnen B4-1 t/m 4-3]."
 
 msgid "detail web tls fs-params label"
-msgstr "Forward secrecy"
+msgstr "Sleuteluitwisselingsparameters"
 
 msgid "detail web tls fs-params tech table"
-msgstr "Web server|Insecure parameters"
+msgstr "Webserver|Onveilige parameters"
 
 msgid "detail web tls fs-params verdict bad"
-msgstr "The forward secrecy parameters are not secure."
+msgstr "Je webserver ondersteunt *onvoldoende* veilige Diffie-Hellman-parameters voor sleuteluitwisseling."
 
 msgid "detail web tls fs-params verdict good"
-msgstr "The forward secrecy parameters are sufficiently secure."
+msgstr "Je webserver ondersteunt voldoende veilige Diffie-Hellman-parameters voor sleuteluitwisseling."
 
 msgid "detail web tls fs-params verdict other"
-msgstr "The server does not allow connections using forward secrecy."
+msgstr "Je webserver ondersteunt geen Diffie-Hellman voor sleuteluitwisseling. Let op: RSA is het enige voldoende veilige alternatief voor Diffie-Hellman voor sleuteluitwisseling."
 
 msgid "detail web tls http-compression exp"
-msgstr "We testen of je webserver HTTP-compressie ondersteunt. Het gebruik van compressie kan een aanvaller informatie bieden over geheime delen van versleutelde communicatie. Maak je eigen afweging over het inzetten van HTTP-compressie. Als je het inzet, ga dan na of het mogelijk is maatregelen te treffen op applicatieniveau tegen de aanvalstechniek. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-1]."
+msgstr "We testen of je webserver HTTP-compressie ondersteunt. HTTP-compressie maakt de beveiligde verbinding met je webserver kwetsbaar voor de BREACH-aanval. Het uitschakelen kan een negatieve invloed hebben op de prestaties van het systeem. Als je HTTP-compressie inzet, ga dan na of het mogelijk is maatregelen te treffen op applicatieniveau tegen de aanvalstechniek. Let op: dit testonderdeel controleert of de webserver op rootdirectory-niveau HTTP-compressie ondersteunt, maar controleert niet andere websitebronnen zoals plaatsje en scripts. Zie ['TLS-beveiligingsrichtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-1]."
 
 msgid "detail web tls http-compression label"
 msgstr "Geen HTTP-compressie"
@@ -1079,40 +1086,46 @@ msgid "detail web tls https-exists verdict other"
 msgstr "Web server was unreachable."
 
 msgid "detail web tls https-forced exp"
-msgstr "We check that HTTP requests are propertly redirected to HTTPS."
+msgstr "We testen of je webserver HTTPS afdwingt door een verwijzing (d.w.z. 301/302 redirect) van HTTP naar HTTPS op dezelfde domeinnaam, of door ondersteuning van alleen HTTPS. Ingeval van verwijzing is moet een domein eerst zelf 'upgraden' via een redirect naar HTTPS voordat het  eventueel doorverwijst naar een andere domeinnaam. Dit zorgt er ook voor dat een webbrowser de HSTS kan accepteren. Voorbeelden van correcte redirect-volgorde:\n"
+"\n"
+"* http://example.nl --> https://example.nl --> https://www.example.nl \n"
+"* http://www.example.nl --> https://www.example.nl\n"
+"\n"
+"Zie [Webapplicatie-richtlijnen van NCSC, Verdieping](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), richtlijn U/WA.05."
 
 msgid "detail web tls https-forced label"
-msgstr "HTTPS redirection"
+msgstr "HTTPS afgedwongen"
 
 msgid "detail web tls https-forced tech table"
 msgstr "Web server|HTTPS redirection"
 
 msgid "detail web tls https-forced verdict bad"
-msgstr "HTTPS not enforced (neither HTTPS redirect to same domain nor only HTTPS)."
+msgstr "Je webserver dwingt geen HTTPS af (noch door een redirect van HTTP naar HTTPS op dezelfde domeinnaam, noch door ondersteuning van alleen HTTPS)."
 
 msgid "detail web tls https-forced verdict good"
-msgstr "HTTPS enforced by redirecting HTTP to HTTPS."
+msgstr "Je webserver dwingt HTTPS af door een redirect van HTTP naar HTTPS op dezelfde domeinnaam."
 
 msgid "detail web tls https-forced verdict other"
-msgstr "HTTPS enforced by supporting only HTTPS and no HTTP."
+msgstr "Je webserver dwingt HTTPS af door alleen HTTPS en geen HTTP te ondersteunen."
 
 msgid "detail web tls https-hsts exp"
-msgstr "We check if there is an HSTS policy."
+msgstr "We testen of je webserver HSTS ondersteunt. HSTS dwingt af dat een webbrowser direct via HTTPS verbindt bij terugkerend bezoek. \n"
+"Dit helpt man-in-the-middle-aanvallen te voorkomen. Een gebruikelijke geldigheidsduur voor een HSTS-policy is zes maanden tot een jaar. Een lange levensduur heeft als voordeel dat ook infrequente bezoekers beschermd zijn. Het nadeel is dat wanneer je wil stoppen met HTTPS, je langer moet wachten totdat de geldigheid van de HSTS-policy in alle browsers die je website bezochten, is verlopen."
 
 msgid "detail web tls https-hsts label"
-msgstr "HSTS policy"
+msgstr "HSTS"
 
 msgid "detail web tls https-hsts tech table"
-msgstr "Web server|HSTS policy"
+msgstr "Webserver|HSTS-policy"
 
 msgid "detail web tls https-hsts verdict bad"
-msgstr "HSTS policy could not be found."
+msgstr "Je webserver biedt *geen* HSTS-policy aan."
 
 msgid "detail web tls https-hsts verdict good"
-msgstr "HSTS policy has been found."
+msgstr "Je webserver biedt een HSTS-policy aan."
 
 msgid "detail web tls renegotiation-client exp"
-msgstr "We testen of een client (doorgaans een webbrowser) een renegotiation kan initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om client-initiated renegotiation in te schakelen. Alhoewel de optie geen risico vormt voor de vertrouwelijkheid, maakt deze een server wel vatbaar voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
+msgstr "We testen of een client (doorgaans een webbrowser) een renegotiation kan initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om client-initiated renegotiation in te schakelen. Alhoewel de optie geen risico vormt voor de vertrouwelijkheid, maakt deze een server wel vatbaar voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
 
 msgid "detail web tls renegotiation-client label"
 msgstr "Geen client-initiated renegotiation"
@@ -1127,7 +1140,7 @@ msgid "detail web tls renegotiation-client verdict good"
 msgstr "Je webserver staat geen client-initiated renegotiation toe."
 
 msgid "detail web tls renegotiation-secure exp"
-msgstr "We testen of je webserver secure renegotiation ondersteunt. De TLS-standaard staat toe om uit de applicatiefase te stappen en een nieuwe handshake af te dwingen. Dit wordt renegotiation genoemd en was oorspronkelijk erg onveilig uitgevoerd. Er is een reparatie aan de standaard uitgevoerd en inmiddels is veilige renegotiation mogelijk. De oude uitvoering, die inmiddels insecure renegotiation heet, moet worden uitgeschakeld. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
+msgstr "We testen of je webserver secure renegotiation ondersteunt. De TLS-standaard staat toe om uit de applicatiefase te stappen en een nieuwe handshake af te dwingen. Dit wordt renegotiation genoemd. Oorspronkelijk was dit erg onveilig, maar inmiddels is veilige renegotiation mogelijk. De oude uitvoering, d.w.z. insecure renegotiation, moet worden uitgeschakeld. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
 
 msgid "detail web tls renegotiation-secure label"
 msgstr "Secure renegotiation"
@@ -1142,7 +1155,7 @@ msgid "detail web tls renegotiation-secure verdict good"
 msgstr "Je webserver ondersteunt secure renegotiation. "
 
 msgid "detail web tls version exp"
-msgstr "We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste versies van TLS (namelijk SSL versie 1.0, 2.0 en 3.0) bevatten kwetsbaarheden die niet kunnen worden gerepareerd. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste bescherming. Een webserver kan voor meerdere TLS-versies ondersteuning aanbieden. Zie ['ICT-beveiligingsrichtlijnen voor TLS' van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1]."
+msgstr "We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste versies van TLS (namelijk SSL 1.0, 2.0 en 3.0) bevatten ernstige kwetsbaarheden. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste bescherming. Een webserver kan meerdere TLS-versies ondersteunen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1]."
 
 msgid "detail web tls version label"
 msgstr "TLS-versie"
@@ -2639,7 +2652,7 @@ msgid "results permalink"
 msgstr "Permalink testresultaat {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
-msgstr "Hertest"
+msgstr "Doe een hertest"
 
 msgid "results retest-time"
 msgstr "Seconden tot hertest-mogelijkheid:"

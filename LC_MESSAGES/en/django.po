@@ -143,9 +143,11 @@ msgstr "After you start the connection test, we will check if your currently use
 "* IPv6: are websites with modern addresses reachable for you?\n"
 "* DNSSEC: are domain signatures validated for you?\n"
 "\n"
+"## Test report\n"
 "After the test has finished, you are directed to a test report with an overall percentage score and with the results per subtest including  detailed explanations. You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.\n"
 "\n"
-"To be clear: the connection test checks on important modern internet standards that also contribute to security. However it should not be considered as an all-encompassing security test for internet connections."
+"## Scope\n"
+"The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections."
 
 msgid "base test connection label"
 msgstr "Test your connection"
@@ -168,9 +170,11 @@ msgstr "After the you enter a domain name of an email service, we will test if t
 "* DMARC, DKIM and SPF: protected against phishing?\n"
 "* STARTTLS and DANE: secure transport?\n"
 "\n"
-"After the test finished, you are directed to a test report with an overall percentage score and with the results per subtest including  detailed explanations. You can use this test report to improve the mail service that you use. Usually contacting your mail hoster on this will be the best next step.\n"
+"## Test report\n"
+"After the test finished, you are directed to a test report with an overall percentage score and with the results per subtest including  detailed explanations. You can use this test report to improve the mail service that you use. Usually contacting your mail hoster on this will be the best next step.   \n"
 "\n"
-"To be clear: the e-mail test checks on modern internet standards that also contribute to security. However it should not be considered as an all-encompassing security test for e-mail."
+"## Scope\n"
+"The e-mail test checks for important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for e-mail."
 
 msgid "base test mail input"
 msgstr "Your email address:"
@@ -196,11 +200,13 @@ msgstr "After you enter a domain name of a website, we will test if the website 
 "* DNSSEC: domain signed?\n"
 "* HTTPS: secure connection?\n"
 "\n"
+"## Test report\n"
 "After test has finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve your website. Usually contacting your web hoster on this will be the best next step.\n"
 "\n"
 "If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). \n"
 "\n"
-"To be clear: the website test checks on modern internet standards that also contribute security. However it should not be considered as an all-encompassing security test for websites."
+"## Scope\n"
+"The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites."
 
 msgid "base test website input"
 msgstr "Your domain name:"
@@ -850,10 +856,10 @@ msgid "detail verdict could-not-test"
 msgstr "Test error. Please try again later."
 
 msgid "detail verdict not-tested"
-msgstr "This test didn't run because a parent test gave no/insufficient results."
+msgstr "This test did not run, because the tested domain already failed for a parent test."
 
 msgid "detail web dnssec exists exp"
-msgstr "We check if the name server of your domain returns a DNSSEC signature. Note: the validity of the DNSSEC signature is not part of this subtest, but part of the next subtest."
+msgstr "We check if the name server of your domain returns a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
 
 msgid "detail web dnssec exists label"
 msgstr "DNSSEC existence"
@@ -874,10 +880,10 @@ msgid "detail web dnssec exists verdict servfail"
 msgstr "The name servers of your domain are *broken*. They returned an error (SERVFAIL) to our queries for a DNSSEC signature. Please let your name server operator (often your hoster and/or registrar) fix this."
 
 msgid "detail web dnssec valid exp"
-msgstr "We check if the DNSSEC records are valid."
+msgstr "We check if your domain is signed with a valid signature."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC secure"
+msgstr "DNSSEC validity"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domain|Status"
@@ -931,19 +937,19 @@ msgid "detail web ipv6 web-reach verdict good"
 msgstr "Your web server is reachable over IPv6."
 
 msgid "detail web tls cert-hostmatch tech table"
-msgstr "Web server|Unmatched domains on the certificate"
+msgstr "Web server|Unmatched domains on certificate"
 
 msgid "detail web tls cert-pubkey tech table"
 msgstr "Web server|Public key with insufficient length"
 
 msgid "detail web tls cert-signature tech table"
-msgstr "Web server|Insecure hash method"
+msgstr "Web server|Insecure hash algorithm"
 
 msgid "detail web tls cert-trust tech table"
-msgstr "Web server|Bad certificate chain"
+msgstr "Web server|Untrusted certificate chain"
 
 msgid "detail web tls ciphers exp"
-msgstr "We check if your web server supports sufficiently secure cipher suites only. TLS uses crypotographic algoritmes for four different purposes: Certificate verification, Key exchange, Bulk encryption and Hashing. A combination of algoritmes that is conformant to the TLS standard is called a cipher suite. A web server may offer support for more than one cipher suite. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B2-1 to B2-4."
+msgstr "We check if your web server supports sufficiently secure cipher suites only. TLS uses crypotographic algoritmes for four different purposes: Certificate verification, Key exchange, Bulk encryption and Hashing. A combination of algoritmes that is conformant to the TLS standard is called a cipher suite. A web server may support more than one cipher suite. See ['TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B2-1 to B2-4."
 
 msgid "detail web tls ciphers label"
 msgstr "Cipher suites"
@@ -973,32 +979,31 @@ msgid "detail web tls compression verdict good"
 msgstr "Your web server does not support TLS compression."
 
 msgid "detail web tls dane-exists tech table"
-msgstr "Web server|TLSA"
+msgstr "Web server|TLSA existent"
 
 msgid "detail web tls dane-valid tech table"
-msgstr "Web server|valid TLSA"
+msgstr "Web server|TLSA valid"
 
 msgid "detail web tls fs-params exp"
-msgstr "We check the forward secrecy parameters and we expect their bit-length to be\n"
-" sufficiently secure."
+msgstr "We check whether the public key length is sufficiently secure if your web server supports Diffie-Hellman key exchange. Note: it is also important that the bit-length of the secret Diffie-Hellman key is sufficiently secure. However, due to its secret nature we are not able to check this. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guidelines B4-1 to B4-3."
 
 msgid "detail web tls fs-params label"
-msgstr "Forward secrecy"
+msgstr "Key exchange parameters"
 
 msgid "detail web tls fs-params tech table"
 msgstr "Web server|Insecure parameters"
 
 msgid "detail web tls fs-params verdict bad"
-msgstr "The forward secrecy parameters are not secure."
+msgstr "Your web server supports *insufficiently* secure Diffie-Hellman parameters for key exchange."
 
 msgid "detail web tls fs-params verdict good"
-msgstr "The forward secrecy parameters are sufficiently secure."
+msgstr "Your web server supports sufficiently secure Diffie-Hellman parameters for key exchange."
 
 msgid "detail web tls fs-params verdict other"
-msgstr "The server does not allow connections using forward secrecy."
+msgstr "Your web server does not support Diffie-Hellman for key exchange. Note: RSA is the only sufficiently secure alternative to Diffie-Hellman for key exchange."
 
 msgid "detail web tls http-compression exp"
-msgstr "We test if your web server supports HTTP compression. The use of compression can give an attacker insights in secret parts of encrypted communication. Make your own assessment on using HTTP compression. If you use it, check if it is possible to take countermeasures on the  application level against the attack vector. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-1."
+msgstr "We test if your web server supports HTTP compression. HTTP compression makes the secure connection with your webserver vulnerable for the BREACH attack. Turning it off could negatively impact the performance of the web server. If you use it, check if it is possible to take countermeasures on the application level against the attack vector. Note: this subtest checks if the web server on root directory level supports HTTP compression. However it does not check additional website sources like images and scripts. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-1."
 
 msgid "detail web tls http-compression label"
 msgstr "No HTTP compression"
@@ -1031,40 +1036,45 @@ msgid "detail web tls https-exists verdict other"
 msgstr "Web server was unreachable."
 
 msgid "detail web tls https-forced exp"
-msgstr "We check that HTTP requests are propertly redirected to HTTPS."
+msgstr "We check if your web server enfroces HTTPS by a 301/302 redirect from HTTP to HTTPS on the same domain, or by supoorting only HTTPS. In case of redirecting a domain should firstly upgrade itself by redirecting to HTTPS before it may redirect to another domain. This makes also sure that the HSTS-policy will be accepted by the web browser. Examples of correct redirect order:\n"
+"\n"
+"* http://example.nl --> https://example.nl --> https://www.example.nl\n"
+"* http://www.example.nl --> https://www.example.nl\n"
+"\n"
+"See [Web application guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), guideline U/WA.05 (in Dutch)."
 
 msgid "detail web tls https-forced label"
-msgstr "HTTPS redirection"
+msgstr "HTTPS enforced"
 
 msgid "detail web tls https-forced tech table"
 msgstr "Web server|HTTPS redirection"
 
 msgid "detail web tls https-forced verdict bad"
-msgstr "HTTPS not enforced (neither HTTPS redirect to same domain nor only HTTPS)."
+msgstr "Your web server does not enforce HTTPS (either by redirecting HTTP to HTTPS on the same domain, or by supporting only HTTPS)."
 
 msgid "detail web tls https-forced verdict good"
-msgstr "HTTPS enforced by redirecting HTTP to HTTPS."
+msgstr "Your web server enforces HTTPS by redirecting HTTP to HTTPS on the same domain."
 
 msgid "detail web tls https-forced verdict other"
-msgstr "HTTPS enforced by supporting only HTTPS and no HTTP."
+msgstr "Your web server enforces HTTPS by supporting only HTTPS and no HTTP."
 
 msgid "detail web tls https-hsts exp"
-msgstr "We check if there is an HSTS policy."
+msgstr "We check if your web server supports HSTS. HSTS forces a web browser to connect directly via HTTPS when revisiting your website. This helps preventing man-in-the-middle attacks. A common retention time duration for the HSTS policy is 6 months to one year. A long period is beneficial because it also protects infrequent visistors. However if you want to stop supporting HTTPS, you will have to wait longer until the validity of the HSTS policy in all browsers that vistited your website, has expired."
 
 msgid "detail web tls https-hsts label"
-msgstr "HSTS policy"
+msgstr "HSTS"
 
 msgid "detail web tls https-hsts tech table"
 msgstr "Web server|HSTS policy"
 
 msgid "detail web tls https-hsts verdict bad"
-msgstr "HSTS policy could not be found."
+msgstr "Your web server does *not* offer a HSTS policy."
 
 msgid "detail web tls https-hsts verdict good"
-msgstr "HSTS policy has been found."
+msgstr "Your web server offers a HSTS policy."
 
 msgid "detail web tls renegotiation-client exp"
-msgstr "We check if a client (usually a web browser) can initiate a renegotiation with your web server. There seems to be no need to support client-initiated renegotiation. Although the option does not bear a risk for confidentiality, it does make a web server vulnerable for DDoS attacks. Therefore you should not support it. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2."
+msgstr "We check if a client (usually a web browser) can initiate a renegotiation with your web server. There seems to be no need to support client-initiated renegotiation. Although the option does not bear a risk for confidentiality, it does make a web server vulnerable for DDoS attacks. Therefore you should not support it. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2."
 
 msgid "detail web tls renegotiation-client label"
 msgstr "No client-initiated renegotiation"
@@ -1079,7 +1089,7 @@ msgid "detail web tls renegotiation-client verdict good"
 msgstr "Your web server does not allow for client-initiated renegotiation."
 
 msgid "detail web tls renegotiation-secure exp"
-msgstr "We check if your web server supports secure renegotiaton. The TLS standard allows to step out of the application phase and force a new handshake. This is called renegotiation and it was originally designed very insecurely. The standard was fixed and now allows for secure renegotiation. The old version,  that is called insecure renegotiation nowadays, should not be supported. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2."
+msgstr "We check if your web server supports secure renegotiaton. The TLS standard allows to step out of the application phase and force a new handshake. This is called renegotiation. Originally this was designed very insecurely, but the standard was fixed and now allows for secure renegotiation. The old version, i.e. insecure renegotiation, should not be supported. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2."
 
 msgid "detail web tls renegotiation-secure label"
 msgstr "Secure renegotiation"
@@ -1094,7 +1104,7 @@ msgid "detail web tls renegotiation-secure verdict good"
 msgstr "Your web server supports secure renegotiation."
 
 msgid "detail web tls version exp"
-msgstr "We check if your web server supports secure TLS versions only. The oldest TLS versions (i.e. SSL version 1.0, 2.0 and 3.0) contain unrepairable vulnerabilities and therefore should not be used. TLS 1.0 and 1.1 are sufficiently secure. The most recent version, TLS 1.2, offers the best protection. A web server may offer support for more than one TLS version. See ['ICT security guidelines for TLS' from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B1-1."
+msgstr "We check if your web server supports secure TLS versions only. The oldest TLS versions (i.e. SSL 1.0, 2.0 and 3.0) contain severe vulnerabilities. Therefore they should not be used. TLS 1.0 and 1.1 are sufficiently secure. The most recent version, TLS 1.2, offers the best protection. A web server may support more than one TLS version. See [TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B1-1."
 
 msgid "detail web tls version label"
 msgstr "TLS version"
@@ -1915,7 +1925,7 @@ msgid "results permalink"
 msgstr "Permalink test result {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
-msgstr "Rerun test"
+msgstr "Rerun the test"
 
 msgid "results retest-time"
 msgstr "Seconds until retest option:"
