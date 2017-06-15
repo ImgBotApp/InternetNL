@@ -1,1 +1,1 @@
-Deze test is niet uitgevoerd, omdat de geteste domeinnaam al zakte voor een hogergelegen ('parent') test.
+Deze test is niet uitgevoerd, omdat een hogergelegen ('parent') test waarvan deze test afhankelijk is, al een negatief testresultaat ('gezakt') gaf.
