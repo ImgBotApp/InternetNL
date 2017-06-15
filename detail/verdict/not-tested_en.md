@@ -1,1 +1,1 @@
-This test did not run, because the tested domain already failed for a parent test.
+This test did not run, because a parent test that this test depends on already gave a fail as a result.
