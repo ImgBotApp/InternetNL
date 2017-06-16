@@ -4,7 +4,7 @@ After you start the connection test, we will check if your currently used intern
 * DNSSEC: are domain signatures validated for you?
 
 ## Test report
-After the test has finished, you are directed to a test report with an overall percentage score and with the results per subtest including  detailed explanations. You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.
+After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including  detailed explanations. You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.
 
 ## Scope
 The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections.
