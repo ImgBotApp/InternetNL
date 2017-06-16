@@ -1,6 +1,6 @@
 - **IPv6:**
   - [IPv6 test](http://ipv6-test.com/)
- - **DNSSEC:**
+- **DNSSEC:**
   - [DNSSEC resolver algorithm test](https://rootcanary.org/test.html) 
 - **HTTPS/TLS:**
   - [SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)
