@@ -903,7 +903,7 @@ msgid "detail verdict could-not-test"
 msgstr "Testfout. Graag later opnieuw proberen."
 
 msgid "detail verdict not-tested"
-msgstr "Deze test is niet uitgevoerd, omdat de geteste domeinnaam al zakte voor een hogergelegen ('parent') test."
+msgstr "Deze test is niet uitgevoerd, omdat een hogergelegen test waarvan deze test afhankelijk is al een negatief testresultaat ('gezakt') gaf."
 
 msgid "detail web dnssec exists exp"
 msgstr "We testen of de nameserver van je domeinnaam een DNSSEC-handtekening teruggeeft. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel."
@@ -1199,76 +1199,148 @@ msgstr "*Niet* alle nameservers die een IPv6-adres hebben zijn bereikbaar via IP
 msgid "detail web-mail ipv6 ns-reach verdict good"
 msgstr "Alle nameservers die een IPv6-adres hebben zijn bereikbaar via IPv6."
 
-msgid "detail web-mail tls cert-hostmatch exp"
+msgid "detail web tls cert-hostmatch exp"
 msgstr "We check that the domain matches the domain name on the certificate."
 
-msgid "detail web-mail tls cert-hostmatch label"
+msgid "detail mail tls cert-hostmatch exp"
+msgstr "We check that the domain matches the domain name on the certificate."
+
+msgid "detail web tls cert-hostmatch label"
 msgstr "Certificates' domain name"
 
-msgid "detail web-mail tls cert-hostmatch verdict bad"
+msgid "detail mail tls cert-hostmatch label"
+msgstr "Certificates' domain name"
+
+msgid "detail web tls cert-hostmatch verdict bad"
 msgstr "Hostname of website does not match certificate."
 
-msgid "detail web-mail tls cert-hostmatch verdict good"
+msgid "detail mail tls cert-hostmatch verdict bad"
+msgstr "Hostname of website does not match certificate."
+
+msgid "detail web tls cert-hostmatch verdict good"
 msgstr "Hostname of website matches certificate."
 
-msgid "detail web-mail tls cert-pubkey exp"
+msgid "detail mail tls cert-hostmatch verdict good"
+msgstr "Hostname of website matches certificate."
+
+msgid "detail web tls cert-pubkey exp"
 msgstr "We check the certificates public keys' length."
 
-msgid "detail web-mail tls cert-pubkey label"
+msgid "detail mail tls cert-pubkey exp"
+msgstr "We check the certificates public keys' length."
+
+msgid "detail web tls cert-pubkey label"
 msgstr "Certificates' public keys"
 
-msgid "detail web-mail tls cert-pubkey verdict bad"
+msgid "detail mail tls cert-pubkey label"
+msgstr "Certificates' public keys"
+
+msgid "detail web tls cert-pubkey verdict bad"
 msgstr "Some certificates contain public keys of insufficient length."
 
-msgid "detail web-mail tls cert-pubkey verdict good"
+msgid "detail mail tls cert-pubkey verdict bad"
+msgstr "Some certificates contain public keys of insufficient length."
+
+msgid "detail web tls cert-pubkey verdict good"
 msgstr "The public keys in the certificates are sufficiently long."
 
-msgid "detail web-mail tls cert-signature exp"
+msgid "detail mail tls cert-pubkey verdict good"
+msgstr "The public keys in the certificates are sufficiently long."
+
+msgid "detail web tls cert-signature exp"
 msgstr "We check the certificates's signature."
 
-msgid "detail web-mail tls cert-signature label"
+msgid "detail mail tls cert-signature exp"
+msgstr "We check the certificates's signature."
+
+msgid "detail web tls cert-signature label"
 msgstr "Certificates' signature"
 
-msgid "detail web-mail tls cert-signature verdict bad"
+msgid "detail mail tls cert-signature label"
+msgstr "Certificates' signature"
+
+msgid "detail web tls cert-signature verdict bad"
 msgstr "Some certificates are signed using a hash method that is not secure."
 
-msgid "detail web-mail tls cert-signature verdict good"
+msgid "detail mail tls cert-signature verdict bad"
+msgstr "Some certificates are signed using a hash method that is not secure."
+
+msgid "detail web tls cert-signature verdict good"
 msgstr "All certificates are signed using a sufficiently secure hash method."
 
-msgid "detail web-mail tls cert-trust exp"
+msgid "detail mail tls cert-signature verdict good"
+msgstr "All certificates are signed using a sufficiently secure hash method."
+
+msgid "detail web tls cert-trust exp"
 msgstr "We check the certificate chain."
 
-msgid "detail web-mail tls cert-trust label"
+msgid "detail mail tls cert-trust exp"
+msgstr "We check the certificate chain."
+
+msgid "detail web tls cert-trust label"
 msgstr "Certificates' chain of trust"
 
-msgid "detail web-mail tls cert-trust verdict bad"
+msgid "detail mail tls cert-trust label"
+msgstr "Certificates' chain of trust"
+
+msgid "detail web tls cert-trust verdict bad"
 msgstr "The certificate chain is not signed by a trusted root CA."
 
-msgid "detail web-mail tls cert-trust verdict good"
+msgid "detail mail tls cert-trust verdict bad"
+msgstr "The certificate chain is not signed by a trusted root CA."
+
+msgid "detail web tls cert-trust verdict good"
 msgstr "The certificate chain is complete and signed by a trusted root CA."
 
-msgid "detail web-mail tls dane-exists exp"
+msgid "detail mail tls cert-trust verdict good"
+msgstr "The certificate chain is complete and signed by a trusted root CA."
+
+msgid "detail web tls dane-exists exp"
 msgstr "We check the existence of a TLSA record (DANE)."
 
-msgid "detail web-mail tls dane-exists label"
+msgid "detail mail tls dane-exists exp"
+msgstr "We check the existence of a TLSA record (DANE)."
+
+msgid "detail web tls dane-exists label"
 msgstr "TLSA record (DANE)"
 
-msgid "detail web-mail tls dane-exists verdict bad"
+msgid "detail mail tls dane-exists label"
+msgstr "TLSA record (DANE)"
+
+msgid "detail web tls dane-exists verdict bad"
 msgstr "No TLSA record found (DANE)"
 
-msgid "detail web-mail tls dane-exists verdict good"
+msgid "detail mail tls dane-exists verdict bad"
+msgstr "No TLSA record found (DANE)"
+
+msgid "detail web tls dane-exists verdict good"
 msgstr "TLSA record found (DANE)"
 
-msgid "detail web-mail tls dane-valid exp"
+msgid "detail mail tls dane-exists verdict good"
+msgstr "TLSA record found (DANE)"
+
+msgid "detail web tls dane-valid exp"
 msgstr "We check the existence of a TLSA record (DANE)."
 
-msgid "detail web-mail tls dane-valid label"
+msgid "detail mail tls dane-valid exp"
+msgstr "We check the existence of a TLSA record (DANE)."
+
+msgid "detail web tls dane-valid label"
 msgstr "TLSA record validity (DANE)"
 
-msgid "detail web-mail tls dane-valid verdict bad"
+msgid "detail mail tls dane-valid label"
+msgstr "TLSA record validity (DANE)"
+
+msgid "detail web tls dane-valid verdict bad"
 msgstr "The TLSA record is not valid (DANE)."
 
-msgid "detail web-mail tls dane-valid verdict good"
+msgid "detail mail tls dane-valid verdict bad"
+msgstr "The TLSA record is not valid (DANE)."
+
+msgid "detail web tls dane-valid verdict good"
+msgstr "The TLSA record is valid (DANE)."
+
+msgid "detail mail tls dane-valid verdict good"
 msgstr "The TLSA record is valid (DANE)."
 
 msgid "detail web-tls cert-hostname-match-FAIL"

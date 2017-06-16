@@ -1,0 +1,1 @@
+TLSA record validity (DANE)
