@@ -1,1 +1,1 @@
-Via modern internet addresses reachable (IPv6)
+Reachable via modern internet addresses (IPv6)
