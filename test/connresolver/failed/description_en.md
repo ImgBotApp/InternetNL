@@ -1,1 +1,1 @@
-Too bad! Domain signatures are *not* validated. Therefore, for domains that provide such signatures, you are not protected against false translation from domain name into rogue IP addresses. Please ask your internet provider for DNSSEC validation and/or enable it on your own systems.
+Too bad! Domain signatures are *not* validated. Therefore you are not protected against false translation from signed domains into rogue IP addresses. Please ask your internet provider for DNSSEC validation and/or enable it on your own systems.
