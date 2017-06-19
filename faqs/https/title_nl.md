@@ -1,1 +1,1 @@
-Beveiligde verbinding (HTTPS en HSTS)
+Beveiligde verbinding (HTTPS)
