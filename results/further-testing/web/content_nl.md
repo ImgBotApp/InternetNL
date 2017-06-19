@@ -8,5 +8,5 @@
   - [SSLlabs](https://www.ssllabs.com/ssltest/)
   - [badssl.com](https://badssl.com/)
   - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
-- **Other:**  
-  - [Securityheaders.io](https://securityheaders.io)
+- **Other:**
+  - [Securityheaders.io](https://securityheaders.io)
