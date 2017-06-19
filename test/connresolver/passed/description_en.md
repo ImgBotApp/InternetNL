@@ -1,1 +1,1 @@
-Congratulations! Digital domain signatures are validated. Therefore you are protected against false translation from signed domain names into rogue IP addresses.
+Congratulations! Domain signatures are validated for you. Therefore you are protected against false translation from signed domain names into rogue IP addresses.
