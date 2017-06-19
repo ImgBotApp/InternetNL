@@ -1,1 +1,1 @@
-Congratulations! Your domain is digitally signed. Therefore visitors who let their provider and/or local systems validate domain signatures, are protected against manipulated translation from your domain into rogue internet addresses.
+Congratulations! Your domain is digitally signed. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses.
