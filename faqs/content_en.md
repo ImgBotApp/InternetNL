@@ -1,7 +1,7 @@
 ## Website test
 * [Modern address (IPv6)](/faqs/ipv6/)
 * [Domain signing (DNSSEC)](/faqs/dnssec/)
-* [Secure connection (HTTPS and HSTS)](/faqs/https/)
+* [Secure connection (HTTPS)](/faqs/https/)
 
 ## Email test
 * [Modern address (IPv6)](/faqs/ipv6/)
