@@ -1,7 +1,7 @@
 ## Websitetest
 * [Modern adres (IPv6)](/faqs/ipv6/)
 * [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)
-* [Beveiligde verbinding (HTTPS en HSTS)](/faqs/https/)
+* [Beveiligde verbinding (HTTPS)](/faqs/https/)
 
 ## E-mailtest
 * [Modern adres (IPv6)](/faqs/ipv6/)
