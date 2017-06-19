@@ -1,1 +1,1 @@
-Via moderne adressen bereikbaar (IPv6)
+Bereikbaar via moderne adres (IPv6)
