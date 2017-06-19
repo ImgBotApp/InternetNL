@@ -1,1 +1,1 @@
-Protected from redirection to false IP addresses (DNSSEC)
+Domain name signed (DNSSEC)
