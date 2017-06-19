@@ -1,1 +1,1 @@
-Partly passed, partly not testable
+Gedeeltelijk geslaagd, gedeeltelijk niet-testbaar
