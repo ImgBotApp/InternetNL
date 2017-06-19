@@ -32,7 +32,7 @@ vulnerabilities.
 - not share the problem with others until we have fixed it;
 - not copy data from our systems, other than what&#39;s absolutely necessary
   to demonstrate the leak;
-- leave your contact data (e-mail address and phone numner), so we can get in
+- leave your contact data (e-mail address and phone number), so we can get in
   touch and work with you to fix the problem.
 
 ## We promise:
