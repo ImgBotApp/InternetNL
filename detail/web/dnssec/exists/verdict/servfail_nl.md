@@ -1,1 +1,1 @@
-De nameservers van je domeinnaam zijn *kapot*. Ze gaven een foutmelding (SERVFAIL) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je registrar en/of hostingprovider) om dit op te lossen.
+De nameservers van je domeinnaam zijn *kapot*. Ze gaven een foutmelding (`SERVFAIL`) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je registrar en/of hostingprovider) om dit op te lossen.
