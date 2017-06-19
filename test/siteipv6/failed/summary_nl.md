@@ -1,1 +1,1 @@
-Via modern internetadres *niet* bereikbaar, of verbetering mogelijk (IPv6)
+*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)
