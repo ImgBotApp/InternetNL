@@ -1,1 +1,1 @@
-Passed, but partly not testable
+Partly passed, partly not testable
