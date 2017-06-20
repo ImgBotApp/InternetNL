@@ -1,1 +1,1 @@
-Protected from mail spoofing (DKIM/SPF/DMARC)
+Authentication marks against email forgery (DMARC, DKIM and SPF)
