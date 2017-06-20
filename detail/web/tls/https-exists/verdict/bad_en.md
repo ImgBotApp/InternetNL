@@ -1,1 +1,1 @@
-Website does not offer HTTPS.
+Your website does *not* offer HTTPS.
