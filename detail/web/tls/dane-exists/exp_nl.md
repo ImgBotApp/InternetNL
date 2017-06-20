@@ -1,1 +1,1 @@
-We check the existence of a TLSA record (DANE).
+We testen of de nameserver van je domeinnaam een TLSA-record voor DANE bevat. Met DANE kan je informatie over jouw websitecertificaat publiceren in een speciaal DNS-record, een TLSA-record. Clients kunnen het certificaat nu niet alleen via een eventuele  certificaatautoriteit, maar ook via het TLSA-record controleren op authenticiteit. DNSSEC is een noodzakelijke randvoorwaarde voor DANE. Let op: de geldigheid van DANE wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel. 
