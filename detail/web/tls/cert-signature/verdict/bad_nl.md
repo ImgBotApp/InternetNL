@@ -1,1 +1,1 @@
-Some certificates are signed using a hash method that is not secure.
+Alle of sommige certificaten van je website zijn ondertekend met een hashing algoritme dat *niet* veilig is.
