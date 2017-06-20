@@ -7,5 +7,5 @@ Location: 7AM, Buitenhof 47, The Hague
 
 ## Joining
 
-Free of charge, however the number of participants is limited.  You can sign up using the
+Free of charge, however the number of participants is limited. You can sign up using the
 [website of ECP](https://ecp.nl/events/4432/masterclass-dmarc.html).

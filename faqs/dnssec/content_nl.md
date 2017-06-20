@@ -37,7 +37,7 @@ Andere beveiligingsstandaarden kunnen voortbouwen op DNSSEC als onderliggende be
 ## II. Voor domeinnaamhouders
 
 ### Hoe weet ik of mijn domeinnnaam is ondertekend met DNSSEC?
-Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen controleert DNSSEC. Let op: Het komt regelmatig voor dat een mailserver een andere domeinnaam heeft dan uw eigen domeinnaam. Bijvoorbeeld omdat uw eigen domein  (bijv. `@example.nl`; het mailto-domein) gebruik maakt van de mailserver van een derde partij (bijv. `mailserver.example.com`; het mailserver-domein). In de mailtest worden beide domeinnamen gecontroleerd op DNSSEC.
+Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen controleert DNSSEC. Let op: Het komt regelmatig voor dat een mailserver een andere domeinnaam heeft dan uw eigen domeinnaam. Bijvoorbeeld omdat uw eigen domein (bijv. `@example.nl`; het mailto-domein) gebruik maakt van de mailserver van een derde partij (bijv. `mailserver.example.com`; het mailserver-domein). In de mailtest worden beide domeinnamen gecontroleerd op DNSSEC.
 
 ### Hoe onderteken ik mijn domeinnaam met DNSSEC?
 Als jouw domeinnaam nog niet beveiligd is met DNSSEC:

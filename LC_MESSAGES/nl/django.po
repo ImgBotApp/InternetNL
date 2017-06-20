@@ -39,16 +39,16 @@ msgstr "# Over Internet.nl\n"
 "Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel **moderne, betrouwbare internetstandaarden**? En, als dat niet zo is, wat kun je daar aan doen?\n"
 "\n"
 "## 2. Wat zijn internetstandaarden?\n"
-"Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale \"stekkers en stopcontacten\" die alles met elkaar verbinden. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern  van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.\n"
+"Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale \"stekkers en stopcontacten\" die alles met elkaar verbinden. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.\n"
 "\n"
 "## 3. Waarom is het belangrijk om up-to-date te zijn?\n"
-"De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn  er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne standaarden beschikbaar zijn.\n"
+"De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne standaarden beschikbaar zijn.\n"
 "\n"
 "## 4. Loopt Nederland voorop met moderne internetstandaarden?\n"
 "Helaas is dat niet zo. Ook in een modern land als Nederland (dat als eerste Europese land in 1988 internettoegang kreeg) gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Het niet gebruiken van moderne standaarden is een risico voor de individuele internetgebruiker, maar ook voor de \"BV Nederland\" en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne internetstandaarden.\n"
 "\n"
 "## 5. Wie moet er nu aan de slag met moderne internetstandaarden?\n"
-"Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan.  Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.\n"
+"Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan. Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.\n"
 "\n"
 "## 6. Waarom gaan jullie niet direct in gesprek met de providers?\n"
 "Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om moderne internetstandaarden.\n"
@@ -185,6 +185,7 @@ msgstr "Gebruiksvoorwaarden"
 
 msgid "base test connection explain"
 msgstr "Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou gebruikte internetverbinding ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
+"\n"
 "* IPv6: zijn websites met moderne adressen voor jou bereikbaar?\n"
 "* DNSSEC: worden domeinnaam-handtekeningen voor jou gecontroleerd?\n"
 "\n"
@@ -214,6 +215,8 @@ msgstr "Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we o
 "* DNSSEC: domeinnaam ondertekend?\n"
 "* DMARC, DKIM en SPF: beschermd tegen phishing?\n"
 "* STARTTLS en DANE: beveiligd transport?\n"
+"\n"
+"Let op: sommige standaarden zijn zelfs relevant als voor je domeinnaam geen mailservers zijn ingesteld.\n"
 "\n"
 "## Testrapport\n"
 "Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om de e-maildienst die jij gebruikt te verbeteren. Normaalgesproken kan je hierover het beste je e-mailhoster aanspreken.   \n"
@@ -274,7 +277,7 @@ msgid "connection title"
 msgstr "Verbindingstest"
 
 msgid "detail conn dnssec validation exp"
-msgstr "We testen of de door jou gebruikte resolvers de DNSSEC-handtekeningen van onze domeinnaam valideren. DNSSEC-validatie kan plaatsvinden op de DNS-resolvers van jouw internetprovider of van een andere door jou gebruikte DNS-provider, en/of op je eigen lokale systemen. Het meest veilig is om zo dicht mogelijk op het apparaat van de eindgebruiker te valideren, omdat een kwaadwillende dan nergens onderweg de DNS-vertaling ongemerkt kan manipuleren."
+msgstr "We testen of de door jou gebruikte resolvers de DNSSEC-handtekeningen van onze domeinnaam valideren. Resolvers worden normaalgesproken geleverd door je internetprovider. Als alternatief kan je resolvers van een andere DNS provider instellen. Je kan zelfs je eigen lokaal geïnstalleerde resolver gebruiken. Hoewel validatie plaatsvindt op de resolver, kan nog steeds door een aanvaller gerommeld worden met de communicatie tussen de resolver en jouw apparaat (ook wel 'last mile' genoemd). Het is daarom het meest veilig om zo dicht mogelijk op je apparaat te valideren (bijv. door een lokaal geïstalleerde resolver te gebruiken), of zorg ervoor dat het kanaal tussen je resolver en je apparaat beveiligd c.q. vertrouwd is."
 
 msgid "detail conn dnssec validation label"
 msgstr "DNSSEC-validatie"
@@ -304,7 +307,7 @@ msgid "detail conn ipv6 connection verdict good"
 msgstr "Je bent in staat om computers direct op hun IPv6-adres te bereiken."
 
 msgid "detail conn ipv6 dns-conn exp"
-msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv6-adres, nadat onze domeinnaam *door DNS* is vertaald in dit IPv6-adres."
+msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via IPv6. Voor deze test bieden we een domeinnaam aan en we verwachten dat je resolver voor deze domeinnaam het bijbehorende IPv6-adres ophaalt."
 
 msgid "detail conn ipv6 dns-conn label"
 msgstr "IPv6-connectiviteit (via DNS)"
@@ -316,7 +319,7 @@ msgid "detail conn ipv6 dns-conn verdict good"
 msgstr "Je bent in staat om computers via DNS op hun IPv6-adres te bereiken."
 
 msgid "detail conn ipv6 ipv4-conn exp"
-msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via ons bijbehorende IPv4-adres, nadat onze domeinnaam *door DNS* is vertaald in dit IPv4-adres."
+msgstr "We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via IPv4. Voor deze test bieden we een domeinnaam aan en we verwachten dat je resolver voor deze domeinnaam het bijbehorende IPv4-adres ophaalt."
 
 msgid "detail conn ipv6 ipv4-conn label"
 msgstr "IPv4-connectiviteit (via DNS)"
@@ -891,13 +894,13 @@ msgid "detail tech data insecure"
 msgstr "insecure"
 
 msgid "detail tech data no"
-msgstr "No"
+msgstr "nee"
 
 msgid "detail tech data secure"
 msgstr "secure"
 
 msgid "detail tech data yes"
-msgstr "Yes"
+msgstr "ja"
 
 msgid "detail verdict could-not-test"
 msgstr "Testfout. Graag later opnieuw proberen."
@@ -909,34 +912,34 @@ msgid "detail web dnssec exists exp"
 msgstr "We testen of de nameserver van je domeinnaam een DNSSEC-handtekening teruggeeft. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel."
 
 msgid "detail web dnssec exists label"
-msgstr "DNSSEC aanwezigheid"
+msgstr "DNSSEC aanwezig"
 
 msgid "detail web dnssec exists tech table"
 msgstr "Domein|Registrar"
 
 msgid "detail web dnssec exists verdict bad"
-msgstr "Je domein is onveilig oftewel 'insecure', omdat het *niet* een DNSSEC-handtekening heeft."
+msgstr "Je domein is onveilig oftewel 'insecure', omdat het *niet* met DNSSEC ondertekend is."
 
 msgid "detail web dnssec exists verdict good"
-msgstr "Je domein heeft een DNSSEC-handtekening."
+msgstr "Je domein is met DNSSEC ondertekend."
 
 msgid "detail web dnssec exists verdict resolver-error"
 msgstr "Helaas is in de resolver van Internet.nl een fout opgetreden. Neem a.j.b. [contact](/about) met ons op."
 
 msgid "detail web dnssec exists verdict servfail"
-msgstr "De nameservers van je domeinnaam zijn *kapot*. Ze gaven een foutmelding (SERVFAIL) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je registrar en/of hostingprovider) om dit op te lossen."
+msgstr "De nameservers van je domeinnaam zijn *kapot*. Ze gaven een foutmelding (`SERVFAIL`) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je registrar en/of hostingprovider) om dit op te lossen."
 
 msgid "detail web dnssec valid exp"
 msgstr "We testen of je domeinnaam is ondertekend met een geldige DNSSEC-handtekening."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC geldigheid"
+msgstr "DNSSEC geldig"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domein|Status"
 
 msgid "detail web dnssec valid verdict bad"
-msgstr "Je domeinnaam is onbetrouwbaar oftewel 'bogus', omdat de DNSSEC-handtekening *niet* geldig is. Óf iemand manipuleerde het antwoord van jouw nameserver, óf je domeinnaam heeft een *serieuze DNSSEC-configuratiefout*. Dit laatste maakt je domeinnaam onbereikbaar voor alle  gebruikers die DNSSEC-handtekeningen conroleren. Neem zo spoedig mogelijk contact op met je nameserver-beheerder (vaak je registrar of hostingprovider)."
+msgstr "Je domeinnaam is onbetrouwbaar oftewel 'bogus', omdat de DNSSEC-handtekening *niet* geldig is. Óf iemand manipuleerde het antwoord van jouw nameserver, óf je domeinnaam heeft een *serieuze DNSSEC-configuratiefout*. Dit laatste maakt je domeinnaam onbereikbaar voor alle gebruikers die DNSSEC-handtekeningen conroleren. Neem zo spoedig mogelijk contact op met je nameserver-beheerder (vaak je registrar of hostingprovider)."
 
 msgid "detail web dnssec valid verdict good"
 msgstr "Je domeinnaam is veilig oftewel 'secure', omdat zijn DNSSEC-handtekening geldig is."
@@ -957,7 +960,7 @@ msgid "detail web ipv6 web-AAAA verdict good"
 msgstr "De nameserver van je domeinnaam geven één of meer AAAA-records met IPv6-adres voor je webserver terug."
 
 msgid "detail web ipv6 web-ipv46 exp"
-msgstr "We vergelijken de webcontent die we van je webserver ontvangen via zowel IPv6 als IPv4 op poort 80 of 443. In het geval er meerdere IPv6-adressen en IP4-adressen zijn, dan pakken we één IPv6-adres en één IPv4-adres. Als het contentverschil niet groter is dan 10%, dan gaan we ervanuit uit dat de primaire webcontent gelijk is. Daardoor zullen ook websites met kleine beoogde verschillen (bijvoorbeeld door wisselende advertenties of een melding zoals \"bereikt via IPv6\") slagen voor dit testonderdeel. "
+msgstr "We vergelijken de webcontent die we van je webserver ontvangen via zowel IPv6 als IPv4 op alle beschikbare poorten (80 en/of 443). In het geval er meerdere IPv6-adressen en IP4-adressen zijn, dan pakken we één IPv6-adres en één IPv4-adres. Als het contentverschil niet groter is dan 10%, dan gaan we ervanuit uit dat de primaire webcontent gelijk is. Daardoor zullen ook websites met kleine verschillen (bijvoorbeeld door wisselende advertenties) slagen voor dit testonderdeel. "
 
 msgid "detail web ipv6 web-ipv46 label"
 msgstr "Gelijke website op IPv6 en IPv4"
@@ -969,7 +972,7 @@ msgid "detail web ipv6 web-ipv46 verdict good"
 msgstr "Je website op IPv6 lijkt gelijk aan je website op IPv4."
 
 msgid "detail web ipv6 web-reach exp"
-msgstr "We testen of we je webserver kunnen bereiken via IPv6 op poort 80 of 443. We testen alle AAAA-records die de nameserver voor de domeinnaam bevat. Alleen als alle IPv6-adressen bereikbaar zijn, wordt de volledige score gegeven. Als een AAAA-record een (syntacticsh) ongeldig IPv6-adres bevat, dan zal een domeinnaam niet slagen voor dit testonderdeel."
+msgstr "We testen of we je webserver kunnen bereiken via IPv6 op alle beschikbare poorten (80 en/of 443). We testen alle IPv6-adressen die we ontvangen van je nameservers. Een deelscore wordt gegeven als niet alle IPv6-adressen bereikbaar zijn. Als een IPv6-adres (syntactisch) ongeldig is, dan beschouwen we dat ook als onbereikbaar."
 
 msgid "detail web ipv6 web-reach label"
 msgstr "IPv6-bereikbaarheid van webserver"
@@ -996,7 +999,7 @@ msgid "detail web tls cert-trust tech table"
 msgstr "Webserver|Onvertrouwde certificaatketen"
 
 msgid "detail web tls ciphers exp"
-msgstr "We testen of je webserver alleen voldoende veilige cipher suites ondersteunt. TLS gebruikt cryptografische algoritmes voor vier verschillende doeleinden: Certificaatverificatie, Sleuteluitwisseling, Bulkversleuteling, en Hashing. Een volgens de TLS-standaard geldige samenstelling van algoritmes heet een cipher suite. Een webserver kan meerdere cipher suites ondersteunen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B2-1 t/m B2-4."
+msgstr "We testen of je webserver alleen voldoende veilige cipher suites ondersteunt. Een cipher suite is een samenstelling van algoritmes voor authenticatie en encryptie die geldig is volgens de TLS-standaard. Een webserver kan meerdere cipher suites ondersteunen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B2-1 t/m B2-4."
 
 msgid "detail web tls ciphers label"
 msgstr "Cipher suites"
@@ -1029,10 +1032,10 @@ msgid "detail web tls dane-exists tech table"
 msgstr "Webserver|TLSA aanwezig"
 
 msgid "detail web tls dane-valid tech table"
-msgstr "Webserver|TLSA geldig"
+msgstr "Webserver|DANE geldig"
 
 msgid "detail web tls fs-params exp"
-msgstr "We testen of de bit-lengte van de publieke sleutel voldoende veilig is als je webserver Diffie-Hellman voor sleuteluitwisseling ondersteunt. Let op: het is ook belangrijk dat de bit-lengte van de geheime Diffie-Hellman-sleutel voldoende veilig is. Dit kunnen we vanwege zijn geheime aard echter niet testen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijnen B4-1 t/m 4-3]."
+msgstr "We testen of de bitlengte van de publieke parameters voor Diffie-Hellman-sleuteluitwisseling door je webserver voldoende veilig is. Let op: het is ook belangrijk dat de bitlengte van de geheime Diffie-Hellman-sleutel voldoende veilig is. Dit kunnen we vanwege zijn geheime aard echter niet testen. Naast Diffie-Hellman is RSA (dat ook gebruikt kan worden voor certificaatverificatie) voldoende veilig voor sleuteluitwisseling. De publieke parameters van RSA worden getest in het testonderdeel \"publieke sleutel van certificaat\". Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijnen B4-1 t/m 4-3]."
 
 msgid "detail web tls fs-params label"
 msgstr "Sleuteluitwisselingsparameters"
@@ -1065,30 +1068,30 @@ msgid "detail web tls http-compression verdict good"
 msgstr "Je webserver ondersteunt geen HTTP-compressie."
 
 msgid "detail web tls https-exists exp"
-msgstr "We check that HTTPS is enabled on the website."
+msgstr "We testen of je website bereikbaar is via HTTPS. Als dat het geval is, dan testen we in de navolgende testonderdelen of HTTPS ook voldoende veilig is geconfigureerd. HTTPS garandeert de vertrouwelijkheid en integriteit van uitgewisselde informatie. Omdat het van de situatie afhangt hoe (privacy-)gevoelig en waardevol informatie is, is een veilige HTTPS-configuratie voor iedere website van belang. Ook triviale, publieke informatie kan door omstandigheden voor de gebruiker zeer gevoelig en waardevol zijn."
 
 msgid "detail web tls https-exists label"
-msgstr "HTTPS"
+msgstr "HTTPS aanwezig"
 
 msgid "detail web tls https-exists tech table"
-msgstr "Web server|HTTPS"
+msgstr "Webserver|HTTPS aanwezig"
 
 msgid "detail web tls https-exists verdict bad"
-msgstr "Website does not offer HTTPS."
+msgstr "Je website biedt *geen* HTTPS aan."
 
 msgid "detail web tls https-exists verdict good"
-msgstr "Website offers HTTPS."
+msgstr "Je website biedt HTTPS aan."
 
 msgid "detail web tls https-exists verdict other"
-msgstr "Web server was unreachable."
+msgstr "Je webserver is niet bereikbaar."
 
 msgid "detail web tls https-forced exp"
-msgstr "We testen of je webserver HTTPS afdwingt door een verwijzing (d.w.z. 301/302 redirect) van HTTP naar HTTPS op dezelfde domeinnaam, of door ondersteuning van alleen HTTPS. Ingeval van verwijzing is moet een domein eerst zelf 'upgraden' via een redirect naar HTTPS voordat het  eventueel doorverwijst naar een andere domeinnaam. Dit zorgt er ook voor dat een webbrowser de HSTS kan accepteren. Voorbeelden van correcte redirect-volgorde:\n"
+msgstr "We testen of je webserver HTTPS afdwingt door een doorverwijzing (d.w.z. 301/302 redirect) van HTTP naar HTTPS op dezelfde domeinnaam, of door ondersteuning van alleen HTTPS. Ingeval van doorverwijzing moet een domein eerst zelf 'upgraden' door een redirect naar zijn HTTPS-versie voordat het eventueel doorverwijst naar een andere domeinnaam. Dit zorgt er ook voor dat een webbrowser de HSTS-policy kan accepteren. Voorbeelden van correcte redirect-volgorde:\n"
 "\n"
-"* http://example.nl --> https://example.nl --> https://www.example.nl \n"
-"* http://www.example.nl --> https://www.example.nl\n"
+"* `http://example.nl` ⇒ `https://example.nl` ⇒ `https://www.example.nl`\n"
+"* `http://www.example.nl` ⇒ `https://www.example.nl`\n"
 "\n"
-"Zie [Webapplicatie-richtlijnen van NCSC, Verdieping](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), richtlijn U/WA.05."
+"Zie ['Webapplicatie-richtlijnen van NCSC, Verdieping'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), richtlijn U/WA.05."
 
 msgid "detail web tls https-forced label"
 msgstr "HTTPS afgedwongen"
@@ -1107,7 +1110,7 @@ msgstr "Je webserver dwingt HTTPS af door alleen HTTPS en geen HTTP te ondersteu
 
 msgid "detail web tls https-hsts exp"
 msgstr "We testen of je webserver HSTS ondersteunt. HSTS dwingt af dat een webbrowser direct via HTTPS verbindt bij terugkerend bezoek. \n"
-"Dit helpt man-in-the-middle-aanvallen te voorkomen. Een gebruikelijke geldigheidsduur voor een HSTS-policy is zes maanden tot een jaar. Een lange levensduur heeft als voordeel dat ook infrequente bezoekers beschermd zijn. Het nadeel is dat wanneer je wil stoppen met HTTPS, je langer moet wachten totdat de geldigheid van de HSTS-policy in alle browsers die je website bezochten, is verlopen."
+"Dit helpt man-in-the-middle-aanvallen te voorkomen. Een gebruikelijke geldigheidsduur voor een HSTS-policy is zes maanden tot een jaar. Een lange levensduur heeft als voordeel dat ook infrequente bezoekers beschermd zijn. Het nadeel is dat wanneer je wil stoppen met HTTPS, je langer moet wachten totdat de geldigheid van de HSTS-policy in alle browsers die je website bezochten, is verlopen. Zie ['Webapplicatie-richtlijnen van NCSC, Verdieping'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), richtlijn U/WA.05."
 
 msgid "detail web tls https-hsts label"
 msgstr "HSTS"
@@ -1122,7 +1125,7 @@ msgid "detail web tls https-hsts verdict good"
 msgstr "Je webserver biedt een HSTS-policy aan."
 
 msgid "detail web tls renegotiation-client exp"
-msgstr "We testen of een client (doorgaans een webbrowser) een renegotiation kan initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om client-initiated renegotiation in te schakelen. Alhoewel de optie geen risico vormt voor de vertrouwelijkheid, maakt deze een server wel vatbaar voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
+msgstr "We testen of een client (doorgaans een webbrowser) een renegotiation kan initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om client-initiated renegotiation in te schakelen. Alhoewel de optie geen risico vormt voor de vertrouwelijkheid, maakt deze een server wel vatbaar voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
 
 msgid "detail web tls renegotiation-client label"
 msgstr "Geen client-initiated renegotiation"
@@ -1137,7 +1140,7 @@ msgid "detail web tls renegotiation-client verdict good"
 msgstr "Je webserver staat geen client-initiated renegotiation toe."
 
 msgid "detail web tls renegotiation-secure exp"
-msgstr "We testen of je webserver secure renegotiation ondersteunt. De TLS-standaard staat toe om uit de applicatiefase te stappen en een nieuwe handshake af te dwingen. Dit wordt renegotiation genoemd. Oorspronkelijk was dit erg onveilig, maar inmiddels is veilige renegotiation mogelijk. De oude uitvoering, d.w.z. insecure renegotiation, moet worden uitgeschakeld. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
+msgstr "We testen of je webserver secure renegotiation ondersteunt. De TLS-standaard staat toe om uit de applicatiefase te stappen en een nieuwe handshake af te dwingen. Dit wordt renegotiation genoemd. Oorspronkelijk was dit erg onveilig, maar inmiddels is veilige renegotiation mogelijk. De oude uitvoering, d.w.z. insecure renegotiation, moet worden uitgeschakeld. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B6-2]."
 
 msgid "detail web tls renegotiation-secure label"
 msgstr "Secure renegotiation"
@@ -1152,7 +1155,7 @@ msgid "detail web tls renegotiation-secure verdict good"
 msgstr "Je webserver ondersteunt secure renegotiation. "
 
 msgid "detail web tls version exp"
-msgstr "We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste versies van TLS (namelijk SSL 1.0, 2.0 en 3.0) bevatten ernstige kwetsbaarheden. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste bescherming. Een webserver kan meerdere TLS-versies ondersteunen. Zie [TLS-richtlijnen van NCSC](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1]."
+msgstr "We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste versies van TLS (namelijk SSL 1.0, 2.0 en 3.0) bevatten ernstige kwetsbaarheden. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste bescherming. Een webserver kan meerdere TLS-versies ondersteunen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1."
 
 msgid "detail web tls version label"
 msgstr "TLS-versie"
@@ -1167,7 +1170,7 @@ msgid "detail web tls version verdict good"
 msgstr "Je webserver ondersteunt alleen voldoende veilige TLS-versies."
 
 msgid "detail web-mail ipv6 ns-AAAA exp"
-msgstr "We testen of je domeinnaam tenminste twee nameservers heeft waarvoor op beide eigen domeinnamen een AAAA-record met IPv6-adres is gedefinieerd. Dit sluit aan bij de eis van SIDN (beheerder van het .nl-domein) dat iedere .nl-domeinnaam tenminste twee nameservers moeten hebben (zie: [\"Technische eisen voor registratie van .nl-domeinnamen\"](https://www.sidn.nl/downloads/terms-and-conditions/Technische+eisen+voor+registratie+van+nl-domeinnamen.pdf) (versie 25 mei 2010))."
+msgstr "We testen of je domeinnaam tenminste twee nameservers met een IPv6-adres heeft. Dit sluit aan bij de [eis van SIDN](https://www.sidn.nl/downloads/terms-and-conditions/Technische+eisen+voor+registratie+van+nl-domeinnamen.pdf) (beheerder van het .nl-domein) dat iedere .nl-domeinnaam tenminste twee nameservers moeten hebben."
 
 msgid "detail web-mail ipv6 ns-AAAA label"
 msgstr "IPv6-addressen voor nameservers"
@@ -1176,13 +1179,13 @@ msgid "detail web-mail ipv6 ns-AAAA tech table"
 msgstr "Nameserver|IPv6|IPv4"
 
 msgid "detail web-mail ipv6 ns-AAAA verdict bad"
-msgstr "Geen van de nameservers heeft een IPv6-adres."
+msgstr "Geen van de nameservers van je domeinnaam heeft een IPv6-adres."
 
 msgid "detail web-mail ipv6 ns-AAAA verdict good"
-msgstr "Twee of meer nameservers hebben een IPv6 adres."
+msgstr "Twee of meer nameservers van je domeinnaam hebben een IPv6 adres."
 
 msgid "detail web-mail ipv6 ns-AAAA verdict other"
-msgstr "Slechts één nameserver heeft een IPv6-adres."
+msgstr "Slechts één nameserver van je domeinnaam heeft een IPv6-adres."
 
 msgid "detail web-mail ipv6 ns-reach exp"
 msgstr "We testen of alle nameservers, die een AAAA-record met IPv6-adres hebben, bereikbaar zijn via IPv6."
@@ -1200,145 +1203,145 @@ msgid "detail web-mail ipv6 ns-reach verdict good"
 msgstr "Alle nameservers die een IPv6-adres hebben zijn bereikbaar via IPv6."
 
 msgid "detail web tls cert-hostmatch exp"
-msgstr "We check that the domain matches the domain name on the certificate."
+msgstr "We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat. Het kan handig zijn om meerdere domeinnamen (bijvoorbeeld de domeinnaam met en zonder www) als Subject Alternative Name in het certificaat op te nemen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1."
 
 msgid "detail mail tls cert-hostmatch exp"
 msgstr "We check that the domain matches the domain name on the certificate."
 
 msgid "detail web tls cert-hostmatch label"
-msgstr "Certificates' domain name"
+msgstr "Domeinnaam op certificaat"
 
 msgid "detail mail tls cert-hostmatch label"
 msgstr "Certificates' domain name"
 
 msgid "detail web tls cert-hostmatch verdict bad"
-msgstr "Hostname of website does not match certificate."
+msgstr "De domeinnaam van je website komt *niet* overeen met de domeinnaam op je websitecertificaat."
 
 msgid "detail mail tls cert-hostmatch verdict bad"
 msgstr "Hostname of website does not match certificate."
 
 msgid "detail web tls cert-hostmatch verdict good"
-msgstr "Hostname of website matches certificate."
+msgstr "De domeinnaam van je website komt overeen met de domeinnaam op je websitecertificaat."
 
 msgid "detail mail tls cert-hostmatch verdict good"
 msgstr "Hostname of website matches certificate."
 
 msgid "detail web tls cert-pubkey exp"
-msgstr "We check the certificates public keys' length."
+msgstr "We testen of de bitlengte van de publieke sleutel van je websitecertificaat voldoende veilig is. Let op: het is ook belangrijk dat de bitlengte van de geheime sleutel voldoende veilig is. Dit kunnen we vanwege de geheime aard echter niet testen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-3 t/m B3-5."
 
 msgid "detail mail tls cert-pubkey exp"
 msgstr "We check the certificates public keys' length."
 
 msgid "detail web tls cert-pubkey label"
-msgstr "Certificates' public keys"
+msgstr "Public key of certificate"
 
 msgid "detail mail tls cert-pubkey label"
 msgstr "Certificates' public keys"
 
 msgid "detail web tls cert-pubkey verdict bad"
-msgstr "Some certificates contain public keys of insufficient length."
+msgstr "Je websitecertificaat bevat een publieke sleutel met een *onveilige* lengte."
 
 msgid "detail mail tls cert-pubkey verdict bad"
 msgstr "Some certificates contain public keys of insufficient length."
 
 msgid "detail web tls cert-pubkey verdict good"
-msgstr "The public keys in the certificates are sufficiently long."
+msgstr "Je websitecertificaat bevat een publieke sleutel met een veilige lengte."
 
 msgid "detail mail tls cert-pubkey verdict good"
 msgstr "The public keys in the certificates are sufficiently long."
 
 msgid "detail web tls cert-signature exp"
-msgstr "We check the certificates's signature."
+msgstr "We testen of de ondertekende fingerprint van het certificaat is gemaakt met een veilig algoritme voor hashing. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-2."
 
 msgid "detail mail tls cert-signature exp"
 msgstr "We check the certificates's signature."
 
 msgid "detail web tls cert-signature label"
-msgstr "Certificates' signature"
+msgstr "Handtekening van certificaat"
 
 msgid "detail mail tls cert-signature label"
 msgstr "Certificates' signature"
 
 msgid "detail web tls cert-signature verdict bad"
-msgstr "Some certificates are signed using a hash method that is not secure."
+msgstr "Je websitecertificaat is ondertekend met een algoritme voor hashing dat *niet* veilig is."
 
 msgid "detail mail tls cert-signature verdict bad"
 msgstr "Some certificates are signed using a hash method that is not secure."
 
 msgid "detail web tls cert-signature verdict good"
-msgstr "All certificates are signed using a sufficiently secure hash method."
+msgstr "Je websitecertificaat is ondertekend met een voldoende veilig algoritme voor hashing."
 
 msgid "detail mail tls cert-signature verdict good"
 msgstr "All certificates are signed using a sufficiently secure hash method."
 
 msgid "detail web tls cert-trust exp"
-msgstr "We check the certificate chain."
+msgstr "We testen of we een geldige vertrouwensketen voor je websitecertificaat kunnen opbouwen. Er is sprake van een geldige vertrouwensketen, als je certificaat is uitgegeven door een [vertrouwde certificaatautoriteit](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/) én je webserver alle noodzakelijke tussenliggende certificaten presenteert. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-6."
 
 msgid "detail mail tls cert-trust exp"
 msgstr "We check the certificate chain."
 
 msgid "detail web tls cert-trust label"
-msgstr "Certificates' chain of trust"
+msgstr "Vertrouwensketen van certificaat"
 
 msgid "detail mail tls cert-trust label"
 msgstr "Certificates' chain of trust"
 
 msgid "detail web tls cert-trust verdict bad"
-msgstr "The certificate chain is not signed by a trusted root CA."
+msgstr "De vertrouwensketen van je websitecertificaat is *niet* compleet en/of *niet* ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail mail tls cert-trust verdict bad"
 msgstr "The certificate chain is not signed by a trusted root CA."
 
 msgid "detail web tls cert-trust verdict good"
-msgstr "The certificate chain is complete and signed by a trusted root CA."
+msgstr "De vertrouwensketen van je websitecertificaat is compleet en ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail mail tls cert-trust verdict good"
 msgstr "The certificate chain is complete and signed by a trusted root CA."
 
 msgid "detail web tls dane-exists exp"
-msgstr "We check the existence of a TLSA record (DANE)."
+msgstr "We testen of de nameserver van je domeinnaam een TLSA-record voor DANE bevat. Met DANE kan je informatie over jouw websitecertificaat publiceren in een speciaal DNS-record, een TLSA-record. Clients, zoals webbrowsers, kunnen het certificaat nu niet alleen via de certificaatautoriteit, maar ook via het TLSA-record controleren op authenticiteit. DNSSEC is een noodzakelijke randvoorwaarde voor DANE. Let op: de geldigheid van de DANE-vingerafdruk wordt getest in het volgende testonderdeel. "
 
 msgid "detail mail tls dane-exists exp"
 msgstr "We check the existence of a TLSA record (DANE)."
 
 msgid "detail web tls dane-exists label"
-msgstr "TLSA record (DANE)"
+msgstr "DANE aanwezigheid"
 
 msgid "detail mail tls dane-exists label"
 msgstr "TLSA record (DANE)"
 
 msgid "detail web tls dane-exists verdict bad"
-msgstr "No TLSA record found (DANE)"
+msgstr "Je domein bevat *geen* DANE-vingerafdruk van je websitecertificaat."
 
 msgid "detail mail tls dane-exists verdict bad"
 msgstr "No TLSA record found (DANE)"
 
 msgid "detail web tls dane-exists verdict good"
-msgstr "TLSA record found (DANE)"
+msgstr "Je domein bevat een DANE-vingerafdruk van je websitecertificaat."
 
 msgid "detail mail tls dane-exists verdict good"
 msgstr "TLSA record found (DANE)"
 
 msgid "detail web tls dane-valid exp"
-msgstr "We check the existence of a TLSA record (DANE)."
+msgstr "We testen of de DANE-fingerprint die je domein presenteert geldig is voor jouw websitecertificaat."
 
 msgid "detail mail tls dane-valid exp"
 msgstr "We check the existence of a TLSA record (DANE)."
 
 msgid "detail web tls dane-valid label"
-msgstr "TLSA record validity (DANE)"
+msgstr "DANE geldigheid"
 
 msgid "detail mail tls dane-valid label"
 msgstr "TLSA record validity (DANE)"
 
 msgid "detail web tls dane-valid verdict bad"
-msgstr "The TLSA record is not valid (DANE)."
+msgstr "De DANE-fingerprint op je domeinnaam is *niet* geldig voor je websitecertificaat. Óf iemand manipuleerde het antwoord van jouw nameserver, óf je domeinnaam heeft een serieuze DANE-configuratiefout. Dit laatste maakt je domeinnaam onbereikbaar voor alle gebruikers die DANE-vingerafdrukken conroleren. Neem zo spoedig mogelijk contact op met je nameserver-beheerder en/of hostingprovider."
 
 msgid "detail mail tls dane-valid verdict bad"
 msgstr "The TLSA record is not valid (DANE)."
 
 msgid "detail web tls dane-valid verdict good"
-msgstr "The TLSA record is valid (DANE)."
+msgstr "De DANE-fingerprint op je domeinnaam is geldig voor je websitecertificaat."
 
 msgid "detail mail tls dane-valid verdict good"
 msgstr "The TLSA record is valid (DANE)."
@@ -1491,7 +1494,7 @@ msgid "faqs content"
 msgstr "## Websitetest\n"
 "* [Modern adres (IPv6)](/faqs/ipv6/)\n"
 "* [Domeinnaamondertekening (DNSSEC)](/faqs/dnssec/)\n"
-"* [Beveiligde verbinding (HTTPS en HSTS)](/faqs/https/)\n"
+"* [Beveiligde verbinding (HTTPS)](/faqs/https/)\n"
 "\n"
 "## E-mailtest\n"
 "* [Modern adres (IPv6)](/faqs/ipv6/)\n"
@@ -1603,7 +1606,7 @@ msgstr "## I. Algemeen\n"
 "## II. Voor domeinnaamhouders\n"
 "\n"
 "### Hoe weet ik of mijn domeinnnaam is ondertekend met DNSSEC?\n"
-"Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen controleert DNSSEC. Let op: Het komt regelmatig voor dat een mailserver een andere domeinnaam heeft dan uw eigen domeinnaam. Bijvoorbeeld omdat uw eigen domein  (bijv. `@example.nl`; het mailto-domein) gebruik maakt van de mailserver van een derde partij (bijv. `mailserver.example.com`; het mailserver-domein). In de mailtest worden beide domeinnamen gecontroleerd op DNSSEC.\n"
+"Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen controleert DNSSEC. Let op: Het komt regelmatig voor dat een mailserver een andere domeinnaam heeft dan uw eigen domeinnaam. Bijvoorbeeld omdat uw eigen domein (bijv. `@example.nl`; het mailto-domein) gebruik maakt van de mailserver van een derde partij (bijv. `mailserver.example.com`; het mailserver-domein). In de mailtest worden beide domeinnamen gecontroleerd op DNSSEC.\n"
 "\n"
 "### Hoe onderteken ik mijn domeinnaam met DNSSEC?\n"
 "Als jouw domeinnaam nog niet beveiligd is met DNSSEC:\n"
@@ -1655,7 +1658,7 @@ msgstr "## I. Algemeen\n"
 "* Eventuele discussies over het feit dat HTTPS websites (te) traag maakt, behoren met HTTP/2 definitief tot het verleden. HTTP/2 biedt vele voordelen ten opzicht van het huidige HTTP/1.1, waaronder een zeer snelle laadtijd en een verbeterde beveiliging. De snelheid van het inladen van een webpagina over HTTP/2 met TLS is, afhankelijk van de inhoud, vele malen sneller dan over HTTP/1.1 zonder TLS (zie [hier](https://www.httpvshttps.com/) en [hier](https://http2.akamai.com/demo)). Daarnaast valt op dat hoewel het vanuit de specificatie van HTTP/2 niet verplicht is, browserfabrikanten er massaal voor kiezen om HTTP/2 alleen te ondersteunen in combinatie met TLS. Dit is goed nieuws voor het gebruik van HTTPS dat op deze manier hopelijk de nieuwe standaard wordt.\n"
 "\n"
 "### Moet je HTTPS doen voor alle websites?\n"
-"Op voorhand is vaak niet te voorspellen hoe informatie wordt gebruikt en welke waarde de informatie voor de afnemer heeft. Daarom is het gebruik van HTTPS in alle gevallen verstandig.  Bij inlog- en medische gegevens is dat evident, maar er zijn ook situaties waarin bijvoorbeeld openbare informatie van cruciaal belang is. Denk bijvoorbeeld aan de agrarische sector waar besluiten worden genomen op basis van weersverwachtingen, of aan transportbedrijven die afhankelijk zijn van actuele verkeersinformatie. Ook bij het gebruik van publieke (en vaak open) Wi-Fi netwerken biedt HTTPS noodzakelijke bescherming om misbruik te voorkomen.\n"
+"Op voorhand is vaak niet te voorspellen hoe informatie wordt gebruikt en welke waarde de informatie voor de afnemer heeft. Daarom is het gebruik van HTTPS in alle gevallen verstandig. Bij inlog- en medische gegevens is dat evident, maar er zijn ook situaties waarin bijvoorbeeld openbare informatie van cruciaal belang is. Denk bijvoorbeeld aan de agrarische sector waar besluiten worden genomen op basis van weersverwachtingen, of aan transportbedrijven die afhankelijk zijn van actuele verkeersinformatie. Ook bij het gebruik van publieke (en vaak open) Wi-Fi netwerken biedt HTTPS noodzakelijke bescherming om misbruik te voorkomen.\n"
 "\n"
 "### Hoe werkt HTTPS?\n"
 "Voor het tot stand brengen van een beveiligde verbinding maakt de webclient gebruik van een certificaat dat wordt aangeboden door de webserver, en is uitgegeven door een vertrouwde certificaatinstantie. Dit certificaat bevat een zogenaamde publieke sleutel en wordt samen met de bijhorende privésleutel op de webserver, gebruikt voor het veilig uitwisselen van een sessiesleutel. Deze sessiesleutel wordt vervolgens gebruikt voor de daadwerkelijke versleuteling van de verbinding tussen de webclient en de webserver.\n"
@@ -1691,7 +1694,7 @@ msgstr "## I. Algemeen\n"
 "### Aandachtspunten implementatie\n"
 "* Let bij gebruik van HSTS goed op de redirect volgorde. Wanneer er gebruik wordt gemaakt van redirects om het gebruik van HTTPS te forceren én bezoekers door te verwijzen naar een ander (sub)domein, hanteer dan deze volgorde: redirect eerst naar HTTPS, en pas daarna naar een ander (sub)domein. Dus http://example.nl -> https://example.nl -> https://www.example.nl.\n"
 "* Vergeet niet om de DANE TLSA records in je DNS-zone voorafgaand aan het ingebruik nemen van een nieuwe certificaat aan te passen.\n"
-"* Wees voorzichtig met de implementatie van aanvullende standaarden die voor een goede werking afhankelijk zijn van caching aan de zijde  van de client (HSTS, HPKP). Test dit eerst zorgvuldig, want fouten zijn mogelijk niet (makkelijk) te herstellen.\n"
+"* Wees voorzichtig met de implementatie van aanvullende standaarden die voor een goede werking afhankelijk zijn van caching aan de zijde van de client (HSTS, HPKP). Test dit eerst zorgvuldig, want fouten zijn mogelijk niet (makkelijk) te herstellen.\n"
 "* Kijk uit met het gebruik van certificaten op meerdere plaatsen. Voorkom dat certificaten in meerdere type omgevingen (OTAP) worden gebruikt. Dit verkleint de impact op het vervangen van een certificaat.\n"
 "\n"
 "## III. Voor bezoekers van websites\n"
@@ -1711,7 +1714,7 @@ msgstr "## I. Algemeen\n"
 
 #, md-format
 msgid "faqs https title"
-msgstr "Beveiligde verbinding (HTTPS en HSTS)"
+msgstr "Beveiligde verbinding (HTTPS)"
 
 #, md-format
 msgid "faqs mailauth content"
@@ -2274,7 +2277,7 @@ msgstr "## Aanvullende eisen voor IPv6\n"
 "Bent je klant bij een e-mailprovider die IPv6 ondersteunt, dan kun je te maken hebben met deze ‘best practice’. Wanneer een verzendende partij die IPv6 gebruikt zijn SPF-, DKIM-, rDNS-instellingen niet op orde heeft, dan kan het gebeuren dat je geen e-mails meer van deze partij ontvangt. De kans daarop is echter niet heel groot. Verzenders die via IPv6 versturen, zijn doorgaans op de hoogte van de ‘best practice’ en passen deze toe. Gaat het toch mis met bepaalde inkomende mails over IPv6? Wijs de verzendende partij dan op de beschreven 'best practice'.\n"
 "\n"
 "### Mail via eigen mailserver\n"
-"Als je IPv6 aanzet voor mail en zelf je mailservers draait, dan is er weinig aan de hand qua inkomende mail. Het is uiteraard ook dan verstandig om controles op e-mailauthenticatie en eventueel aanvullend reverse DNS uit te voeren om spam en phishing  te voorkomen. Omdat je zelf aan de knoppen zit, kun je meteen zien wanneer een mail die je via IPv6 ontvangt niet door de controles komt. Voor uitgaande mail is het aan te raden om je mailservers conform bovengenoemde ‘best practice’  in te richten. Anders loop je het risico dat jouw mails over IPv6 niet aankomen.\n"
+"Als je IPv6 aanzet voor mail en zelf je mailservers draait, dan is er weinig aan de hand qua inkomende mail. Het is uiteraard ook dan verstandig om controles op e-mailauthenticatie en eventueel aanvullend reverse DNS uit te voeren om spam en phishing te voorkomen. Omdat je zelf aan de knoppen zit, kun je meteen zien wanneer een mail die je via IPv6 ontvangt niet door de controles komt. Voor uitgaande mail is het aan te raden om je mailservers conform bovengenoemde ‘best practice’ in te richten. Anders loop je het risico dat jouw mails over IPv6 niet aankomen.\n"
 "\n"
 "### Gebruik je alleen IPv4 en nog geen IPv6?\n"
 "Ook in het geval van IPv4 is het van belang om in ieder geval e-mailauthenticatie (SPF, DKIM en aanvullend DMARC) op orde te hebben. Deze standaarden helpen ook bij IPv4 om spam en phishing te voorkomen en de afleveringszekerheid van je mail te vergroten.\n"
@@ -2374,7 +2377,7 @@ msgstr "Nederland zorgt voor veilig e-mailverkeer"
 msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test body"
 msgstr "De meest in het oog springende verbeteringen staan hieronder. \n"
 "\n"
-"1. De vorige versie van Internet.nl testte de veiligheid van de HTTPS-configuratie over IPv6 óf over IPv4. Omdat we via handmatig testen regelmatig websites tegen zijn gekomen die onbedoeld verschillende HTTPS-configuraties over IPv6 en IPv4 hanteren, wordt vanaf nu de **HTTPS-configuratie zowel over IPV6 als over IPv4** getest.  Het resultaat van dit uitgebreide testonderdeel weegt **vanaf nu** mee in de score van de websitetest.\n"
+"1. De vorige versie van Internet.nl testte de veiligheid van de HTTPS-configuratie over IPv6 óf over IPv4. Omdat we via handmatig testen regelmatig websites tegen zijn gekomen die onbedoeld verschillende HTTPS-configuraties over IPv6 en IPv4 hanteren, wordt vanaf nu de **HTTPS-configuratie zowel over IPV6 als over IPv4** getest. Het resultaat van dit uitgebreide testonderdeel weegt **vanaf nu** mee in de score van de websitetest.\n"
 "2. Voor websites wordt nu ook getest of er een **HSTS-policy** aanwezig is. HSTS zorgt ervoor dat een webbrowser na het eerste bezoek weet dat een website alleen over HTTPS bezocht mag worden. Hiermee kunnen zogeheten man-in-the-middle-aanvallen (bijvoorbeeld als gebruik wordt gemaakt van een publieke wifi-hotspot) worden voorkomen. Het resultaat van dit nieuwe testonderdeel komt nu bij afwijking terug als oranje waarschuwing en telt nog niet mee in de score van de websitetest. **Vanaf juli 2016** weegt het resultaat wel mee in de score.\n"
 "3. De website-test controleert nu ook of door websites **HTTPS afgedwongen** wordt. Het afdwingen kan op de twee onderstaande manieren. Het resultaat van dit nieuwe testonderdeel komt bij afwijking terug als oranje waarschuwing en telt nog niet mee in de score van de websitetest. **Vanaf juli 2016** weegt het resultaat wel mee in de score.\n"
 "    1. Door HTTP naar HTTPS te 'redirecten'. Dat kan door `http://example.nl` naar `https://example.nl` te laten verwijzen. Het is belangrijk dat het identieke domeinen zijn omdat een webbrowser alleen een HSTS-policy voor een bepaalde domeinnaam accepteert over een HTTPS-verbinding. Als `http://example.nl` doorverwijst naar `https://www.example.nl` dan zal de HSTS-policy bij normaal gebruik niet voor `example.nl` in de browser worden opgeslagen, tenzij een gebruiker bewust `https://example.nl` intoetst of hierop als link klikt.\n"
@@ -2599,7 +2602,7 @@ msgstr "Als de test gereed is, word je automatisch doorgestuurd naar de \n"
 "resultaatpagina."
 
 msgid "probes no-javascript"
-msgstr "Controleer of de test gereed is en of de resultaten beschikbaar zijn. Zo niet, dan dient u terug te keren naar deze pagina."
+msgstr "Controleer of de testresultaten beschikbaar zijn. Zo niet, dan word je automatisch teruggeleid naar deze pagina."
 
 msgid "probes no-javascript-connection"
 msgstr "Helaas werkt deze test niet zonder JavaScript. Als u de test toch graag wil uitvoeren, dan dient u JavaScript in uw browser te activeren."
@@ -2656,7 +2659,9 @@ msgstr "- **IPv6:** \n"
 "- **HTTPS:**\n"
 "  - [SSLlabs](https://www.ssllabs.com/ssltest/)\n"
 "  - [badssl.com](https://badssl.com/)\n"
-"  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)"
+"  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)\n"
+"- **Overig:**\n"
+"  - [Securityheaders.io](https://securityheaders.io/)"
 
 msgid "results further-testing mail label"
 msgstr "Aanvullende e-mailtesten"
@@ -2678,7 +2683,9 @@ msgstr "Aanvullende verbindingstesten"
 msgid "results further-testing connection content"
 msgstr "- **IPv6:**\n"
 "  - [IPv6 test](http://ipv6-test.com/)\n"
-"- **HTTPS/TLS:**\n"
+"- **DNSSEC:**\n"
+"  - [DNSSEC resolver algorithm test](https://rootcanary.org/test.html) \n"
+"- **HTTPS:**\n"
 "  - [SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)"
 
 msgid "results mail dnssec domain label"
@@ -2697,10 +2704,10 @@ msgid "results no-icon-status failed"
 msgstr "Gezakt"
 
 msgid "results no-icon-status good-not-tested"
-msgstr "Needs translation (These are good results mixed with not-tested)"
+msgstr "Gedeeltelijk geslaagd, gedeeltelijk niet-testbaar"
 
 msgid "results no-icon-status not-tested"
-msgstr "Niet getest"
+msgstr "Niet-testbaar"
 
 msgid "results no-icon-status passed"
 msgstr "Geslaagd"
@@ -2721,7 +2728,7 @@ msgid "results permalink"
 msgstr "Permalink testresultaat {{permadate|date:'(Y-m-d H:i T)'}}"
 
 msgid "results rerun-test"
-msgstr "Doe een hertest"
+msgstr "Herhaal de test"
 
 msgid "results retest-time"
 msgstr "Seconden tot hertest-mogelijkheid:"
@@ -2736,10 +2743,10 @@ msgid "results test direct"
 msgstr "Test direct:"
 
 msgid "results test email label"
-msgstr "Test ook je e-mail"
+msgstr "Test andere e-mail"
 
 msgid "results test website label"
-msgstr "Test ook je website"
+msgstr "Test andere website"
 
 msgid "results verdict label"
 msgstr "Uitslag:"
@@ -3067,7 +3074,7 @@ msgstr "# Gebruiksvoorwaarden\n"
 "dat expliciet op de betreffende pagina vermeld."
 
 msgid "test connipv6 failed description"
-msgstr "Helaas! Je internetprovider heeft je *geen* modern internetadres gegeven, of *niet* alles correct ingesteld. Je kan daardoor andere  computers met moderne adressen *niet* bereiken. Vraag je internetprovider om volledige IPv6-connectiviteit."
+msgstr "Helaas! Je internetprovider heeft je *geen* modern internetadres gegeven, of *niet* alles correct ingesteld. Je kan daardoor andere computers met moderne adressen *niet* bereiken. Vraag je internetprovider om volledige IPv6-connectiviteit."
 
 msgid "test connipv6 failed summary"
 msgstr "Moderne adressen *niet* bereikbaar (IPv6)"
@@ -3076,7 +3083,7 @@ msgid "test connipv6 label"
 msgstr "IPv6"
 
 msgid "test connipv6 passed description"
-msgstr "Gefeliciteerd! Je internetprovider heeft je een modern internetadres gegeven. Daardoor kan je andere computers met moderne adressen  bereiken."
+msgstr "Gefeliciteerd! Je internetprovider heeft je een modern internetadres gegeven. Daardoor kan je andere computers met moderne adressen bereiken."
 
 msgid "test connipv6 passed summary"
 msgstr "Moderne adressen bereikbaar (IPv6)"
@@ -3085,7 +3092,7 @@ msgid "test connipv6 title"
 msgstr "Moderne adressen bereikbaar?"
 
 msgid "test connresolver failed description"
-msgstr "Helaas! Digitale domein-handtekeningen, indien aanwezig, worden nu *niet* gecontroleerd. Daardoor ben je *niet* beschermd tegen vervalste vertaling van domeinnamen naar kwaadaardige IP-adressen. Vraag je internetprovider om DNSSEC-validatie en/of activeer het op je eigen systemen."
+msgstr "Helaas! Domein-handtekeningen worden voor jou nu *niet* gecontroleerd. Daardoor ben je *niet* beschermd tegen gemanipuleerde vertaling van ondertekende domeinnamen naar kwaadaardige IP-adressen. Vraag je internetprovider om DNSSEC-validatie en/of activeer het op je eigen systemen."
 
 msgid "test connresolver failed summary"
 msgstr "Domein-handtekeningen *niet* gecontroleerd (DNSSEC)"
@@ -3094,7 +3101,7 @@ msgid "test connresolver label"
 msgstr "DNSSEC"
 
 msgid "test connresolver passed description"
-msgstr "Gefeliciteerd! Digitale domein-handtekeningen worden, indien aanwezig, gecontroleerd. Daardoor ben je beschermd tegen vervalste vertaling van domeinnamen naar kwaadaardige IP-adressen."
+msgstr "Gefeliciteerd! Domein-handtekeningen worden voor jou gecontroleerd. Daardoor ben je beschermd tegen vervalste vertaling van ondertekende domeinnamen naar kwaadaardige IP-adressen."
 
 msgid "test connresolver passed summary"
 msgstr "Domein-handtekeningen gecontroleerd (DNSSEC)"
@@ -3103,7 +3110,7 @@ msgid "test connresolver title"
 msgstr "Domein-handtekeningen gecontroleerd?"
 
 msgid "test error summary"
-msgstr "<strong>Fout</strong> tijdens uitvoering!"
+msgstr "**Fout** tijdens uitvoering van test!"
 
 msgid "test mailauth failed description"
 msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DKIM, SPF en\n"
@@ -3117,10 +3124,10 @@ msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DKIM, 
 "de configuratie op te lossen."
 
 msgid "test mailauth failed summary"
-msgstr "<strong>Niet/deels</strong> beschermd tegen mail-vervalsing (DKIM/SPF/DMARC)"
+msgstr "*Geen* echtheidswaarmerken tegen e-mail-vervalsing (DMARC, DKIM en SPF)"
 
 msgid "test mailauth label"
-msgstr "DKIM/SPF/DMARC"
+msgstr "DMARC, DKIM en SPF"
 
 msgid "test mailauth passed description"
 msgstr "Gefeliciteerd; dit e-mail-domein maakt gebruik van DKIM, SPF en DMARC.\n"
@@ -3129,10 +3136,10 @@ msgstr "Gefeliciteerd; dit e-mail-domein maakt gebruik van DKIM, SPF en DMARC.\n
 "gaan."
 
 msgid "test mailauth passed summary"
-msgstr "Beschermd tegen mail-vervalsing (DKIM/SPF/DMARC)"
+msgstr "Echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
 
 msgid "test mailauth title"
-msgstr "Bescherming tegen vervalsing van berichten?"
+msgstr "Echtheidswaarmerken tegen e-mailphishing?"
 
 msgid "test maildnssec failed description"
 msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DNSSEC of\n"
@@ -3146,7 +3153,7 @@ msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DNSSEC
 "configuratie op te lossen."
 
 msgid "test maildnssec failed summary"
-msgstr "<strong>Niet</strong> beschermd tegen valse DNS-informatie (DNSSEC)"
+msgstr "Domeinnamen *niet* ondertekend (DNSSEC)"
 
 msgid "test maildnssec label"
 msgstr "DNSSEC"
@@ -3159,10 +3166,10 @@ msgstr "Gefeliciteerd; dit e-mail domein maakt gebruik van DNSSEC. Verzenders va
 "bericht vervalst is en hoe hiermee om te gaan echt zijn."
 
 msgid "test maildnssec passed summary"
-msgstr "Beschermd tegen valse DNS-informatie (DNSSEC)"
+msgstr "Domeinnamen ondertekend (DNSSEC)"
 
 msgid "test maildnssec title"
-msgstr "Beschermd tegen omleiding?"
+msgstr "Domeinnamen ondertekend?"
 
 msgid "test mailipv6 failed description"
 msgstr "Helaas; dit e-mail-domein is niet bereikbaar voor verzenders\n"
@@ -3171,8 +3178,7 @@ msgstr "Helaas; dit e-mail-domein is niet bereikbaar voor verzenders\n"
 "Vraag je e-mailprovider om IPv6 volledig aan te zetten."
 
 msgid "test mailipv6 failed summary"
-msgstr "<strong>Niet</strong> bereikbaar of <string>verbetering</string> mogelijk \n"
-"(IPv6)"
+msgstr "*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)"
 
 msgid "test mailipv6 label"
 msgstr "IPv6"
@@ -3182,10 +3188,10 @@ msgstr "Gefeliciteerd; dit e-mail-domein is bereikbaar voor verzenders met moder
 "IPv6-adressen. Daarmee is dit adres onderdeel van het moderne Internet."
 
 msgid "test mailipv6 passed summary"
-msgstr "Toegankelijk vanaf moderne internet-adressen (IPv6)"
+msgstr "Bereikbaar via modern internetadres (IPv6)"
 
 msgid "test mailipv6 title"
-msgstr "Modern internet-adres?"
+msgstr "Bereikbaar via modern internetadres?"
 
 msgid "test mailtls failed description"
 msgstr "Helaas; deze inkomende mailserver ondersteunt STARTTLS <strong>niet of onvoldoende</strong>. Dit betekent dat verzendende mailservers met deze inkomende mailserver <strong>geen</strong> beveiligde verbinding kunnen opbouwen waardoor (passieve) aanvallers e-mailberichten kunnen afluisteren. \n"
@@ -3197,7 +3203,7 @@ msgid "test mailtls failed summary"
 msgstr "<strong>Geen/onvoldoende</strong> beveiligde verbinding mogelijk (STARTTLS)"
 
 msgid "test mailtls label"
-msgstr "TLS"
+msgstr "STARTTLS en DANE"
 
 msgid "test mailtls passed description"
 msgstr "Gefeliciteerd; deze inkomende mailserver ondersteunt STARTTLS op een goede \n"
@@ -3209,10 +3215,10 @@ msgid "test mailtls passed summary"
 msgstr "Beveiligde verbinding mogelijk (STARTTLS)"
 
 msgid "test mailtls title"
-msgstr "Beveiligde verbinding inkomende mail?"
+msgstr "Beveiligd transport inkomende mail?"
 
 msgid "test sitednssec failed description"
-msgstr "Helaas! Je domeinnaam is *niet* digitaal ondertekend. Daardoor zijn bezoekers die domein-handtekeningen door hun provider en/of lokale systemen laten controleren, *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen. Vraag je nameserver-beheerder (vaak je registrar en/of hostingprovider) om DNSSEC te activeren."
+msgstr "Helaas! Je domeinnaam is *niet* ondertekend. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen. Vraag je nameserver-beheerder (vaak je registrar en/of hostingprovider) om DNSSEC te activeren."
 
 msgid "test sitednssec failed summary"
 msgstr "Domeinnaam *niet* ondertekend (DNSSEC)"
@@ -3221,7 +3227,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Gefeliciteerd! Je domeinnaam is digitaal ondertekend. Daardoor zijn bezoekers die domein-handtekeningen door hun provider en/of lokale systemen laten controleren, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
+msgstr "Gefeliciteerd! Je domeinnaam is ondertekend. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
 
 msgid "test sitednssec passed summary"
 msgstr "Domeinnaam ondertekend (DNSSEC)"
@@ -3230,10 +3236,10 @@ msgid "test sitednssec title"
 msgstr "Domeinnaam ondertekend?"
 
 msgid "test siteipv6 failed description"
-msgstr "Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern internetadres gebruiken, of verbetering is mogelijk. Deze website  maakt daardoor nog *geen* onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern internetadres gebruiken, of verbetering is mogelijk. Deze website maakt daardoor nog *geen* onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten."
 
 msgid "test siteipv6 failed summary"
-msgstr "Via modern internetadres *niet* bereikbaar, of verbetering mogelijk (IPv6)"
+msgstr "*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)"
 
 msgid "test siteipv6 label"
 msgstr "IPv6"
@@ -3242,10 +3248,10 @@ msgid "test siteipv6 passed description"
 msgstr "Gefeliciteerd! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daarom volledig onderdeel van het moderne internet."
 
 msgid "test siteipv6 passed summary"
-msgstr "Via moderne adressen bereikbaar (IPv6)"
+msgstr "Bereikbaar via moderne internetadres (IPv6)"
 
 msgid "test siteipv6 title"
-msgstr "Via modern adres bereikbaar?"
+msgstr "Bereikbaar via modern adres?"
 
 msgid "test sitetls failed description"
 msgstr "Helaas! De verbinding met je website is *niet* of *on*voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor *niet* beschermd tegen afluisteren en manipulatie. Vraag je hostingprovider om HTTPS aan te zetten en veilig te configureren."
@@ -3290,4 +3296,4 @@ msgid "home stats passed"
 msgstr "100%-score:"
 
 msgid "home stats notpassed"
-msgstr "<100%-score:"
+msgstr "0-99%-score:"
