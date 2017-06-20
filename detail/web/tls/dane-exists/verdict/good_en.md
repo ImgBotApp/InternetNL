@@ -1,1 +1,1 @@
-TLSA record found (DANE)
+Your domain contains a DANE fingerprint of your web certificate.
