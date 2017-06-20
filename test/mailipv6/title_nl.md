@@ -1,1 +1,1 @@
-Modern internet-adres?
+Bereikbaar via modern internetadres?
