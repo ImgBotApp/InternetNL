@@ -1,1 +1,1 @@
-Domeinnamen ondertekend (DNSSEC)
+Alle domeinnamen ondertekend (DNSSEC)
