@@ -1,1 +1,1 @@
-Some certificates contain public keys of insufficient length.
+Je websitecertificaat bevat een publieke sleutel met een *onveilige* lengte.
