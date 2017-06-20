@@ -1,1 +1,1 @@
-The TLSA record is not valid (DANE).
+De DANE-vingerafdruk op je domeinnaam is *niet* geldig voor je websitecertificaat.
