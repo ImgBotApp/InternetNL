@@ -1,1 +1,1 @@
-The certificate of your website is signed using a sufficiently secure hash algorithm.
+Your website certificate is signed using a sufficiently secure hash algorithm.
