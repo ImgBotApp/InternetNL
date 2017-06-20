@@ -1,1 +1,1 @@
-Certificates' chain of trust
+Vertrouwensketen van certificaat
