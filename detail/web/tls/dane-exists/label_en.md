@@ -1,1 +1,1 @@
-TLSA record (DANE)
+DANE existence
