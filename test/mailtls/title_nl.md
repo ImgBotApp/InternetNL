@@ -1,1 +1,1 @@
-Ondersteuning van versleuteling tijdens overdracht?
+Versleuteling tijdens overdracht mogelijk?
