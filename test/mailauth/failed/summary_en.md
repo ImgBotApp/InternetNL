@@ -1,1 +1,1 @@
-<strong>Not/partially</strong> protected from mail spoofing (DKIM/SPF/DMARC)
+*No* authenticity marks against mail forgery (DMARC, DKIM en SPF)
