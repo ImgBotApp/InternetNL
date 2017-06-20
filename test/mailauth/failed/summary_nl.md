@@ -1,1 +1,1 @@
-<strong>Niet/deels</strong> beschermd tegen mail-vervalsing (DKIM/SPF/DMARC)
+*Geen* echtheidswaarmerken tegen e-mail-vervalsing (DMARC, DKIM en SPF)
