@@ -1,1 +1,1 @@
-Website offers HTTPS.
+Je website biedt HTTPS aan.
