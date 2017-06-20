@@ -1,1 +1,1 @@
-Your web server offers a HSTS policy.
+Your web server offers an HSTS policy.
