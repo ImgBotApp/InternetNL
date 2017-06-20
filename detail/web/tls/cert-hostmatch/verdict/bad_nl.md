@@ -1,1 +1,1 @@
-Hostname of website does not match certificate.
+De domeinnaam van je website komt *niet* overeen met de domeinnaam op je websitecertificaat.
