@@ -1,1 +1,1 @@
-Website offers HTTPS.
+Your website offers HTTPS.
