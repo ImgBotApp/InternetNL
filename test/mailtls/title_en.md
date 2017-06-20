@@ -1,1 +1,1 @@
-Encryption in transit possible?
+Secure connection with sending mail server possible?
