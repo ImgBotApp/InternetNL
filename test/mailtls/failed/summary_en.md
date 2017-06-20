@@ -1,1 +1,1 @@
-<strong>No/insufficiently</strong> secure connection possible (STARTTLS)
+*No* or insufficiently secure connection possible (STARTTLS)
