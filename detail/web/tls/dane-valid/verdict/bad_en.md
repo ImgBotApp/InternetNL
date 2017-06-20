@@ -1,1 +1,1 @@
-The DANE fingerprint on your domain is *not* valid for your web certificate.
+The DANE fingerprint on your domain is *not* valid for your web certificate. Either someone manipulated the response from your name server, or your domain has a serious DANE configuration error. The latter makes your website unreachable for any user who checks on DANE. You should contact your name server operator and/or your hosting provider as soon as possible.
