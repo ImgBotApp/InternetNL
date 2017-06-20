@@ -1,1 +1,1 @@
-<strong>Not</strong> protected from false DNS information (DNSSEC)
+Domain names *not* signed (DNSSEC)
