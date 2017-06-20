@@ -1,1 +1,1 @@
-Some certificates contain public keys of insufficient length.
+Your website certificate contains a public key with an *insecure* length.
