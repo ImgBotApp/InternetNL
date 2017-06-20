@@ -1,1 +1,1 @@
-Geen of onvoldoende beveiligde verbinding mogelijk (STARTTLS)
+*Geen* of onvoldoende beveiligde verbinding mogelijk (STARTTLS)
