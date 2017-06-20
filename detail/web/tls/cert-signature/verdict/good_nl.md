@@ -1,1 +1,1 @@
-Alle certificaten van jouw website zijn ondertekend met een voldoende veilig algoritme voor hashing.
+Je websitecertificaat is ondertekend met een voldoende veilig algoritme voor hashing.
