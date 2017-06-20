@@ -1,1 +1,1 @@
-Beveiligde verbinding inkomende mail?
+Beveiligd transport inkomende mail?
