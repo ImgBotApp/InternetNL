@@ -1,1 +1,1 @@
-Certificates' domain name
+Domeinnaam op certificaat
