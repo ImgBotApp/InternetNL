@@ -1,1 +1,1 @@
-Certificates' chain of trust
+Trust chain of certificate
