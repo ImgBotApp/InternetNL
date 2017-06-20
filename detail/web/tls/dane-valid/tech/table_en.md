@@ -1,1 +1,1 @@
-Web server|TLSA valid
+Web server|DANE valid
