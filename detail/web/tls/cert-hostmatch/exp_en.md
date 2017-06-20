@@ -1,1 +1,1 @@
-We check that the domain matches the domain name on the certificate.
+We check whether the domain name of your website matches the domain name on the certificate.
