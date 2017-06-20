@@ -1,1 +1,1 @@
-Gewaarmerkt tegen e-mailvervalsing (DMARC, DKIM en SPF)
+Authenticatiewaarmerken tegen e-mailvervalsing (DMARC, DKIM en SPF)
