@@ -1,1 +1,1 @@
-We check whether the public key length of the certificate of your website is sufficiently secure.
+We check whether the public key length of the certificate of your website is sufficiently secure. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-3 to B3-5 (in Dutch).
