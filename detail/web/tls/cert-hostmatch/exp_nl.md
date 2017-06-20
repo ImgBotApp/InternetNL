@@ -1,2 +1,1 @@
-We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat.
-
+We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat. Het kan handig zijn om meerdere domeinnamen in het certificaat als Subject Alternative Name op te nemen, zoals bijvoorbeeld de domeinnaam met en zonder www. Zie 'TLS-richtlijnen van NCSC', richtlijn B3-1].
