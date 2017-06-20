@@ -1,1 +1,1 @@
-No TLSA record found (DANE)
+Your domain does not contain a DANE fingerprint of your web certificate.
