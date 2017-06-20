@@ -1,1 +1,1 @@
-*No* authenticity marks against mail forgery (DMARC, DKIM en SPF)
+*No* authenticity marks against email phishing (DMARC, DKIM and SPF)
