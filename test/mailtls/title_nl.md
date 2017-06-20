@@ -1,1 +1,1 @@
-Beveiligd transport inkomende mail?
+Ondersteuning van versleuteling tijdens overdracht?
