@@ -1,1 +1,1 @@
-We check the certificate chain.
+We testen of we een geldige vertrouwensketen voor je websitecertificaat kunnen opbouwen. Er is sprake van een geldige vertrouwensketen, als je certificaat is uitgegeven door een [vertrouwde certificaatautoriteit](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/) én je webserver alle noodzakelijke tussenliggende certificaten presenteert.
