@@ -1,1 +1,1 @@
-Domeinnamen niet ondertekend?
+Domeinnamen ondertekend?
