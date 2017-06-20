@@ -1,1 +1,1 @@
-Secure connection incoming mail?
+Secure transport incoming mail?
