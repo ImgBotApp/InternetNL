@@ -1,1 +1,1 @@
-Secure connection with sending mail server possible (STARTTLS)
+Secure connection possible (STARTTLS)
