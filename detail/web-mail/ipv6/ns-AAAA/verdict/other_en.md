@@ -1,1 +1,1 @@
-Only one name server has an IPv6 address.
+Only one name server of your domain has an IPv6 address.
