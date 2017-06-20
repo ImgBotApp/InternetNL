@@ -1,1 +1,1 @@
-Geen van de nameservers heeft een IPv6-adres.
+Geen van de nameservers van je domeinnaam heeft een IPv6-adres.
