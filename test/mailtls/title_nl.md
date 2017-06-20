@@ -1,1 +1,1 @@
-Versleuteling tijdens overdracht mogelijk?
+Beveiligde verbinding tijdens overdracht mogelijk?
