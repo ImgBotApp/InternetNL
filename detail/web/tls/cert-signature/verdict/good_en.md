@@ -1,1 +1,1 @@
-All certificates are signed using a sufficiently secure hash method.
+All certificates of your website are signed using a sufficiently secure hash algorithm.
