@@ -1,1 +1,1 @@
-We testen of de ondertekende fingerprint van het certificaat is gemaakt met een veilig algoritme voor hashing.
+We testen of de ondertekende fingerprint van het certificaat is gemaakt met een veilig algoritme voor hashing. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-2.
