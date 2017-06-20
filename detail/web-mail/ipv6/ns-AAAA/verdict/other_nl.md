@@ -1,1 +1,1 @@
-Slechts één nameserver heeft een IPv6-adres.
+Slechts één nameserver van je domeinnaam heeft een IPv6-adres.
