@@ -1,1 +1,1 @@
-The TLSA record is valid (DANE).
+De DANE-vingerafdruk op je domeinnaam is geldig voor je websitecertificaat.
