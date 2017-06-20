@@ -1,1 +1,2 @@
-We check that the domain matches the domain name on the certificate.
+We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat.
+
