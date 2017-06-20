@@ -1,1 +1,1 @@
-We check whether HTTPS is enabled on your website.
+We testen of je website bereikbaar is via HTTPS.
