@@ -1,1 +1,1 @@
-Beveiligde verbinding mogelijk (STARTTLS)
+Beveiligde verbinding met verzendende mailserver mogelijk (STARTTLS)
