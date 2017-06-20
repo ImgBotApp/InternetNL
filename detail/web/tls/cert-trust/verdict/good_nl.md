@@ -1,1 +1,1 @@
-The certificate chain is complete and signed by a trusted root CA.
+De vertrouwensketen van je websitecertificaat is compleet en ondertekend door een vertrouwde certificaatautoriteit.
