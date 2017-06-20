@@ -1,1 +1,1 @@
-*Geen* echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)
+*Geen* of onvoldoende echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)
