@@ -1,1 +1,1 @@
-The public keys in the certificates are sufficiently long.
+Je websitecertificaat bevat een publieke sleutel met een veilige lengte.
