@@ -1,1 +1,1 @@
-Beschermd tegen valse DNS-informatie (DNSSEC)
+Domeinnamen ondertekend (DNSSEC)
