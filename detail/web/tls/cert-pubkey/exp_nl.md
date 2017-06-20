@@ -1,1 +1,1 @@
-We testen of de lengte van de publieke sleutel van het certificaat op je website voldoende veilig is. Zie 'TLS-richtlijnen van NCSC', richtlijn B3-3 t/m B3-5.
+We testen of de lengte van de publieke sleutel van het certificaat op je website voldoende veilig is. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-3 t/m B3-5.
