@@ -1,1 +1,1 @@
-We testen of de DANE-vingerafdruk die je domein presenteert geldig is voor jouw websitecertificaat.
+We testen of de DANE-fingerprint die je domein presenteert geldig is voor jouw websitecertificaat.
