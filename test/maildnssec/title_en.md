@@ -1,1 +1,1 @@
-Domains signed?
+Domain names signed?
