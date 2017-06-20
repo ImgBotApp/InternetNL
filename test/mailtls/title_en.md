@@ -1,1 +1,1 @@
-Secure transport incoming mail?
+Encryption in transit?
