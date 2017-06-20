@@ -1,1 +1,1 @@
-Beveiligde verbinding met verzendende mailserver mogelijk?
+Beveiligde verbinding mogelijk?
