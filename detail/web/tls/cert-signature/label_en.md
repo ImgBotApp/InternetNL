@@ -1,1 +1,1 @@
-Certificates' signature
+Signature of certificate
