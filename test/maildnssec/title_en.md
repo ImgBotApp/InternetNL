@@ -1,1 +1,1 @@
-Protected against redirection?
+Domains signed?
