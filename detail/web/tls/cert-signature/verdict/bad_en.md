@@ -1,1 +1,1 @@
-Some certificates are signed using a hash method that is not secure.
+All or some certificates of your website are signed using a hash algorithm that is not secure.
