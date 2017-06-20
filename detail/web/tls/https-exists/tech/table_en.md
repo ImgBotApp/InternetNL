@@ -1,1 +1,1 @@
-Web server|HTTPS
+Web server|HTTPS available
