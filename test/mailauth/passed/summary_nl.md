@@ -1,1 +1,1 @@
-Beschermd tegen mail-vervalsing (DKIM/SPF/DMARC)
+Gewaarmerkt tegen e-mailvervalsing (DMARC, DKIM en SPF)
