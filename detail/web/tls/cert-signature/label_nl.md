@@ -1,1 +1,1 @@
-Certificates' signature
+Handtekening van certificaat
