@@ -1,1 +1,1 @@
-Webserver|TLSA geldig
+Webserver|DANE geldig
