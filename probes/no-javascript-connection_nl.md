@@ -1,1 +1,1 @@
-Helaas werkt deze test niet zonder JavaScript. Als u de test toch graag wil uitvoeren, dan dient u JavaScript in uw browser te activeren.
+JavaScript inactief. Activeer JavaScript om de test toch uit te kunnen voeren.
