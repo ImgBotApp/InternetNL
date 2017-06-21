@@ -374,8 +374,7 @@ msgid "detail domdnssec mx is secure"
 msgstr "Secured with DNSSEC."
 
 msgid "detail domdnssec resolver error"
-msgstr "please contact our helpdesk: \n"
-"[question@internet.nl](mailto:question@internet.nl)"
+msgstr "Resolver error. Please contact our helpdesk via [question@internet.nl](mailto:question@internet.nl)."
 
 msgid "detail domdnssec servfail"
 msgstr "your registrar (most often also your DNS operator) is: {{registrar}}"
@@ -1182,7 +1181,7 @@ msgid "detail mail tls cert-pubkey exp"
 msgstr "We check the certificates public keys' length."
 
 msgid "detail web tls cert-pubkey label"
-msgstr "Publieke sleutel van certificaat"
+msgstr "Public key of certificate"
 
 msgid "detail mail tls cert-pubkey label"
 msgstr "Certificates' public keys"
@@ -1879,10 +1878,10 @@ msgid "probes no-javascript"
 msgstr "Check if the test results are available. If not, you will be redirected here instead."
 
 msgid "probes no-javascript-connection"
-msgstr "Unfortuntely this test cannot run without JavaScript. If you still would like to exectute the test, please enable JavaScript in your browser."
+msgstr "JavaScript inactive. Please enable JavaScript in order to execute the test."
 
 msgid "probes no-redirection"
-msgstr "An error was encountered during testing. Please try again later, or test another domain name."
+msgstr "Test error. Please try again later, or test another domain name."
 
 msgid "probes test-running"
 msgstr "Running..."
@@ -1973,6 +1972,12 @@ msgstr "Mail server(s)"
 
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
+
+msgid "results no-icon-detail close"
+msgstr "close"
+
+msgid "results no-icon-detail open"
+msgstr "open"
 
 msgid "results no-icon-status failed"
 msgstr "Failed"
@@ -2376,7 +2381,7 @@ msgid "test connresolver title"
 msgstr "Domain signatures validated?"
 
 msgid "test error summary"
-msgstr "**Error** during test execution!"
+msgstr "*Error* during test execution!"
 
 msgid "test mailauth failed description"
 msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SPF, and\n"
@@ -2390,7 +2395,7 @@ msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SP
 "the issues in their configurations."
 
 msgid "test mailauth failed summary"
-msgstr "*No* authenticity marks against mail forgery (DMARC, DKIM en SPF)"
+msgstr "*No* or insufficient authenticity marks against email phishing (DMARC, DKIM and SPF)"
 
 msgid "test mailauth label"
 msgstr "DMARC, DKIM and SPF"
@@ -2418,7 +2423,7 @@ msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DNSSEC o
 "its configuration."
 
 msgid "test maildnssec failed summary"
-msgstr "Domain names *not* signed (DNSSEC)"
+msgstr "*Not* all domain names signed (DNSSEC)"
 
 msgid "test maildnssec label"
 msgstr "DNSSEC"
@@ -2430,26 +2435,22 @@ msgstr "Congratulations; this e-mail domain uses DNSSEC. Senders to this address
 "whether a mail message is spoofed and how to handle it is genuine."
 
 msgid "test maildnssec passed summary"
-msgstr "Domain names signed (DNSSEC)"
+msgstr "All domain names signed (DNSSEC)"
 
 msgid "test maildnssec title"
 msgstr "Domain names signed?"
 
 msgid "test mailipv6 failed description"
-msgstr "Unfortunately, this e-mail domain can not be reached by\n"
-"senders using modern IPv6 addresses, <strong>or</strong> improvement is possible.\n"
-"\n"
-"You should ask your e-mail provider to fully enable IPv6."
+msgstr "Too bad! Your e-mail server can not be reached by senders using modern IPv6 addresses, or improvement is possible. Therefore your e-mail server is not part of the modern Internet yet. You should ask your e-mail provider to fully enable IPv6."
 
 msgid "test mailipv6 failed summary"
-msgstr "*Not* reachable via modern internet address or improvement possible (IPv6)"
+msgstr "*Not* reachable via modern internet address, or improvement possible (IPv6)"
 
 msgid "test mailipv6 label"
 msgstr "IPv6"
 
 msgid "test mailipv6 passed description"
-msgstr "Congratulations; this e-mail domain can be reached by senders using modern\n"
-"IPv6 addresses, making it a part of the modern Internet."
+msgstr "Congratulations! Your e-mail server can be reached by senders using modern IPv6 addresses, making it fully part of the modern Internet."
 
 msgid "test mailipv6 passed summary"
 msgstr "Reachable via modern internet address (IPv6)"
@@ -2466,10 +2467,10 @@ msgstr "Unfortunately; this incoming mail server does <strong>not or \n"
 "configure it correctly."
 
 msgid "test mailtls failed summary"
-msgstr "<strong>No/insufficiently</strong> secure connection possible (STARTTLS)"
+msgstr "*No* or insufficiently secure connection possible (STARTTLS)"
 
 msgid "test mailtls label"
-msgstr "STARTTLS and DANE"
+msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
 msgstr "Congratulations; this incoming mail server supports STARTTLS in a correct \n"
@@ -2481,10 +2482,10 @@ msgid "test mailtls passed summary"
 msgstr "Secure connection possible (STARTTLS)"
 
 msgid "test mailtls title"
-msgstr "Secure transport incoming mail?"
+msgstr "Secure connection possible?"
 
 msgid "test sitednssec failed description"
-msgstr "Too bad! Your domain is *not* signed. Therefore visitors with enabled domain signature validation, are *not* protected against manipulated translation from your domain into rogue internet addresses. You should ask your name server operator (often your registrar and/or hosting provider) to enable DNSSEC."
+msgstr "Too bad! Your domain is *not* signed with a valid signature. Therefore visitors with enabled domain signature validation, are *not* protected against manipulated translation from your domain into rogue internet addresses. You should ask your name server operator (often your registrar and/or hosting provider) to enable DNSSEC."
 
 msgid "test sitednssec failed summary"
 msgstr "Domain name *not* signed (DNSSEC)"
@@ -2493,7 +2494,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Congratulations! Your domain is signed. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
+msgstr "Congratulations! Your domain is signed with a valid signature. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
 
 msgid "test sitednssec passed summary"
 msgstr "Domain name signed (DNSSEC)"
@@ -2502,7 +2503,7 @@ msgid "test sitednssec title"
 msgstr "Domain name signed?"
 
 msgid "test siteipv6 failed description"
-msgstr "Too bad! Your website is *not* reachable for visitors using a modern internet address, or improvement is possible. Therefore this website is *not* part of the modern Internet yet. You should ask your hosting provider to fully enable IPv6."
+msgstr "Too bad! Your website is *not* reachable for visitors using a modern internet address, or improvement is possible. Therefore your website is not part of the modern Internet yet. You should ask your hosting provider to fully enable IPv6."
 
 msgid "test siteipv6 failed summary"
 msgstr "*Not* reachable via modern internet address, or improvement possible (IPv6)"

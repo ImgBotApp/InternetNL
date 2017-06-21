@@ -815,6 +815,12 @@ msgstr "Mail servers"
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
 
+msgid "results no-icon-detail close"
+msgstr "close"
+
+msgid "results no-icon-detail open"
+msgstr "open"
+
 msgid "results no-icon-status failed"
 msgstr "Failed"
 

@@ -422,8 +422,7 @@ msgid "detail domdnssec mx is secure"
 msgstr "Beveiligd met DNSSEC."
 
 msgid "detail domdnssec resolver error"
-msgstr "neem contact op met onze helpdesk: \n"
-"[question@internet.nl](mailto:question@internet.nl)"
+msgstr "Resolverfout. Graag contact opnemen met onze helpdesk [question@internet.nl](mailto:question@internet.nl)."
 
 msgid "detail domdnssec servfail"
 msgstr "je registrar (meestal ook je DNS-beheerder) is: {{registrar}}"
@@ -1233,7 +1232,7 @@ msgid "detail mail tls cert-pubkey exp"
 msgstr "We check the certificates public keys' length."
 
 msgid "detail web tls cert-pubkey label"
-msgstr "Public key of certificate"
+msgstr "Publieke sleutel van certificaat"
 
 msgid "detail mail tls cert-pubkey label"
 msgstr "Certificates' public keys"
@@ -2605,10 +2604,10 @@ msgid "probes no-javascript"
 msgstr "Controleer of de testresultaten beschikbaar zijn. Zo niet, dan word je automatisch teruggeleid naar deze pagina."
 
 msgid "probes no-javascript-connection"
-msgstr "Helaas werkt deze test niet zonder JavaScript. Als u de test toch graag wil uitvoeren, dan dient u JavaScript in uw browser te activeren."
+msgstr "JavaScript inactief. Activeer JavaScript om de test toch uit te kunnen voeren."
 
 msgid "probes no-redirection"
-msgstr "Er is een fout opgetreden tijdens het testen. Probeert u het later opnieuw, of test een andere domeinnaam."
+msgstr "Testfout. Probeer het later opnieuw, of test een andere domeinnaam."
 
 msgid "probes test-running"
 msgstr "Bezig..."
@@ -2699,6 +2698,12 @@ msgstr "Mailserver(s)"
 
 msgid "results mail tls starttls label"
 msgstr "STARTTLS"
+
+msgid "results no-icon-detail close"
+msgstr "sluit"
+
+msgid "results no-icon-detail open"
+msgstr "open"
 
 msgid "results no-icon-status failed"
 msgstr "Gezakt"
@@ -3110,7 +3115,7 @@ msgid "test connresolver title"
 msgstr "Domein-handtekeningen gecontroleerd?"
 
 msgid "test error summary"
-msgstr "**Fout** tijdens uitvoering van test!"
+msgstr "*Fout* tijdens uitvoering van test!"
 
 msgid "test mailauth failed description"
 msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DKIM, SPF en\n"
@@ -3124,7 +3129,7 @@ msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DKIM, 
 "de configuratie op te lossen."
 
 msgid "test mailauth failed summary"
-msgstr "*Geen* echtheidswaarmerken tegen e-mail-vervalsing (DMARC, DKIM en SPF)"
+msgstr "*Geen* of onvoldoende echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
 
 msgid "test mailauth label"
 msgstr "DMARC, DKIM en SPF"
@@ -3153,7 +3158,7 @@ msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DNSSEC
 "configuratie op te lossen."
 
 msgid "test maildnssec failed summary"
-msgstr "Domeinnamen *niet* ondertekend (DNSSEC)"
+msgstr "*Niet* alle domeinnamen ondertekend (DNSSEC)"
 
 msgid "test maildnssec label"
 msgstr "DNSSEC"
@@ -3166,16 +3171,13 @@ msgstr "Gefeliciteerd; dit e-mail domein maakt gebruik van DNSSEC. Verzenders va
 "bericht vervalst is en hoe hiermee om te gaan echt zijn."
 
 msgid "test maildnssec passed summary"
-msgstr "Domeinnamen ondertekend (DNSSEC)"
+msgstr "Alle domeinnamen ondertekend (DNSSEC)"
 
 msgid "test maildnssec title"
 msgstr "Domeinnamen ondertekend?"
 
 msgid "test mailipv6 failed description"
-msgstr "Helaas; dit e-mail-domein is niet bereikbaar voor verzenders\n"
-"met moderne IPv6-adressen, <strong>of</strong> er is verbetering mogelijk.\n"
-"\n"
-"Vraag je e-mailprovider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Je e-mailserver is *niet* bereikbaar voor verzenders met moderne IPv6-adressen, of er is verbetering mogelijk. Daardoor maakt je e-mailserver nog geen onderdeel uit van het moderne internet. Vraag je e-mailprovider om IPv6 volledig aan te zetten."
 
 msgid "test mailipv6 failed summary"
 msgstr "*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)"
@@ -3184,8 +3186,7 @@ msgid "test mailipv6 label"
 msgstr "IPv6"
 
 msgid "test mailipv6 passed description"
-msgstr "Gefeliciteerd; dit e-mail-domein is bereikbaar voor verzenders met moderne\n"
-"IPv6-adressen. Daarmee is dit adres onderdeel van het moderne Internet."
+msgstr "Gefeliciteerd! Je e-mailserver is bereikbaar voor verzenders met moderne IPv6-adressen. Daardoor is je e-mailserver volledig onderdeel van het moderne Internet."
 
 msgid "test mailipv6 passed summary"
 msgstr "Bereikbaar via modern internetadres (IPv6)"
@@ -3200,10 +3201,10 @@ msgstr "Helaas; deze inkomende mailserver ondersteunt STARTTLS <strong>niet of o
 "Vraag je e-mailprovider om STARTTLS te activeren en goed in te stellen."
 
 msgid "test mailtls failed summary"
-msgstr "<strong>Geen/onvoldoende</strong> beveiligde verbinding mogelijk (STARTTLS)"
+msgstr "*Geen* of onvoldoende beveiligde verbinding mogelijk (STARTTLS)"
 
 msgid "test mailtls label"
-msgstr "STARTTLS en DANE"
+msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
 msgstr "Gefeliciteerd; deze inkomende mailserver ondersteunt STARTTLS op een goede \n"
@@ -3215,10 +3216,10 @@ msgid "test mailtls passed summary"
 msgstr "Beveiligde verbinding mogelijk (STARTTLS)"
 
 msgid "test mailtls title"
-msgstr "Beveiligd transport inkomende mail?"
+msgstr "Beveiligde verbinding mogelijk?"
 
 msgid "test sitednssec failed description"
-msgstr "Helaas! Je domeinnaam is *niet* ondertekend. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen. Vraag je nameserver-beheerder (vaak je registrar en/of hostingprovider) om DNSSEC te activeren."
+msgstr "Helaas! Je domeinnaam is *niet* ondertekend met een geldige handtekening. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, *niet* beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen. Vraag je nameserver-beheerder (vaak je registrar en/of hostingprovider) om DNSSEC te activeren."
 
 msgid "test sitednssec failed summary"
 msgstr "Domeinnaam *niet* ondertekend (DNSSEC)"
@@ -3227,7 +3228,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Gefeliciteerd! Je domeinnaam is ondertekend. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
+msgstr "Gefeliciteerd! Je domeinnaam is ondertekend met een geldige handtekening. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
 
 msgid "test sitednssec passed summary"
 msgstr "Domeinnaam ondertekend (DNSSEC)"
@@ -3236,7 +3237,7 @@ msgid "test sitednssec title"
 msgstr "Domeinnaam ondertekend?"
 
 msgid "test siteipv6 failed description"
-msgstr "Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern internetadres gebruiken, of verbetering is mogelijk. Deze website maakt daardoor nog *geen* onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern internetadres gebruiken, of er is verbetering mogelijk. Daardoor maakt je website nog geen onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten."
 
 msgid "test siteipv6 failed summary"
 msgstr "*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)"
@@ -3245,7 +3246,7 @@ msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Gefeliciteerd! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daarom volledig onderdeel van het moderne internet."
+msgstr "Gefeliciteerd! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daardoor volledig onderdeel van het moderne internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Bereikbaar via moderne internetadres (IPv6)"
