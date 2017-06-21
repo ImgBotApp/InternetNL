@@ -1,2 +1,2 @@
-Please contact our helpdesk: 
+Please contact our helpdesk via  
 [question@internet.nl](mailto:question@internet.nl).
