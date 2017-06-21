@@ -1,1 +1,1 @@
-Public key of certificate
+Publieke sleutel van certificaat
