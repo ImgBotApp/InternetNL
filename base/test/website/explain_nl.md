@@ -5,11 +5,10 @@ Nadat je een domeinnaam van een website heb opgegeven, testen we of de website o
 * [HTTPS](/faqs/https/): beveiligde verbinding?
 
 ## Testrapport
-Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je hierover het beste je webhoster aanspreken.
+Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een uitgbreide toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/). Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). 
 
-Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). 
+## Hoe verbeteren
+Het testrapport kan je gebruiken om je website te verbeteren. Meestal kan je hiervoor het beste je webhoster aanspreken.
 
-## Scope
-De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.
 
 ---
