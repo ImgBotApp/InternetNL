@@ -1,1 +1,1 @@
-Subtest passed ⇒ positive score
+Subtest passed ⇒ full score for subtest
