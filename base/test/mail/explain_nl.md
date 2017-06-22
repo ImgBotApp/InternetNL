@@ -1,9 +1,9 @@
 Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-maildienst ondersteuning biedt voor de onderstaande moderne internetstandaarden.
 
-* IPv6: bereikbaar op modern adres?
-* DNSSEC: domeinnaam ondertekend?
-* DMARC, DKIM en SPF: beschermd tegen phishing?
-* STARTTLS en DANE: beveiligd transport?
+* [IPv6](/faqs/ipv6/): bereikbaar op modern adres?
+* [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?
+* [DMARC, DKIM en SPF](/faqs/mailauth/): beschermd tegen phishing?
+* [STARTTLS en DANE](/faqs/starttls/): beveiligd transport?
 
 Let op: sommige standaarden zijn zelfs relevant als voor je domeinnaam geen mailservers zijn ingesteld.
 
