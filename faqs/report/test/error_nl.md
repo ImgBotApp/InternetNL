@@ -1,1 +1,1 @@
-Tenminste één subtest niet uitvoerbaar ⇒ geen resultaten voor testonderdeel
+Uitvoeringsfout voor tenminste één subtest ⇒ geen resultaten voor testonderdeel
