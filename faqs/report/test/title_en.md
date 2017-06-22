@@ -1,1 +1,1 @@
-II. Icons per test section
+Icons per test section result
