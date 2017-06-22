@@ -1,1 +1,1 @@
-Subtest failed ⇒ negative score
+Failed the subtest ⇒ null score for subtest
