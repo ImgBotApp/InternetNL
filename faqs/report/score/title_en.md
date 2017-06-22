@@ -1,1 +1,1 @@
-I. Overall score of main test
+I. Overall percentage score of main test
