@@ -1,1 +1,1 @@
-Explanation of score and icons
+Toelichting op score en iconen
