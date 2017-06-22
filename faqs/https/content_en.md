@@ -14,5 +14,5 @@
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
 ## Specifications
-* HTTP Over TLS (HTTPS): [RFC 2818](https://tools.ietf.org/html/rfc2818) 
+* HTTPS: [RFC 2818](https://tools.ietf.org/html/rfc2818) 
 * HSTS: [RFC 6797](https://tools.ietf.org/html/rfc6797)
