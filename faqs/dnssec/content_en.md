@@ -23,4 +23,4 @@ Below follows a quotation from the last mentioned research publication:
 * [DNSSEC.net](http://www.dnssec.net/)
 
 ## Specifications
-* [Domain Name System Security Extensions](https://tools.ietf.org/html/rfc4033) (RFC's 4033 and further)
+* Domain Name System Security Extensions (DNSSEC): [RFC 4033](https://tools.ietf.org/html/rfc4033), [RFC 4034](https://tools.ietf.org/html/rfc4033) and [RFC 4035](https://tools.ietf.org/html/rfc4033)
