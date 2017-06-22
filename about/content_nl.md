@@ -35,7 +35,7 @@ De website Internet.nl is een initiatief van het **Platform Internetstandaarden*
 - [SIDN](https://sidn.nl)
 - [SURFnet](https://surfnet.nl)   
  
-ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van Open Netlabs(https://opennetlabs.nl/) / NLnet Labs.
+ECP biedt de administratieve basis voor het platform. De domeinnaam Internet.nl is beschikbaar gesteld aan het platform door Internet Society Nederland. De technische realisatie van Internet.nl is in handen van [Open Netlabs](https://opennetlabs.nl/) / NLnet Labs.
 
 ---
 Let op: [Open Internet NL](http://open.internet.nl) is geen onderdeel van het project Internet.nl. Vragen en reacties daarover kunt u sturen naar Internet Society Nederland via voorzitter [at] isoc.nl.
