@@ -1,1 +1,1 @@
-Gezakt voor tenminste één subtest ⇒ Geen volledige score voor testonderdeel
+Gezakt voor tenminste één subtest ⇒ geen volledige score voor testonderdeel
