@@ -1,1 +1,1 @@
-Failed the subtest on a 'should/could have' ⇒ no score on subtest
+Failed the subtest on a 'should/could have' ⇒ no score
