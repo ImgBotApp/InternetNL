@@ -1,1 +1,1 @@
-At least one subtest failed ⇒ not full score
+At least one subtest failed ⇒ no full score for test section
