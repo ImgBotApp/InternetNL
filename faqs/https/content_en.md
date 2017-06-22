@@ -12,6 +12,7 @@
 * ["ICT security guidelines for web applications"](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html) by NCSC-NL (in Dutch)
 * [Wikipedia on HTTPS](https://en.wikipedia.org/wiki/HTTPS)
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Bettercrypto.org](https://bettercrypto.org)
 
 ## Specifications
 * [RFC 2818: HTTP Over TLS](https://datatracker.ietf.org/doc/rfc2818)
