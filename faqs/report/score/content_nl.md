@@ -1,4 +1,4 @@
-- Internet.nl bevat drie hoofdtesten bestaande uit testonderdelen die bestaan uit subtesten. De websitetest heeft bijvoorbeeld een testonderdeel over HTTPS dat een subtest over HSTS bevat.
+- Internet.nl bevat drie hoofdtesten bestaande uit deeltesten die bestaan uit subtesten. De websitetest heeft bijvoorbeeld een deeltest over HTTPS die een subtest over HSTS bevat.
 - Iedere hoofdtest resulteert in een procentuele totaalscore.
-- Ieder testonderdeel van een hoofdtest weegt min of meer gelijk mee in de procentuele totaalscore. Dus als een hoofdtest bestaat uit vier testonderdelen, dan is de maximale score per testonderdeel 25%.
+- Ieder testonderdeel van een hoofdtest weegt min of meer gelijk mee in de procentuele totaalscore. Dus als een hoofdtest bestaat uit vier deeltesten, dan is de maximale score per deeltest 25%.
 - Websites met een perfecte score van 100% worden opgenomen in de [Hall of Fame](/halloffame/).
