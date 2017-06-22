@@ -1,1 +1,1 @@
-II. Circle icons per test section
+II. Icons per test section
