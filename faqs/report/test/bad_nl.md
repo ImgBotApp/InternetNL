@@ -1,1 +1,1 @@
-At least one subtest failed ⇒ not full score
+Gezakt voor tenminste één subtest ⇒ Geen volledige score voor testonderdeel
