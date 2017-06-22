@@ -1,1 +1,1 @@
-Gefeliciteerd! De domeinnamen van je e-mailadres en e-mailserver(s) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van ieder van je ontvangende e-mailservers opvragen.
+Gefeliciteerd! De domeinnamen van je e-mailadres en e-mailserver(s) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van je ontvangende e-mailserver(s) opvragen.
