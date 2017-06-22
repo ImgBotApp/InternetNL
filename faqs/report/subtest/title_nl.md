@@ -1,1 +1,1 @@
-III. Icons per subtest result
+III. Iconen per subtest
