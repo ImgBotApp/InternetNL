@@ -14,5 +14,5 @@
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
 
 ## Specifications
-* STARTTLS for SMTP: ([RFC 3207]((https://tools.ietf.org/html/rfc3207) ))
+* STARTTLS for SMTP: ([RFC 3207](https://tools.ietf.org/html/rfc3207))
 * DANE for SMTP: ([RFC 7671](https://tools.ietf.org/html/rfc7672) and [RFC 7672](https://tools.ietf.org/html/rfc7672))
