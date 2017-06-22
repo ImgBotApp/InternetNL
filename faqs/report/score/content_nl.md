@@ -1,4 +1,4 @@
 - Internet.nl bevat drie hoofdtesten bestaande uit testonderdelen die bestaan uit subtesten.
 - Iedere hoofdtest resulteert in een procentuele totaalscore.
 - Ieder testonderdeel van een hoofdtest weegt min of meer gelijk mee in de procentuele totaalscore. Dus als een hoofdtest bestaat uit vier testonderdelen, dan is de maximale score per testonderdeel 25%.
-- Websites met een score van 100% worden opgenomen in de [Hall of Fame](/halloffame/).
+- Websites met een perfecte score van 100% worden opgenomen in de [Hall of Fame](/halloffame/).
