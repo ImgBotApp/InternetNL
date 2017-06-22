@@ -13,4 +13,7 @@ Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toeli
 ## Hoe verbeteren
 Het testrapport kan je gebruiken om je e-mailvoorziening te verbeteren. Meestal kan je hiervoor het beste je e-mailprovider aanspreken.
 
+## Scope
+De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mailvoorzieningen.
+
 ---
