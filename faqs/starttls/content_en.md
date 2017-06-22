@@ -8,9 +8,9 @@
 * ["171321 DANE-enabled domains"](https://mail.sys4.de/pipermail/dane-users/2017-June/000412.html) on 31 May 2017
 
 ## Further information
-* [Factsheet "Secure the connections of mail servers"](https://www.ncsc.nl/english/current-topics/factsheets/factsheet-secure-the-connections-of-mail-servers.html) from NCSC-NL
-* [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html) from German Federal Office for Information Security
-* [Special Publication 1800-6: “Domain Name Systems-Based Electronic Mail Security”](https://nccoe.nist.gov/projects/building-blocks/secured-email) from NIST
+* [Factsheet "Secure the connections of mail servers"](https://www.ncsc.nl/english/current-topics/factsheets/factsheet-secure-the-connections-of-mail-servers.html) by NCSC-NL
+* [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html) by  German Federal Office for Information Security
+* [Special Publication 1800-6: “Domain Name Systems-Based Electronic Mail Security”](https://nccoe.nist.gov/projects/building-blocks/secured-email) by NIST
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
 * Wikipedia on [STARTTLS](https://en.wikipedia.org/wiki/Opportunistic_TLS) and on [DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities#Email_encryption)
 
