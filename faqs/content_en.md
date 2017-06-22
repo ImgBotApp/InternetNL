@@ -1,14 +1,14 @@
-## Website test
-* [Modern address (IPv6)](/faqs/ipv6/)
-* [Domain signing (DNSSEC)](/faqs/dnssec/)
-* [Secure connection (HTTPS)](/faqs/https/)
+## About the tests
+- [Website test](/test-site/)
+- [Email test](/test-mail/)
+- [Connection test](/test-connection/)
 
-## Email test
+## About the standards
 * [Modern address (IPv6)](/faqs/ipv6/)
-* [Domain signing (DNSSEC)](/faqs/dnssec/)
-* [Phishing protection (DMARC, DKIM and SPF)](/faqs/mailauth/)
-* [Secure transport (STARTTLS and DANE)](/faqs/starttls/)
+* [Domain signatures (DNSSEC)](/faqs/dnssec/)
+* [Secure website connection (HTTPS)](/faqs/https/)
+* [Email phishing protection (DMARC, DKIM and SPF)](/faqs/mailauth/)
+* [Secure email transport (STARTTLS and DANE)](/faqs/starttls/)
 
-## Connection test
-* [Reachability of modern addresses (IPv6)](/faqs/ipv6/)
-* [Validation of domain signatures (DNSSEC)](/faqs/dnssec/)
+## About the test report
+* Explanation of result score and icons
