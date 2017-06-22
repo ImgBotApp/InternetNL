@@ -1,1 +1,1 @@
-Domeinnaamondertekening (DNSSEC)
+Domeinnaamhandtekening (DNSSEC)
