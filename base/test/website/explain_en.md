@@ -5,9 +5,10 @@ After you enter a domain name of a website, we will test if the website offers s
 * [HTTPS](/faqs/https/): secure connection?
 
 ## Test report
-After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve your website. Usually contacting your web hoster on this will be the best next step.
+After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see "Explanation of score and icons on test report"(/faqs/report/). If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). 
 
-If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). 
+## How to improve
+You can use this test report to improve your website. Usually contacting your web hosting provider on this will be the best next step.
 
 ## Scope
 The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites.
