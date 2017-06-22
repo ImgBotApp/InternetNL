@@ -10,5 +10,7 @@ Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toeli
 ## Hoe verbeteren
 Het testrapport kan je gebruiken om je website te verbeteren. Meestal kan je hiervoor het beste je webhoster aanspreken.
 
+## Scope
+De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.
 
 ---
