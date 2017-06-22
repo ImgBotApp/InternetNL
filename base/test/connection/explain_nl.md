@@ -4,7 +4,7 @@ Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou geb
 * [DNSSEC](/faqs/dnssec/): worden domeinnaam-handtekeningen voor jou gecontroleerd?
 
 ## Testrapport
-Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een nadere toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/).
+Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een uitgbreide toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/).
 
 ## Hoe verbeteren
 Het testrapport kan je gebruiken om je internetverbinding te verbeteren. Meestal kan je hiervoor het beste je internetprovider aanspreken.
