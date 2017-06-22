@@ -1,1 +1,1 @@
-Some hosts passed subtest, but not all hosts could be tested ⇒ no score on subtest
+Sommige servers geslaagd voor subtest, maar niet alle servers konden worden getest ⇒ nulscore
