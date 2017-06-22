@@ -1,3 +1,3 @@
-- Internet.nl has three main tests consisting of test parts that consist of subtests.
-- Each main test is resulting in a percentage test score.
-- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%.
+- Internet.nl bevat drie hoofdtesten bestaande uit testonderdelen die bestaan uit subtesten.
+- Iedere hoofdtest resulteert in een procentuele totaalscore.
+- Ieder testonderdeel van een hoofdtest weegt min of meer gelijk mee in de procentuele totaalscore. Dus als een hoofdtest bestaat uit vier testonderdelen, dan is de maximale score per testonderdeel 25%. 
