@@ -1,1 +1,1 @@
-Niet uitgevoerd, want al gezakt voor gerelateerde (parent) subtest ⇒ geen score voor subtest
+Niet getest, want al gezakt voor gerelateerde bovenliggende subtest ⇒ geen score voor subtest
