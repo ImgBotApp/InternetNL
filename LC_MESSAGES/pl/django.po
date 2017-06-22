@@ -557,6 +557,56 @@ msgstr "## I. Algemeen\n"
 msgid "faqs starttls title"
 msgstr "STARTTLS and DANE"
 
+msgid "faqs report title"
+msgstr "Explanation of score and icons"
+
+msgid "faqs report score title"
+msgstr "I. Main test resulting in overall percentage score"
+
+#, md-format
+msgid "faqs report score content"
+msgstr "- Internet.nl has three main tests consisting of test parts that consist of subtests.\n"
+"- Each main test is resulting in a percentage test score.\n"
+"- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%."
+
+msgid "faqs report test title"
+msgstr "II. Circle icons per test part result"
+
+#, md-format
+msgid "faqs report test good"
+msgstr "All subtests passed ⇒ full score"
+
+#, md-format
+msgid "faqs report test bad"
+msgstr "At least one subtest failed ⇒ not full score"
+
+#, md-format
+msgid "faqs report test error"
+msgstr "At least one subtest was not able to run ⇒ no results"
+
+msgid "faqs report subtest title"
+msgstr "III. Shield icons per subtest result"
+
+#, md-format
+msgid "faqs report subtest good"
+msgstr "Subtest passed ⇒ positive score"
+
+#, md-format
+msgid "faqs report subtest bad"
+msgstr "Subtest failed ⇒ negative score"
+
+#, md-format
+msgid "faqs report subtest warning"
+msgstr "Subtest failed ⇒ no score"
+
+#, md-format
+msgid "faqs report subtest not-tested"
+msgstr "Already fail in related (parent) subtest ⇒ no score"
+
+#, md-format
+msgid "faqs report subtest partly-tested"
+msgstr "Some hosts passed subtest, but not all hosts could be tested ⇒ negative score"
+
 #, md-format
 msgid "halloffame teaser"
 msgstr "# Sala chwały\n"
