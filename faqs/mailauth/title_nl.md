@@ -1,1 +1,1 @@
-Phishingprotectie (DMARC, DKIM en SPF)
+Protectie tegen e-mailphishing (DMARC, DKIM en SPF)
