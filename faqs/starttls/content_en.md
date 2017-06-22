@@ -11,6 +11,6 @@
 * [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html)from German Federal Office for Information Security 
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
 
-##Specifications
+## Specifications
 * [STARTTLS for SMTP (RFC 3207)](https://tools.ietf.org/html/rfc3207)
 * [DANE for SMTP (RFC 7672)](https://tools.ietf.org/html/rfc7672)
