@@ -1,9 +1,1 @@
-Unfortunately, this e-mail domain does <strong>not</strong> use DNSSEC or
-there is an error in its configuration. Senders to this address are currently
-<strong>not</strong> protected from having their messages delivered to a fake
-mailbox. Receiving systems can <strong>not</strong> be sure that all
-authentication features and policies to check whether a mail message is
-spoofed and how to handle it is genuine.
-
-You should ask your e-mail provider to set up DNSSEC or to fix the issues in
-its configuration.
+Too bad! *Not* all of the domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are *not* able to reliably query the IP address of any of your receiving mail server. An attacker could secretely manipulate the IP address and divert e-mails addressed to you to his/her own mail server. You should ask your name server operator and/or your mail provider to enable DNSSEC.
