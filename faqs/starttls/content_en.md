@@ -15,6 +15,6 @@
 * Wikipedia on [STARTTLS](https://en.wikipedia.org/wiki/Opportunistic_TLS) and on [DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities#Email_encryption)
 
 ## Specifications
-* [RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security](https://tools.ietf.org/html/rfc3207)
-* [RFC 7671: SMTP Security via Opportunistic DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS)](https://tools.ietf.org/html/rfc7672) 
-* [RFC 7671: The DNS-Based Authentication of Named Entities (DANE) Protocol: Updates and Operational Guidance](https://tools.ietf.org/html/rfc7672)
+* [RFC 3207: SMTP Service Extension for Secure SMTP over Transport Layer Security](https://datatracker.ietf.org/doc/rfc3207)
+* [RFC 7672: SMTP Security via Opportunistic DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/rfc7672) 
+* [RFC 7671: The DNS-Based Authentication of Named Entities (DANE) Protocol: Updates and Operational Guidance](https://datatracker.ietf.org/doc/rfc7671)
