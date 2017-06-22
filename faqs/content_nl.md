@@ -12,6 +12,4 @@
 
 ## Testrapport
 * Toelichting op resultaten, score en iconen
-
-
-
+* Wie te benaderen voor verbetering?
