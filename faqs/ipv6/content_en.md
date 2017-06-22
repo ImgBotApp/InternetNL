@@ -16,3 +16,6 @@
 * [IPv6 Info Centre at RIPE](https://www.ripe.net/publications/ipv6-info-centre/)
 * [Wikipedia on IPv6](https://en.wikipedia.org/wiki/IPv6)
 * ["Policy Issues for Receiving Email in a World with IPv6 Hosts" from M³AAWG](https://www.m3aawg.org/sites/default/files/document/M3AAWG_Inbound_IPv6_Policy_Issues-2014-09.pdf)
+
+## Specifications
+* [Internet Protocol, Version 6 (IPv6), Specification]](https://datatracker.ietf.org/doc/rfc2460/)
