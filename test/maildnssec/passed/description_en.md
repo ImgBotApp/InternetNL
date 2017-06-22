@@ -1,4 +1,1 @@
-Congratulations; this e-mail domain uses DNSSEC. Senders to this address are
-protected from having their messages delivered to a fake mailbox. Receiving
-systems can be sure that all authentication features and policies to check
-whether a mail message is spoofed and how to handle it is genuine.
+Congratulations! The domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s).
