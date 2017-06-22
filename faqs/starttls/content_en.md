@@ -7,5 +7,5 @@
 
 ## Further information
 * [Factsheet "Secure the connections of mail servers"](https://www.ncsc.nl/english/current-topics/factsheets/factsheet-secure-the-connections-of-mail-servers.html) from NCSC-NL
-* [BSI TR-03108 Sicherer E-Mail-Transport] from German Federal Office for Informationm Security (https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html)
+* [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html)from German Federal Office for Information Security 
 * [TESmail](https://tesmail.org/)
