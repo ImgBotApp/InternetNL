@@ -1,1 +1,1 @@
-I. Overall percentage score of main test
+I. Totale procentuele score van hoofdtest
