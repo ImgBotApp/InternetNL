@@ -11,4 +11,5 @@ Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of
 
 ## Scope
 De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.
+
 ---
