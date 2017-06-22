@@ -7,7 +7,7 @@
 * [Modern address (IPv6)](/faqs/ipv6/)
 * [Domain signature (DNSSEC)](/faqs/dnssec/)
 * [Secure website connection (HTTPS)](/faqs/https/)
-* [Email phishing protection (DMARC, DKIM and SPF)](/faqs/mailauth/)
+* [Protection against email phishing (DMARC, DKIM and SPF)](/faqs/mailauth/)
 * [Secure email transport (STARTTLS and DANE)](/faqs/starttls/)
 
 ## Test report
