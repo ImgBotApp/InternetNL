@@ -1,16 +1,16 @@
-Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-maildienst ondersteuning biedt voor de onderstaande moderne internetstandaarden.
+Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvoorziening ondersteuning biedt voor de onderstaande moderne internetstandaarden.
 
 * [IPv6](/faqs/ipv6/): bereikbaar op modern adres?
 * [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?
 * [DMARC, DKIM en SPF](/faqs/mailauth/): beschermd tegen phishing?
 * [STARTTLS en DANE](/faqs/starttls/): beveiligd transport mogelijk?
 
-Let op: sommige standaarden zijn zelfs relevant als voor je domeinnaam geen mailservers zijn ingesteld.
+Let op: sommige standaarden zijn zelfs relevant als je je domeinnaam niet gebruikt voor het ontvangen en verzenden van e-mail.
 
 ## Testrapport
-Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om de e-maildienst die jij gebruikt te verbeteren. Normaalgesproken kan je hierover het beste je e-mailhoster aanspreken.   
+Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een uitgbreide toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/).
 
-## Scope
-De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mail.
+## Hoe verbeteren
+Het testrapport kan je gebruiken om je e-mailvoorziening te verbeteren. Meestal kan je hiervoor het beste je e-mailprovider aanspreken.
 
 ---
