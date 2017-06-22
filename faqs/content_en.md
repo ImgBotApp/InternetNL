@@ -11,5 +11,5 @@
 * [Secure email transport (STARTTLS and DANE)](/faqs/starttls/)
 
 ## Test report
-* Explanation of score and icons
+* [Explanation of score and icons](/faqs/report/)
 * Who to contact for improvement?
