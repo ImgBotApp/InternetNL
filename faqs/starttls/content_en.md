@@ -1,7 +1,7 @@
 ## Why
 * ["The sad state of SMTP encryption"](https://blog.filippo.io/the-sad-state-of-smtp-encryption/) by Filippo Valsorda
 * ["Opportunistic Security: Some Protection Most of the Time"](https://tools.ietf.org/html/rfc7435) by V. Dukhovni
-* ["New e-mail security protocols mandatory within government"](https://www.sidnlabs.nl/a/weblog/new-e-mail-security-protocols-mandatory-within-government?language_id=2) by SIDNlabs
+* ["New e-mail security protocols mandatory within government"](https://www.sidnlabs.nl/a/weblog/new-e-mail-security-protocols-mandatory-within-government?language_id=2) by Marco Davids (SIDNlabs)
 
 ## Adoption statistics
 * [Google's safer mail statistics on STARTTLS](https://www.google.com/transparencyreport/saferemail/?hl=en)
