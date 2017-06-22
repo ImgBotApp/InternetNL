@@ -21,3 +21,6 @@ Below follows a quotation from the last mentioned research publication:
 * [SIDN about DNSSEC](https://www.sidn.nl/a/internet-security/dnssec?language_id=2)
 * [Wikipedia on DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 * [DNSSEC.net](http://www.dnssec.net/)
+
+## Specifications
+* [Domain Name System Security Extensions (RFC's 4033 and further)]https://tools.ietf.org/html/rfc4033
