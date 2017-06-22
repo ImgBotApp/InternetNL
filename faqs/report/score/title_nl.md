@@ -1,1 +1,1 @@
-I. Totale procentuele score van hoofdtest
+I. Procentuele totaalscore per hoofdtest
