@@ -1,7 +1,7 @@
 ## Tests
-- [About website test](/test-site/)
-- [About the email test](/test-mail/)
-- [About the connection test](/test-connection/)
+* [About the website test](/test-site/)
+* [About the email test](/test-mail/)
+* [About the connection test](/test-connection/)
 
 ## Standards
 * [Modern address (IPv6)](/faqs/ipv6/)
