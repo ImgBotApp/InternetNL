@@ -1,1 +1,1 @@
-Passed the subtest ⇒ full score for subtest
+Passed the subtest on a 'must have' ⇒ full score for subtest
