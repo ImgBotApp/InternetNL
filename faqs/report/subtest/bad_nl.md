@@ -1,1 +1,1 @@
-Subtest failed ⇒ negative score
+Gezakt voor subtest ⇒ nulscore voor subtest
