@@ -23,6 +23,6 @@ Below follows a quotation from the last mentioned research publication:
 * [DNSSEC.net](http://www.dnssec.net/)
 
 ## Specifications
-* [RFC 4033: DNS Security Introduction and Requirements](https://tools.ietf.org/html/rfc4033)
-* [RFC 4034: Resource Records for the DNS Security Extensions](https://tools.ietf.org/html/rfc4034)
-* [RFC 4035: Protocol Modifications for the DNS Security Extensions](https://tools.ietf.org/html/rfc4035)
+* [RFC 4033: DNS Security Introduction and Requirements](https://datatracker.ietf.org/doc/rfc4033)
+* [RFC 4034: Resource Records for the DNS Security Extensions](https://datatracker.ietf.org/doc/rfc4034)
+* [RFC 4035: Protocol Modifications for the DNS Security Extensions](https://datatracker.ietf.org/doc/rfc4035)
