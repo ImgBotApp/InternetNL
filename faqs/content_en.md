@@ -11,4 +11,4 @@
 * [Secure email transport (STARTTLS and DANE)](/faqs/starttls/)
 
 ## Test report
-* Explanation of result score and icons
+* Explanation of results, score and icons
