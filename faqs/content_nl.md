@@ -11,5 +11,5 @@
 * [Beveiligde e-mailtransport (STARTTLS en DANE)](/faqs/starttls/)
 
 ## Testrapport
-* Toelichting op resultaten, score en iconen
+* Toelichting op score en iconen
 * Wie te benaderen voor verbetering?
