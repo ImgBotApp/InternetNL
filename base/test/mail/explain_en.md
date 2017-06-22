@@ -12,3 +12,5 @@ After the test is finished, you are directed to a test report with an overall pe
 
 ## Scope
 The e-mail test checks for important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for e-mail.
+
+---
