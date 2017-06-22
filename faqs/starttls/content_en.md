@@ -9,6 +9,7 @@
 
 ## Further information
 * [Factsheet "Secure the connections of mail servers"](https://www.ncsc.nl/english/current-topics/factsheets/factsheet-secure-the-connections-of-mail-servers.html) by NCSC-NL
+* ["ICT securitity guidelines for TLS"](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html) by NCSC-NL (in Dutch)
 * [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html) by  German Federal Office for Information Security
 * [Special Publication 1800-6: “Domain Name Systems-Based Electronic Mail Security”](https://nccoe.nist.gov/projects/building-blocks/secured-email) by NIST
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
