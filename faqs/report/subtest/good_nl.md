@@ -1,1 +1,1 @@
-Subtest passed ⇒ positive score
+Geslaagd voor subtest ⇒ volledige score voor subtest
