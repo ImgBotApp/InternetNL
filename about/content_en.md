@@ -22,20 +22,20 @@ We do. Still it is important that internet users are aware themselves and send o
 The website Internet.nl is an initiative of the Dutch **Internet Standards Platform**. In this platform the below partners from the internet community and the Dutch government collaborate.
 
 - [DHPA](https://dhpa.nl/)
-- [ECP](https://ecp.nl)
-- [Forum Standaardisatie](https://forumstandaardisatie.nl)
-- [Internet Society internationaal](https://internetsociety.org)
-- [Internet Society Nederland](https://isoc.nl)
-- [ISPConnect](https://ispconnect.nl)
+- [ECP](https://ecp.nl/)
+- [Forum Standaardisatie](https://forumstandaardisatie.nl/)
+- [Internet Society internationaal](https://internetsociety.org/)
+- [Internet Society Nederland](https://isoc.nl/)
+- [ISPConnect](https://ispconnect.nl/)
 - [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken)
-- [NCSC](https://ncsc.nl)
-- [NLnet](https://nlnet.nl)
-- [NLnet Labs](https://nlnetlabs.nl)
-- [RIPE NCC](https://ripe.net)
-- [SIDN](https://sidn.nl)
-- [SURFnet](https://surfnet.nl)   
+- [NCSC](https://ncsc.nl/)
+- [NLnet](https://nlnet.nl/)
+- [NLnet Labs](https://nlnetlabs.nl/)
+- [RIPE NCC](https://ripe.net/)
+- [SIDN](https://sidn.nl/)
+- [SURFnet](https://surfnet.nl/)   
 
-ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. NLnet Labs is responsible for the technical implementation of the Internet.nl website.
+ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. [Open Netlabs](https://opennetlabs.nl/) / NLnet Labs is responsible for the technical implementation of the Internet.nl website.
 
 ---
 [Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. Questions and reactions regarding it can be sent to Internet Society Netherlands via voorzitter [at] isoc.nl.
