@@ -1,8 +1,8 @@
 After you enter a domain name of a website, we will test if the website offers support for the modern internet standards below.
 
-* IPv6: reachable on modern address?
-* DNSSEC: domain signed?
-* HTTPS: secure connection?
+* [IPv6](/faqs/ipv6/): reachable on modern address?
+* [DNSSEC](/faqs/dnssec/): domain signed?
+* [HTTPS](/faqs/https/): secure connection?
 
 ## Test report
 After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve your website. Usually contacting your web hoster on this will be the best next step.
