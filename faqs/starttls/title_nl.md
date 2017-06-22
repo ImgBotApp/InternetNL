@@ -1,1 +1,1 @@
-Beveiligd transport (STARTTLS en DANE)
+Beveiligd e-mailtransport (STARTTLS en DANE)
