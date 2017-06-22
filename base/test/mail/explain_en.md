@@ -1,9 +1,9 @@
 After you enter a domain name of an email service, we will test if the email service offers support for the modern internet standards below.
 
-* IPv6: reachable on modern address?
-* DNSSEC: domain signed?
-* DMARC, DKIM and SPF: protected against phishing?
-* STARTTLS and DANE: secure transport?
+* [IPv6](/faqs/ipv6/): reachable on modern address?
+* [DNSSEC](/faqs/dnssec/): domain signed?
+* [DMARC, DKIM and SPF](/faqs/mailauth/): protected against phishing?
+* [STARTTLS and DANE](/faqs/starttls): secure transport?
 
 Note: some standards are even relevant if there are no mail servers configured for your domain. 
 
