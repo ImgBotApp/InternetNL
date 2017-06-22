@@ -3,7 +3,7 @@ Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-m
 * [IPv6](/faqs/ipv6/): bereikbaar op modern adres?
 * [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?
 * [DMARC, DKIM en SPF](/faqs/mailauth/): beschermd tegen phishing?
-* [STARTTLS en DANE](/faqs/starttls/): beveiligd transport?
+* [STARTTLS en DANE](/faqs/starttls/): beveiligd transport mogelijk?
 
 Let op: sommige standaarden zijn zelfs relevant als voor je domeinnaam geen mailservers zijn ingesteld.
 
