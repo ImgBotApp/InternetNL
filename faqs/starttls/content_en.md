@@ -1,5 +1,5 @@
 ## Why
-* "The sad state of SMTP encryption"(https://blog.filippo.io/the-sad-state-of-smtp-encryption/)
+* ["The sad state of SMTP encryption"](https://blog.filippo.io/the-sad-state-of-smtp-encryption/)
 * ["New e-mail security protocols mandatory within government"](https://www.sidnlabs.nl/a/weblog/new-e-mail-security-protocols-mandatory-within-government?language_id=2)
 
 ## Adoption statistics
