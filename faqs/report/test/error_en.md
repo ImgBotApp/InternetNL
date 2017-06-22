@@ -1,1 +1,1 @@
-At least one subtest was not able to run ⇒ no results
+At least one subtest not executable ⇒ no results for test section
