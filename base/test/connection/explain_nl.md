@@ -7,7 +7,7 @@ Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou geb
 Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een nadere toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/).
 
 ## Hoe verbeteren
-Het testrapport kan je gebruiken om je internetverbinding te verbeteren. Normaalgesproken kan je hierover het beste je internetprovider aanspreken.
+Het testrapport kan je gebruiken om je internetverbinding te verbeteren. Meestal kan je hiervoor het beste je internetprovider aanspreken.
 
 ## Scope
 De verbindingstest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor internetverbindingen.
