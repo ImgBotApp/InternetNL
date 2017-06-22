@@ -1,1 +1,1 @@
-Geslaagd voor subtest ⇒ volledige score voor subtest
+Geslaagd voor subtest op een 'must have' ⇒ volledige score voor subtest
