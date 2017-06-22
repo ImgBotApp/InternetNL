@@ -8,3 +8,5 @@ After the test is finished, you are directed to a test report with an overall pe
 
 ## Scope
 The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections.
+
+---
