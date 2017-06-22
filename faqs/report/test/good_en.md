@@ -1,1 +1,1 @@
-All subtests passed ⇒ full score
+All subtests passed ⇒ full score for test section
