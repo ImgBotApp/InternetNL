@@ -1,3 +1,4 @@
 - Internet.nl contains three main tests consisting of test parts that consist of subtests.
 - Each main test is resulting in an overall percentage score.
 - Every test part of a main test weighs more or less evenly in the overall percentage score. So if a main test consists of four test parts, the maximum score for every test part is 25%.
+- Websites with a perfect score of 100% will be added to the [Hall of Fame](/halloffame/).
