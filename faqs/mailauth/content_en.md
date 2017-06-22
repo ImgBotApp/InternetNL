@@ -1,6 +1,6 @@
 ## Why
 * ["Why you should be doing DMARC"](https://governmenttechnology.blog.gov.uk/2016/10/04/why-you-should-be-doing-dmarc/) by GOV.uk
-* ["Why is DMARC important?"](https://dmarc.org/wiki/FAQ#Why_is_DMARC_important.3F)
+* ["Why is DMARC important?"](https://dmarc.org/wiki/FAQ#Why_is_DMARC_important.3F) by DMARC.org
 
 ## Adoption statitics
 * [".nl stats and data > Mail"](https://stats.sidnlabs.nl/#/mail)
