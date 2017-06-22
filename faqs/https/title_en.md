@@ -1,1 +1,1 @@
-Secure connection (HTTPS)
+Secure website connection (HTTPS)
