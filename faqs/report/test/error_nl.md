@@ -1,1 +1,1 @@
-At least one subtest was not able to run ⇒ no results
+Tenminste één subtest niet uitvoerbaar ⇒ geen resultaten voor testonderdeel
