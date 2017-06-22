@@ -12,5 +12,5 @@
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
 
 ## Specifications
-* [STARTTLS for SMTP (RFC 3207)](https://tools.ietf.org/html/rfc3207)
-* [DANE for SMTP (RFC 7672)](https://tools.ietf.org/html/rfc7672)
+* [STARTTLS for SMTP](https://tools.ietf.org/html/rfc3207) (RFC 3207)
+* [DANE for SMTP](https://tools.ietf.org/html/rfc7672) (RFC 7672)
