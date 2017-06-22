@@ -1,1 +1,1 @@
-Gezakt voor subtest op een 'should/could have' ⇒ geen score
+Gezakt voor subtest op een 'should/could have' ⇒ geen score voor subtest
