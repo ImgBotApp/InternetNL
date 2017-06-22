@@ -11,6 +11,6 @@
 * [DKIM Core](http://dkimcore.org/)
 
 ## Specifications
-* [Domain-based Message Authentication, Reporting, and Conformance (DMARC)](https://datatracker.ietf.org/doc/rfc7489/)
-* [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
-* [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://datatracker.ietf.org/doc/rfc7208/)
+* [RFC 7489: Domain-based Message Authentication, Reporting, and Conformance (DMARC)](https://datatracker.ietf.org/doc/rfc7489/)
+* [RFC 6376: DomainKeys Identified Mail (DKIM) Signatures](https://datatracker.ietf.org/doc/rfc6376)
+* [RFC 7208: Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://datatracker.ietf.org/doc/rfc7208/)
