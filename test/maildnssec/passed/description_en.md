@@ -1,1 +1,1 @@
-Congratulations! The domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are able to reliably query the IP address of any of your receiving mail server. 
+Congratulations! The domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). 
