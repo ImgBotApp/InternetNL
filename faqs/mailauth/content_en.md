@@ -4,7 +4,7 @@
 ## Adoption statitics
 * [".nl stats and data > Mail"](https://stats.sidnlabs.nl/#/mail)
 * ["DMARC Deployment"](https://eggert.org/meter/dmarc)
-* "Who Is Using DMARC?"(https://dmarc.org/who-is-using-dmarc/)
+* ["Who Is Using DMARC?"](https://dmarc.org/who-is-using-dmarc/)
 
 ## Further information
 * [DMARC.org](https://dmarc.org/)
