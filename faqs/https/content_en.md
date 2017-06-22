@@ -12,9 +12,12 @@
 * ["ICT security guidelines for web applications"](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html) by NCSC-NL (in Dutch)
 * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 * [Bettercrypto.org](https://bettercrypto.org)
+* [DNSSEC/TLSA Validator](https://www.dnssec-validator.cz/)
 * [Wikipedia on HTTPS](https://en.wikipedia.org/wiki/HTTPS)
+
 
 ## Specifications
 * [RFC 2818: HTTP Over TLS](https://datatracker.ietf.org/doc/rfc2818)
 * [RFC 5246: The Transport Layer Security (TLS) Protocol, Version 1.2](https://datatracker.ietf.org/doc/rfc5246)
 * [RFC 6797: HTTP Strict Transport Security (HSTS)](https://datatracker.ietf.org/doc/rfc6797)
+* [RFC 6698: The DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS) Protocol: TLSA](https://tools.ietf.org/html/rfc6698)
