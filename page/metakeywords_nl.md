@@ -1,4 +1,1 @@
-test, check, validatie, validator, conformance, IPv6, DNSSEC, TLS, DMARC, 
-DKIM, SPF, internetstandaarden, open standaarden, beveiliging, 
-e-mailauthenticatie, internet standards, open standards, security, e-mail 
-authentication, up-to-date
+IPv6, DNSSEC, HTTPS, HSTS, TLS, DMARC, DKIM, SPF, STARTTLS, DANE, test, testtool, testen, check, controle, internet, internetstandaarden, open standaarden, moderne standaarden, beveiliging, security, internetbeveiliging, e-mailbeveiliging, websitebeveiliging, beveiligde verbinding, e-mailauthenticatie, encryptie, versleuteling, ciphers, cipher suites, PKI, SSL certificaat, TLS certificaat
