@@ -8,7 +8,7 @@ Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvo
 Let op: sommige standaarden zijn zelfs relevant als je je domeinnaam niet gebruikt voor het ontvangen en verzenden van e-mail.
 
 ## Testrapport
-Nadat de test is afgerond, wordt een testrapport getoond. Dit bevat een procentuele totaalscore en resultaten per testonderdeel inclusief een uitgbreide toelichting. Zie ook ["Toelichting op score en iconen van testrapport"](/report/).
+Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toelichting getoond. Dit rapport bevat een procentuele totaalscore en resultaten per testonderdeel en per subtest. Voor meer informatie zie ["Toelichting op score en iconen van testrapport"](/faqs/report/). 
 
 ## Hoe verbeteren
 Het testrapport kan je gebruiken om je e-mailvoorziening te verbeteren. Meestal kan je hiervoor het beste je e-mailprovider aanspreken.
