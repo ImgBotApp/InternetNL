@@ -1,1 +1,1 @@
-Already fail in related (parent) subtest ⇒ no score
+Niet uitgevoerd, want al gezakt voor gerelateerde (parent) subtest ⇒ geen score voor subtest
