@@ -3,7 +3,7 @@ After you enter a domain name of an email service, we will test if the email ser
 * [IPv6](/faqs/ipv6/): reachable on modern address?
 * [DNSSEC](/faqs/dnssec/): domain signed?
 * [DMARC, DKIM and SPF](/faqs/mailauth/): protected against phishing?
-* [STARTTLS and DANE](/faqs/starttls): secure transport?
+* [STARTTLS and DANE](/faqs/starttls): secure transport possible?
 
 Note: some standards are even relevant if there are no mail servers configured for your domain. 
 
