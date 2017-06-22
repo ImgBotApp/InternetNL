@@ -20,6 +20,7 @@ Below follows a quotation from the last mentioned research publication:
 * [ISOC's Deploy360 on DNSSEC](http://www.internetsociety.org/deploy360/dnssec/)
 * [SIDN about DNSSEC](https://www.sidn.nl/a/internet-security/dnssec?language_id=2)
 * [DNSSEC.net](http://www.dnssec.net/)
+* [DNSSEC/TLSA Validator](https://www.dnssec-validator.cz/)
 * [Wikipedia on DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions)
 
 ## Specifications
