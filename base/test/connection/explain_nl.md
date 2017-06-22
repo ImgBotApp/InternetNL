@@ -8,3 +8,5 @@ Nadat de test is afgerond, wordt een testrapport getoond met een overall score i
 
 ## Scope
 De verbindingstest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor internetverbindingen.
+
+---
