@@ -1,1 +1,1 @@
-II. Circle icons per test part result
+Iconen per deeltestresultaat
