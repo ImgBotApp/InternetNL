@@ -12,6 +12,7 @@
 * [BSI TR-03108 Sicherer E-Mail-Transport](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03108/index_htm.html)from German Federal Office for Information Security
 * [NIST Special Publication 1800-6: “Domain Name Systems-Based Electronic Mail Security”](https://nccoe.nist.gov/projects/building-blocks/secured-email)
 * [Trusted Email Services (TES) initiative](https://tesmail.org/)
+* Wikipedia on [STARTTLS](https://en.wikipedia.org/wiki/Opportunistic_TLS) and on [DANE](https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities#Email_encryption)
 
 ## Specifications
 * STARTTLS for SMTP: [RFC 3207](https://tools.ietf.org/html/rfc3207)
