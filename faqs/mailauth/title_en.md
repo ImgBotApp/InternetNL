@@ -1,1 +1,1 @@
-Email phishing protection (DMARC, DKIM and SPF)
+Protection against email phishing (DMARC, DKIM and SPF)
