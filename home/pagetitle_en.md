@@ -1,1 +1,1 @@
-Test for modern internet standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE.
+Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE.
