@@ -1,4 +1,1 @@
-Congratulations; this incoming mail server supports STARTTLS in a correct 
-manner. This means that sending mail servers can establish a secure 
-connection with this mail server which prevents eavesdropping attacks by a 
-(passive) attacker.
+Good! Sending mail servers can establish a secure connection with your mail server(s). This prevents a passive attacker from being able to intercept and read e-mails addressed to you in transit. We advise to also publish DANE records to prevent active attackers from stripping the STARTTLS encryption and eavesdrop the mail trafic to your mailserver.
