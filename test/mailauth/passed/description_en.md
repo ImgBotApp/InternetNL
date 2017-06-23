@@ -1,1 +1,1 @@
-Good! Your domain contains alle authenticity marks against email phishing. Therefore receivers are able to reliably seperate your authentic e-mails from phishing and spam mails abusing your domain in the sender address.
+Good! Your domain contains all authenticity marks against email phishing. Therefore receivers are able to reliably seperate your authentic emails from phishing and spam emails abusing your domain in their sender address.
