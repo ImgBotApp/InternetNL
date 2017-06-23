@@ -190,10 +190,15 @@ msgstr "Nadat je de verbindingstest hebt gestart, testen we of de momenteel door
 "* [DNSSEC](/faqs/dnssec/): worden domeinnaam-handtekeningen voor jou gecontroleerd?\n"
 "\n"
 "## Testrapport\n"
-"Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om je internetverbinding te verbeteren. Normaalgesproken kan je hierover het beste je internetprovider aanspreken.\n"
+"Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toelichting getoond. Dit rapport bevat een procentuele totaalscore en resultaten per deeltest en per subtest. Voor meer informatie zie [\"Toelichting op score en iconen\"](/faqs/report/). \n"
+"\n"
+"## Hoe verbeteren\n"
+"Het testrapport kan je gebruiken om je internetverbinding te verbeteren. Meestal kan je hiervoor het beste je internetprovider aanspreken.\n"
 "\n"
 "## Scope\n"
-"De verbindingstest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor internetverbindingen."
+"De verbindingstest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor internetverbindingen.\n"
+"\n"
+"---"
 
 msgid "base test connection label"
 msgstr "Test je verbinding"
@@ -209,20 +214,25 @@ msgid "base test explain"
 msgstr "Over de test"
 
 msgid "base test mail explain"
-msgstr "Nadat je een domeinnaam van een e-maildienst hebt opgegeven, testen we of de e-maildienst ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
+msgstr "Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvoorziening ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
 "\n"
 "* [IPv6](/faqs/ipv6/): bereikbaar op modern adres?\n"
 "* [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?\n"
 "* [DMARC, DKIM en SPF](/faqs/mailauth/): beschermd tegen phishing?\n"
 "* [STARTTLS en DANE](/faqs/starttls/): beveiligd transport mogelijk?\n"
 "\n"
-"Let op: sommige standaarden zijn zelfs relevant als voor je domeinnaam geen mailservers zijn ingesteld.\n"
+"Let op: sommige standaarden zijn zelfs relevant als je je domeinnaam niet gebruikt voor het ontvangen en verzenden van e-mail.\n"
 "\n"
 "## Testrapport\n"
-"Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om de e-maildienst die jij gebruikt te verbeteren. Normaalgesproken kan je hierover het beste je e-mailhoster aanspreken.   \n"
+"Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toelichting getoond. Dit rapport bevat een procentuele totaalscore en resultaten per deeltest en per subtest. Voor meer informatie zie [\"Toelichting op score en iconen\"](/faqs/report/). \n"
+"\n"
+"## Hoe verbeteren\n"
+"Het testrapport kan je gebruiken om je e-mailvoorziening te verbeteren. Meestal kan je hiervoor het beste je e-mailprovider aanspreken.\n"
 "\n"
 "## Scope\n"
-"De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mail."
+"De e-mailtest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor e-mailvoorzieningen.\n"
+"\n"
+"---"
 
 msgid "base test mail input"
 msgstr "Jouw e-mailadres:"
@@ -250,12 +260,15 @@ msgstr "Nadat je een domeinnaam van een website heb opgegeven, testen we of de w
 "* [HTTPS](/faqs/https/): beveiligde verbinding?\n"
 "\n"
 "## Testrapport\n"
-"Nadat de test is afgerond, wordt een testrapport getoond met een overall score in procenten en met resultaten per testonderdeel inclusief een nadere toelichting. Dit testrapport kan je gebruiken om je website te verbeteren. Normaalgesproken kan je hierover het beste je webhoster aanspreken.\n"
+"Nadat de test is afgerond, wordt een testrapport inclusief een uitgebreide toelichting getoond. Dit rapport bevat een procentuele totaalscore en resultaten per deeltest en per subtest. Voor meer informatie zie [\"Toelichting op score en iconen\"](/faqs/report/). Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). \n"
 "\n"
-"Als je website een score van 100% heeft, dan wordt deze opgenomen in de [Hall of Fame](/halloffame/). \n"
+"## Hoe verbeteren\n"
+"Het testrapport kan je gebruiken om je website te verbeteren. Meestal kan je hiervoor het beste je webhoster aanspreken.\n"
 "\n"
 "## Scope\n"
-"De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites."
+"De websitetest controleert op belangrijke moderne internetstandaarden die bijdragen aan bereikbaarheid en beveiliging. Het is geen allesomvattende beveiligingstest voor websites.\n"
+"\n"
+"---"
 
 msgid "base test website input"
 msgstr "Jouw domeinnaam:"
@@ -1788,54 +1801,55 @@ msgid "faqs starttls title"
 msgstr "Beveiligd e-mailtransport (STARTTLS en DANE)"
 
 msgid "faqs report title"
-msgstr "Explanation of score and icons"
+msgstr "Toelichting op score en iconen"
 
 msgid "faqs report score title"
-msgstr "I. Main test resulting in overall percentage score"
+msgstr "Procentuele totaalscore per hoofdtest"
 
 #, md-format
 msgid "faqs report score content"
-msgstr "- Internet.nl has three main tests consisting of test parts that consist of subtests.\n"
-"- Each main test is resulting in a percentage test score.\n"
-"- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%."
+msgstr "- Internet.nl bevat drie hoofdtesten bestaande uit deeltesten die bestaan uit subtesten. De websitetest heeft bijvoorbeeld een deeltest over HTTPS die een subtest over HSTS bevat.\n"
+"- Iedere hoofdtest resulteert in een procentuele totaalscore.\n"
+"- Ieder testonderdeel van een hoofdtest weegt min of meer gelijk mee in de procentuele totaalscore. Dus als een hoofdtest bestaat uit vier deeltesten, dan is de maximale score per deeltest 25%.\n"
+"- Websites met een perfecte score van 100% worden opgenomen in de [Hall of Fame](/halloffame/)."
 
 msgid "faqs report test title"
-msgstr "II. Circle icons per test part result"
+msgstr "Iconen per deeltestresultaat"
 
 #, md-format
 msgid "faqs report test good"
-msgstr "All subtests passed ⇒ full score"
+msgstr "Geslaagd voor alle subtesten ⇒ volledige score voor testonderdeel "
 
 #, md-format
 msgid "faqs report test bad"
-msgstr "At least one subtest failed ⇒ not full score"
+msgstr "Gezakt voor tenminste één subtest ⇒ geen volledige score voor testonderdeel"
 
 #, md-format
 msgid "faqs report test error"
-msgstr "At least one subtest was not able to run ⇒ no results"
+msgstr "Uitvoeringsfout voor tenminste één subtest ⇒ geen resultaat voor testonderdeel"
 
 msgid "faqs report subtest title"
-msgstr "III. Shield icons per subtest result"
+msgstr "Iconen per subtestresultaat"
 
 #, md-format
 msgid "faqs report subtest good"
-msgstr "Subtest passed ⇒ positive score"
+msgstr "Geslaagd voor subtest op een 'must have' of 'should/could have' ⇒ respectievelijk volledige score of geen impact op score"
 
 #, md-format
 msgid "faqs report subtest bad"
-msgstr "Subtest failed ⇒ negative score"
+msgstr "Gezakt voor subtest op een 'must have' ⇒ nulscore"
 
 #, md-format
 msgid "faqs report subtest warning"
-msgstr "Subtest failed ⇒ no score"
+msgstr "Gezakt voor subtest op een 'should/could have' ⇒ geen impact op score"
 
 #, md-format
 msgid "faqs report subtest not-tested"
-msgstr "Already fail in related (parent) subtest ⇒ no score"
+msgstr "Niet getest, want al gezakt voor gerelateerde bovenliggende subtest ⇒ nulscore"
 
 #, md-format
 msgid "faqs report subtest partly-tested"
-msgstr "Some hosts passed subtest, but not all hosts could be tested ⇒ negative score"
+msgstr "Sommige servers geslaagd voor subtest, maar niet alle servers konden worden getest ⇒ nulscore"
 
 #, md-format
 msgid "halloffame teaser"
@@ -1844,7 +1858,7 @@ msgstr "# Hall of Fame - websitetest\n"
 "Ze scoren daarom 100% in de websitetest op Internet.nl."
 
 msgid "home pagetitle"
-msgstr "Test hier of je internet aan moderne standaarden voldoet."
+msgstr "Test voor moderne Internetstandaarden zoals IPv6, DNSSEC, HTTPS, DMARC, STARTTLS en DANE."
 
 #, md-format
 msgid "home teaser"
@@ -2624,13 +2638,10 @@ msgid "page gotomainmenu"
 msgstr "Ga naar het hoofd-menu"
 
 msgid "page metadescription"
-msgstr "Test voor moderne internetstandaarden (IPv6, DNSSEC, HTTPS, DMARC, DKIM, SPF, STARTTLS and DANE)"
+msgstr "Test voor moderne Internetstandaarden IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS and DANE."
 
 msgid "page metakeywords"
-msgstr "test, check, validatie, validator, conformance, IPv6, DNSSEC, TLS, DMARC, \n"
-"DKIM, SPF, internetstandaarden, open standaarden, beveiliging, \n"
-"e-mailauthenticatie, internet standards, open standards, security, e-mail \n"
-"authentication, up-to-date"
+msgstr "IPv6, DNSSEC, HTTPS, HSTS, TLS, DMARC, DKIM, SPF, STARTTLS, DANE, test, testtool, testen, check, controle, internet, internetstandaarden, open standaarden, moderne standaarden, beveiliging, security, internetbeveiliging, mail, e-mailbeveiliging, website, websitebeveiliging, internetverbinding, beveiligde verbinding, e-mailauthenticatie, encryptie, versleuteling, ciphers, cipher suites, PKI, SSL certificaat, TLS certificaat, websitecertificaat, Platform Internetstandaarden"
 
 msgid "page sitedescription"
 msgstr "Is jouw internet up-to-date?"
@@ -2668,7 +2679,7 @@ msgid "probes tests-duration"
 msgstr "Het testen duurt tussen de 5 en 120 seconden."
 
 msgid "results dated-presentation"
-msgstr "Dated result presentation. Please rerun the test."
+msgstr "Oude resultaatpresentatie. Doe de test opnieuw."
 
 msgid "results domain ipv6 web-server label"
 msgstr "Webserver"
@@ -3138,7 +3149,7 @@ msgid "test connipv6 label"
 msgstr "IPv6"
 
 msgid "test connipv6 passed description"
-msgstr "Gefeliciteerd! Je internetprovider heeft je een modern internetadres gegeven. Daardoor kan je andere computers met moderne adressen bereiken."
+msgstr "Goed! Je internetprovider heeft je een modern internetadres gegeven. Daardoor kan je andere computers met moderne adressen bereiken."
 
 msgid "test connipv6 passed summary"
 msgstr "Moderne adressen bereikbaar (IPv6)"
@@ -3156,7 +3167,7 @@ msgid "test connresolver label"
 msgstr "DNSSEC"
 
 msgid "test connresolver passed description"
-msgstr "Gefeliciteerd! Domein-handtekeningen worden voor jou gecontroleerd. Daardoor ben je beschermd tegen vervalste vertaling van ondertekende domeinnamen naar kwaadaardige IP-adressen."
+msgstr "Goed! Domein-handtekeningen worden voor jou gecontroleerd. Daardoor ben je beschermd tegen vervalste vertaling van ondertekende domeinnamen naar kwaadaardige IP-adressen."
 
 msgid "test connresolver passed summary"
 msgstr "Domein-handtekeningen gecontroleerd (DNSSEC)"
@@ -3168,27 +3179,16 @@ msgid "test error summary"
 msgstr "*Fout* tijdens uitvoering van test!"
 
 msgid "test mailauth failed description"
-msgstr "Helaas; dit e-mail-domein maakt <strong>geen</strong> gebruik van DKIM, SPF en\n"
-"DMARC of niet alles is correct ingesteld. Ontvangers kunnen nu\n"
-"<strong>niet</strong> alle echtheidskenmerken en bijbehorende aanwijzingen\n"
-"gebruiken om te controleren of een bericht vervalst is en hoe hiermee om te\n"
-"gaan. Zo wordt onvoldoende voorkomen dat kwaadwillenden dit mail-adres\n"
-"misbruiken voor phishing of het versturen van spam en virussen.\n"
-"\n"
-"Vraag je e-mail-provider om DMARC, DKIM en SPF op te zetten of de problemen in\n"
-"de configuratie op te lossen."
+msgstr "Helaas! Je domein bevat *niet* alle echtheidswaarmerken tegen e-mailphishing. Ontvangers kunnen daardoor *niet* betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails. Vraag je mailprovider om DMARC, DKIM en SPF te activeren."
 
 msgid "test mailauth failed summary"
-msgstr "*Geen* of onvoldoende echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
+msgstr "*Niet* alle echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
 
 msgid "test mailauth label"
 msgstr "DMARC, DKIM en SPF"
 
 msgid "test mailauth passed description"
-msgstr "Gefeliciteerd; dit e-mail-domein maakt gebruik van DKIM, SPF en DMARC.\n"
-"Ontvangers kunnen alle echtheidskenmerken en bijbehorende aanwijzingen\n"
-"gebruiken om te controleren of een bericht vervalst is en hoe hiermee om te\n"
-"gaan."
+msgstr "Goed! Je domein bevat alle echtheidswaarmerken tegen e-mailphishing. Ontvangers kunnen daardoor betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails."
 
 msgid "test mailauth passed summary"
 msgstr "Echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
@@ -3197,7 +3197,7 @@ msgid "test mailauth title"
 msgstr "Echtheidswaarmerken tegen e-mailphishing?"
 
 msgid "test maildnssec failed description"
-msgstr "Helaas! Niet alle domeinnamen van je e-mailadres en je e-mailserver(s) zijn ondertekend met een geldigde handtekening. Verzenders die domeinhandtekeningen controleren, kunnen nu niet betrouwbaar het IP-adres van je ontvangende e-mailserver(s) opvragen. Een aanvaller kan het IP-adres daardoor ongemerkt manipuleren en aan jou gestuurde e-mails omleiden naar een eigen e-mailserver. Vraag je nameserver-beheerder en/of je e-mailprovider om DNSSEC te activeren."
+msgstr "Helaas! De domeinen van je e-mailadres en mailserver(s) zijn *niet* (allemaal) ondertekend met een geldigde handtekening. Verzenders die domeinhandtekeningen controleren, kunnen nu niet betrouwbaar het IP-adres van je ontvangende e-mailserver(s) opvragen. Een aanvaller kan het IP-adres daardoor ongemerkt manipuleren en aan jou gestuurde e-mails omleiden naar een eigen mailserver. Vraag je nameserver-beheerder en/of je mailprovider om DNSSEC te activeren."
 
 msgid "test maildnssec failed summary"
 msgstr "*Niet* alle domeinnamen ondertekend (DNSSEC)"
@@ -3206,7 +3206,7 @@ msgid "test maildnssec label"
 msgstr "DNSSEC"
 
 msgid "test maildnssec passed description"
-msgstr "Gefeliciteerd! De domeinnamen van je e-mailadres en e-mailserver(s) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van je ontvangende e-mailserver(s) opvragen."
+msgstr "Goed! De je e-mailadresdomain en je mailserverdomein(en) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van je ontvangende mailserver(s) opvragen."
 
 msgid "test maildnssec passed summary"
 msgstr "Alle domeinnamen ondertekend (DNSSEC)"
@@ -3215,7 +3215,7 @@ msgid "test maildnssec title"
 msgstr "Domeinnamen ondertekend?"
 
 msgid "test mailipv6 failed description"
-msgstr "Helaas! Je e-mailserver is *niet* bereikbaar voor verzenders met moderne IPv6-adressen, of er is verbetering mogelijk. Daardoor maakt je e-mailserver nog geen onderdeel uit van het moderne internet. Vraag je e-mailprovider om IPv6 volledig aan te zetten."
+msgstr "Helaas! Je mailserver is *niet* bereikbaar voor verzenders met moderne IPv6-adressen, of er is verbetering mogelijk. Daardoor maakt je mailserver nog geen onderdeel uit van het moderne internet. Vraag je e-mailprovider om IPv6 volledig aan te zetten."
 
 msgid "test mailipv6 failed summary"
 msgstr "*Niet* bereikbaar via modern internetadres, of verbetering mogelijk (IPv6)"
@@ -3224,7 +3224,7 @@ msgid "test mailipv6 label"
 msgstr "IPv6"
 
 msgid "test mailipv6 passed description"
-msgstr "Gefeliciteerd! Je e-mailserver is bereikbaar voor verzenders met moderne IPv6-adressen. Daardoor is je e-mailserver volledig onderdeel van het moderne Internet."
+msgstr "Goed! Je mailserver is bereikbaar voor verzenders met moderne IPv6-adressen. Daardoor is je mailserver volledig onderdeel van het moderne Internet."
 
 msgid "test mailipv6 passed summary"
 msgstr "Bereikbaar via modern internetadres (IPv6)"
@@ -3245,10 +3245,7 @@ msgid "test mailtls label"
 msgstr "STARTTLS en DANE"
 
 msgid "test mailtls passed description"
-msgstr "Gefeliciteerd; deze inkomende mailserver ondersteunt STARTTLS op een goede \n"
-"manier. Daardoor kunnen verzendende mailservers met deze inkomende \n"
-"mailserver een beveiligde verbinding opzetten die ervoor zorgt dat \n"
-"(passieve) aanvallers e-mailberichten niet kunnen afluisteren."
+msgstr "Goed! Verzendende mailservers kunnen met jouw ontvangende mailserver(s) een beveiligde verbinding opzetten. Passieve aanvallers kunnen daardoor e-mails onderweg naar jou niet onderscheppen. We adviseren om DANE-records te publiceren om tegen te gaan dat actieve aanvallers de STARTTLS-encryptie strippen en het mailverkeer met jouw mailserver afluisteren."
 
 msgid "test mailtls passed summary"
 msgstr "Beveiligde verbinding mogelijk (STARTTLS)"
@@ -3266,7 +3263,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Gefeliciteerd! Je domeinnaam is ondertekend met een geldige handtekening. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
+msgstr "Goed! Je domeinnaam is ondertekend met een geldige handtekening. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen."
 
 msgid "test sitednssec passed summary"
 msgstr "Domeinnaam ondertekend (DNSSEC)"
@@ -3284,7 +3281,7 @@ msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Gefeliciteerd! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daardoor volledig onderdeel van het moderne internet."
+msgstr "Goed! Je website is bereikbaar voor bezoekers die een moderne internetadres gebruiken, en daardoor volledig onderdeel van het moderne internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Bereikbaar via moderne internetadres (IPv6)"
@@ -3302,7 +3299,7 @@ msgid "test sitetls label"
 msgstr "HTTPS"
 
 msgid "test sitetls passed description"
-msgstr "Gefeliciteerd! De verbinding met je website is voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor beschermd tegen afluisteren en manipulatie."
+msgstr "Goed! De verbinding met je website is voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor beschermd tegen afluisteren en manipulatie."
 
 msgid "test sitetls passed summary"
 msgstr "Verbinding voldoende beveiligd (HTTPS)"

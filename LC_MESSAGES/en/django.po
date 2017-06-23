@@ -144,10 +144,15 @@ msgstr "After you start the connection test, we will check if your currently use
 "* [DNSSEC](/faqs/dnssec/): are domain signatures validated for you?\n"
 "\n"
 "## Test report\n"
-"After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.\n"
+"After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see [\"Explanation of score and icons\"](/faqs/report/). \n"
+"\n"
+"## How to improve\n"
+"You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.\n"
 "\n"
 "## Scope\n"
-"The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections."
+"The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections.\n"
+"\n"
+"---"
 
 msgid "base test connection label"
 msgstr "Test your connection"
@@ -173,10 +178,15 @@ msgstr "After you enter a domain name of an email service, we will test if the e
 "Note: some standards are even relevant if there are no mail servers configured for your domain. \n"
 "\n"
 "## Test report\n"
-"After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve the mail service that you use. Usually contacting your mail hoster on this will be the best next step.   \n"
+"After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see [\"Explanation of score and icons\"](/faqs/report/). \n"
+"\n"
+"## How to improve\n"
+"You can use this test report to improve the mail service that you use. Usually contacting your mail hoster on this will be the best next step.   \n"
 "\n"
 "## Scope\n"
-"The e-mail test checks for important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for e-mail."
+"The e-mail test checks for important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for e-mail.\n"
+"\n"
+"---"
 
 msgid "base test mail input"
 msgstr "Your email address:"
@@ -204,12 +214,15 @@ msgstr "After you enter a domain name of a website, we will test if the website 
 "* [HTTPS](/faqs/https/): secure connection?\n"
 "\n"
 "## Test report\n"
-"After the test is finished, you are directed to a test report with an overall percentage score and with the results per subtest including detailed explanations. You can use this test report to improve your website. Usually contacting your web hoster on this will be the best next step.\n"
+"After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see [\"Explanation of score and icons\"](/faqs/report/). If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). \n"
 "\n"
-"If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). \n"
+"## How to improve\n"
+"You can use this test report to improve your website. Usually contacting your web hosting provider on this will be the best next step.\n"
 "\n"
 "## Scope\n"
-"The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites."
+"The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites.\n"
+"\n"
+"---"
 
 msgid "base test website input"
 msgstr "Your domain name:"
@@ -1611,51 +1624,52 @@ msgid "faqs report title"
 msgstr "Explanation of score and icons"
 
 msgid "faqs report score title"
-msgstr "I. Main test resulting in overall percentage score"
+msgstr "Overall percentage score per main test"
 
 #, md-format
 msgid "faqs report score content"
-msgstr "- Internet.nl has three main tests consisting of test parts that consist of subtests.\n"
-"- Each main test is resulting in a percentage test score.\n"
-"- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%."
+msgstr "- Internet.nl contains three main tests consisting of test sections that consist of subtests. For example, one of the main tests is the website test which contains a test section on HTTPS that has a subtest on HSTS.\n"
+"- Each main test is resulting in an overall percentage score.\n"
+"- Every test section of a main test weighs more or less evenly in the overall percentage score. So if a main test consists of four test parts, the maximum score for every test part is 25%.\n"
+"- Websites with a perfect score of 100% will be added to the [Hall of Fame](/halloffame/)."
 
 msgid "faqs report test title"
-msgstr "II. Circle icons per test part result"
+msgstr "Icons per test section result"
 
 #, md-format
 msgid "faqs report test good"
-msgstr "All subtests passed ⇒ full score"
+msgstr "Passed all subtests ⇒ full score in test section"
 
 #, md-format
 msgid "faqs report test bad"
-msgstr "At least one subtest failed ⇒ not full score"
+msgstr "Failed at least one subtest ⇒ no full score in test section"
 
 #, md-format
 msgid "faqs report test error"
-msgstr "At least one subtest was not able to run ⇒ no results"
+msgstr "Execution error for at least one subtest ⇒ no result in test section"
 
 msgid "faqs report subtest title"
-msgstr "III. Shield icons per subtest result"
+msgstr "Icons per subtest result"
 
 #, md-format
 msgid "faqs report subtest good"
-msgstr "Subtest passed ⇒ positive score"
+msgstr "Passed the subtest on a 'must have' or 'should/could have' ⇒ respectively full score or no score impact"
 
 #, md-format
 msgid "faqs report subtest bad"
-msgstr "Subtest failed ⇒ negative score"
+msgstr "Failed the subtest on a 'must have' ⇒ null score"
 
 #, md-format
 msgid "faqs report subtest warning"
-msgstr "Subtest failed ⇒ no score"
+msgstr "Failed the subtest on a 'should/could have' ⇒ no score impact"
 
 #, md-format
 msgid "faqs report subtest not-tested"
-msgstr "Already fail in related (parent) subtest ⇒ no score"
+msgstr "Not tested, because already failed related parent subtest ⇒ null score"
 
 #, md-format
 msgid "faqs report subtest partly-tested"
-msgstr "Some hosts passed subtest, but not all hosts could be tested ⇒ negative score"
+msgstr "Some servers passed subtest, but not all servers could be tested ⇒ null score"
 
 #, md-format
 msgid "halloffame teaser"
@@ -1664,7 +1678,7 @@ msgstr "# Hall of Fame - website test\n"
 "They therefore score 100% in the website test on Internet.nl."
 
 msgid "home pagetitle"
-msgstr "Test whether your internet meets modern standards."
+msgstr "Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE."
 
 #, md-format
 msgid "home teaser"
@@ -1943,16 +1957,13 @@ msgid "page gotomainmenu"
 msgstr "Go to the main menu"
 
 msgid "page metadescription"
-msgstr "Test for modern internet standards (IPv6, DNSSEC, HTTPS, DMARC, DKIM, SPF, STARTTLS and DANE)"
+msgstr "Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, TLS, HSTS, DMARC, DKIM, SPF, STARTTLS and DANE."
 
 msgid "page metakeywords"
-msgstr "test, check, validatie, validator, conformance, IPv6, DNSSEC, TLS, DMARC, \n"
-"DKIM, SPF, internetstandaarden, open standaarden, beveiliging, \n"
-"e-mailauthenticatie, internet standards, open standards, security, e-mail \n"
-"authentication, up-to-date"
+msgstr "IPv6, DNSSEC, HTTPS, HSTS, TLS, DMARC, DKIM, SPF, STARTTLS, DANE, test, test tool, check, validation, Internet, Internet Standards, open standards, modern standards, security, internet security, mail, email security, website, website security, internet connection, secure connection, email authentication, encryption, ciphers, cipher suites, PKI, SSL certificate, TLS certificate, website certificaat, Internet Standards Platform"
 
 msgid "page sitedescription"
-msgstr "Is your internet up-to-date?"
+msgstr "Is your Internet up-to-date?"
 
 msgid "page sitetitle"
 msgstr "Internet.nl"
@@ -2448,7 +2459,7 @@ msgid "test connipv6 label"
 msgstr "IPv6"
 
 msgid "test connipv6 passed description"
-msgstr "Congratulations! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses."
+msgstr "Good! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses."
 
 msgid "test connipv6 passed summary"
 msgstr "Modern addresses reachable (IPv6)"
@@ -2466,7 +2477,7 @@ msgid "test connresolver label"
 msgstr "DNSSEC"
 
 msgid "test connresolver passed description"
-msgstr "Congratulations! Domain signatures are validated for you. Therefore you are protected against false translation from signed domain names into rogue IP addresses."
+msgstr "Good! Domain signatures are validated for you. Therefore you are protected against false translation from signed domain names into rogue IP addresses."
 
 msgid "test connresolver passed summary"
 msgstr "Domain signatures validated (DNSSEC)"
@@ -2478,26 +2489,16 @@ msgid "test error summary"
 msgstr "*Error* during test execution!"
 
 msgid "test mailauth failed description"
-msgstr "Unfortunately, this e-mail domain does <strong>not</strong> use DKIM, SPF, and\n"
-"DMARC, or there is an error in its configuration. Receivers can currently\n"
-"<strong>not</strong> use all authentication features and policies to check\n"
-"whether a mail message is spoofed and how to handle it. Attackers are\n"
-"insufficiently prevented from abusing this mail address for phishing, or to\n"
-"send spam or viruses.\n"
-"\n"
-"You should ask your e-mail provider to set up DMARC, DKIM and SPF, or to fix\n"
-"the issues in their configurations."
+msgstr "Too bad! Your domain does *not* contain all authenticity marks against email phishing. Therefore receivers are *not* able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. You should ask your mail provider to activate DMARC, DKIM and SPF."
 
 msgid "test mailauth failed summary"
-msgstr "*No* or insufficient authenticity marks against email phishing (DMARC, DKIM and SPF)"
+msgstr "*Not* all authenticity marks against email phishing (DMARC, DKIM and SPF)"
 
 msgid "test mailauth label"
 msgstr "DMARC, DKIM and SPF"
 
 msgid "test mailauth passed description"
-msgstr "Congratulations; this e-mail domain uses DKIM, SPF and DMARC. Receivers can\n"
-"use all authentication features and policies to check whether a mail message\n"
-"is spoofed and how to handle it."
+msgstr "Good! Your domain contains all authenticity marks against email phishing. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. "
 
 msgid "test mailauth passed summary"
 msgstr "Authenticity marks against email phishing (DMARC, DKIM and SPF)"
@@ -2506,7 +2507,7 @@ msgid "test mailauth title"
 msgstr "Authenticity marks against email phising?"
 
 msgid "test maildnssec failed description"
-msgstr "Too bad! *Not* all of the domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are *not* able to reliably query the IP address of any of your receiving mail server. An attacker could secretely manipulate the IP address and divert e-mails addressed to you to his/her own mail server. You should ask your name server operator and/or your mail provider to enable DNSSEC."
+msgstr "Too bad! Some or all of your email address and mail server domains are not signed with a valid signature. Therefore senders with enabled domain signature validation, are not able to reliably query the IP address of your receiving mail server(s). An attacker could secretely manipulate the IP address and divert e-mails addressed to you to his/her own mail server. You should ask your name server operator and/or your mail provider to enable DNSSEC."
 
 msgid "test maildnssec failed summary"
 msgstr "*Not* all domain names signed (DNSSEC)"
@@ -2515,7 +2516,7 @@ msgid "test maildnssec label"
 msgstr "DNSSEC"
 
 msgid "test maildnssec passed description"
-msgstr "Congratulations! The domains of your mail address and mail server(s) are signed with a valid signature. Therefore visitors with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). "
+msgstr "Good! Your email address domain and your mail server domain(s) are signed with a valid signature. Therefore senders with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). "
 
 msgid "test maildnssec passed summary"
 msgstr "All domain names signed (DNSSEC)"
@@ -2524,7 +2525,7 @@ msgid "test maildnssec title"
 msgstr "Domain names signed?"
 
 msgid "test mailipv6 failed description"
-msgstr "Too bad! Your e-mail server can not be reached by senders using modern IPv6 addresses, or improvement is possible. Therefore your e-mail server is not part of the modern Internet yet. You should ask your e-mail provider to fully enable IPv6."
+msgstr "Too bad! Your mail server can not be reached by senders using modern IPv6 addresses, or improvement is possible. Therefore your mail server is not part of the modern Internet yet. You should ask your email provider to fully enable IPv6."
 
 msgid "test mailipv6 failed summary"
 msgstr "*Not* reachable via modern internet address, or improvement possible (IPv6)"
@@ -2533,7 +2534,7 @@ msgid "test mailipv6 label"
 msgstr "IPv6"
 
 msgid "test mailipv6 passed description"
-msgstr "Congratulations! Your e-mail server can be reached by senders using modern IPv6 addresses, making it fully part of the modern Internet."
+msgstr "Good! Your mail server can be reached by senders using modern IPv6 addresses, making it fully part of the modern Internet."
 
 msgid "test mailipv6 passed summary"
 msgstr "Reachable via modern internet address (IPv6)"
@@ -2556,10 +2557,7 @@ msgid "test mailtls label"
 msgstr "STARTTLS and DANE"
 
 msgid "test mailtls passed description"
-msgstr "Congratulations; this incoming mail server supports STARTTLS in a correct \n"
-"manner. This means that sending mail servers can establish a secure \n"
-"connection with this mail server which prevents eavesdropping attacks by a \n"
-"(passive) attacker."
+msgstr "Good! Sending mail servers can establish a secure connection with your mail server(s). This prevents a passive attacker from being able to intercept and read e-mails addressed to you in transit. We advise to also publish DANE records to prevent active attackers from stripping the STARTTLS encryption and eavesdrop the mail trafic to your mailserver."
 
 msgid "test mailtls passed summary"
 msgstr "Secure connection possible (STARTTLS)"
@@ -2577,7 +2575,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Congratulations! Your domain is signed with a valid signature. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
+msgstr "Good! Your domain is signed with a valid signature. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
 
 msgid "test sitednssec passed summary"
 msgstr "Domain name signed (DNSSEC)"
@@ -2595,7 +2593,7 @@ msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Congratulations! Your website is reachable for visitors using a modern internet addresses, making it fully part of the modern Internet."
+msgstr "Good! Your website is reachable for visitors using a modern internet addresses, making it fully part of the modern Internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Reachable via modern internet addresses (IPv6)"
@@ -2613,7 +2611,7 @@ msgid "test sitetls label"
 msgstr "HTTPS"
 
 msgid "test sitetls passed description"
-msgstr "Congratulations! The connection with your website is sufficiently secured. Therefore information in transit between your website and its visitors is protected against eavesdropping and tampering."
+msgstr "Good! The connection with your website is sufficiently secured. Therefore information in transit between your website and its visitors is protected against eavesdropping and tampering."
 
 msgid "test sitetls passed summary"
 msgstr "Connection sufficiently secured (HTTPS)"
