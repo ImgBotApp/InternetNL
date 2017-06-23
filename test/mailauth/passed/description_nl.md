@@ -1,4 +1,1 @@
-Gefeliciteerd; dit e-mail-domein maakt gebruik van DKIM, SPF en DMARC.
-Ontvangers kunnen alle echtheidskenmerken en bijbehorende aanwijzingen
-gebruiken om te controleren of een bericht vervalst is en hoe hiermee om te
-gaan.
+Goed! Je domein bevat alle echtheidswaarmerken tegen e-mailphishing. Ontvangers kunnen daardoor betrouwbaar jouw echte e-mails scheiden van onechte phishingmails die misbruik maken van jouw domeinnaam.
