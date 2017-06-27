@@ -36,5 +36,6 @@ Dit kan worden vastgesteld door het uitvoeren van de e-mailtest op Internet.nl.
 Vraag je e-mailprovider om inkomende e-mail te controleren op het gebruik van deze standaarden, en om dit te gebruiken in de classificatie voor SPAM.
 
 ## Meer informatie
+* [Factsheet Bescherm domeinnamen tegen phishing](https://www.ncsc.nl/actueel/factsheets/factsheet-bescherm-domeinnamen-tegen-phishing.html)
 * [E-mail security DKIM (Scott Helme)](https://scotthelme.co.uk/email-security-dkim/)
 * [E-mail security SPF (Scott Helme)](https://scotthelme.co.uk/email-security-spf/)
