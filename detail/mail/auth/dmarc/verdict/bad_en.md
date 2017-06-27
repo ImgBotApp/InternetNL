@@ -1,1 +1,1 @@
-Your domain has a DMARC record.
+Your domain does *not* have a DMARC record.
