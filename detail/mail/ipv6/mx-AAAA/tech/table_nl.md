@@ -1,1 +1,1 @@
-Mail server|IPv6|IPv4
+Mailserver|IPv6-adres|IPv4-adres
