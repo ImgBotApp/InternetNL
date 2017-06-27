@@ -1,1 +1,1 @@
-We check for a DMARC policy.
+We check if a DMARC record is avalable for your domain. Currently we do not evaluate the DMARC policy. Even without an effective policy DMARC can be useful to get more insight in your legitimate and illegitimate mail flows. However in order for DMARC to be effective against abuse of your domain for phishing and spam, you should set a quarantaine or reject policy. We strongly recommend to set a reject policy for (sub-)domains that you do not use for sending mail to prevent abuse by others.
