@@ -1,1 +1,1 @@
-We testen of de nameservers van je mailserverdomein(en) (MX) een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in deze subtest maar wel in de volgende subtest.
+We testen of de nameservers van je mailserverdomeinen (MX) een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in deze subtest maar wel in de volgende subtest.
