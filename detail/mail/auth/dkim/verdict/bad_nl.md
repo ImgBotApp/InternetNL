@@ -1,1 +1,1 @@
-Je domein heeft *geen* DKIM-record.
+Je domeinnaam heeft *geen* DKIM-record.
