@@ -1,1 +1,1 @@
-The name servers of your domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let your name server operator (often your hosting provider and/or registrar) fix this as soon as possible.
+The name servers of your domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let your name server operator (often your hosting provider and/or registrar) fix this soon.
