@@ -12,11 +12,17 @@ In het TLSA record wordt sleutelinformatie gepubliceerd waardoor het mogelijk is
 
 ### STARTTLS en DANE voor versleuteld e-mailtransport
 Met behulp van DANE kan een versleutelde TLS verbinding tussen mailserver vanaf het eerste moment worden afgedwongen, zonder dat er eerst een onversleutelde verbinding hoeft te worden opgezet. Wanneer een verzendende mailserver voorafgaand aan het opzetten van de verbinding controleert of er een TLSA-record voor SMTP doeleinden is opgenomen in de DNS zone van het ontvangende e-maildomein, dan geeft de aanwezigheid op zichzelf al aan dat de ontvangende mailserver een versleutelde verbinding ondersteund. De verzendende mailserver kan op basis van deze informatie besluiten om vanaf het eerste begin een versleutelde verbinding op te zetten.
+
 ## II. Voor e-mailbeheerders
+### Hoe kan ik STARTTLS veilig instellen?
+Net zoals bij HTTPS kan er bij STARTTLS gebruik worden gemaakt van verschillende versies van het TLS- of SSL-protocol en verschillende versleutelingsstandaarden (ciphers). Aangezien niet alle versies en combinaties als voldoende veilig worden beschouwd, is het belangrijk om hierin de juiste keuze te maken en ook regelmatig te controleren of de gebruikte instellingen nog veilig zijn. Een foutieve toepassing van STARTTLS kan immers net zo onveilig zijn als het gebruik van e-mailtransport zonder versleuteling.
 
 ## III. Voor e-mailgebruikers
 
-## Aandachtspunten
+### Hoe weet ik of mijn e-mailserver STARTTLS en DANE doet?
+Doe hiervoor de e-mailtest op Internet.nl
+
+### Versleutelen STARTTLS en DANE ook de inhoud van een e-mailbericht?
 STARTTLS en DANE versleutelen e-mailberichten tijdens het transport, maar versleutelen niet de daadwerkelijke inhoud van een bericht. Hiervoor zijn andere standaarden beschikbaar zoals PGP en/of S/MIME.
 
 ## Meer informatie
