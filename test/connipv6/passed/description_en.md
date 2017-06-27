@@ -1,1 +1,1 @@
-Good! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses.
+Well done! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses.
