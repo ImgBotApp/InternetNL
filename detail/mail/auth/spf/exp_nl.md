@@ -1,1 +1,1 @@
-We testen of je domeinnaam een SPF-record heeft. Een ontvangende mailserver kan de 'whitelisted' IP-adressen van je verzendende mailservers en de bijbehorende policy uit het SPF-record gebruiken om de authenticiteit van een e-mail vanaf jouw domein te bepalen.
+We testen of je domeinnaam een SPF-record heeft. Een ontvangende mailserver kan de 'whitelisted' IP-adressen van je verzendende mailservers en de bijbehorende policy uit het SPF-record gebruiken om de authenticiteit van een e-mail met jouw domein als verzender.
