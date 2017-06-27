@@ -1,1 +1,1 @@
-Some mail servers (MX) do not have an IPv6 address.
+Sommige mailservers (MX) op jouw domeinnaam hebben geen IPv6-adres.
