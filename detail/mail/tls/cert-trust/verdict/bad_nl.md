@@ -1,1 +1,1 @@
-The certificate chain is not signed by a trusted root CA.
+De vertrouwensketen van je mailservercertificaat is *niet* compleet en/of *niet* ondertekend door een vertrouwde certificaatautoriteit.
