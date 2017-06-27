@@ -1,1 +1,1 @@
-Some mail servers (MX) having an IPv6 address can not be reached over IPv6.
+Sommige van je mail servers (MX) die een IPv6-adres hebben, zijn niet bereikbaar via IPv6.
