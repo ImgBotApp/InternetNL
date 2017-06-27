@@ -1,1 +1,1 @@
-Mail server|Unreachable IPv6
+Mail server (MX)|Onbereikbaar IPv6-adres
