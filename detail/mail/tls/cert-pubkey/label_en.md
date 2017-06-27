@@ -1,1 +1,2 @@
-Certificates' public keys
+Public key of certificate
+
