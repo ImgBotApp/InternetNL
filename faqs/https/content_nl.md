@@ -1,7 +1,7 @@
 ## I. Algemeen
 
 ### Wat doet HTTPS?
-Als een bezoeker een onbeveiligde HTTP-verbinding heeft met een website, dan kan een kwaadwillende eenvoudig gegevens onderweg afluisteren of aanpassen, of zelf het contact volledig overnemen. Bij HTTPS is TLS (opvolger van SSL) toegevoegd aan HTTP om de verbinding te beveiligen. HTTPS werkt tussen de webclient (vaak een browser) van de bezoeker en de webserver van de aanbieder van de website of webservice.
+Als een bezoeker een onbeveiligde HTTP-verbinding heeft met een website, dan kan een kwaadwillende eenvoudig gegevens onderweg afluisteren of aanpassen, of zelfs het contact volledig overnemen. Bij HTTPS is TLS (opvolger van SSL) toegevoegd aan HTTP om de verbinding te beveiligen. HTTPS werkt tussen de webclient (vaak een browser) van de bezoeker en de webserver van de aanbieder van de website of webservice.
 
 Mits veilig geconfigureerd, zorgt HTTPS voor de volgende drie beveiligingsaspecten.
 * **Vertrouwelijkheid**: De verbinding tussen de bezoeker en de website is versleuteld waardoor het onmogelijk is voor kwaadwillenden om de webcontent, URL's, cookies en andere gevoelige (meta)data onderweg af te luisteren.
@@ -19,7 +19,7 @@ Op voorhand is vaak niet te voorspellen hoe informatie wordt gebruikt en welke w
 Voor het tot stand brengen van een beveiligde verbinding maakt de webclient gebruik van een certificaat dat wordt aangeboden door de webserver, en is uitgegeven door een vertrouwde certificaatinstantie. Dit certificaat bevat een zogenaamde publieke sleutel en wordt samen met de bijhorende privésleutel op de webserver, gebruikt voor het veilig uitwisselen van een sessiesleutel. Deze sessiesleutel wordt vervolgens gebruikt voor de daadwerkelijke versleuteling van de verbinding tussen de webclient en de webserver.
 
 ### Waarom is het belangrijk om HTTPS veilig in te stellen?
-Onder de oppervlakte kan voor het toepassen van een versleutelde HTTPS verbinding, gebruik worden gemaakt van verschillende versies van het TLS- of SSL-protocol en verschillende versleutelingsstandaarden. Aangezien niet alle versies en combinaties als voldoende veilig worden beschouwd, is het belangrijk om hierin de juiste keuze te maken en ook regelmatig te controleren of de gebruikte instellingen nog veilig zijn. Een foutieve toepassing van HTTPS kan immers net zo onveilig zijn als het gebruik van HTTP zonder TLS.
+Onder de oppervlakte kan voor het toepassen van een versleutelde HTTPS verbinding, gebruik worden gemaakt van verschillende versies van het TLS- of SSL-protocol en verschillende onderliggende versleutelingsstandaarden (ciphers). Aangezien niet alle versies en combinaties als voldoende veilig worden beschouwd, is het belangrijk om hierin de juiste keuze te maken en ook regelmatig te controleren of de gebruikte instellingen nog veilig zijn. Een foutieve toepassing van HTTPS kan immers net zo onveilig zijn als het gebruik van HTTP zonder TLS.
 
 ## II. Voor eigenaren/beheerder van websites
 
@@ -34,8 +34,8 @@ Voor het toepassen van HTTPS in de praktijk, kunnen (afhankelijk van de context)
 2. Schaf een certificaat aan bij een certificaat autoriteit en installeer dit certificaat op het onderliggende systeem. Houd hierbij rekening met:
 a. Het type certificaat. Extended Validation (EV) certificaten bieden de meeste zekerheid over de identiteit van de eigenaar van het domein, maar zijn wel duurder dan andere certificaten die minder zekerheid bieden: Organisation Validation (OV) en Domain Validation (DV) certificaten.
 b. Eventueel te specificeren Subject Alternate Names.
-c. Gebruik minimaal het SHA-256 hash algoritme voor de vingerafdruk van het certificaat. Oudere hash algoritmes (MD5 en SHA-1) bevatten kwetsbaarheden waar vingerafdrukken op basis van deze algoritmes niet betrouwbaar zijn.
-d. Veilig beheer van certificaten om kans op incidenten te verkleinen (bijvoorbeeld gestolen of vervalste certificaten), en de schade te beperken in het geval van een incident.
+c. Gebruik minimaal het SHA-256 hash algoritme voor de vingerafdruk van het certificaat. Oudere hash algoritmes (MD5 en SHA-1) bevatten kwetsbaarheden waardoor vingerafdrukken op basis van deze algoritmes niet betrouwbaar zijn.
+d. Veilig beheer van certificaten om de kans op incidenten te verkleinen (bijvoorbeeld gestolen of vervalste certificaten), en de schade te beperken in het geval van een incident.
 3. Gebruik een recente versie van de software die TLS implementeert, bijv. OpenSSL of LibreSSL.
 4. Configureer veilige TLS instellingen waaronder
 a. een recente versie van het TLS protocol (bijvoorbeeld TLS 1.2)
@@ -61,8 +61,8 @@ Het gebruik van HTTPS is doorgaans te herkennen aan het slotje in de browser. Vo
 * Aanvullende standaarden die afhankelijk zijn van caching bij de webclient (HSTS, HPKP) verliezen hun werking wanneer de webbrowser is ingesteld in de privémodus, of wanneer de browser geschiedenis wordt gewist. Dit geldt ook voor organisaties die medewerkers iedere dag van een “schone” installatie van hun werkplek voorzien.
 
 ## Meer informatie
-* ICT-beveiligingsrichtlijnen voor Webapplicaties (NCSC)
-* ICT-beveiligingsrichtlijnen voor TLS (NCSC)
-* Factsheet Veilig beheer van digitale certificaten (NCSC)
-* https://www.ibdgemeenten.nl/3619-2/
-* https://scotthelme.co.uk/still-think-you-dont-need-https/
+* [ICT-beveiligingsrichtlijnen voor Webapplicaties (NCSC)](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html)
+* [ICT-beveiligingsrichtlijnen voor TLS (NCSC)](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html)
+* [Factsheet Veilig beheer van digitale certificaten (NCSC)](https://www.ncsc.nl/actueel/factsheets/factsheet-veilig-beheer-van-digitale-certificaten.html)
+* [Factsheet TLS (IBD Gemeenten)](https://www.ibdgemeenten.nl/3619-2/)
+* [Still think you don't need HTTPS? (Scott Helme)](https://scotthelme.co.uk/still-think-you-dont-need-https/)
