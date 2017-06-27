@@ -1,1 +1,1 @@
-Domain|Status
+Mail server domain|Status
