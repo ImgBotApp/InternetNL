@@ -1,2 +1,1 @@
-This domain is "bogus", a very serious error in its configuration.
-Please contact your DNS operator as soon as possible.
+One or more of your mail server domains are 'bogus', because their DNSSEC signatures are not valid. Either someone manipulated the responses from their name servers, or your mail server domains have serious DNSSEC configuration errors. The latter makes your receiving mail server unreachable for any sending mail server that validates DNSSEC signatures. You should contact the name server operator (often your mail provider) as soon as possible.
