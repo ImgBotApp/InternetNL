@@ -1,1 +1,1 @@
-Ieder van je mailserverdomeinen is ondertekend met DNSSEC.
+Ieder van je mailserverdomeinen (MX) is ondertekend met DNSSEC.
