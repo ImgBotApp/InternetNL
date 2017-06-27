@@ -1,1 +1,1 @@
-We check for a DKIM record.
+We testen of je domeinnaam een DKIM-record heeft. We testen of 
