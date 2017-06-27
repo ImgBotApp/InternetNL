@@ -1,1 +1,1 @@
-We testen of de nameservers van je mailserverdomein(en) een AAAA-record met IPv6-adres voor iedere ontvangende mailserver (MX) teruggeven. In het geval er geen mailserver (MX) is gedefineerd, geven we een notificatie en voeren de andere relevante subtesten gewoon uit.
+We testen of de nameservers van je mailserverdomein(en) een AAAA-record met IPv6-adres voor iedere ontvangende mailserver (MX) teruggeven. In het geval er geen mailserver (MX) is gedefineerd, geven we een notificatie en we voeren de andere relevante subtesten van de mailtest  gewoon uit.
