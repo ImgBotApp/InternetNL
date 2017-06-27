@@ -1,1 +1,1 @@
-Certificates' public keys
+Publieke sleutel van certificaat
