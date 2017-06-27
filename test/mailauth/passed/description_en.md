@@ -1,1 +1,1 @@
-Well done! Your domain contains all authenticity marks against email forgery. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. 
+Well done! Your domain contains all authenticity marks against email forgery. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address, from your authentic emails. 
