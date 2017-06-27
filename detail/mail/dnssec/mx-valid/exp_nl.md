@@ -1,1 +1,1 @@
-We testen of je mailserverdomein (MX) is ondertekend met een geldige DNSSEC-handtekening.
+We testen of je mailserverdomeinen (MX) zijn ondertekend met een geldige DNSSEC-handtekening die ze veilig oftewel 'secure' maakt.
