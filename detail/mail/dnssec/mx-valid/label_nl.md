@@ -1,1 +1,1 @@
-DNSSEC geldig
+DNSSEC geldigheid
