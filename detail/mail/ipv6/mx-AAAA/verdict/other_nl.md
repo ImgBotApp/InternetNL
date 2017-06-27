@@ -1,1 +1,1 @@
-No mail exchanges (MX) set.
+Geen mail servers (MX) gedefineerd.
