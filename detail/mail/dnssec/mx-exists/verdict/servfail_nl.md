@@ -1,1 +1,1 @@
-We were missing the text here for servfail. Their DNS is completely broken.
+De nameservers van je mailserverdomein zijn *kapot*. Ze gaven een foutmelding (`SERVFAIL`) terug op onze bevragingen voor een DNSSEC-handtekening. Vraag de nameserver-beheerder (vaak je mailprovider) om dit spoedig op te lossen.
