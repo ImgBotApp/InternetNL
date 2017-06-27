@@ -26,4 +26,4 @@ Doe hiervoor de e-mailtest op Internet.nl
 STARTTLS en DANE versleutelen e-mailberichten tijdens het transport, maar versleutelen niet de daadwerkelijke inhoud van een bericht. Hiervoor zijn andere standaarden beschikbaar zoals PGP en/of S/MIME.
 
 ## Meer informatie
-* [Factsheet Beveilig verbindingen van mailservers](https://www.ncsc.nl/actueel/factsheets/factsheet-beveilig-verbindingen-van-mailservers.html)
+* [Factsheet Beveilig verbindingen van mailservers (NCSC)](https://www.ncsc.nl/actueel/factsheets/factsheet-beveilig-verbindingen-van-mailservers.html)
