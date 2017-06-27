@@ -1,1 +1,1 @@
-SPF policy
+SPF-record
