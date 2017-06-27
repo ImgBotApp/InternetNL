@@ -3,13 +3,13 @@
 ### Wat is IP?
 Het Internet Protocol (IP) vormt de basis onder al het verkeer op Internet. Ieder apparaat dat met het internet is verbonden, heeft een uniek numeriek adres namelijk het IP-adres.
 
-Er bestaan twee versie van het Internet Protocol: versie 4 (IPv4) en versie 6 (IPv6). Deze versies zijn niet compatibel met elkaar. Dit betekent dat een computer met een IPv4-adres niet kan communiceren met een computer die alleen een IPv6-adres heeft. Wel kunnen ze naast elkaar worden gebruikt. Veel apparaten bieden inmiddels ondersteuning voor zowel IPv4 als IPv6. IPv6 zal uiteindelijk IPv4 volledig vervangen. In de tussentijd kunnen IPv4 en IPv6 gewoon naast elkaar gebruikt worden. Bijna alle apparatuur ondersteunt inmiddels zowel IPv4 als IPv6.
+Er bestaan twee versie van het Internet Protocol: versie 4 (IPv4) en versie 6 (IPv6). Deze versies zijn niet compatibel met elkaar. Dit betekent dat een computer met een IPv4-adres niet kan communiceren met een computer die alleen een IPv6-adres heeft. Wel kunnen versie 4 en versie 6 naast elkaar worden gebruikt, maar uiteindelijk zal IPv4 volledig worden vervangen door IPv6. Bijna alle apparatuur ondersteunt inmiddels zowel IPv4 als IPv6.
 
 ### Wat is IPv4?
 De IPv4-standaard dateert van 1981. Een voorbeeld van een IPv4-adres is `94.198.159.35`. IPv4 kent een zogenaamde adresruimte van 32 bits. Dit betekent dat er op basis van het IPv4 protocol wereldwijd ruim 4 x 10^9 (4 miljard) unieke IP-adressen kunnen worden uitgegeven. Dat lijkt heel veel, maar dat is het niet. Bedenk maar eens dat er inmiddels ruim 7 miljard mensen op aarde zijn, en dat een groot deel van deze mensen steeds meer apparaten gebruiken die een verbinding met het internet nodig hebben.
 
 ### Wat is IPv6?
-IPv6-standaard dateert van 1998 en is de opvolger van het oude IPv4. Een voorbeeld van een IPv6-adres is `2a00:d78:0:712:94:198:159:35`. IPv6 kent een adresruimte van 128 bits en dat betekent dat er veel meer unieke IP-adressen beschikbaar zijn: 3,4 x 10^38 (een 3 met 38 nullen) tegenover de 4 x 10^9 (een 4 met 9 nullen).
+De IPv6-standaard dateert van 1998 en is de opvolger van het oude IPv4. Een voorbeeld van een IPv6-adres is `2a00:d78:0:712:94:198:159:35`. IPv6 kent een adresruimte van 128 bits en dat betekent dat er veel meer unieke IP-adressen beschikbaar zijn: 3,4 x 10^38 (een 3 met 38 nullen) tegenover de 4 x 10^9 (een 4 met 9 nullen).
 
 ### Waarom IPv6?
 
