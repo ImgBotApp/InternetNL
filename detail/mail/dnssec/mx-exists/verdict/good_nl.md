@@ -1,1 +1,1 @@
-Alle je mailserverdomeinen zijn ondertekend met DNSSEC.
+Ieder van je mailserverdomeinen is ondertekend met DNSSEC.
