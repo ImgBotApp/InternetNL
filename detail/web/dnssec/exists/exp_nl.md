@@ -1,1 +1,1 @@
-We testen of de nameserver van je domeinnaam een DNSSEC-handtekening teruggeeft. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel.
+We testen of de nameservers van je domeinnaam een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel.
