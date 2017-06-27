@@ -1,1 +1,1 @@
-DNSSEC valid
+DNSSEC validity
