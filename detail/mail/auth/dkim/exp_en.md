@@ -1,1 +1,1 @@
-We check for a DKIM record.
+We check if your domain has a DKIM record. We are not able to evaluate if the public key in the DKIM record is valid, because we would need an mail from your domain to do so. To succeed for this test we expect your name server to answer `NOERROR` to our 'empty non-terminal' query for `_domainkey.example.nl`. Some name servers that are not conformant with RFC2308 answer `NXDOMAIN` in stead of `NOERROR` even when there is a DKIM record making it impossbile for us to detect the DKIM record.
