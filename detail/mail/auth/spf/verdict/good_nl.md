@@ -1,1 +1,1 @@
-An SPF policy (TXT record) has been found.
+Je domein heeft een SPF-record.
