@@ -1,1 +1,1 @@
-Unfortunately an error occurred in the resolver of Internet.nl. Please [contact](/about) us.
+Unfortunately an error occurred in Internet.nl's resolver. Please [contact](/about/) us.
