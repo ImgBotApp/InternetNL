@@ -1,1 +1,1 @@
-The MX record is DNSSEC signed.
+Alle je mailserverdomeinen zijn ondertekend met DNSSEC.
