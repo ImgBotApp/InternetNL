@@ -1,1 +1,1 @@
-TLSA record validity (DANE)
+DANE geldigheid
