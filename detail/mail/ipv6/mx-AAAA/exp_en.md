@@ -1,1 +1,1 @@
-We check if the name servers of your mail server domain(s) return an AAAA record with IPv6 address for every mail server (MX). In case no mail server (MX) is defined, we give a notification and we still execute some other relevant subtests.
+We check if the name servers of your mail server domain(s) return an AAAA record with IPv6 address for every mail server (MX). In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test which are still relevant.
