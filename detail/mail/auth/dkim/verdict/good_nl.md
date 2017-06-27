@@ -1,1 +1,1 @@
-A DKIM record (TXT) has been found.
+Je domein heeft een DKIM-record.
