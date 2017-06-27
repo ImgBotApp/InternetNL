@@ -1,1 +1,1 @@
-Please contact our helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)
+Unfortunately an error occurred in Internet.nl's resolver. Please [contact](/about/) us.
