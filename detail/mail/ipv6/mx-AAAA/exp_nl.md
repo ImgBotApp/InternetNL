@@ -1,1 +1,1 @@
-We check for at least 2 AAAA mail servers.
+We testen of de nameservers van je domeinnaam een AAAA-record met IPv6-adres voor je mailserver(s) (MX's) teruggeven. Als je één mailserver hebt gedefinieerd, dan verwachten we dat deze een AAAA-record heeft. Als je meer dan één mailserver hebt, dan moeten er tenminste twee daarvan een AAAA-record hebben.
