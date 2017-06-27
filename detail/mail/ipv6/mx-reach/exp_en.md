@@ -1,1 +1,1 @@
-We check if we can contact all IPv6 enabled mail servers over IPv6.
+We check if we can connect to your mail server(s) over IPv6 on port 25. We test all IPv6 addresses that we receive from the name servers of your mail server(s). A partial score will be given if not all IPv6 addresses are reachable. If an IPv6 address is (syntactically) invalid, we consider it unreachable.
