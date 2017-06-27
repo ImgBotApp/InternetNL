@@ -1,1 +1,1 @@
-Goed gedaan! De je e-mailadresdomain en je mailserverdomein(en) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van je ontvangende mailserver(s) opvragen.
+Goed gedaan! Je e-mailadresdomain en je mailserverdomein(en) zijn ondertekend met een geldige handtekening. Verzenders die domeinhandtekeningen controleren, kunnen daardoor betrouwbaar het IP-adres van je ontvangende mailserver(s) opvragen.
