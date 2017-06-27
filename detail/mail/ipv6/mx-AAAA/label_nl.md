@@ -1,1 +1,1 @@
-Mail servers’ IPv6 addresses
+IPv6-addressen voor mail server(s)
