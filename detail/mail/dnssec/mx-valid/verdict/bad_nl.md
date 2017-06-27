@@ -1,2 +1,1 @@
-This domain is "bogus", a very serious error in its configuration.
-Please contact your DNS operator as soon as possible.
+Eén of meerdere van je mailserverdomeinen zijn onbetrouwbaar oftewel 'bogus', omdat hun DNSSEC-handtekening niet geldig is. Óf iemand manipuleerde de antwoorden van de nameservers, óf je mailserverdomeinen hebben serieuze DNSSEC-configuratiefouten. Dit laatste maakt je ontvangende mailserver onbereikbaar voor alle verzendende mailservers die DNSSEC-handtekeningen conroleren. Neem zo spoedig mogelijk contact op met de nameserver-beheerder (vaak je mailprovider).
