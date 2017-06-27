@@ -18,7 +18,7 @@ Dit betekent wel dat een beheerder van een domein dient te borgen dat DKIM en SP
 
 ## II. Voor domeinnaamhouders
 ### Hoe weet ik of de e-mailvoorziening van mijn domein gebruik maakt van de standaarden SPF, DKIM en DMARC?
-Doe de e-mailtest op Internet.nl.
+Dit kan worden vastgesteld door het uitvoeren van de e-mailtest op Internet.nl.
 
 ### Hoe voeg ik ondersteuning voor deze standaarden toe?
 Vraag het aan uw e-mailprovider. Als deze geen ondersteuning biedt voor deze standaarden, stap dan over op een e-mailprovider die dit wel ondersteund.
@@ -27,12 +27,14 @@ Vraag het aan uw e-mailprovider. Als deze geen ondersteuning biedt voor deze sta
 Het implementeren van de standaarden SPF, DKIM en DMARC is een belangrijke eerste stap. Het is echter ook belangrijk om de inkomende e-mailberichten op correcte wijze te beoordelen en classificeren, zodat de pakkans van SPAM berichten groter wordt. Hiermee neemt namelijk het risico op SPAM en Phishing voor e-mailgebruikers af.
 
 
-## II. Voor e-mailgebruikers
+## III. Voor e-mailgebruikers
 
 ### Hoe kan ik zien of mijn e-mailadres gebruik maakt van SPF, DKIM en/of DMARC?
-Doe de e-mailtest op Internet.nl.
+Dit kan worden vastgesteld door het uitvoeren van de e-mailtest op Internet.nl.
 
 ### Wat moet ik doen om inkomende e-mail te controleren op het gebruik van SPF, DKIM en/of DMARC?
 Vraag je e-mailprovider om inkomende e-mail te controleren op het gebruik van deze standaarden, en om dit te gebruiken in de classificatie voor SPAM.
 
-###
+## Meer informatie
+* [E-mail security DKIM (Scott Helme)](https://scotthelme.co.uk/email-security-dkim/)
+* [E-mail security SPF (Scott Helme)](https://scotthelme.co.uk/email-security-spf/)
