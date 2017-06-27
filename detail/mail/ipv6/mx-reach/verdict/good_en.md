@@ -1,2 +1,1 @@
-All mail servers (MX) having an IPv6 address are also reachable through 
-IPv6.
+All of your mail servers (MX) having an IPv6 address are reachable over IPv6.
