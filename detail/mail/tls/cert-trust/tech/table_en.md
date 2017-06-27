@@ -1,1 +1,1 @@
-Mail server|Bad certificate chain
+Mail server|Untrusted certificate chain
