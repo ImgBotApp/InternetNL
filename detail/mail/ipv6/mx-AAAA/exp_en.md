@@ -1,1 +1,1 @@
-We check if the name servers of your domain name return an AAAA record with IPv6 address for your mail server(s) (MX's). If you have one mail server (MX) defined, we expect that one to have an AAAA record. If you have more than one mail server, than at least two should have an AAAA record.
+We check if the name servers of your mail server domain return an AAAA record with IPv6 address for every mail server (MX).
