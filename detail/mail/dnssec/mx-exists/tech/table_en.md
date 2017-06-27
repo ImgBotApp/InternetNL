@@ -1,1 +1,1 @@
-Domain|DNSSEC
+Mail server domain|DNSSEC existent
