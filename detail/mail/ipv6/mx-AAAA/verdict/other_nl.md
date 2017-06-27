@@ -1,1 +1,1 @@
-Geen mail servers (MX) gedefineerd. Op dit domein kan geen mail worden ontvangen. 
+Op jouw domain zijn geen mail servers (MX) gedefineerd waardoor het niet mogelijk is om mail te ontvangen. 
