@@ -1,1 +1,1 @@
-All mail servers (MX) come with an IPv6 address.
+Alle ontvangende mailservers (MX) op jouw domeinnaam hebben IPv6-adres.
