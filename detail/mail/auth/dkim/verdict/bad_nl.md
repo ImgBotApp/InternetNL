@@ -1,1 +1,1 @@
-A DKIM record (TXT) could not be found.
+Je domein heeft *geen* DKIM-record.
