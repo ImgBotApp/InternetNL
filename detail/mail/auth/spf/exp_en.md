@@ -1,1 +1,1 @@
-We check for an SPF policy.
+We check if your domain has a SPF record. A receiving mail server can use the whitelisted IP addresses of your sending mail servers and the accompanying policy from your SPF record to determine the authenticity of a received email from your domain.
