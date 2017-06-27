@@ -1,1 +1,1 @@
-Good! Your email address domain and your mail server domain(s) are signed with a valid signature. Therefore senders with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). 
+Well done! Your email address domain and your mail server domain(s) are signed with a valid signature. Therefore senders with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). 
