@@ -8,6 +8,6 @@
 - **HTTPS:**
   - [SSLlabs](https://www.ssllabs.com/ssltest/)
   - [badssl.com](https://badssl.com/)
-  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
+  - [DNS-OARC DANE/TLSA Demonstration](http://dane.dns-oarc.net/)
 - **Overig:**
   - [Securityheaders.io](https://securityheaders.io/)
