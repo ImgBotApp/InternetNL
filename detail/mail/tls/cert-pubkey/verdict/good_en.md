@@ -1,1 +1,1 @@
-The public keys in the certificates are sufficiently long.
+All your mail server certificates contain a public key with a secure length.
