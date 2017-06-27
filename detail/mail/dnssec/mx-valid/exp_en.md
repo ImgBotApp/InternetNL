@@ -1,1 +1,1 @@
-We check if your mail server domain (MX) is signed with a valid signature that makes it secure.
+We check if your mail server domain(s) (MX) are signed with a valid signature making it secure.
