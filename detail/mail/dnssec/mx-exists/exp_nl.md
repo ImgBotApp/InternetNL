@@ -1,1 +1,1 @@
-We check if there are DNSSEC MX records.
+We testen of de nameservers van je mailserverdomeinnaam (MX) een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in dit testonderdeel maar wel in het volgende testonderdeel.
