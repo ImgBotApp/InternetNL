@@ -1,1 +1,1 @@
-Je domeinnaam heeft een DMARC-record.
+Je domeinnaam heeft *geen* DMARC-record.
