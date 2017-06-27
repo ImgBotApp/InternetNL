@@ -1,1 +1,1 @@
-Your website certificate contains a public key with an secure length.
+Your website certificate contains a public key with a secure length.
