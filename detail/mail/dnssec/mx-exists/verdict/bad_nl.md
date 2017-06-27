@@ -1,1 +1,1 @@
-Je mailserverdomein is onveilig oftewel 'insecure', omdat het *niet* met DNSSEC ondertekend is.
+Eén of meer van jouw mailserverdomeinen (MX) zijn onveilig oftewel 'insecure', omdat deze *niet* zijn ondertekend met DNSSEC.
