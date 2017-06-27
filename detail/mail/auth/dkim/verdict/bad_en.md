@@ -1,1 +1,1 @@
-A DKIM record (TXT) could not be found.
+Your domain does *not* have a DKIM record.
