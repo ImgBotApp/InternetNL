@@ -1,1 +1,1 @@
-An SPF policy (TXT record) could not been found.
+You domain does *not* have a SPF record.
