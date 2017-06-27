@@ -1,1 +1,1 @@
-A DMARC policy (TXT record) could not be found.
+Your domain has a DMARC record.
