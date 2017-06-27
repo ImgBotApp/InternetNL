@@ -1,1 +1,1 @@
-Some of your mail server(s) (MX) having an IPv6 address are *not* reachable over IPv6.
+One or more mail servers (MX) of you with an IPv6 address are *not* reachable over IPv6.
