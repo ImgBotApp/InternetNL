@@ -1,1 +1,1 @@
-An SPF policy (TXT record) could not been found.
+Je domeinnaam heeft geen SPF-record.
