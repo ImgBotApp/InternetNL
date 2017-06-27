@@ -1,1 +1,1 @@
-DMARC policy
+DMARC record
