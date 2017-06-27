@@ -600,117 +600,115 @@ msgid "detail gen-tls cert-trusted-CA-OK"
 msgstr "the certificate chain is complete and signed by a trusted root CA"
 
 msgid "detail mail auth dkim exp"
-msgstr "We check for a DKIM record."
+msgstr "We check if your domain has a DKIM record. A receiving mail server can use the public key in the DKIM record to validate the signature in an email from your domain and determine its authenticity. Currently we are not able to evaluate if the public key in your DKIM record is valid, because we would need to receive an email from your domain to do so. To pass this test we expect your name server to answer `NOERROR` to our 'empty non-terminal' query for `_domainkey.example.nl`. Some name servers that are not conformant with the standard RFC2308 incorrectly answer `NXDOMAIN` in stead of `NOERROR` when there is a DKIM record making it impossbile for us to detect the DKIM record."
 
 msgid "detail mail auth dkim label"
 msgstr "DKIM"
 
 msgid "detail mail auth dkim verdict bad"
-msgstr "A DKIM record (TXT) could not be found."
+msgstr "Your domain does *not* have a DKIM record."
 
 msgid "detail mail auth dkim verdict good"
-msgstr "A DKIM record (TXT) has been found."
+msgstr "Your domain has a DKIM record."
 
 msgid "detail mail auth dmarc exp"
-msgstr "We check for a DMARC policy."
+msgstr "We check whether DMARC is available for your domain. A receiving mail server may use your DMARC policy to evaluate how to handle a mail from your domain that could not be authenticated with both DKIM and SPF, and it may use your mail address from the DMARC record to provide feedback reports on this to you. Currently we do not evaluate the DMARC policy. Even without an active policy DMARC can be useful to get more insight in legitimate and illegitimate outbound mail flows through DMARC reports. However in order for DMARC to be effective against abuse of your domain for phishing and spam, you need to set an active policy ('quarantaine' or 'reject'). As a quick win we recommend to set a reject policy for (sub-)domains that you do not use for sending mail to prevent abuse by others."
 
 msgid "detail mail auth dmarc label"
 msgstr "DMARC"
 
 msgid "detail mail auth dmarc tech table"
-msgstr "DMARC policy"
+msgstr "DMARC record"
 
 msgid "detail mail auth dmarc verdict bad"
-msgstr "A DMARC policy (TXT record) could not be found."
+msgstr "Your domain does *not* have a DMARC record."
 
 msgid "detail mail auth dmarc verdict good"
-msgstr "A DMARC policy (TXT record) has been found."
+msgstr "Your domain has a DMARC record."
 
 msgid "detail mail auth spf exp"
-msgstr "We check for an SPF policy."
+msgstr "We check if your domain has a SPF record. A receiving mail server can use the whitelisted IP addresses of your sending mail servers and the accompanying policy from your SPF record to determine the authenticity of a received email from your domain."
 
 msgid "detail mail auth spf label"
 msgstr "SPF"
 
 msgid "detail mail auth spf tech table"
-msgstr "SPF policy"
+msgstr "SPF record"
 
 msgid "detail mail auth spf verdict bad"
-msgstr "An SPF policy (TXT record) could not been found."
+msgstr "You domain does *not* have a SPF record."
 
 msgid "detail mail auth spf verdict good"
-msgstr "An SPF policy (TXT record) has been found."
+msgstr "Your domain has a SPF record."
 
 msgid "detail mail dnssec mx-exists exp"
-msgstr "We check if there are DNSSEC MX records."
+msgstr "We check if the name servers of your mail server domains (MX) return a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
 
 msgid "detail mail dnssec mx-exists label"
-msgstr "DNSSEC existence"
+msgstr "DNSSEC existent"
 
 msgid "detail mail dnssec mx-exists tech table"
-msgstr "Domain|DNSSEC"
+msgstr "Mail server domain|DNSSEC existent"
 
 msgid "detail mail dnssec mx-exists verdict bad"
-msgstr "The MX record is not DNSSEC signed."
+msgstr "One or more of your mail server domains (MX) are insecure, because they are *not* DNSSEC signed."
 
 msgid "detail mail dnssec mx-exists verdict good"
-msgstr "The MX record is DNSSEC signed."
+msgstr "All your mail server domains (MX) are DNSSEC signed."
 
 msgid "detail mail dnssec mx-exists verdict resolver-error"
-msgstr "Please contact our helpdesk: [vraag@internet.nl](mailto:vraag@internet.nl)"
+msgstr "Unfortunately an error occurred in Internet.nl's resolver. Please [contact](/about/) us."
 
 msgid "detail mail dnssec mx-exists verdict servfail"
-msgstr "We were missing the text here for servfail. Their DNS is completely broken."
+msgstr "The name servers of your mail server domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let the name server operator (often your mail provider) fix this soon."
 
 msgid "detail mail dnssec mx-valid exp"
-msgstr "We check if the DNSSEC records are valid."
+msgstr "We check if your mail server domains (MX) are signed with a valid signature making them secure."
 
 msgid "detail mail dnssec mx-valid label"
-msgstr "DNSSEC validation"
+msgstr "DNSSEC valid"
 
 msgid "detail mail dnssec mx-valid tech table"
-msgstr "Domain|Status"
+msgstr "Mail server domain|Status"
 
 msgid "detail mail dnssec mx-valid verdict bad"
-msgstr "This domain is \"bogus\", a very serious error in its configuration.\n"
-"Please contact your DNS operator as soon as possible."
+msgstr "One or more of your mail server domains are 'bogus', because their DNSSEC signatures are not valid. Either someone manipulated the responses from their name servers, or your mail server domains have serious DNSSEC configuration errors. The latter makes your receiving mail server unreachable for any sending mail server that validates DNSSEC signatures. You should contact the name server operator (often your mail provider) as soon as possible."
 
 msgid "detail mail dnssec mx-valid verdict good"
-msgstr "Your MX record is secured with DNSSEC."
+msgstr "All your mail server domains (MX) are secure, because their DNSSEC signatures are valid."
 
 msgid "detail mail ipv6 mx-AAAA exp"
-msgstr "We check for at least 2 AAAA mail servers."
+msgstr "We check if the name servers of your mail server domain(s) return an AAAA record with IPv6 address for every mail server (MX). In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test that are still relevant."
 
 msgid "detail mail ipv6 mx-AAAA label"
-msgstr "Mail servers’ IPv6 addresses"
+msgstr "IPv6 addresses for mail server(s)"
 
 msgid "detail mail ipv6 mx-AAAA tech table"
-msgstr "Mail server|IPv6|IPv4"
+msgstr "Mail server (MX)|IPv6 address|IPv4 address"
 
 msgid "detail mail ipv6 mx-AAAA verdict bad"
-msgstr "Some mail servers (MX) do not have an IPv6 address."
+msgstr "One or more receiving mail servers (MX) on your domain do *not* have an IPv6 address."
 
 msgid "detail mail ipv6 mx-AAAA verdict good"
-msgstr "All mail servers (MX) come with an IPv6 address."
+msgstr "All receiving mail servers (MX) on your domain have an IPv6 address."
 
 msgid "detail mail ipv6 mx-AAAA verdict other"
-msgstr "No mail exchanges (MX) set."
+msgstr "No mail servers (MX) are set on your domain making it unable to receive mail. "
 
 msgid "detail mail ipv6 mx-reach exp"
-msgstr "We check if we can contact all IPv6 enabled mail servers over IPv6."
+msgstr "We check if we can connect to your mail server(s) over IPv6 on port 25. We test all IPv6 addresses that we receive from the name servers of your mail server(s). A partial score will be given if not all IPv6 addresses are reachable. If an IPv6 address is (syntactically) invalid, we consider it unreachable."
 
 msgid "detail mail ipv6 mx-reach label"
-msgstr "Mail servers’ IPv6 reachability"
+msgstr "IPv6 reachability of mail server(s)"
 
 msgid "detail mail ipv6 mx-reach tech table"
-msgstr "Mail server|Unreachable IPv6"
+msgstr "Mail server (MX)|Unreachable IPv6 address"
 
 msgid "detail mail ipv6 mx-reach verdict bad"
-msgstr "Some mail servers (MX) having an IPv6 address can not be reached over IPv6."
+msgstr "One or more of your mail servers (MX) with an IPv6 address are *not* reachable over IPv6."
 
 msgid "detail mail ipv6 mx-reach verdict good"
-msgstr "All mail servers (MX) having an IPv6 address are also reachable through \n"
-"IPv6."
+msgstr "All your mail servers (MX) with an IPv6 address are reachable over IPv6."
 
 msgid "detail mail tls cert-hostmatch tech table"
 msgstr "Mail server|Unmatched domains on the certificate"
@@ -871,7 +869,7 @@ msgid "detail verdict not-tested"
 msgstr "This test did not run, because a parent test that this test depends on already gave a negative result ('fail')."
 
 msgid "detail web dnssec exists exp"
-msgstr "We check if the name server of your domain returns a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
+msgstr "We check if the name servers of your domain return a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
 
 msgid "detail web dnssec exists label"
 msgstr "DNSSEC existent"
@@ -886,13 +884,13 @@ msgid "detail web dnssec exists verdict good"
 msgstr "Your domain is DNSSEC signed."
 
 msgid "detail web dnssec exists verdict resolver-error"
-msgstr "Unfortunately an error occurred in the resolver of Internet.nl. Please [contact](/about) us."
+msgstr "Unfortunately an error occurred in Internet.nl's resolver. Please [contact](/about/) us."
 
 msgid "detail web dnssec exists verdict servfail"
-msgstr "The name servers of your domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let your name server operator (often your hosting provider and/or registrar) fix this."
+msgstr "The name servers of your domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let your name server operator (often your hosting provider and/or registrar) fix this soon."
 
 msgid "detail web dnssec valid exp"
-msgstr "We check if your domain is signed with a valid signature."
+msgstr "We check if your domain is signed with a valid signature making it 'secure'."
 
 msgid "detail web dnssec valid label"
 msgstr "DNSSEC valid"
@@ -934,7 +932,7 @@ msgid "detail web ipv6 web-ipv46 verdict good"
 msgstr "Your website on IPv6 seems to be the same as your website on IPv4."
 
 msgid "detail web ipv6 web-reach exp"
-msgstr "We check if we can connect to your web server over IPv6 on any available ports (80 and/our 443). We test all IPv6 addresses that we receive from your name servers. A partial score will be given if not all the IPv6 addresses are reachable. If an IPv6 addresses is (syntactically) invalid, we consider it unreachable."
+msgstr "We check if we can connect to your web server over IPv6 on any available ports (80 and/our 443). We test all IPv6 addresses that we receive from your name servers. A partial score will be given if not all IPv6 addresses are reachable. If an IPv6 address is (syntactically) invalid, we consider it unreachable."
 
 msgid "detail web ipv6 web-reach label"
 msgstr "IPv6 reachability of web server"
@@ -943,10 +941,10 @@ msgid "detail web ipv6 web-reach tech table"
 msgstr "Web server|Unreachable IPv6 address"
 
 msgid "detail web ipv6 web-reach verdict bad"
-msgstr "Your web server is *not* reachable over IPv6."
+msgstr "One or more web servers of you with an IPv6 address are *not* reachable over IPv6."
 
 msgid "detail web ipv6 web-reach verdict good"
-msgstr "Your web server is reachable over IPv6."
+msgstr "All your web servers with an IPv6 address are reachable over IPv6."
 
 msgid "detail web tls cert-hostmatch tech table"
 msgstr "Web server|Unmatched domains on certificate"
@@ -1568,7 +1566,7 @@ msgstr "## Why\n"
 "* [\"Why you should be doing DMARC\"](https://governmenttechnology.blog.gov.uk/2016/10/04/why-you-should-be-doing-dmarc/) by GOV.uk\n"
 "* [\"Why is DMARC important?\"](https://dmarc.org/wiki/FAQ#Why_is_DMARC_important.3F) by DMARC.org\n"
 "\n"
-"## Adoption statitics\n"
+"## Adoption statistics\n"
 "* [\".nl stats and data > Mail\"](https://stats.sidnlabs.nl/#/mail)\n"
 "* [\"DMARC Deployment\"](https://eggert.org/meter/dmarc)\n"
 "* [\"Who Is Using DMARC?\"](https://dmarc.org/who-is-using-dmarc/)\n"
@@ -1675,7 +1673,7 @@ msgstr "Some servers passed subtest, but not all servers could be tested ⇒ nul
 msgid "halloffame teaser"
 msgstr "# Hall of Fame - website test\n"
 "The {{count}} websites below are fully using modern internet standards.   \n"
-"They therefore score 100% in the website test on Internet.nl."
+"They therefore score 100% in the [website test](/test-site/) on Internet.nl."
 
 msgid "home pagetitle"
 msgstr "Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE."
@@ -2045,7 +2043,10 @@ msgid "results further-testing mail label"
 msgstr "Further email testing"
 
 msgid "results further-testing mail content"
-msgstr "- **DNSSEC:**\n"
+msgstr "- **IPv6:**\n"
+"  - [IP6.nl](https://ip6.nl/)\n"
+"  - [IPv6 health check](https://www.mythic-beasts.com/ipv6/health-check/)\n"
+"- **DNSSEC:**\n"
 "  - [DNSViz](http://dnsviz.net/)\n"
 "  - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)\n"
 "- **DMARC, DKIM en SPF:**\n"
@@ -2459,7 +2460,7 @@ msgid "test connipv6 label"
 msgstr "IPv6"
 
 msgid "test connipv6 passed description"
-msgstr "Good! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses."
+msgstr "Well done! Your internet provider has provided you with a modern internet address. Therefore you can reach other computers with modern adresses."
 
 msgid "test connipv6 passed summary"
 msgstr "Modern addresses reachable (IPv6)"
@@ -2477,7 +2478,7 @@ msgid "test connresolver label"
 msgstr "DNSSEC"
 
 msgid "test connresolver passed description"
-msgstr "Good! Domain signatures are validated for you. Therefore you are protected against false translation from signed domain names into rogue IP addresses."
+msgstr "Well done! Domain signatures are validated for you. Therefore you are protected against false translation from signed domain names into rogue IP addresses."
 
 msgid "test connresolver passed summary"
 msgstr "Domain signatures validated (DNSSEC)"
@@ -2498,7 +2499,7 @@ msgid "test mailauth label"
 msgstr "DMARC, DKIM and SPF"
 
 msgid "test mailauth passed description"
-msgstr "Good! Your domain contains all authenticity marks against email phishing. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. "
+msgstr "Well done! Your domain contains all authenticity marks against email phishing. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. "
 
 msgid "test mailauth passed summary"
 msgstr "Authenticity marks against email phishing (DMARC, DKIM and SPF)"
@@ -2516,7 +2517,7 @@ msgid "test maildnssec label"
 msgstr "DNSSEC"
 
 msgid "test maildnssec passed description"
-msgstr "Good! Your email address domain and your mail server domain(s) are signed with a valid signature. Therefore senders with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). "
+msgstr "Well done! Your email address domain and your mail server domain(s) are signed with a valid signature. Therefore senders with enabled domain signature validation, are able to reliably query the IP address of your receiving mail server(s). "
 
 msgid "test maildnssec passed summary"
 msgstr "All domain names signed (DNSSEC)"
@@ -2534,7 +2535,7 @@ msgid "test mailipv6 label"
 msgstr "IPv6"
 
 msgid "test mailipv6 passed description"
-msgstr "Good! Your mail server can be reached by senders using modern IPv6 addresses, making it fully part of the modern Internet."
+msgstr "Well done! Your mail server can be reached by senders using modern IPv6 addresses, making it fully part of the modern Internet."
 
 msgid "test mailipv6 passed summary"
 msgstr "Reachable via modern internet address (IPv6)"
@@ -2543,21 +2544,16 @@ msgid "test mailipv6 title"
 msgstr "Reachable via modern internet address?"
 
 msgid "test mailtls failed description"
-msgstr "Unfortunately; this incoming mail server does <strong>not or \n"
-"insufficienly</strong> support STARTTLS. This means that sending mail \n"
-"servers can <strong>not</strong> establish a secure connection with this \n"
-"mail server which makes it vulnerable for eavesdropping attacks by (passive)\n"
-" attackers. You should ask your mail provider to enable STARTTLS and to \n"
-"configure it correctly."
+msgstr "Too bad! Sending mail servers can establish *no* or an *insufficiently* secure connection with your mail server(s). A passive attacker is therefore able to intercept and read e-mails addressed to you in transit. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping the STARTTLS encryption."
 
 msgid "test mailtls failed summary"
 msgstr "*No* or insufficiently secure connection possible (STARTTLS)"
 
 msgid "test mailtls label"
-msgstr "STARTTLS and DANE"
+msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
-msgstr "Good! Sending mail servers can establish a secure connection with your mail server(s). This prevents a passive attacker from being able to intercept and read e-mails addressed to you in transit. We advise to also publish DANE records to prevent active attackers from stripping the STARTTLS encryption and eavesdrop the mail trafic to your mailserver."
+msgstr "Well done! Sending mail servers can establish a secure connection with your mail server(s). This prevents a passive attacker from being able to intercept and read e-mails addressed to you in transit. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping the STARTTLS encryption."
 
 msgid "test mailtls passed summary"
 msgstr "Secure connection possible (STARTTLS)"
@@ -2575,7 +2571,7 @@ msgid "test sitednssec label"
 msgstr "DNSSEC"
 
 msgid "test sitednssec passed description"
-msgstr "Good! Your domain is signed with a valid signature. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
+msgstr "Well done! Your domain is signed with a valid signature. Therefore visitors with enabled domain signature validation, are protected against manipulated translation from your domain into rogue internet addresses."
 
 msgid "test sitednssec passed summary"
 msgstr "Domain name signed (DNSSEC)"
@@ -2593,7 +2589,7 @@ msgid "test siteipv6 label"
 msgstr "IPv6"
 
 msgid "test siteipv6 passed description"
-msgstr "Good! Your website is reachable for visitors using a modern internet addresses, making it fully part of the modern Internet."
+msgstr "Well done! Your website is reachable for visitors using a modern internet addresses, making it fully part of the modern Internet."
 
 msgid "test siteipv6 passed summary"
 msgstr "Reachable via modern internet addresses (IPv6)"
@@ -2611,7 +2607,7 @@ msgid "test sitetls label"
 msgstr "HTTPS"
 
 msgid "test sitetls passed description"
-msgstr "Good! The connection with your website is sufficiently secured. Therefore information in transit between your website and its visitors is protected against eavesdropping and tampering."
+msgstr "Well done! The connection with your website is sufficiently secured. Therefore information in transit between your website and its visitors is protected against eavesdropping and tampering."
 
 msgid "test sitetls passed summary"
 msgstr "Connection sufficiently secured (HTTPS)"
