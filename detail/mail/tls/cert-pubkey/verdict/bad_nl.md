@@ -1,1 +1,1 @@
-Some certificates contain public keys of insufficient length.
+Eén of meer van je mailservercertificaten bevatten een publieke sleutel met een *onveilige* lengte.
