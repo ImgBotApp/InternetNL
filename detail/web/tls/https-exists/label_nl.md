@@ -1,1 +1,1 @@
-HTTPS aanwezig
+HTTPS ondersteuning
