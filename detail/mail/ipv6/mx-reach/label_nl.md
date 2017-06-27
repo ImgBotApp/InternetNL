@@ -1,1 +1,1 @@
-Mail servers’ IPv6 reachability
+IPv6-bereikbaarheid van mailserver(s)
