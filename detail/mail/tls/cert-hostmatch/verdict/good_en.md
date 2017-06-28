@@ -1,1 +1,1 @@
-Hostname of website matches certificate.
+The domain name of your mail server matches the domain name on your mail server certificate.
