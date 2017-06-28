@@ -1,1 +1,1 @@
-Mail server|Unmatched domains on the certificate
+Mail server|Unmatched domains on certificate
