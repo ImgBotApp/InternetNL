@@ -1,1 +1,1 @@
-Mail server|Insecure hash method
+Mail server|Insecure hash algorithm
