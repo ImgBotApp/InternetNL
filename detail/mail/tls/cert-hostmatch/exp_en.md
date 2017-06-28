@@ -1,1 +1,1 @@
-We check that the domain matches the domain name on the certificate.
+We check whether the domain name of your website matches the domain name on the certificate. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-1 (in Dutch).
