@@ -1,1 +1,1 @@
-Web server IP address|HTTPS redirection
+Web server IP address|HTTPS enforced
