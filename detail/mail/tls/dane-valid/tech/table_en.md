@@ -1,1 +1,1 @@
-Mail server|valid TLSA
+Mail server|DANE valid
