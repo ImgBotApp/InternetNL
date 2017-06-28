@@ -1,1 +1,1 @@
-Webserver|Onveilige TLS-versies
+Webserver-IP-adres|Onveilige TLS-versies
