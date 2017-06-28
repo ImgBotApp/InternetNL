@@ -1,1 +1,1 @@
-Mail server|Sufficiently secure cipher methods
+Mail server|Secure cipher suites
