@@ -1,6 +1,6 @@
 After you start the connection test, we will check if your currently used internet connection offers support for the modern internet standards below.
 
-* [IPv6](/faqs/ipv6/): are websites with modern addresses reachable for you?
+* [IPv6](/faqs/ipv6/): are websites with modern internet addresses reachable for you?
 * [DNSSEC](/faqs/dnssec/): are domain signatures validated for you?
 
 ## Test report
