@@ -1,1 +1,1 @@
-De domeinnaam van je mailserver komt overeen met de domeinnaam op je mailservercertificaat.
+De domeinnamen van al je mailservers komen overeen met de domeinnamen op je mailservercertificaten.
