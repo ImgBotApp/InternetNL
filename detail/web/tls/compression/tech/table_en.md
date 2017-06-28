@@ -1,1 +1,1 @@
-Web server|TLS compression
+Web server IP address|TLS compression
