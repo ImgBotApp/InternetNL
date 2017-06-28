@@ -1,1 +1,1 @@
-Web server|Public key with insufficient length
+Web server IP address|Public key with insufficient length
