@@ -1,1 +1,1 @@
-IP address of web server|Unmatched domains on certificate
+Web server IP address|Unmatched domains on certificate
