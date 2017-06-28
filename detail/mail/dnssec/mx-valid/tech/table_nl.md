@@ -1,1 +1,1 @@
-Mailserverdomein (MX)|Status
+Domein van mailserver (MX)|Status
