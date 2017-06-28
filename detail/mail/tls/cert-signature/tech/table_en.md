@@ -1,1 +1,1 @@
-Mail server domain (MX)|Insecure hash algorithm
+Domain of mail server (MX)|Insecure hash algorithm
