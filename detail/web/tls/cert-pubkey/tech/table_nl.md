@@ -1,1 +1,1 @@
-Webserver|Publieke sleutel met onvoldoende lengte
+Webserver-IP-adres|Publieke sleutel met onvoldoende lengte
