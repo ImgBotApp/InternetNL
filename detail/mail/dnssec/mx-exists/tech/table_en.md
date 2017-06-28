@@ -1,1 +1,1 @@
-Mail server domain (MX)|DNSSEC existent
+Domain of mail server (MX)|DNSSEC existent
