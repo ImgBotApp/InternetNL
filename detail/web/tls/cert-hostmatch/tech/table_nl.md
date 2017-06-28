@@ -1,1 +1,1 @@
-Webserver|Niet-overeenkomende domeinen op certificaat
+Webserver-IP-adres|Niet-overeenkomende domeinen op certificaat
