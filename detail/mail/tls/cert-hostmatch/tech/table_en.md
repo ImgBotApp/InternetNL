@@ -1,1 +1,1 @@
-Mail server|Unmatched domains on certificate
+Mail server domain (MX)|Unmatched domains on certificate
