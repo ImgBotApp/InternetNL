@@ -60,9 +60,10 @@ Dit kun je controleren door de verbindingentest op Internet.nl uit te voeren. De
 Vraag aan je internetprovider op welke termijn deze van plan is om DNSSEC validatie toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet, of maak gebruik van een aparte DNS provider die DNSSEC validatie ondersteunt. 
 
 ### Hoeveel andere partijen controleren domeinnaam-handtekeningen?
+Wereldwijd is IPv6 bezig met een flinke opmars. Het aantal servers en ook eindgebruikers groeit al jaren bijna exponentieel. Grote partijen zoals Google, Facebook en XS4ALL zien de voordelen en kiezen voor IPv6. Nederland loopt helaas achter bij veel andere vergelijkbare landen, zeker als het gaat om eindgebruikers die over IPv6-connectiviteit beschikken. Landen als Duitsland en België doen het bijvoorbeeld veel beter.
 
+Statistieken van DNSSEC-adoptie:
 
-***
 
 ## Meer informatie
 * [DNSSEC.nl](https://dnssec.nl)
