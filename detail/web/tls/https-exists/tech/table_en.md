@@ -1,1 +1,1 @@
-Web server|HTTPS existent
+Web server IP address|HTTPS existent
