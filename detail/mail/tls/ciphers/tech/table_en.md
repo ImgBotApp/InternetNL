@@ -1,1 +1,1 @@
-Mail server|Secure cipher suites
+Domain of mail server (MX)|Secure cipher suites
