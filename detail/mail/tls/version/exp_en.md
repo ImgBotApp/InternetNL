@@ -1,1 +1,1 @@
-We check if the available TLS versions are sufficiently secure.
+We check if your mail server supports secure TLS versions. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B1-1 (in Dutch).
