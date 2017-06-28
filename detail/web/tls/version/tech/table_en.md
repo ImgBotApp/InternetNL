@@ -1,1 +1,1 @@
-Web server|Insecure TLS versions
+Web server IP address|Insecure TLS versions
