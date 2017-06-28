@@ -1,1 +1,1 @@
-Mail server was unreachable.
+Your mail server is unreachable.
