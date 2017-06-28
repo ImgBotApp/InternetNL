@@ -1,1 +1,1 @@
-Mailserverdomein (MX)|Onvertrouwde certificaatketen
+Domein van mailserver (MX)|Onvertrouwde certificaatketen
