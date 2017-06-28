@@ -1,1 +1,1 @@
-Geslaagd voor alle subtesten ⇒ volledige score voor testonderdeel 
+Geslaagd voor alle subtesten ⇒ volledige score in deeltest 
