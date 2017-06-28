@@ -1,1 +1,1 @@
-Cipher methods
+Cipher suites
