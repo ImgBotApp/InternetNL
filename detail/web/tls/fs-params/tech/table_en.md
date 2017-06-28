@@ -1,1 +1,1 @@
-Web server|Insecure parameters
+Web server IP address|Insecure parameters
