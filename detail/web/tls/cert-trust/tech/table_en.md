@@ -1,1 +1,1 @@
-Web server|Untrusted certificate chain
+Web server IP address|Untrusted certificate chain
