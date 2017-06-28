@@ -1,1 +1,1 @@
-Mailserverdomein (MX)|Publieke sleutel met onvoldoende lengte
+Domein van mailserver (MX)|Publieke sleutel met onvoldoende lengte
