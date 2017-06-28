@@ -1,1 +1,1 @@
-Mail server|Sufficiently secure TLS versions
+Domein van mailserver|Veilige TLS-versies
