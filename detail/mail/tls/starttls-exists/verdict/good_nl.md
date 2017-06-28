@@ -1,1 +1,1 @@
-Ieder van je mailservers biedt STARTTLS aan.
+Al je mailservers bieden STARTTLS aan.
