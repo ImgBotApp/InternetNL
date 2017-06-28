@@ -1,1 +1,1 @@
-Mail server|valid TLSA
+Mailserver|TLSA geldig
