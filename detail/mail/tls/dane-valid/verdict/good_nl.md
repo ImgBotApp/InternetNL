@@ -1,1 +1,1 @@
-The TLSA record is valid (DANE).
+Alle DANE-fingerprints op je mailserverdomeinen zijn geldig voor je mailservercertificaten.
