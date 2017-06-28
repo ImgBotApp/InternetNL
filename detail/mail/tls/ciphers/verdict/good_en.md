@@ -1,1 +1,1 @@
-Sufficiently secure cipher methods supported.
+All your mail servers support sufficiently secure cipher suites.
