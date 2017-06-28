@@ -1,1 +1,1 @@
-Mailserverdomein (MX)|DNSSEC aanwezig
+Domein van mailserver (MX)|DNSSEC aanwezig
