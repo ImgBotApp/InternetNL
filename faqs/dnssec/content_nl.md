@@ -41,6 +41,7 @@ Doe de websitetest of de e-mailtest op Internet.nl. Eén van de testonderdelen c
 
 ### Hoe onderteken ik mijn domeinnaam met DNSSEC?
 Als jouw domeinnaam nog niet beveiligd is met DNSSEC:
+
 1. Vraag jouw registrar om DNSSEC op korte termijn te ondersteunen;
 2. Als hij dat niet kan, kies dan voor een registrar die wel DNSSEC ondersteunt. Voor .nl-domeinnamen zie het [registraroverzicht](https://www.sidn.nl/registrars/?name=&country=&dnssec=true) van SIDN;
 3. Verhuis je domeinnaam naar een registrar naar keuze. Voor verhuizing van .nl-domeinnamen zie [domeinnaam verhuizen](https://www.sidn.nl/a/nl-domeinnaam/domeinnaam-verhuizen) van SIDN.
