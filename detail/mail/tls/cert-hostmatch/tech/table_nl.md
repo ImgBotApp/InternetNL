@@ -1,1 +1,1 @@
-Mailserver|Niet-overeenkomende domeinen op certificaat
+Mailserverdomein (MX)|Niet-overeenkomende domeinen op certificaat
