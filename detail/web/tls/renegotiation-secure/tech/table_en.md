@@ -1,1 +1,1 @@
-Web server|Secure renegotiation
+Web server IP address|Secure renegotiation
