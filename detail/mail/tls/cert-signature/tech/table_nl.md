@@ -1,1 +1,1 @@
-Mailserver||Onveilig hashing-algoritme
+Mailserverdomein (MX)||Onveilig hashing-algoritme
