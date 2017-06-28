@@ -1,1 +1,1 @@
-We testen of je mailserver bereikbaar is via STARTTLS. Als dat het geval is, dan testen we in de navolgende testonderdelen of STARTTLS ook voldoende veilig is geconfigureerd.
+We testen of je mailserver bereikbaar is via STARTTLS. Als dat het geval is, dan testen we in de navolgende testonderdelen of STARTTLS ook voldoende veilig is geconfigureerd. In het geval er geen mailserver (MX) is gedefineerd, geven we een notificatie en we voeren andere subtesten van de mailtest die nog steeds relevant zijn gewoon uit.
