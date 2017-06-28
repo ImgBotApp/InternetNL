@@ -1,1 +1,1 @@
-One or more of your mail server certificates contain a public key with an *insecure* length.
+At least one of your mail server certificates contains a public key with an *insecure* length.
