@@ -1,1 +1,1 @@
-The domain name of your mail server matches the domain name on your mail server certificate.
+The domain names of all your mail servers match the domain names on your mail server certificates.
