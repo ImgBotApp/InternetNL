@@ -1,6 +1,6 @@
 Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvoorziening ondersteuning biedt voor de onderstaande moderne internetstandaarden.
 
-* [IPv6](/faqs/ipv6/): bereikbaar via modern adres?
+* [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?
 * [DNSSEC](/faqs/dnssec/): domeinnamen ondertekend?
 * [DMARC, DKIM en SPF](/faqs/mailauth/): echtheidswaarmerken tegen phishing?
 * [STARTTLS en DANE](/faqs/starttls/): beveiligde verbinding mogelijk?
