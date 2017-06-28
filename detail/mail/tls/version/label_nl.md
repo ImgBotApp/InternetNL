@@ -1,1 +1,1 @@
-TLS version
+TLS-versie
