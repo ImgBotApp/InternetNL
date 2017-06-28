@@ -1,1 +1,1 @@
-Domein van mailserver|Veilige TLS-versies
+Domein van mailserver (MX)|Veilige TLS-versies
