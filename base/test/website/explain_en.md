@@ -1,7 +1,7 @@
 After you enter a domain name of a website, we will test if the website offers support for the modern internet standards below.
 
-* [IPv6](/faqs/ipv6/): reachable on modern address?
-* [DNSSEC](/faqs/dnssec/): domain signed?
+* [IPv6](/faqs/ipv6/): reachable via modern address?
+* [DNSSEC](/faqs/dnssec/): domain name signed?
 * [HTTPS](/faqs/https/): secure connection?
 
 ## Test report
