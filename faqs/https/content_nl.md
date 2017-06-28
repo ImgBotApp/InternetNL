@@ -4,6 +4,7 @@
 Als een bezoeker een onbeveiligde HTTP-verbinding heeft met een website, dan kan een kwaadwillende eenvoudig gegevens onderweg afluisteren of aanpassen, of zelfs het contact volledig overnemen. Bij HTTPS is TLS (opvolger van SSL) toegevoegd aan HTTP om de verbinding te beveiligen. HTTPS werkt tussen de webclient (vaak een browser) van de bezoeker en de webserver van de aanbieder van de website of webservice.
 
 Mits veilig geconfigureerd, zorgt HTTPS voor de volgende drie beveiligingsaspecten.
+
 * **Vertrouwelijkheid**: De verbinding tussen de bezoeker en de website is versleuteld waardoor het onmogelijk is voor kwaadwillenden om de webcontent, URL's, cookies en andere gevoelige (meta)data onderweg af te luisteren.
 * **Authenticiteit**: De bezoeker kan controleren of hij/zij direct met de website die hoort bij de gebruikte domeinnaam contact heeft, en niet met een vervalste website of via een kwaadwillende tussenpersoon ('man-in-the-middle').
 * **Integriteit**: Een kwaadwillende kan de gegevens tussen de bezoeker en de website onderweg niet aanpassen of zaken (bijv. malware) toevoegen.
@@ -30,6 +31,7 @@ Zoals eerder beschreven op deze pagina, biedt het gebruik van HTTP/2 verschillen
 
 ### Hoe kan ik HTTPS implementeren?
 Voor het toepassen van HTTPS in de praktijk, kunnen (afhankelijk van de context) de volgende stappen worden gezet:
+
 1. Inventariseer alle domeinen en stel vast (op basis van een classificatie van de verwerkte gegevens) voor welke domeinen HTTPS strikt noodzakelijk is. Overweeg daarnaast om alle domeinen van een HTTPS verbinding te voorzien.
 2. Schaf een certificaat aan bij een certificaat autoriteit en installeer dit certificaat op het onderliggende systeem. Houd hierbij rekening met:
 a. Het type certificaat. Extended Validation (EV) certificaten bieden de meeste zekerheid over de identiteit van de eigenaar van het domein, maar zijn wel duurder dan andere certificaten die minder zekerheid bieden: Organisation Validation (OV) en Domain Validation (DV) certificaten.
