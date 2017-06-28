@@ -1,1 +1,1 @@
-Mail server domain (MX)|IPv6 address|IPv4 address
+Domain of mail server (MX)|IPv6 address|IPv4 address
