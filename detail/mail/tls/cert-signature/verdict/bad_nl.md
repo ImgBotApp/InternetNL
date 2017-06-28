@@ -1,1 +1,1 @@
-Some certificates are signed using a hash method that is not secure.
+Tenminste één van je mailservercertificaten is ondertekend met een algoritme voor hashing dat *niet* veilig is.
