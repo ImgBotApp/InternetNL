@@ -60,7 +60,7 @@ Dit kun je controleren door de verbindingentest op Internet.nl uit te voeren. De
 Vraag aan je internetprovider op welke termijn deze van plan is om DNSSEC validatie toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet, of maak gebruik van een aparte DNS provider die DNSSEC validatie ondersteunt. 
 
 ### Hoeveel andere partijen controleren domeinnaam-handtekeningen?
-Het gebruik van DNSSEC neemt nog steeds toe, maar de groei lijkt af te vlakken. Van mei 2015 tot mei 2017 groeide het gebruik van DNSSEC op .nl met slechts 3%, terwijl de groei van mei 2014 tot mei 2015 ongeveer 12% bedroeg. Dit is eigenlijk verbazingwekkend aangezien het DNS protocol een van de meest cruciale protocollen op het internet is, en geeft aan dat het belangrijk blijft om de adpoptie van veilige en betrouwbare internetstandaarden te blijven stimuleren. 
+Het gebruik van DNSSEC neemt nog steeds toe, maar de groei lijkt af te vlakken. Van mei 2015 tot mei 2017 groeide het gebruik van DNSSEC op .nl met slechts 3%, terwijl de groei van mei 2014 tot mei 2015 ongeveer 12% bedroeg. Dit is eigenlijk verbazingwekkend aangezien het DNS protocol een van de meest cruciale protocollen op het internet is, en geeft aan dat het belangrijk blijft om de adoptie van veilige en betrouwbare internetstandaarden te blijven stimuleren. 
 
 Statistieken van DNSSEC-adoptie:
 * [.nl stats and data](http://stats.sidnlabs.nl/#/dnssec) door SIDN Labs
