@@ -1,1 +1,1 @@
-Webserver|TLS-compressie
+Webserver-IP-adres|TLS-compressie
