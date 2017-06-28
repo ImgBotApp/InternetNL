@@ -1,1 +1,1 @@
-We testen of je ontvangende mailserver (MX) veilige TLS-versies ondersteunt. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1.
+We testen of je ontvangende mailservers (MX) veilige TLS-versies ondersteunt. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1.
