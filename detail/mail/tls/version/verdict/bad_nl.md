@@ -1,1 +1,1 @@
-Sufficiently secure TLS versions not supported.
+Je mailserver ondersteunt *geen* voldoende veilige TLS-versies.
