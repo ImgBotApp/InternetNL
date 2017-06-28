@@ -1,1 +1,1 @@
-Webserver|Onveilige cipher suites
+Webserver-IP-adres|Onveilige cipher suites
