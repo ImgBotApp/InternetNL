@@ -1,6 +1,6 @@
 Nadat je een domeinnaam van een website heb opgegeven, testen we of de website ondersteuning biedt voor de onderstaande moderne internetstandaarden.
 
-* [IPv6](/faqs/ipv6/): bereikbaar via modern adres?
+* [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?
 * [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?
 * [HTTPS](/faqs/https/): beveiligde verbinding?
 
