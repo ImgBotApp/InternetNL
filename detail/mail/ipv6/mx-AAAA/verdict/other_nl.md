@@ -1,1 +1,1 @@
-Jouw domein bevat geen mailservers (MX) waardoor het niet mogelijk is om mail te ontvangen. 
+Voor jouw domein zijn geen mailservers ingesteld waardoor het niet mogelijk is om mail te ontvangen.
