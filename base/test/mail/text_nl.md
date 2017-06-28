@@ -1,1 +1,1 @@
-Modern adres? Ondertekend domein? Anti-phishing? Beveiligd transport?
+Modern adres? Ondertekend domein? Anti-phishing? Beveiligde verbinding?
