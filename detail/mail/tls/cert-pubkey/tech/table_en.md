@@ -1,1 +1,1 @@
-Mail server domain (MX)|Public key with insufficient length
+Domain of mail server (MX)|Public key with insufficient length
