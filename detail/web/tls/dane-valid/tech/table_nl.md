@@ -1,1 +1,1 @@
-Webserver|DANE geldig
+Webserver-IP-adres|DANE geldig
