@@ -1,1 +1,1 @@
-Mail server offers STARTTLS.
+Your mail server offers STARTTLS.
