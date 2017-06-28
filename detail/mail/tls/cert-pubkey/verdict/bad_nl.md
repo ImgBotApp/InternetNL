@@ -1,1 +1,1 @@
-Eén of meer van je mailservercertificaten bevatten een publieke sleutel met een *onveilige* lengte.
+Tenminste één van je mailservercertificaten bevat een publieke sleutel met een *onveilige* lengte.
