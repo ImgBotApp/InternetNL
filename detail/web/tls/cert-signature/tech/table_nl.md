@@ -1,1 +1,1 @@
-Webserver|Onveilig hashing-algoritme
+Webserver-IP-adres|Onveilig hashing-algoritme
