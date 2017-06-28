@@ -1,1 +1,1 @@
-Your mail server supports sufficiently secure TLS versions.
+All your mail servers support sufficiently secure TLS versions.
