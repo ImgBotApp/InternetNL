@@ -1,1 +1,1 @@
-HTTPS support
+HTTPS available
