@@ -1,1 +1,1 @@
-Web server|DANE valid
+Web server IP address|DANE valid
