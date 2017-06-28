@@ -1,1 +1,1 @@
-Webserver|Onvertrouwde certificaatketen
+Webserver-IP-adres|Onvertrouwde certificaatketen
