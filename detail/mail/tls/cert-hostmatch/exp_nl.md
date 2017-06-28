@@ -1,1 +1,2 @@
-We check that the domain matches the domain name on the certificate.
+We testen of de domeinnaam van je mailserver overeenkomt met de domeinnaam op het certificaat. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1.
+
