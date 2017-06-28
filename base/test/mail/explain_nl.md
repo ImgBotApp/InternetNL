@@ -3,7 +3,7 @@ Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvo
 * [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?
 * [DNSSEC](/faqs/dnssec/): domeinnamen ondertekend?
 * [DMARC, DKIM en SPF](/faqs/mailauth/): echtheidswaarmerken tegen e-mailphishing?
-* [STARTTLS en DANE](/faqs/starttls/): beveiligde verbinding mogelijk?
+* [STARTTLS](/faqs/starttls/): beveiligde verbinding mogelijk?
 
 Let op: sommige standaarden zijn zelfs relevant als je je domeinnaam niet gebruikt voor het ontvangen en verzenden van e-mail.
 
