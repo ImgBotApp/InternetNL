@@ -21,6 +21,7 @@ De IPv6-standaard dateert van 1998 en is de opvolger van het oude IPv4. Een voor
 Wereldwijd is IPv6 bezig met een flinke opmars. Het aantal servers en ook eindgebruikers groeit al jaren bijna exponentieel. Grote partijen zoals Google, Facebook en XS4ALL zien de voordelen en kiezen voor IPv6. Nederland loopt helaas achter bij veel andere vergelijkbare landen, zeker als het gaat om eindgebruikers die over IPv6-connectiviteit beschikken. Landen als Duitsland en België doen het bijvoorbeeld veel beter.
 
 Statistieken van IPv6-adoptie:
+
 * [APNIC IPv6 Measurements](https://stats.labs.apnic.net/ipv6/)
 * [World IPv6 Launch](http://www.worldipv6launch.org/measurements/)
 * [Akamai IPv6 adoption](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)
@@ -35,6 +36,7 @@ IPv5 is ooit bedacht als een standaard voor internettelefonie. IPv5 is niet verd
 ## II. Voor eigenaren/beheerders
 ### Aandachtspunten e-mailserver op IPv6
 Verschillende e-mailproviders (Gmail, Office 365) stellen de volgende twee eisen aan IPv6 ontvangen e-mail:
+
 * Een mailserver op IPv6 vereist het gebruik van een reverse DNS opvraagbaar PTR-record. Google vereist daarnaast dat dit IPv6 adres (wat is vastgelegd in het PTR-record) overeenkomt met het IPv6 adres wat wordt verkregen via de normale omzetting van de PTR DNS-naam naar een IPv6 adres. Dit wordt "forward-confirmed reverse DNS" genoemd.
 * Via een IPv6 mailserver verzonden e-mail moet óf de SPF-controle (“mag dit IP-adres mailen voor dit afzenderdomein?”) óf de DKIM-controle (“is deze mail ondertekend met de geldige digitale handtekening van dit afzenderdomein?”) succesvol doorstaan.
 
