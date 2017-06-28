@@ -1,1 +1,1 @@
-Web server|HTTPS redirection
+Webserver-IP-adres|HTTPS afgedwongen
