@@ -1,1 +1,1 @@
-At least one of your mail server does *not* supports sufficiently secure cipher suites.
+At least one of your mail servers does *not* supports sufficiently secure cipher suites.
