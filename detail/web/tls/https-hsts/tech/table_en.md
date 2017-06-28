@@ -1,1 +1,1 @@
-Web server|HSTS policy
+Web server IP address|HSTS policy
