@@ -1,1 +1,2 @@
-Sufficiently secure cipher methods not supported.
+Tenminste één van je mailservers ondersteunt *geen* voldoende veilige cipher suites.
+
