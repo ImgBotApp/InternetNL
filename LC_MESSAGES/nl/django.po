@@ -186,7 +186,7 @@ msgstr "Gebruiksvoorwaarden"
 msgid "base test connection explain"
 msgstr "Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou gebruikte internetverbinding ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): zijn websites met moderne adressen voor jou bereikbaar?\n"
+"* [IPv6](/faqs/ipv6/): zijn websites met moderne internetadressen voor jou bereikbaar?\n"
 "* [DNSSEC](/faqs/dnssec/): worden domeinnaam-handtekeningen voor jou gecontroleerd?\n"
 "\n"
 "## Testrapport\n"
@@ -216,10 +216,10 @@ msgstr "Over de test"
 msgid "base test mail explain"
 msgstr "Nadat je een e-mailadres hebt opgegeven, testen we of de achterliggende e-mailvoorziening ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): bereikbaar op modern adres?\n"
-"* [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?\n"
-"* [DMARC, DKIM en SPF](/faqs/mailauth/): beschermd tegen phishing?\n"
-"* [STARTTLS en DANE](/faqs/starttls/): beveiligd transport mogelijk?\n"
+"* [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?\n"
+"* [DNSSEC](/faqs/dnssec/): domeinnamen ondertekend?\n"
+"* [DMARC, DKIM en SPF](/faqs/mailauth/): echtheidswaarmerken tegen e-mailphishing?\n"
+"* [STARTTLS](/faqs/starttls/): beveiligde verbinding mogelijk?\n"
 "\n"
 "Let op: sommige standaarden zijn zelfs relevant als je je domeinnaam niet gebruikt voor het ontvangen en verzenden van e-mail.\n"
 "\n"
@@ -241,7 +241,7 @@ msgid "base test mail label"
 msgstr "Test je e-mail"
 
 msgid "base test mail text"
-msgstr "Modern adres? Ondertekend domein? Anti-phishing? Beveiligd transport?"
+msgstr "Modern adres? Ondertekend domein? Anti-phishing? Beveiligde verbinding?"
 
 msgid "base test mail title"
 msgstr "Over de e-mailtest"
@@ -255,7 +255,7 @@ msgstr "Start test"
 msgid "base test website explain"
 msgstr "Nadat je een domeinnaam van een website heb opgegeven, testen we of de website ondersteuning biedt voor de onderstaande moderne internetstandaarden.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): bereikbaar op modern adres?\n"
+"* [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?\n"
 "* [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?\n"
 "* [HTTPS](/faqs/https/): beveiligde verbinding?\n"
 "\n"
@@ -651,7 +651,7 @@ msgid "detail gen-tls cert-trusted-CA-OK"
 msgstr "de certificaat-keten is compleet en ondertekend door een vertrouwde root CA"
 
 msgid "detail mail auth dkim exp"
-msgstr "We testen of je domeinnaam een DKIM-record heeft. Een ontvangende mailserver kan de publieke sleutel in het DKIM-record gebruiken om de handtekening van een e-mail van jouw domein te controleren en de authenticiteit van de e-mail te bepalen. Op dit moment zijn we niet in staat om te beoordelen of de publieke sleutel in je DKIM-record geldig is, omdat we daarvoor een e-mail van jouw domein zouden moeten ontvangen. Om te slagen voor deze test verwachten we dat je nameserver `NOERROR` antwoordt op onze 'empty non-terminal' bevraging voor `_domainkey.example.nl`. Sommige nameservers die zich niet houden aan de standaard RFC2308 antwoorden foutief `NXDOMAIN` in plaats van `NOERROR` als er een DKIM-record bestaat. Dit maakt het detecteren van het DKIM-record voor ons onmogelijk. "
+msgstr "We testen of je domeinnaam een DKIM-record heeft. Een ontvangende mailserver kan de publieke sleutel in het DKIM-record gebruiken om de handtekening van een e-mail met jouw domein als afzender te controleren en de authenticiteit van de e-mail te bepalen. Op dit moment zijn we niet in staat om te beoordelen of de publieke sleutel in je DKIM-record geldig is, omdat we daarvoor een e-mail van jouw domein zouden moeten ontvangen. Om te slagen voor deze test verwachten we dat je nameserver `NOERROR` antwoordt op onze 'empty non-terminal' bevraging voor `_domainkey.example.nl`. Sommige nameservers die zich niet houden aan de standaard RFC2308 antwoorden foutief `NXDOMAIN` in plaats van `NOERROR` als er een DKIM-record bestaat. Dit maakt het detecteren van het DKIM-record voor ons onmogelijk. "
 
 msgid "detail mail auth dkim label"
 msgstr "DKIM"
@@ -663,7 +663,7 @@ msgid "detail mail auth dkim verdict good"
 msgstr "Je domeinnaam heeft een DKIM-record."
 
 msgid "detail mail auth dmarc exp"
-msgstr "We testen of DMARC beschikbaar is voor jouw domein. Een ontvangende mailserver kan de DMARC-policy gebruiken om te bepalen hoe om te gaan met een e-mail vanaf jouw domein waarvan de authenticatie met zowel DKIM als SPF faalt, en deze kan je e-mailadres uit het DMARC-record gebruiken om je hierover feedbackrapporten te sturen. Op dit moment beoordelen we de DMARC-policy nog niet. Zelfs zonder een actieve policy kan DMARC nuttig zijn om met behulp van DMARC-rapporten meer inzicht te verkrijgen in legale en illegale uitgaande e-mailstromen. Maar om DMARC effectief te laten zijn tegen misbruik van je domein voor phishing en spam, is het noodzakelijk dat je een actieve policy ('quarantaine' of 'reject') instelt. Als een 'quick win' adviseren we sowieso een reject policy in te stellen voor (sub-)domeinen die jezelf niet gebruikt om mail vanaf te versturen zodat anderen deze niet kunnen misbruiken."
+msgstr "We testen of DMARC beschikbaar is voor jouw domein. Een ontvangende mailserver kan de DMARC-policy gebruiken om te bepalen hoe om te gaan met een e-mail met jouw domein als verzender waarvan de authenticatie met zowel DKIM als SPF faalt, en deze kan je e-mailadres uit het DMARC-record gebruiken om je hierover feedbackrapporten te sturen. Op dit moment beoordelen we de DMARC-policy nog niet. Zelfs zonder een actieve policy kan DMARC nuttig zijn om met behulp van DMARC-rapporten meer inzicht te verkrijgen in legale en illegale uitgaande e-mailstromen. Maar om DMARC effectief te laten zijn tegen misbruik van je domein voor phishing en spam, is het noodzakelijk dat je een actieve policy (`quarantaine` of `reject`) instelt. Als een 'quick win' adviseren we sowieso een reject policy in te stellen voor (sub-)domeinen die jezelf niet gebruikt om mail vanaf te versturen zodat anderen deze niet kunnen misbruiken. Let op: DMARC vereist dat het SPF-domein (envelope sender, d.w.z. return-path dat terugkomt in `MAIL FROM`) en het DKIM-domein (`d=`) gelijk zijn aan het verzenddomein in het mailbericht (`From:`)."
 
 msgid "detail mail auth dmarc label"
 msgstr "DMARC"
@@ -678,7 +678,7 @@ msgid "detail mail auth dmarc verdict good"
 msgstr "Je domeinnaam heeft een DMARC-record."
 
 msgid "detail mail auth spf exp"
-msgstr "We testen of je domeinnaam een SPF-record heeft. Een ontvangende mailserver kan de 'whitelisted' IP-adressen van je verzendende mailservers en de bijbehorende policy uit het SPF-record gebruiken om de authenticiteit van een e-mail vanaf jouw domein te bepalen."
+msgstr "We testen of je domeinnaam een SPF-record heeft. Een ontvangende mailserver kan de 'whitelisted' IP-adressen van je verzendende mailservers en de bijbehorende policy uit het SPF-record gebruiken om de authenticiteit van een e-mail met jouw domein als verzender. Op dit moment beoordelen we de SPF-policy nog niet. Om SPF effectief te laten zijn tegen misbruik van je domein voor phishing en spam, is het noodzakelijk dat je een actieve policy d.w.z. `~all` (soft fail) of `-all` (hard fail) instelt."
 
 msgid "detail mail auth spf label"
 msgstr "SPF"
@@ -696,10 +696,10 @@ msgid "detail mail dnssec mx-exists exp"
 msgstr "We testen of de nameservers van je mailserverdomeinen (MX) een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in deze subtest maar wel in de volgende subtest."
 
 msgid "detail mail dnssec mx-exists label"
-msgstr "DNSSEC aanwezig"
+msgstr "DNSSEC aanwezigheid"
 
 msgid "detail mail dnssec mx-exists tech table"
-msgstr "Mailserverdomein|DNSSEC aanwezig"
+msgstr "Domein van mailserver (MX)|DNSSEC aanwezig"
 
 msgid "detail mail dnssec mx-exists verdict bad"
 msgstr "Eén of meer van jouw mailserverdomeinen (MX) zijn onveilig oftewel 'insecure', omdat deze *niet* zijn ondertekend met DNSSEC."
@@ -717,10 +717,10 @@ msgid "detail mail dnssec mx-valid exp"
 msgstr "We testen of je mailserverdomeinen (MX) zijn ondertekend met een geldige DNSSEC-handtekening die ze veilig oftewel 'secure' maakt."
 
 msgid "detail mail dnssec mx-valid label"
-msgstr "DNSSEC geldig"
+msgstr "DNSSEC geldigheid"
 
 msgid "detail mail dnssec mx-valid tech table"
-msgstr "Mailserverdomein|Status"
+msgstr "Domein van mailserver (MX)|Status"
 
 msgid "detail mail dnssec mx-valid verdict bad"
 msgstr "Eén of meerdere van je mailserverdomeinen zijn onbetrouwbaar oftewel 'bogus', omdat hun DNSSEC-handtekeningen niet geldig zijn. Óf iemand manipuleerde de antwoorden van de nameservers, óf je mailserverdomeinen hebben serieuze DNSSEC-configuratiefouten. Dit laatste maakt je ontvangende mailserver onbereikbaar voor alle verzendende mailservers die DNSSEC-handtekeningen conroleren. Neem zo spoedig mogelijk contact op met de nameserver-beheerder (vaak je mailprovider)."
@@ -735,7 +735,7 @@ msgid "detail mail ipv6 mx-AAAA label"
 msgstr "IPv6-adressen voor mail server(s)"
 
 msgid "detail mail ipv6 mx-AAAA tech table"
-msgstr "Mailserver (MX)|IPv6-adres|IPv4-adres"
+msgstr "Domein van mail server (MX)|IPv6-adres|IPv4-adres"
 
 msgid "detail mail ipv6 mx-AAAA verdict bad"
 msgstr "Eén of meer ontvangende mailservers (MX) op jouw domeinnaam hebben *geen* IPv6-adres."
@@ -744,7 +744,7 @@ msgid "detail mail ipv6 mx-AAAA verdict good"
 msgstr "Alle ontvangende mailservers (MX) op jouw domeinnaam hebben een IPv6-adres."
 
 msgid "detail mail ipv6 mx-AAAA verdict other"
-msgstr "Jouw domein bevat geen mailservers (MX) waardoor het niet mogelijk is om mail te ontvangen. "
+msgstr "Voor jouw domein zijn geen mailservers ingesteld waardoor het niet mogelijk is om mail te ontvangen."
 
 msgid "detail mail ipv6 mx-reach exp"
 msgstr "We testen of we je mailserver(s) kunnen bereiken via IPv6 op poort 25. We testen alle IPv6-adressen die we ontvangen van de nameservers van je mailservers. Een deelscore wordt gegeven als niet alle IPv6-adressen bereikbaar zijn. Als een IPv6-adres (syntactisch) ongeldig is, dan beschouwen we dat als onbereikbaar."
@@ -753,7 +753,7 @@ msgid "detail mail ipv6 mx-reach label"
 msgstr "IPv6-bereikbaarheid van mailserver(s)"
 
 msgid "detail mail ipv6 mx-reach tech table"
-msgstr "Mail server (MX)|Onbereikbaar IPv6-adres"
+msgstr "Domein van mailserver (MX)|Onbereikbaar IPv6-adres"
 
 msgid "detail mail ipv6 mx-reach verdict bad"
 msgstr "Eén of meer van je mailservers (MX) met een IPv6-adres zijn *niet* bereikbaar via IPv6."
@@ -762,25 +762,25 @@ msgid "detail mail ipv6 mx-reach verdict good"
 msgstr "Ieder van je mailservers (MX) met een IPv6-adres is bereikbaar via IPv6."
 
 msgid "detail mail tls cert-hostmatch tech table"
-msgstr "Mail server|Unmatched domains on the certificate"
+msgstr "Domein van mailserver (MX)|Niet-overeenkomende domeinen op certificaat"
 
 msgid "detail mail tls cert-pubkey tech table"
-msgstr "Mail server|Public key with insufficient length"
+msgstr "Domein van mailserver (MX)|Publieke sleutel met onvoldoende lengte"
 
 msgid "detail mail tls cert-signature tech table"
-msgstr "Mail server|Insecure hash method"
+msgstr "Domein van mailserver (MX)||Onveilig hashing-algoritme"
 
 msgid "detail mail tls cert-trust tech table"
-msgstr "Mail server|Bad certificate chain"
+msgstr "Mailserverdomein (MX)|Onvertrouwde certificaatketen"
 
 msgid "detail mail tls ciphers exp"
-msgstr "We check if the available ipher methods are sufficiently secure."
+msgstr "We testen of je mailservers voldoende veilige cipher suites ondersteunen. Een cipher suite is een samenstelling van algoritmes voor authenticatie en encryptie die geldig is volgens de TLS-standaard. Een mailserver kan meerdere cipher suites ondersteunen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B2-1 t/m B2-4."
 
 msgid "detail mail tls ciphers label"
-msgstr "Cipher methods"
+msgstr "Cipher suites"
 
 msgid "detail mail tls ciphers tech table"
-msgstr "Mail server|Sufficiently secure cipher methods"
+msgstr "Mailserver|Veilige cipher suites"
 
 msgid "detail mail tls ciphers verdict bad"
 msgstr "Sufficiently secure cipher methods not supported."
@@ -795,40 +795,40 @@ msgid "detail mail tls dane-valid tech table"
 msgstr "Mail server|valid TLSA"
 
 msgid "detail mail tls starttls-exists exp"
-msgstr "We check if STARTTLS is enabled on the mail server."
+msgstr "We testen of je mailservers bereikbaar zijn via STARTTLS. Als dat het geval is, dan testen we in de navolgende testonderdelen of STARTTLS ook voldoende veilig is geconfigureerd. In het geval er geen mailserver (MX) is gedefineerd, geven we een notificatie en we voeren andere subtesten van de mailtest die nog steeds relevant zijn gewoon uit."
 
 msgid "detail mail tls starttls-exists label"
-msgstr "TLS"
+msgstr "STARTTLS beschikbaar"
 
 msgid "detail mail tls starttls-exists tech table"
-msgstr "Mail server|STARTTLS"
+msgstr "Domein van mailserver (MX)|STARTTLS"
 
 msgid "detail mail tls starttls-exists verdict bad"
-msgstr "Mail server does not offer STARTTLS."
+msgstr "Tenminste één van je mailservers biedt *geen* STARTTLS aan."
 
 msgid "detail mail tls starttls-exists verdict good"
-msgstr "Mail server offers STARTTLS."
+msgstr "Ieder van je mailservers biedt STARTTLS aan."
 
 msgid "detail mail tls starttls-exists verdict other"
-msgstr "Mail server was unreachable."
+msgstr "Je mailserver is niet bereikbaar."
 
 msgid "detail mail tls starttls-exists verdict other-2"
-msgstr "No mail servers (MX) set."
+msgstr "Voor jouw domein zijn geen mailservers ingesteld waardoor het niet mogelijk is om mail te ontvangen. "
 
 msgid "detail mail tls version exp"
-msgstr "We check if the available TLS versions are sufficiently secure."
+msgstr "We testen of je ontvangende mailservers (MX) veilige TLS-versies ondersteunt. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1."
 
 msgid "detail mail tls version label"
-msgstr "TLS version"
+msgstr "TLS-versie"
 
 msgid "detail mail tls version tech table"
-msgstr "Mail server|Sufficiently secure TLS versions"
+msgstr "Domein van mailserver (MX)|Veilige TLS-versies"
 
 msgid "detail mail tls version verdict bad"
-msgstr "Sufficiently secure TLS versions not supported."
+msgstr "Tenminste één van je mailservers ondersteunt *geen* voldoende veilige TLS-versies."
 
 msgid "detail mail tls version verdict good"
-msgstr "Sufficiently secure TLS versions supported."
+msgstr "Ieder van je mailservers ondersteunt voldoende veilige TLS-versies."
 
 msgid "detail mailauth dkim record aanwezig"
 msgstr "er is een DKIM-record (TXT) aanwezig"
@@ -921,7 +921,7 @@ msgid "detail web dnssec exists exp"
 msgstr "We testen of de nameservers van je domeinnaam een DNSSEC-handtekening teruggeven. Let op: de geldigheid van de ondertekening wordt niet getest in deze subtest maar wel in de volgende subtest."
 
 msgid "detail web dnssec exists label"
-msgstr "DNSSEC aanwezig"
+msgstr "DNSSEC aanwezigheid"
 
 msgid "detail web dnssec exists tech table"
 msgstr "Domein|Registrar"
@@ -942,7 +942,7 @@ msgid "detail web dnssec valid exp"
 msgstr "We testen of je domeinnaam is ondertekend met een geldige DNSSEC-handtekening."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC geldig"
+msgstr "DNSSEC geldigheid"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domein|Status"
@@ -1080,7 +1080,7 @@ msgid "detail web tls https-exists exp"
 msgstr "We testen of je website bereikbaar is via HTTPS. Als dat het geval is, dan testen we in de navolgende testonderdelen of HTTPS ook voldoende veilig is geconfigureerd. HTTPS garandeert de vertrouwelijkheid en integriteit van uitgewisselde informatie. Omdat het van de situatie afhangt hoe (privacy-)gevoelig en waardevol informatie is, is een veilige HTTPS-configuratie voor iedere website van belang. Ook triviale, publieke informatie kan door omstandigheden voor de gebruiker zeer gevoelig en waardevol zijn."
 
 msgid "detail web tls https-exists label"
-msgstr "HTTPS aanwezig"
+msgstr "HTTPS beschikbaar"
 
 msgid "detail web tls https-exists tech table"
 msgstr "Webserver|HTTPS aanwezig"
@@ -1212,100 +1212,100 @@ msgid "detail web-mail ipv6 ns-reach verdict good"
 msgstr "Alle nameservers die een IPv6-adres hebben zijn bereikbaar via IPv6."
 
 msgid "detail web tls cert-hostmatch exp"
-msgstr "We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat. Het kan handig zijn om meerdere domeinnamen (bijvoorbeeld de domeinnaam met en zonder www) als Subject Alternative Name in het certificaat op te nemen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1."
+msgstr "We testen of de domeinnaam van je website overeenkomt met de domeinnaam op het certificaat. Het kan handig zijn om meerdere domeinnamen (bijvoorbeeld de domeinnaam met en zonder www) als Subject Alternative Name (SAN) in het certificaat op te nemen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1."
 
 msgid "detail mail tls cert-hostmatch exp"
-msgstr "We check that the domain matches the domain name on the certificate."
+msgstr "We testen of de domeinnaam van je mailserver (MX) overeenkomt met de domeinnaam op het certificaat. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1."
 
 msgid "detail web tls cert-hostmatch label"
 msgstr "Domeinnaam op certificaat"
 
 msgid "detail mail tls cert-hostmatch label"
-msgstr "Certificates' domain name"
+msgstr "Domeinnaam op certificaat"
 
 msgid "detail web tls cert-hostmatch verdict bad"
 msgstr "De domeinnaam van je website komt *niet* overeen met de domeinnaam op je websitecertificaat."
 
 msgid "detail mail tls cert-hostmatch verdict bad"
-msgstr "Hostname of website does not match certificate."
+msgstr "De domeinnaam van je mailserver komt *niet* overeen met de domeinnaam op je mailservercertificaat."
 
 msgid "detail web tls cert-hostmatch verdict good"
 msgstr "De domeinnaam van je website komt overeen met de domeinnaam op je websitecertificaat."
 
 msgid "detail mail tls cert-hostmatch verdict good"
-msgstr "Hostname of website matches certificate."
+msgstr "De domeinnaam van je mailserver komt overeen met de domeinnaam op je mailservercertificaat."
 
 msgid "detail web tls cert-pubkey exp"
 msgstr "We testen of de bitlengte van de publieke sleutel van je websitecertificaat voldoende veilig is. Let op: het is ook belangrijk dat de bitlengte van de geheime sleutel voldoende veilig is. Dit kunnen we vanwege de geheime aard echter niet testen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-3 t/m B3-5."
 
 msgid "detail mail tls cert-pubkey exp"
-msgstr "We check the certificates public keys' length."
+msgstr "We testen of de bitlengte van de publieke sleutel van je mailservercertificaat voldoende veilig is. Let op: het is ook belangrijk dat de bitlengte van de geheime sleutel voldoende veilig is. Dit kunnen we vanwege de geheime aard echter niet testen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-3 t/m B3-5."
 
 msgid "detail web tls cert-pubkey label"
 msgstr "Publieke sleutel van certificaat"
 
 msgid "detail mail tls cert-pubkey label"
-msgstr "Certificates' public keys"
+msgstr "Publieke sleutel van certificaat"
 
 msgid "detail web tls cert-pubkey verdict bad"
 msgstr "Je websitecertificaat bevat een publieke sleutel met een *onveilige* lengte."
 
 msgid "detail mail tls cert-pubkey verdict bad"
-msgstr "Some certificates contain public keys of insufficient length."
+msgstr "Tenminste één van je mailservercertificaten bevat een publieke sleutel met een *onveilige* lengte."
 
 msgid "detail web tls cert-pubkey verdict good"
 msgstr "Je websitecertificaat bevat een publieke sleutel met een veilige lengte."
 
 msgid "detail mail tls cert-pubkey verdict good"
-msgstr "The public keys in the certificates are sufficiently long."
+msgstr "Ieder van je mailservercertificaten bevat een publieke sleutel met een veilige lengte."
 
 msgid "detail web tls cert-signature exp"
-msgstr "We testen of de ondertekende fingerprint van het certificaat is gemaakt met een veilig algoritme voor hashing. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-2."
+msgstr "We testen of de ondertekende fingerprint van het websitecertificaat is gemaakt met een veilig algoritme voor hashing. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-2."
 
 msgid "detail mail tls cert-signature exp"
-msgstr "We check the certificates's signature."
+msgstr "We testen of de ondertekende fingerprint van het mailservercertificaat is gemaakt met een veilig algoritme voor hashing. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-2."
 
 msgid "detail web tls cert-signature label"
 msgstr "Handtekening van certificaat"
 
 msgid "detail mail tls cert-signature label"
-msgstr "Certificates' signature"
+msgstr "Handtekening van certificaat"
 
 msgid "detail web tls cert-signature verdict bad"
 msgstr "Je websitecertificaat is ondertekend met een algoritme voor hashing dat *niet* veilig is."
 
 msgid "detail mail tls cert-signature verdict bad"
-msgstr "Some certificates are signed using a hash method that is not secure."
+msgstr "Tenminste één van je mailservercertificaten is ondertekend met een algoritme voor hashing dat *niet* veilig is."
 
 msgid "detail web tls cert-signature verdict good"
 msgstr "Je websitecertificaat is ondertekend met een voldoende veilig algoritme voor hashing."
 
 msgid "detail mail tls cert-signature verdict good"
-msgstr "All certificates are signed using a sufficiently secure hash method."
+msgstr "Ieder van je mailservercertificatens ondertekend met een voldoende veilig algoritme voor hashing."
 
 msgid "detail web tls cert-trust exp"
 msgstr "We testen of we een geldige vertrouwensketen voor je websitecertificaat kunnen opbouwen. Er is sprake van een geldige vertrouwensketen, als je certificaat is uitgegeven door een [vertrouwde certificaatautoriteit](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/) én je webserver alle noodzakelijke tussenliggende certificaten presenteert. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-6."
 
 msgid "detail mail tls cert-trust exp"
-msgstr "We check the certificate chain."
+msgstr "We testen of we een geldige vertrouwensketen voor je mailservercertificaat kunnen opbouwen. Er is sprake van een geldige vertrouwensketen, als je certificaat is uitgegeven door een [vertrouwde certificaatautoriteit](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/) én je ontvangende mailserver alle noodzakelijke tussenliggende certificaten presenteert. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-6."
 
 msgid "detail web tls cert-trust label"
 msgstr "Vertrouwensketen van certificaat"
 
 msgid "detail mail tls cert-trust label"
-msgstr "Certificates' chain of trust"
+msgstr "Vertrouwensketen van certificaat"
 
 msgid "detail web tls cert-trust verdict bad"
 msgstr "De vertrouwensketen van je websitecertificaat is *niet* compleet en/of *niet* ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail mail tls cert-trust verdict bad"
-msgstr "The certificate chain is not signed by a trusted root CA."
+msgstr "De vertrouwensketen van tenminste één van je mailservercertificaten is *niet* compleet en/of *niet* ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail web tls cert-trust verdict good"
 msgstr "De vertrouwensketen van je websitecertificaat is compleet en ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail mail tls cert-trust verdict good"
-msgstr "The certificate chain is complete and signed by a trusted root CA."
+msgstr "De vertrouwensketen van ieder van je mailservercertificaten is compleet en ondertekend door een vertrouwde certificaatautoriteit."
 
 msgid "detail web tls dane-exists exp"
 msgstr "We testen of de nameserver van je domeinnaam een TLSA-record voor DANE bevat. Met DANE kan je informatie over jouw websitecertificaat publiceren in een speciaal DNS-record, een TLSA-record. Clients, zoals webbrowsers, kunnen het certificaat nu niet alleen via de certificaatautoriteit, maar ook via het TLSA-record controleren op authenticiteit. DNSSEC is een noodzakelijke randvoorwaarde voor DANE. Let op: de geldigheid van de DANE-vingerafdruk wordt getest in het volgende testonderdeel. "
@@ -1341,7 +1341,7 @@ msgid "detail web tls dane-valid label"
 msgstr "DANE geldigheid"
 
 msgid "detail mail tls dane-valid label"
-msgstr "TLSA record validity (DANE)"
+msgstr "DANE geldigheid"
 
 msgid "detail web tls dane-valid verdict bad"
 msgstr "De DANE-fingerprint op je domeinnaam is *niet* geldig voor je websitecertificaat. Óf iemand manipuleerde het antwoord van jouw nameserver, óf je domeinnaam heeft een serieuze DANE-configuratiefout. Dit laatste maakt je domeinnaam onbereikbaar voor alle gebruikers die DANE-vingerafdrukken conroleren. Neem zo spoedig mogelijk contact op met je nameserver-beheerder en/of hostingprovider."
@@ -1541,6 +1541,7 @@ msgstr "## I. Algemeen\n"
 "Wereldwijd is IPv6 bezig met een flinke opmars. Het aantal servers en ook eindgebruikers groeit al jaren bijna exponentieel. Grote partijen zoals Google, Facebook en XS4ALL zien de voordelen en kiezen voor IPv6. Nederland loopt helaas achter bij veel andere vergelijkbare landen, zeker als het gaat om eindgebruikers die over IPv6-connectiviteit beschikken. Landen als Duitsland en België doen het bijvoorbeeld veel beter.\n"
 "\n"
 "Statistieken van IPv6-adoptie:\n"
+"\n"
 "* [APNIC IPv6 Measurements](https://stats.labs.apnic.net/ipv6/)\n"
 "* [World IPv6 Launch](http://www.worldipv6launch.org/measurements/)\n"
 "* [Akamai IPv6 adoption](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)\n"
@@ -1555,6 +1556,7 @@ msgstr "## I. Algemeen\n"
 "## II. Voor eigenaren/beheerders\n"
 "### Aandachtspunten e-mailserver op IPv6\n"
 "Verschillende e-mailproviders (Gmail, Office 365) stellen de volgende twee eisen aan IPv6 ontvangen e-mail:\n"
+"\n"
 "* Een mailserver op IPv6 vereist het gebruik van een reverse DNS opvraagbaar PTR-record. Google vereist daarnaast dat dit IPv6 adres (wat is vastgelegd in het PTR-record) overeenkomt met het IPv6 adres wat wordt verkregen via de normale omzetting van de PTR DNS-naam naar een IPv6 adres. Dit wordt \"forward-confirmed reverse DNS\" genoemd.\n"
 "* Via een IPv6 mailserver verzonden e-mail moet óf de SPF-controle (“mag dit IP-adres mailen voor dit afzenderdomein?”) óf de DKIM-controle (“is deze mail ondertekend met de geldige digitale handtekening van dit afzenderdomein?”) succesvol doorstaan.\n"
 "\n"
@@ -1620,6 +1622,7 @@ msgstr "## I. Algemeen\n"
 "\n"
 "### Hoe onderteken ik mijn domeinnaam met DNSSEC?\n"
 "Als jouw domeinnaam nog niet beveiligd is met DNSSEC:\n"
+"\n"
 "1. Vraag jouw registrar om DNSSEC op korte termijn te ondersteunen;\n"
 "2. Als hij dat niet kan, kies dan voor een registrar die wel DNSSEC ondersteunt. Voor .nl-domeinnamen zie het [registraroverzicht](https://www.sidn.nl/registrars/?name=&country=&dnssec=true) van SIDN;\n"
 "3. Verhuis je domeinnaam naar een registrar naar keuze. Voor verhuizing van .nl-domeinnamen zie [domeinnaam verhuizen](https://www.sidn.nl/a/nl-domeinnaam/domeinnaam-verhuizen) van SIDN.\n"
@@ -1659,6 +1662,7 @@ msgstr "## I. Algemeen\n"
 "Als een bezoeker een onbeveiligde HTTP-verbinding heeft met een website, dan kan een kwaadwillende eenvoudig gegevens onderweg afluisteren of aanpassen, of zelfs het contact volledig overnemen. Bij HTTPS is TLS (opvolger van SSL) toegevoegd aan HTTP om de verbinding te beveiligen. HTTPS werkt tussen de webclient (vaak een browser) van de bezoeker en de webserver van de aanbieder van de website of webservice.\n"
 "\n"
 "Mits veilig geconfigureerd, zorgt HTTPS voor de volgende drie beveiligingsaspecten.\n"
+"\n"
 "* **Vertrouwelijkheid**: De verbinding tussen de bezoeker en de website is versleuteld waardoor het onmogelijk is voor kwaadwillenden om de webcontent, URL's, cookies en andere gevoelige (meta)data onderweg af te luisteren.\n"
 "* **Authenticiteit**: De bezoeker kan controleren of hij/zij direct met de website die hoort bij de gebruikte domeinnaam contact heeft, en niet met een vervalste website of via een kwaadwillende tussenpersoon ('man-in-the-middle').\n"
 "* **Integriteit**: Een kwaadwillende kan de gegevens tussen de bezoeker en de website onderweg niet aanpassen of zaken (bijv. malware) toevoegen.\n"
@@ -1685,6 +1689,7 @@ msgstr "## I. Algemeen\n"
 "\n"
 "### Hoe kan ik HTTPS implementeren?\n"
 "Voor het toepassen van HTTPS in de praktijk, kunnen (afhankelijk van de context) de volgende stappen worden gezet:\n"
+"\n"
 "1. Inventariseer alle domeinen en stel vast (op basis van een classificatie van de verwerkte gegevens) voor welke domeinen HTTPS strikt noodzakelijk is. Overweeg daarnaast om alle domeinen van een HTTPS verbinding te voorzien.\n"
 "2. Schaf een certificaat aan bij een certificaat autoriteit en installeer dit certificaat op het onderliggende systeem. Houd hierbij rekening met:\n"
 "a. Het type certificaat. Extended Validation (EV) certificaten bieden de meeste zekerheid over de identiteit van de eigenaar van het domein, maar zijn wel duurder dan andere certificaten die minder zekerheid bieden: Organisation Validation (OV) en Domain Validation (DV) certificaten.\n"
@@ -2771,7 +2776,7 @@ msgid "results mail ipv6 mail-servers label"
 msgstr "Mailserver(s)"
 
 msgid "results mail tls starttls label"
-msgstr "STARTTLS"
+msgstr "TLS"
 
 msgid "results no-icon-detail close"
 msgstr "sluit"
@@ -3192,7 +3197,7 @@ msgid "test error summary"
 msgstr "*Fout* tijdens uitvoering van test!"
 
 msgid "test mailauth failed description"
-msgstr "Helaas! Je domein bevat *niet* alle echtheidswaarmerken tegen e-mailphishing. Ontvangers kunnen daardoor *niet* betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails. Vraag je mailprovider om DMARC, DKIM en SPF te activeren."
+msgstr "Helaas! Je domein bevat *niet* alle echtheidswaarmerken tegen e-mailvervalsing. Ontvangers kunnen daardoor *niet* betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails. Vraag je mailprovider om DMARC, DKIM en SPF te activeren."
 
 msgid "test mailauth failed summary"
 msgstr "*Niet* alle echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
@@ -3201,7 +3206,7 @@ msgid "test mailauth label"
 msgstr "DMARC, DKIM en SPF"
 
 msgid "test mailauth passed description"
-msgstr "Goed gedaan! Je domein bevat alle echtheidswaarmerken tegen e-mailphishing. Ontvangers kunnen daardoor betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails."
+msgstr "Goed gedaan! Je domein bevat alle echtheidswaarmerken tegen e-mailvervalsing. Ontvangers kunnen daardoor betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails."
 
 msgid "test mailauth passed summary"
 msgstr "Echtheidswaarmerken tegen e-mailphishing (DMARC, DKIM en SPF)"
@@ -3246,7 +3251,7 @@ msgid "test mailipv6 title"
 msgstr "Bereikbaar via modern internetadres?"
 
 msgid "test mailtls failed description"
-msgstr "Helaas! Verzendende mailservers kunnen met jouw ontvangende mailserver(s) *geen* of een *onvoldoende* beveiligde verbinding opzetten. Passieve aanvallers kunnen daardoor e-mails onderweg naar jou onderscheppen en lezen. Vraag je mailprovider om STARTTLS te activeren en veilig in te stellen. Let op: we bevelen aanvullend aan DANE-records te publiceren om actieve aanvallers die de STARTTLS-versleuteling saboteren tegen te gaan."
+msgstr "Helaas! Verzendende mailservers die STARTTLS ondersteunen, kunnen met jouw ontvangende mailserver(s) *geen* of een *onvoldoende* beveiligde verbinding opzetten. Passieve aanvallers die je mailverkeer afluisteren, kunnen daardoor e-mails onderweg naar jou lezen. Vraag je mailprovider om STARTTLS te activeren en veilig in te stellen. Let op: we bevelen aanvullend aan DANE-records te publiceren om actieve aanvallers, die door manipulatie van het mailverkeer de STARTTLS-encryptie kunnen verwijderen, tegen te gaan."
 
 msgid "test mailtls failed summary"
 msgstr "*Geen* of onvoldoende beveiligde verbinding mogelijk (STARTTLS)"
@@ -3255,7 +3260,7 @@ msgid "test mailtls label"
 msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
-msgstr "Goed gedaan! Verzendende mailservers kunnen met jouw ontvangende mailserver(s) een beveiligde verbinding opzetten. Passieve aanvallers kunnen daardoor e-mails onderweg naar jou niet onderscheppen. We adviseren aanvullend DANE-records te publiceren om tegen te gaan dat actieve aanvallers de STARTTLS-encryptie strippen en het mailverkeer met jouw mailserver afluisteren. Let op: we bevelen aanvullend aan DANE-records te publiceren om actieve aanvallers die de STARTTLS-versleuteling saboteren tegen te gaan."
+msgstr "Goed gedaan! Verzendende mailservers die STARTTLS ondersteunen, kunnen met jouw ontvangende mailserver(s) een beveiligde verbinding opzetten. Passieve aanvallers die je mailverkeer afluisteren, kunnen daardoor e-mails onderweg naar jou niet lezen. Let op: we bevelen aanvullend aan DANE-records te publiceren om actieve aanvallers, die door manipulatie van het mailverkeer de STARTTLS-encryptie kunnen verwijderen, tegen te gaan."
 
 msgid "test mailtls passed summary"
 msgstr "Beveiligde verbinding mogelijk (STARTTLS)"

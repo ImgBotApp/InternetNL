@@ -140,7 +140,7 @@ msgstr "Terms of use"
 msgid "base test connection explain"
 msgstr "After you start the connection test, we will check if your currently used internet connection offers support for the modern internet standards below.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): are websites with modern addresses reachable for you?\n"
+"* [IPv6](/faqs/ipv6/): are websites with modern internet addresses reachable for you?\n"
 "* [DNSSEC](/faqs/dnssec/): are domain signatures validated for you?\n"
 "\n"
 "## Test report\n"
@@ -170,10 +170,10 @@ msgstr "About the test"
 msgid "base test mail explain"
 msgstr "After you enter a domain name of an email service, we will test if the email service offers support for the modern internet standards below.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): reachable on modern address?\n"
-"* [DNSSEC](/faqs/dnssec/): domain signed?\n"
-"* [DMARC, DKIM and SPF](/faqs/mailauth/): protected against phishing?\n"
-"* [STARTTLS and DANE](/faqs/starttls): secure transport possible?\n"
+"* [IPv6](/faqs/ipv6/): reachable via modern internet address?\n"
+"* [DNSSEC](/faqs/dnssec/): domain names signed?\n"
+"* [DMARC, DKIM and SPF](/faqs/mailauth/): authenticity marks against email phishing?\n"
+"* [STARTTLS](/faqs/starttls): secure connection possible?\n"
 "\n"
 "Note: some standards are even relevant if there are no mail servers configured for your domain. \n"
 "\n"
@@ -195,7 +195,7 @@ msgid "base test mail label"
 msgstr "Test your email"
 
 msgid "base test mail text"
-msgstr "Modern address? Signed domain? Anti-phishing? Secure transport?"
+msgstr "Modern address? Signed domain? Anti-phishing? Secure connection?"
 
 msgid "base test mail title"
 msgstr "About the email test"
@@ -209,8 +209,8 @@ msgstr "Start test"
 msgid "base test website explain"
 msgstr "After you enter a domain name of a website, we will test if the website offers support for the modern internet standards below.\n"
 "\n"
-"* [IPv6](/faqs/ipv6/): reachable on modern address?\n"
-"* [DNSSEC](/faqs/dnssec/): domain signed?\n"
+"* [IPv6](/faqs/ipv6/): reachable via modern address?\n"
+"* [DNSSEC](/faqs/dnssec/): domain name signed?\n"
 "* [HTTPS](/faqs/https/): secure connection?\n"
 "\n"
 "## Test report\n"
@@ -600,7 +600,7 @@ msgid "detail gen-tls cert-trusted-CA-OK"
 msgstr "the certificate chain is complete and signed by a trusted root CA"
 
 msgid "detail mail auth dkim exp"
-msgstr "We check if your domain has a DKIM record. A receiving mail server can use the public key in the DKIM record to validate the signature in an email from your domain and determine its authenticity. Currently we are not able to evaluate if the public key in your DKIM record is valid, because we would need to receive an email from your domain to do so. To pass this test we expect your name server to answer `NOERROR` to our 'empty non-terminal' query for `_domainkey.example.nl`. Some name servers that are not conformant with the standard RFC2308 incorrectly answer `NXDOMAIN` in stead of `NOERROR` when there is a DKIM record making it impossbile for us to detect the DKIM record."
+msgstr "We check if your domain has a DKIM record. A receiving mail server can use the public key in the DKIM record to validate the signature in an email with your domain as sender and determine its authenticity. Currently we are not able to evaluate if the public key in your DKIM record is valid, because we would need to receive an email from your domain to do so. To pass this test we expect your name server to answer `NOERROR` to our 'empty non-terminal' query for `_domainkey.example.nl`. Some name servers that are not conformant with the standard RFC2308 incorrectly answer `NXDOMAIN` in stead of `NOERROR` when there is a DKIM record making it impossbile for us to detect the DKIM record."
 
 msgid "detail mail auth dkim label"
 msgstr "DKIM"
@@ -612,7 +612,7 @@ msgid "detail mail auth dkim verdict good"
 msgstr "Your domain has a DKIM record."
 
 msgid "detail mail auth dmarc exp"
-msgstr "We check whether DMARC is available for your domain. A receiving mail server may use your DMARC policy to evaluate how to handle a mail from your domain that could not be authenticated with both DKIM and SPF, and it may use your mail address from the DMARC record to provide feedback reports on this to you. Currently we do not evaluate the DMARC policy. Even without an active policy DMARC can be useful to get more insight in legitimate and illegitimate outbound mail flows through DMARC reports. However in order for DMARC to be effective against abuse of your domain for phishing and spam, you need to set an active policy ('quarantaine' or 'reject'). As a quick win we recommend to set a reject policy for (sub-)domains that you do not use for sending mail to prevent abuse by others."
+msgstr "We check whether DMARC is available for your domain. A receiving mail server may use your DMARC policy to evaluate how to handle a mail with your domain as sender that could not be authenticated with both DKIM and SPF, and it may use your mail address from the DMARC record to provide feedback reports on this to you. Currently we do not evaluate the DMARC policy. Even without an active policy DMARC can be useful to get more insight in legitimate and illegitimate outbound mail flows through DMARC reports. However in order for DMARC to be effective against abuse of your domain for phishing and spam, you need to set an active policy (`quarantaine` or `reject`). As a quick win we recommend to set a reject policy for (sub-)domains that you do not use for sending mail to prevent abuse by others. Note: DMARC requires the SPF domain (envelope sender, i.e. return-path that shows up in `MAIL FROM`) and the DKIM domain (`d=`) to align with the mail body domain (`From:`)."
 
 msgid "detail mail auth dmarc label"
 msgstr "DMARC"
@@ -627,7 +627,7 @@ msgid "detail mail auth dmarc verdict good"
 msgstr "Your domain has a DMARC record."
 
 msgid "detail mail auth spf exp"
-msgstr "We check if your domain has a SPF record. A receiving mail server can use the whitelisted IP addresses of your sending mail servers and the accompanying policy from your SPF record to determine the authenticity of a received email from your domain."
+msgstr "We check if your domain has a SPF record. A receiving mail server can use the whitelisted IP addresses of your sending mail servers and the accompanying policy from your SPF record to determine the authenticity of a received email with your domain as sender. Currently we do not evaluate the SPF policy. In order for SPF to be effective against abuse of your domain for phishing and spam, you need to set an active policy i.e. `~all` (soft fail) or `-all` (hard fail)."
 
 msgid "detail mail auth spf label"
 msgstr "SPF"
@@ -645,10 +645,10 @@ msgid "detail mail dnssec mx-exists exp"
 msgstr "We check if the name servers of your mail server domains (MX) return a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
 
 msgid "detail mail dnssec mx-exists label"
-msgstr "DNSSEC existent"
+msgstr "DNSSEC existence"
 
 msgid "detail mail dnssec mx-exists tech table"
-msgstr "Mail server domain|DNSSEC existent"
+msgstr "Domain of mail server (MX)|DNSSEC existent"
 
 msgid "detail mail dnssec mx-exists verdict bad"
 msgstr "One or more of your mail server domains (MX) are insecure, because they are *not* DNSSEC signed."
@@ -666,10 +666,10 @@ msgid "detail mail dnssec mx-valid exp"
 msgstr "We check if your mail server domains (MX) are signed with a valid signature making them secure."
 
 msgid "detail mail dnssec mx-valid label"
-msgstr "DNSSEC valid"
+msgstr "DNSSEC validity"
 
 msgid "detail mail dnssec mx-valid tech table"
-msgstr "Mail server domain|Status"
+msgstr "Domain of mail server (MX)|Status"
 
 msgid "detail mail dnssec mx-valid verdict bad"
 msgstr "One or more of your mail server domains are 'bogus', because their DNSSEC signatures are not valid. Either someone manipulated the responses from their name servers, or your mail server domains have serious DNSSEC configuration errors. The latter makes your receiving mail server unreachable for any sending mail server that validates DNSSEC signatures. You should contact the name server operator (often your mail provider) as soon as possible."
@@ -684,7 +684,7 @@ msgid "detail mail ipv6 mx-AAAA label"
 msgstr "IPv6 addresses for mail server(s)"
 
 msgid "detail mail ipv6 mx-AAAA tech table"
-msgstr "Mail server (MX)|IPv6 address|IPv4 address"
+msgstr "Domain of mail server (MX)|IPv6 address|IPv4 address"
 
 msgid "detail mail ipv6 mx-AAAA verdict bad"
 msgstr "One or more receiving mail servers (MX) on your domain do *not* have an IPv6 address."
@@ -702,7 +702,7 @@ msgid "detail mail ipv6 mx-reach label"
 msgstr "IPv6 reachability of mail server(s)"
 
 msgid "detail mail ipv6 mx-reach tech table"
-msgstr "Mail server (MX)|Unreachable IPv6 address"
+msgstr "Domain of mail server (MX)|Unreachable IPv6 address"
 
 msgid "detail mail ipv6 mx-reach verdict bad"
 msgstr "One or more of your mail servers (MX) with an IPv6 address are *not* reachable over IPv6."
@@ -711,25 +711,25 @@ msgid "detail mail ipv6 mx-reach verdict good"
 msgstr "All your mail servers (MX) with an IPv6 address are reachable over IPv6."
 
 msgid "detail mail tls cert-hostmatch tech table"
-msgstr "Mail server|Unmatched domains on the certificate"
+msgstr "Domain of mail server (MX)|Unmatched domains on certificate"
 
 msgid "detail mail tls cert-pubkey tech table"
-msgstr "Mail server|Public key with insufficient length"
+msgstr "Domain of mail server (MX)|Public key with insufficient length"
 
 msgid "detail mail tls cert-signature tech table"
-msgstr "Mail server|Insecure hash method"
+msgstr "Domain of mail server (MX)|Insecure hash algorithm"
 
 msgid "detail mail tls cert-trust tech table"
-msgstr "Mail server|Bad certificate chain"
+msgstr "Mail server domain (MX)|Untrusted certificate chain"
 
 msgid "detail mail tls ciphers exp"
-msgstr "We check if the available ipher methods are sufficiently secure."
+msgstr "We check if your mail server support sufficiently secure cipher suites. A cipher suite is a combination of algorithms used for authentication and encryption that is conformant to the TLS standard. A mail server may support more than one cipher suite. See ['TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B2-1 to B2-4 (in Dutch)."
 
 msgid "detail mail tls ciphers label"
-msgstr "Cipher methods"
+msgstr "Cipher suites"
 
 msgid "detail mail tls ciphers tech table"
-msgstr "Mail server|Sufficiently secure cipher methods"
+msgstr "Mail server|Secure cipher suites"
 
 msgid "detail mail tls ciphers verdict bad"
 msgstr "Sufficiently secure cipher methods not supported."
@@ -744,40 +744,40 @@ msgid "detail mail tls dane-valid tech table"
 msgstr "Mail server|valid TLSA"
 
 msgid "detail mail tls starttls-exists exp"
-msgstr "We check if STARTTLS is enabled on the mail server."
+msgstr "We check whether your mail servers are reachable via STARTTLS. If so, we also check in the below subtests whether STARTTLS is configured sufficiently secure. In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test that are still relevant."
 
 msgid "detail mail tls starttls-exists label"
-msgstr "TLS"
+msgstr "STARTTLS availabe"
 
 msgid "detail mail tls starttls-exists tech table"
-msgstr "Mail server|STARTTLS"
+msgstr "Domain of mail server (MX)|STARTTLS"
 
 msgid "detail mail tls starttls-exists verdict bad"
-msgstr "Mail server does not offer STARTTLS."
+msgstr "At least one of your mail servers does *not* offer STARTTLS."
 
 msgid "detail mail tls starttls-exists verdict good"
-msgstr "Mail server offers STARTTLS."
+msgstr "All your mail server offer STARTTLS."
 
 msgid "detail mail tls starttls-exists verdict other"
-msgstr "Mail server was unreachable."
+msgstr "Your mail server is unreachable."
 
 msgid "detail mail tls starttls-exists verdict other-2"
-msgstr "No mail servers (MX) set."
+msgstr "No mail servers (MX) are set on your domain making it unable to receive mail."
 
 msgid "detail mail tls version exp"
-msgstr "We check if the available TLS versions are sufficiently secure."
+msgstr "We check if your receiving mail servers (MX) support secure TLS versions. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B1-1 (in Dutch)."
 
 msgid "detail mail tls version label"
 msgstr "TLS version"
 
 msgid "detail mail tls version tech table"
-msgstr "Mail server|Sufficiently secure TLS versions"
+msgstr "Domain of mail server (MX)|Secure TLS versions"
 
 msgid "detail mail tls version verdict bad"
-msgstr "Sufficiently secure TLS versions not supported."
+msgstr "At least one of your mail servers does *not* support sufficiently secure TLS versions."
 
 msgid "detail mail tls version verdict good"
-msgstr "Sufficiently secure TLS versions supported."
+msgstr "All your mail servers support sufficiently secure TLS versions."
 
 msgid "detail mailauth dkim record aanwezig"
 msgstr "a DKIM record (TXT) has been found"
@@ -872,7 +872,7 @@ msgid "detail web dnssec exists exp"
 msgstr "We check if the name servers of your domain return a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest."
 
 msgid "detail web dnssec exists label"
-msgstr "DNSSEC existent"
+msgstr "DNSSEC existence"
 
 msgid "detail web dnssec exists tech table"
 msgstr "Domain|Registrar"
@@ -893,7 +893,7 @@ msgid "detail web dnssec valid exp"
 msgstr "We check if your domain is signed with a valid signature making it 'secure'."
 
 msgid "detail web dnssec valid label"
-msgstr "DNSSEC valid"
+msgstr "DNSSEC validity"
 
 msgid "detail web dnssec valid tech table"
 msgstr "Domain|Status"
@@ -1031,7 +1031,7 @@ msgid "detail web tls https-exists exp"
 msgstr "We check whether your website is reachable on HTTPS. If so, we also check in the below subtests whether HTTPS is configured sufficiently secure. HTTPS guarantees the confidentiality and integrity of the exchanged information. Because it is situation depended how (privacy) sensitive and valuable information is, a secure HTTPS configuration is important for every website. Even trivial, public information could be extremely sensitive and valuable for a user."
 
 msgid "detail web tls https-exists label"
-msgstr "HTTPS existent"
+msgstr "HTTPS available"
 
 msgid "detail web tls https-exists tech table"
 msgstr "Web server|HTTPS existent"
@@ -1165,97 +1165,97 @@ msgid "detail web tls cert-hostmatch exp"
 msgstr "We check whether the domain name of your website matches the domain name on the certificate. It could be useful to include more than one domain (e.g. the domain with and without www) as Subject Alternative Name on the certificate. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-1 (in Dutch)."
 
 msgid "detail mail tls cert-hostmatch exp"
-msgstr "We check that the domain matches the domain name on the certificate."
+msgstr "We check whether the domain name of your mail server (MX) matches the domain name on the certificate. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-1 (in Dutch)."
 
 msgid "detail web tls cert-hostmatch label"
 msgstr "Domain name on certificate"
 
 msgid "detail mail tls cert-hostmatch label"
-msgstr "Certificates' domain name"
+msgstr "Domain name on certificate"
 
 msgid "detail web tls cert-hostmatch verdict bad"
 msgstr "The domain name of your website does *not* match the domain name on your website certificate."
 
 msgid "detail mail tls cert-hostmatch verdict bad"
-msgstr "Hostname of website does not match certificate."
+msgstr "The domain name of your mail server does *not* match the domain name on your mail server certificate."
 
 msgid "detail web tls cert-hostmatch verdict good"
 msgstr "The domain name of your website matches the domain name on your website certificate."
 
 msgid "detail mail tls cert-hostmatch verdict good"
-msgstr "Hostname of website matches certificate."
+msgstr "The domain name of your mail server matches the domain name on your mail server certificate."
 
 msgid "detail web tls cert-pubkey exp"
 msgstr "We check whether the bit-length of the public key of your website certificate is sufficiently secure. Note: it is also important that the bit-length of the secret key is sufficiently secure. However, due to its secret nature we are not able to check this. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-3 to B3-5 (in Dutch)."
 
 msgid "detail mail tls cert-pubkey exp"
-msgstr "We check the certificates public keys' length."
+msgstr "We check whether the bit-length of the public key of your mail server certificate is sufficiently secure. Note: it is also important that the bit-length of the secret key is sufficiently secure. However, due to its secret nature we are not able to check this. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-3 to B3-5 (in Dutch)."
 
 msgid "detail web tls cert-pubkey label"
 msgstr "Public key of certificate"
 
 msgid "detail mail tls cert-pubkey label"
-msgstr "Certificates' public keys"
+msgstr "Public key of certificate"
 
 msgid "detail web tls cert-pubkey verdict bad"
 msgstr "Your website certificate contains a public key with an *insecure* length."
 
 msgid "detail mail tls cert-pubkey verdict bad"
-msgstr "Some certificates contain public keys of insufficient length."
+msgstr "At least one of your mail server certificates contains a public key with an *insecure* length."
 
 msgid "detail web tls cert-pubkey verdict good"
-msgstr "Your website certificate contains a public key with an secure length."
+msgstr "Your website certificate contains a public key with a secure length."
 
 msgid "detail mail tls cert-pubkey verdict good"
-msgstr "The public keys in the certificates are sufficiently long."
+msgstr "All your mail server certificates contain a public key with a secure length."
 
 msgid "detail web tls cert-signature exp"
-msgstr "We check whether the signed fingerprint of the certificate was created with a secure hashing algorithm. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-2 (in Dutch)."
+msgstr "We check whether the signed fingerprint of the website certificate was created with a secure hashing algorithm. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-2 (in Dutch)."
 
 msgid "detail mail tls cert-signature exp"
-msgstr "We check the certificates's signature."
+msgstr "We check whether the signed fingerprint of the mail server certificate was created with a secure hashing algorithm. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-2 (in Dutch)."
 
 msgid "detail web tls cert-signature label"
 msgstr "Signature of certificate"
 
 msgid "detail mail tls cert-signature label"
-msgstr "Certificates' signature"
+msgstr "Signature of certificate"
 
 msgid "detail web tls cert-signature verdict bad"
 msgstr "Your website certificate is signed using a hash algorithm that is *not* secure."
 
 msgid "detail mail tls cert-signature verdict bad"
-msgstr "Some certificates are signed using a hash method that is not secure."
+msgstr "At least one of your mail server certificates is signed using a hash algorithm that is *not* secure."
 
 msgid "detail web tls cert-signature verdict good"
 msgstr "Your website certificate is signed using a sufficiently secure hash algorithm."
 
 msgid "detail mail tls cert-signature verdict good"
-msgstr "All certificates are signed using a sufficiently secure hash method."
+msgstr "All your mail server certificates are signed using a sufficiently secure hash algorithm."
 
 msgid "detail web tls cert-trust exp"
 msgstr "We check whether we are able to build a valid chain of trust for your website certificate. For a valid chain of trust, your certificate must be published by a [trusted certificate authority](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/), and your web server must present all necessary intermediate certificates. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-6 (in Dutch)."
 
 msgid "detail mail tls cert-trust exp"
-msgstr "We check the certificate chain."
+msgstr "We check whether we are able to build a valid chain of trust for your mail server certificate. For a valid chain of trust, your certificate must be published by a [trusted certificate authority](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/), and your receiving mail server must present all necessary intermediate certificates. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-6 (in Dutch)."
 
 msgid "detail web tls cert-trust label"
 msgstr "Trust chain of certificate"
 
 msgid "detail mail tls cert-trust label"
-msgstr "Certificates' chain of trust"
+msgstr "Trust chain of certificate"
 
 msgid "detail web tls cert-trust verdict bad"
 msgstr "The trust chain of your website certificate is *not* complete and/or *not* signed by a trusted root certificate authority."
 
 msgid "detail mail tls cert-trust verdict bad"
-msgstr "The certificate chain is not signed by a trusted root CA."
+msgstr "The trust chain of at least one of your mail server certificates is *not* complete and/or *not* signed by a trusted root certificate authority."
 
 msgid "detail web tls cert-trust verdict good"
 msgstr "The trust chain of your website certificate is complete and signed by a trusted root certificate authority."
 
 msgid "detail mail tls cert-trust verdict good"
-msgstr "The certificate chain is complete and signed by a trusted root CA."
+msgstr "The trust chain of all your mail server certificates is complete and signed by a trusted root certificate authority."
 
 msgid "detail web tls dane-exists exp"
 msgstr "We check whether the name servers of your domain contain a TLSA record for DANE. DANE allows you to publish information about your website certificate in a special DNS record, called TLSA record. Clients, like web browsers, can check the authenticity of your certificate not only through a certificate authority but also through the TLSA record. DNSSEC is preconditional for DANE. Note: the validity of DANE-fingerprint is part of the next subtest."
@@ -1291,7 +1291,7 @@ msgid "detail web tls dane-valid label"
 msgstr "DANE validity"
 
 msgid "detail mail tls dane-valid label"
-msgstr "TLSA record validity (DANE)"
+msgstr "DANE validity"
 
 msgid "detail web tls dane-valid verdict bad"
 msgstr "The DANE fingerprint on your domain is *not* valid for your web certificate. Either someone manipulated the response from your name server, or your domain has a serious DANE configuration error. The latter makes your website unreachable for any user who check DANE-fingerprints. You should contact your name server operator and/or your hosting provider as soon as possible."
@@ -2077,7 +2077,7 @@ msgid "results mail ipv6 mail-servers label"
 msgstr "Mail server(s)"
 
 msgid "results mail tls starttls label"
-msgstr "STARTTLS"
+msgstr "TLS"
 
 msgid "results no-icon-detail close"
 msgstr "close"
@@ -2490,7 +2490,7 @@ msgid "test error summary"
 msgstr "*Error* during test execution!"
 
 msgid "test mailauth failed description"
-msgstr "Too bad! Your domain does *not* contain all authenticity marks against email phishing. Therefore receivers are *not* able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. You should ask your mail provider to activate DMARC, DKIM and SPF."
+msgstr "Too bad! Your domain does *not* contain all authenticity marks against email forgery. Therefore receivers are *not* able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. You should ask your mail provider to activate DMARC, DKIM and SPF."
 
 msgid "test mailauth failed summary"
 msgstr "*Not* all authenticity marks against email phishing (DMARC, DKIM and SPF)"
@@ -2499,7 +2499,7 @@ msgid "test mailauth label"
 msgstr "DMARC, DKIM and SPF"
 
 msgid "test mailauth passed description"
-msgstr "Well done! Your domain contains all authenticity marks against email phishing. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address from your authentic emails. "
+msgstr "Well done! Your domain contains all authenticity marks against email forgery. Therefore receivers are able to reliably seperate phishing and spam emails abusing your domain in their sender address, from your authentic emails. "
 
 msgid "test mailauth passed summary"
 msgstr "Authenticity marks against email phishing (DMARC, DKIM and SPF)"
@@ -2544,7 +2544,7 @@ msgid "test mailipv6 title"
 msgstr "Reachable via modern internet address?"
 
 msgid "test mailtls failed description"
-msgstr "Too bad! Sending mail servers can establish *no* or an *insufficiently* secure connection with your mail server(s). A passive attacker is therefore able to intercept and read e-mails addressed to you in transit. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping the STARTTLS encryption."
+msgstr "Too bad! Sending mail servers that support STARTTLS can establish *no* or an *insufficiently* secure connection with your receiving mail server(s). Passive attackers who eavesdrop your mail traffic, will therefore be able to read emails in transit to you. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
 
 msgid "test mailtls failed summary"
 msgstr "*No* or insufficiently secure connection possible (STARTTLS)"
@@ -2553,7 +2553,7 @@ msgid "test mailtls label"
 msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
-msgstr "Well done! Sending mail servers can establish a secure connection with your mail server(s). This prevents a passive attacker from being able to intercept and read e-mails addressed to you in transit. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping the STARTTLS encryption."
+msgstr "Well done! Sending mail servers supporting STARTTLS can establish a secure connection with your receiving mail server(s). Passive attackers who eavesdrop your mail traffic to you, will therefore not be able to read emails in transit to you. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
 
 msgid "test mailtls passed summary"
 msgstr "Secure connection possible (STARTTLS)"
