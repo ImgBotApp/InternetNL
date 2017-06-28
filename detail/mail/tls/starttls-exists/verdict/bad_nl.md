@@ -1,1 +1,1 @@
-Mail server does not offer STARTTLS.
+Tenminste één van je mailservers biedt *geen* STARTTLS aan.
