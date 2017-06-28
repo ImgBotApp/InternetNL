@@ -1,1 +1,2 @@
-We check whether the DANE fingerprint presented by your domain is valid for your web certificate.
+We check whether the DANE fingerprint presented by your domain is valid for your web certificate. DANE allows you to publish information about your website certificate in a special DNS record, called TLSA record. Clients, like web browsers, can check the authenticity of your certificate not only through a certificate authority but also through the TLSA record. DNSSEC is preconditional for DANE. Note: cases where there is a valid TLSA record but no DNSSEC support or getting an error while retrieving the TLSA record are also considered failures for this test.
+
