@@ -1,1 +1,1 @@
-At least one mail server is unreachable and all other available mail servers offer STARTTLS.
+At least one of your mail servers is unreachable and all other available mail servers offer STARTTLS.
