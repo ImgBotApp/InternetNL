@@ -720,7 +720,7 @@ msgid "detail mail tls cert-signature tech table"
 msgstr "Domain of mail server (MX)|Insecure hash algorithm"
 
 msgid "detail mail tls cert-trust tech table"
-msgstr "Mail server domain (MX)|Untrusted certificate chain"
+msgstr "Domain of mail server (MX)|Untrusted certificate chain"
 
 msgid "detail mail tls ciphers exp"
 msgstr "We check if your mail server support sufficiently secure cipher suites. A cipher suite is a combination of algorithms used for authentication and encryption that is conformant to the TLS standard. A mail server may support more than one cipher suite. See ['TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B2-1 to B2-4 (in Dutch)."
@@ -729,22 +729,22 @@ msgid "detail mail tls ciphers label"
 msgstr "Cipher suites"
 
 msgid "detail mail tls ciphers tech table"
-msgstr "Mail server|Secure cipher suites"
+msgstr "Domain of mail server (MX)|Secure cipher suites"
 
 msgid "detail mail tls ciphers verdict bad"
-msgstr "Sufficiently secure cipher methods not supported."
+msgstr "At least one of your mail servers does *not* supports sufficiently secure cipher suites."
 
 msgid "detail mail tls ciphers verdict good"
-msgstr "Sufficiently secure cipher methods supported."
+msgstr "All your mail servers support sufficiently secure cipher suites."
 
 msgid "detail mail tls dane-exists tech table"
 msgstr "Mail server|TLSA"
 
 msgid "detail mail tls dane-valid tech table"
-msgstr "Mail server|valid TLSA"
+msgstr "Mail server|DANE valid"
 
 msgid "detail mail tls starttls-exists exp"
-msgstr "We check whether your mail servers are reachable via STARTTLS. If so, we also check in the below subtests whether STARTTLS is configured sufficiently secure. In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test that are still relevant."
+msgstr "We check whether your mail servers are reachable via STARTTLS. If so, we also check in the below subtests whether STARTTLS is configured sufficiently secure. In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test that are still relevant. Note: for performance reasons at most ten mail servers over either IPv6 or IPv4 are checked in the STARTTLS test section."
 
 msgid "detail mail tls starttls-exists label"
 msgstr "STARTTLS availabe"
@@ -759,7 +759,7 @@ msgid "detail mail tls starttls-exists verdict good"
 msgstr "All your mail server offer STARTTLS."
 
 msgid "detail mail tls starttls-exists verdict other"
-msgstr "Your mail server is unreachable."
+msgstr "At least one of your mail servers is unreachable and all other available mail servers offer STARTTLS."
 
 msgid "detail mail tls starttls-exists verdict other-2"
 msgstr "No mail servers (MX) are set on your domain making it unable to receive mail."
@@ -932,7 +932,7 @@ msgid "detail web ipv6 web-ipv46 verdict good"
 msgstr "Your website on IPv6 seems to be the same as your website on IPv4."
 
 msgid "detail web ipv6 web-reach exp"
-msgstr "We check if we can connect to your web server over IPv6 on any available ports (80 and/our 443). We test all IPv6 addresses that we receive from your name servers. A partial score will be given if not all IPv6 addresses are reachable. If an IPv6 address is (syntactically) invalid, we consider it unreachable."
+msgstr "We check if we can connect to your web server(s) over IPv6 on any available ports (80 and/our 443). We test all IPv6 addresses that we receive from your name servers. A partial score will be given if not all IPv6 addresses are reachable. If an IPv6 address is (syntactically) invalid, we consider it unreachable."
 
 msgid "detail web ipv6 web-reach label"
 msgstr "IPv6 reachability of web server"
@@ -947,16 +947,16 @@ msgid "detail web ipv6 web-reach verdict good"
 msgstr "All your web servers with an IPv6 address are reachable over IPv6."
 
 msgid "detail web tls cert-hostmatch tech table"
-msgstr "Web server|Unmatched domains on certificate"
+msgstr "Web server IP address|Unmatched domains on certificate"
 
 msgid "detail web tls cert-pubkey tech table"
-msgstr "Web server|Public key with insufficient length"
+msgstr "Web server IP address|Public key with insufficient length"
 
 msgid "detail web tls cert-signature tech table"
-msgstr "Web server|Insecure hash algorithm"
+msgstr "Web server IP address|Insecure hash algorithm"
 
 msgid "detail web tls cert-trust tech table"
-msgstr "Web server|Untrusted certificate chain"
+msgstr "Web server IP address|Untrusted certificate chain"
 
 msgid "detail web tls ciphers exp"
 msgstr "We check if your web server supports sufficiently secure cipher suites only. A cipher suite is a combination of algorithms used for authentication and encryption that is conformant to the TLS standard. A web server may support more than one cipher suite. See ['TLS guidelines from NCSC-NL](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B2-1 to B2-4 (in Dutch)."
@@ -965,7 +965,7 @@ msgid "detail web tls ciphers label"
 msgstr "Cipher suites"
 
 msgid "detail web tls ciphers tech table"
-msgstr "Web server|Insecure cipher suites"
+msgstr "Web server IP address|Insecure cipher suites"
 
 msgid "detail web tls ciphers verdict bad"
 msgstr "Your web server supports *insufficiently* secure cipher suites."
@@ -980,7 +980,7 @@ msgid "detail web tls compression label"
 msgstr "No TLS compression"
 
 msgid "detail web tls compression tech table"
-msgstr "Web server|TLS compression"
+msgstr "Web server IP address|TLS compression"
 
 msgid "detail web tls compression verdict bad"
 msgstr "Your web server supports TLS compression, which is *not* secure."
@@ -989,10 +989,10 @@ msgid "detail web tls compression verdict good"
 msgstr "Your web server does not support TLS compression."
 
 msgid "detail web tls dane-exists tech table"
-msgstr "Web server|TLSA existent"
+msgstr "Web server IP address|TLSA existent"
 
 msgid "detail web tls dane-valid tech table"
-msgstr "Web server|DANE valid"
+msgstr "Web server IP address|DANE valid"
 
 msgid "detail web tls fs-params exp"
 msgstr "We check whether the bit-length of the public parameters used in Diffie-Hellman key exchange by your web server is sufficiently secure. It is also important that the bit-length of the secret Diffie-Hellman key is sufficiently secure. However, due to its secret nature we are not able to check this. Besides Diffie-Hellman, RSA (that can be used for certificate verification as well) is secure to use for key exchange. The RSA public parameters are tested in the subtest \"Public key of certificate\". See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guidelines B4-1 to B4-3 (in Dutch)."
@@ -1001,7 +1001,7 @@ msgid "detail web tls fs-params label"
 msgstr "Key exchange parameters"
 
 msgid "detail web tls fs-params tech table"
-msgstr "Web server|Insecure parameters"
+msgstr "Web server IP address|Insecure parameters"
 
 msgid "detail web tls fs-params verdict bad"
 msgstr "Your web server supports *insufficiently* secure Diffie-Hellman parameters for key exchange."
@@ -1019,7 +1019,7 @@ msgid "detail web tls http-compression label"
 msgstr "No HTTP compression"
 
 msgid "detail web tls http-compression tech table"
-msgstr "Web server|HTTP compression"
+msgstr "Web server IP address|HTTP compression"
 
 msgid "detail web tls http-compression verdict bad"
 msgstr "Your web server supports HTTP compression, which could be a security risk."
@@ -1028,13 +1028,13 @@ msgid "detail web tls http-compression verdict good"
 msgstr "Your web server does not support HTTP compression."
 
 msgid "detail web tls https-exists exp"
-msgstr "We check whether your website is reachable on HTTPS. If so, we also check in the below subtests whether HTTPS is configured sufficiently secure. HTTPS guarantees the confidentiality and integrity of the exchanged information. Because it is situation depended how (privacy) sensitive and valuable information is, a secure HTTPS configuration is important for every website. Even trivial, public information could be extremely sensitive and valuable for a user."
+msgstr "We check whether your website is reachable on HTTPS. If so, we also check in the below subtests whether HTTPS is configured sufficiently secure. HTTPS guarantees the confidentiality and integrity of the exchanged information. Because it is situation depended how (privacy) sensitive and valuable information is, a secure HTTPS configuration is important for every website. Even trivial, public information could be extremely sensitive and valuable for a user. Note: for performance reasons the HTTPS test section only runs for the first available IPv6 and IPv4 address."
 
 msgid "detail web tls https-exists label"
 msgstr "HTTPS available"
 
 msgid "detail web tls https-exists tech table"
-msgstr "Web server|HTTPS existent"
+msgstr "Web server IP address|HTTPS existent"
 
 msgid "detail web tls https-exists verdict bad"
 msgstr "Your website does *not* offer HTTPS."
@@ -1057,7 +1057,7 @@ msgid "detail web tls https-forced label"
 msgstr "HTTPS enforced"
 
 msgid "detail web tls https-forced tech table"
-msgstr "Web server|HTTPS redirection"
+msgstr "Web server IP address|HTTPS enforced"
 
 msgid "detail web tls https-forced verdict bad"
 msgstr "Your web server does not enforce HTTPS (either by redirecting HTTP to HTTPS on the same domain, or by supporting only HTTPS)."
@@ -1075,7 +1075,7 @@ msgid "detail web tls https-hsts label"
 msgstr "HSTS"
 
 msgid "detail web tls https-hsts tech table"
-msgstr "Web server|HSTS policy"
+msgstr "Web server IP address|HSTS policy"
 
 msgid "detail web tls https-hsts verdict bad"
 msgstr "Your web server does *not* offer an HSTS policy."
@@ -1090,7 +1090,7 @@ msgid "detail web tls renegotiation-client label"
 msgstr "No client-initiated renegotiation"
 
 msgid "detail web tls renegotiation-client tech table"
-msgstr "Web server|Client-initiated renegotiation"
+msgstr "Web server IP address|Client-initiated renegotiation"
 
 msgid "detail web tls renegotiation-client verdict bad"
 msgstr "Your web server allows for client-initiated renegotiation, which is *not* secure."
@@ -1105,7 +1105,7 @@ msgid "detail web tls renegotiation-secure label"
 msgstr "Secure renegotiation"
 
 msgid "detail web tls renegotiation-secure tech table"
-msgstr "Web server|Secure renegotiation"
+msgstr "Web server IP address|Secure renegotiation"
 
 msgid "detail web tls renegotiation-secure verdict bad"
 msgstr "Your web server supports insecure renegotiation, which is obviously *not* secure."
@@ -1120,7 +1120,7 @@ msgid "detail web tls version label"
 msgstr "TLS version"
 
 msgid "detail web tls version tech table"
-msgstr "Web server|Insecure TLS versions"
+msgstr "Web server IP address|Insecure TLS versions"
 
 msgid "detail web tls version verdict bad"
 msgstr "Your web server supports *insufficiently* secure TLS versions."
@@ -1183,7 +1183,7 @@ msgid "detail web tls cert-hostmatch verdict good"
 msgstr "The domain name of your website matches the domain name on your website certificate."
 
 msgid "detail mail tls cert-hostmatch verdict good"
-msgstr "The domain name of your mail server matches the domain name on your mail server certificate."
+msgstr "The domain names of all your mail servers match the domain names on your mail server certificates."
 
 msgid "detail web tls cert-pubkey exp"
 msgstr "We check whether the bit-length of the public key of your website certificate is sufficiently secure. Note: it is also important that the bit-length of the secret key is sufficiently secure. However, due to its secret nature we are not able to check this. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-3 to B3-5 (in Dutch)."
@@ -1282,10 +1282,10 @@ msgid "detail mail tls dane-exists verdict good"
 msgstr "TLSA record found (DANE)"
 
 msgid "detail web tls dane-valid exp"
-msgstr "We check whether the DANE fingerprint presented by your domain is valid for your web certificate."
+msgstr "We check whether the DANE fingerprint presented by your domain is valid for your web certificate. DANE allows you to publish information about your website certificate in a special DNS record, called TLSA record. Clients, like web browsers, can check the authenticity of your certificate not only through the certificate authority but also through the TLSA record. A client can also use the TLSA record as a signal to only use HTTPS (and not HTTP). DNSSEC is preconditional for DANE. Note: cases where we detect a valid TLSA record but no DNSSEC support or where we get an error while retrieving the TLSA record, are also considered failures for this test."
 
 msgid "detail mail tls dane-valid exp"
-msgstr "We check the existence of a TLSA record (DANE)."
+msgstr "We check whether the DANE fingerprints presented by your mail server domains are valid for your mail server certificates. DANE allows you to publish information about your mail server certificates in a special DNS record, called TLSA record. Sending mail servers can check the authenticity of your certificates not only through the certificate authority but also through the TLSA records. A sending mail server can also use the TLSA record as a signal to only connect via STARTTLS (and not unencrypted). DNSSEC is preconditional for DANE. Note: cases where we detect a valid TLSA record but no DNSSEC support or where we get an error while retrieving the TLSA record, are also considered failures for this test."
 
 msgid "detail web tls dane-valid label"
 msgstr "DANE validity"
@@ -1294,16 +1294,16 @@ msgid "detail mail tls dane-valid label"
 msgstr "DANE validity"
 
 msgid "detail web tls dane-valid verdict bad"
-msgstr "The DANE fingerprint on your domain is *not* valid for your web certificate. Either someone manipulated the response from your name server, or your domain has a serious DANE configuration error. The latter makes your website unreachable for any user who check DANE-fingerprints. You should contact your name server operator and/or your hosting provider as soon as possible."
+msgstr "The DANE fingerprint on your domain is *not* valid for your web certificate. Either someone manipulated the response from your name server, or your domain has a serious DANE configuration error. The latter makes your website unreachable for any user who check DANE fingerprints. You should contact your name server operator and/or your hosting provider as soon as possible."
 
 msgid "detail mail tls dane-valid verdict bad"
-msgstr "The TLSA record is not valid (DANE)."
+msgstr "At least one DANE fingerprint on your mail server domains is *not* valid for its mail server certificate. Either someone manipulated the response from the name server, or the mail server domains have a serious DANE configuration error. The latter makes your domain  unreachable for any sending mail server that checks DANE fingerprints. You should contact your mail provider as soon as possible."
 
 msgid "detail web tls dane-valid verdict good"
 msgstr "The DANE fingerprint on your domain is valid for your web certificate."
 
 msgid "detail mail tls dane-valid verdict good"
-msgstr "The TLSA record is valid (DANE)."
+msgstr "All DANE fingerprints on your mail server domains are valid for the mail server certificates."
 
 msgid "detail web-tls cert-hostname-match-FAIL"
 msgstr "hostname of website does not match certificate:  \n"
@@ -2544,7 +2544,7 @@ msgid "test mailipv6 title"
 msgstr "Reachable via modern internet address?"
 
 msgid "test mailtls failed description"
-msgstr "Too bad! Sending mail servers that support STARTTLS can establish *no* or an *insufficiently* secure connection with your receiving mail server(s). Passive attackers who eavesdrop your mail traffic, will therefore be able to read emails in transit to you. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
+msgstr "Too bad! Sending mail servers that support STARTTLS can establish *no* or an *insufficiently* secure connection with your receiving mail server(s). Passive attackers will therefore be able to read emails in transit to you. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
 
 msgid "test mailtls failed summary"
 msgstr "*No* or insufficiently secure connection possible (STARTTLS)"
@@ -2553,7 +2553,7 @@ msgid "test mailtls label"
 msgstr "STARTTLS"
 
 msgid "test mailtls passed description"
-msgstr "Well done! Sending mail servers supporting STARTTLS can establish a secure connection with your receiving mail server(s). Passive attackers who eavesdrop your mail traffic to you, will therefore not be able to read emails in transit to you. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
+msgstr "Well done! Sending mail servers supporting STARTTLS can establish a secure connection with your receiving mail server(s). Passive attackers will therefore not be able to read emails in transit to you. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic."
 
 msgid "test mailtls passed summary"
 msgstr "Secure connection possible (STARTTLS)"
