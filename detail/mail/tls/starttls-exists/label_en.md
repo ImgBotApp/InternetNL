@@ -1,1 +1,1 @@
-STARTTLS availabe
+STARTTLS available

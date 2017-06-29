@@ -747,7 +747,7 @@ msgid "detail mail tls starttls-exists exp"
 msgstr "We check whether your mail servers are reachable via STARTTLS. If so, we also check in the below subtests whether STARTTLS is configured sufficiently secure. In case no mail server (MX) is defined, we give a notification and we execute other subtests of the mail test that are still relevant. Note: for performance reasons at most ten mail servers over either IPv6 or IPv4 are checked in the STARTTLS test section."
 
 msgid "detail mail tls starttls-exists label"
-msgstr "STARTTLS availabe"
+msgstr "STARTTLS available"
 
 msgid "detail mail tls starttls-exists tech table"
 msgstr "Domain of mail server (MX)|STARTTLS"
