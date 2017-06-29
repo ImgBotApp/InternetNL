@@ -1,1 +1,1 @@
-Je mailserver is niet bereikbaar.
+Tenminste één mailserver is onbereikbaar en alle andere beschikbare mailservers bieden STARTTLS aan.
