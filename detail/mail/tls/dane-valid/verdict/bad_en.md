@@ -1,1 +1,6 @@
-At least one DANE fingerprint on your mail server domains is *not* valid for its mail server certificate. Either someone manipulated the response from the name server, or the mail server domains have a serious DANE configuration error. The latter makes your domain  unreachable for any sending mail server that checks DANE fingerprints. You should contact your mail provider as soon as possible.
+At least one DANE fingerprint on your mail server domains is *not* valid for
+ its mail server certificate. Either someone manipulated the response from 
+the name server, or the mail server domains have a serious DANE 
+configuration error. The latter makes your domain  unreachable for any 
+sending mail server that checks DANE fingerprints. You should contact your 
+mail provider as soon as possible.

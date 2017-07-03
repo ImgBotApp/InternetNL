@@ -1,1 +1,10 @@
-We testen of je website bereikbaar is via HTTPS. Als dat het geval is, dan testen we in de navolgende testonderdelen of HTTPS ook voldoende veilig is geconfigureerd. HTTPS garandeert de vertrouwelijkheid en integriteit van uitgewisselde informatie. Omdat het van de situatie afhangt hoe (privacy-)gevoelig en waardevol informatie is, een bezoeker van je website bepaalt hoe (privacy-) gevoelig en waardevol informatie is, is een veilige HTTPS-configuratie voor iedere website van belang. Ook triviale, publieke informatie kan door omstandigheden voor de gebruiker zeer gevoelig en waardevol zijn. Let op: vanwege performance-redenen wordt de HTTPS-deeltest alleen uitgevoerd voor het eerst beschikbare IPv6- en IPv4-adres.
+We testen of je website bereikbaar is via HTTPS. Als dat het geval is, dan 
+testen we in de navolgende testonderdelen of HTTPS ook voldoende veilig is 
+geconfigureerd. HTTPS garandeert de vertrouwelijkheid en integriteit van 
+uitgewisselde informatie. Omdat het van de situatie afhangt hoe 
+(privacy-)gevoelig en waardevol informatie is, een bezoeker van je website 
+bepaalt hoe (privacy-) gevoelig en waardevol informatie is, is een veilige 
+HTTPS-configuratie voor iedere website van belang. Ook triviale, publieke 
+informatie kan door omstandigheden voor de gebruiker zeer gevoelig en 
+waardevol zijn. Let op: vanwege performance-redenen wordt de HTTPS-deeltest 
+alleen uitgevoerd voor het eerst beschikbare IPv6- en IPv4-adres.

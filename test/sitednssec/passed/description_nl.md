@@ -1,1 +1,4 @@
-Goed gedaan! Je domeinnaam is ondertekend met een geldige handtekening. Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar kwaadaardige internetadressen.
+Goed gedaan! Je domeinnaam is ondertekend met een geldige handtekening. 
+Daardoor zijn bezoekers die controle van domein-handtekeningen geactiveerd 
+hebben, beschermd tegen gemanipuleerde vertaling van jouw domeinnaam naar 
+kwaadaardige internetadressen.

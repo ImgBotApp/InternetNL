@@ -92,6 +92,152 @@ msgstr "# O Internet.nl\n"
 "- Edukacje i poszerzenie wiedzy, z włączeniem corocznego seminarium;\n"
 "- Kontakt z interesariuszami."
 
+msgid "article .index"
+msgstr "improved-internetnl-test-for-modern-internet-standards\n"
+"internetnl-in-polish"
+
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
+msgstr " "
+
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden date"
+msgstr " "
+
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden lead"
+msgstr " "
+
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden teaser"
+msgstr " "
+
+msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden title"
+msgstr " "
+
+msgid "article improved-internetnl-test-for-modern-internet-standards body"
+msgstr "*\"Since its first launch in april 2015 over 300.000 tests were executed on Internet.nl. More than 50% of the retested websites show improvements. We hope the improved Internet.nl will be even more helpful for people to test, require and get modern, secure Internet Standards.\"*, says Gerben Klein Baltink, chair of the Dutch Internet Standards Platform.\n"
+"\n"
+"Internet.nl helps users to check whether their internet is up to date. Do your website, email and internet connection use modern and reliable internet standards? And if they don’t, what can you do about it?\n"
+"\n"
+"Internet.nl is an initiative of the Dutch Internet Standards Platform that pushes the adoption of modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE. In this platform the following partners from the internet community and the Dutch government collaborate: [DHPA](https://dhpa.nl/), [ECP](https://ecp.nl/), [Forum Standaardisatie](https://forumstandaardisatie.nl/), [Internet Society internationaal](https://internetsociety.org/), [Internet Society Nederland](https://isoc.nl/), [ISPConnect](https://ispconnect.nl/), [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken), [NCSC](https://ncsc.nl/), [NLnet](https://nlnet.nl/), [NLnet Labs](https://nlnetlabs.nl/), [RIPE NCC](https://ripe.net/), [SIDN](https://sidn.nl/) and [SURFnet](https://surfnet.nl/).\n"
+"\n"
+"[Open Netlabs](https://www.opennetlabs.com/) / NLnet Labs is responsible for the technical implementation of the Internet.nl website. The new layout is designed by [WBVB](https://wbvb.nl/) and [200OK](https://www.200ok.nl/).\n"
+"\n"
+"---\n"
+"## Release notes\n"
+"\n"
+"- Web redesing features:\n"
+"  - Site is more easily accessible by users with disabilities;\n"
+"  - Site is designed to be accessed by mobile devices;\n"
+"  - Tests' details reworked:\n"
+"     - Grouped under sections;\n"
+"     - Test explanation for every test;\n"
+"     - Compact technical details for all servers in a test.\n"
+"  - Link to rerun the same test from the results' page;\n"
+"  - Aside boxes in the results' page:\n"
+"     - Immediately run suggested tests or start new tests;\n"
+"     - Follow links to suggested test websites for further testing.\n"
+"- New: We require at least 2 IPv6-enabled nameservers for full score on the IPv6 test.\n"
+"- Bugfixes:\n"
+"  - Partial IPv6 connectivity was falsely reported as good result (only visually, the score was correct);\n"
+"  - Multiple SPF records were not resulting in error."
+
+msgid "article improved-internetnl-test-for-modern-internet-standards date"
+msgstr "launchdate"
+
+msgid "article improved-internetnl-test-for-modern-internet-standards lead"
+msgstr "Today the Internet Standards Platform launches a fully redesigned [Internet.nl](https://internet.nl/) test website. The comprehensive explanations on the improved test website provide more guidance to users to get modern Internet Standards. The redesign makes the website better accessible on mobile devices and for users with disabilities."
+
+msgid "article improved-internetnl-test-for-modern-internet-standards teaser"
+msgstr " "
+
+msgid "article improved-internetnl-test-for-modern-internet-standards title"
+msgstr "Improved Internet.nl test for modern Internet Standards"
+
+msgid "article internetnl-in-polish body"
+msgstr "Inicjatywa na rzecz standardów internetowych promowana będzie\n"
+"podczas drugiego Europejskiego Forum Cyberbezpieczeństwa CYBERSEC 2016\n"
+"\n"
+"![CYBERSEC](/static/logo-cybersec.png)"
+
+msgid "article internetnl-in-polish date"
+msgstr "Piątek, 26 sierpnia"
+
+msgid "article internetnl-in-polish lead"
+msgstr " "
+
+msgid "article internetnl-in-polish title"
+msgstr "Internet.nl teraz rówież w języku polskim"
+
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
+msgstr " "
+
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
+msgstr " "
+
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
+msgstr " "
+
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
+msgstr " "
+
+msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
+msgstr " "
+
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 body"
+msgstr " "
+
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 date"
+msgstr " "
+
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 lead"
+msgstr " "
+
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 teaser"
+msgstr " "
+
+msgid "article lancering-internet-nl-tijdens-cyber-week-2015 title"
+msgstr " "
+
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test body"
+msgstr " "
+
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test date"
+msgstr "19 maart 2016"
+
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
+msgstr " "
+
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
+msgstr " "
+
+msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test title"
+msgstr " "
+
+msgid "article uitnodiging-masterclass-DMARC body"
+msgstr " "
+
+msgid "article uitnodiging-masterclass-DMARC date"
+msgstr " "
+
+msgid "article uitnodiging-masterclass-DMARC lead"
+msgstr " "
+
+msgid "article uitnodiging-masterclass-DMARC teaser"
+msgstr " "
+
+msgid "article uitnodiging-masterclass-DMARC title"
+msgstr " "
+
+msgid "article website-internet-nl-drukbezocht-na-cybertop body"
+msgstr " "
+
+msgid "article website-internet-nl-drukbezocht-na-cybertop date"
+msgstr " "
+
+msgid "article website-internet-nl-drukbezocht-na-cybertop lead"
+msgstr " "
+
+msgid "article website-internet-nl-drukbezocht-na-cybertop title"
+msgstr " "
+
 msgid "base about"
 msgstr "O Internet.nl"
 
@@ -255,10 +401,6 @@ msgid "domain tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20websitetest%20of%20%40Internet_nl%3A"
 
 #, md-format
-msgid "faqs title"
-msgstr "Veelgestelde vragen"
-
-#, md-format
 msgid "faqs content"
 msgstr "## Websitetest\n"
 "* [Modern adres (IPv6)](/faqs/ipv6/)\n"
@@ -274,65 +416,6 @@ msgstr "## Websitetest\n"
 "## Verbindingtest\n"
 "* [Bereikbaarheid moderne adressen (IPv6)](/faqs/ipv6/)\n"
 "* [Controle van domein-handtekeningen (DNSSEC)](/faqs/dnssec/)"
-
-#, md-format
-msgid "faqs ipv6 content"
-msgstr "## I. Algemeen\n"
-"\n"
-"### Wat is IP?\n"
-"Het Internet Protocol (IP) vormt de basis onder al het verkeer op Internet. Ieder apparaat dat met het internet is verbonden, heeft een uniek numeriek adres namelijk het IP-adres.\n"
-"\n"
-"Er bestaan twee versie van het Internet Protocol: versie 4 (IPv4) en versie 6 (IPv6). Deze versies zijn niet compatibel met elkaar. Dit betekent dat een computer met een IPv4-adres niet kan communiceren met een computer die alleen een IPv6-adres heeft. Wel kunnen ze naast elkaar worden gebruikt. Veel apparaten bieden inmiddels ondersteuning voor zowel IPv4 als IPv6. IPv6 zal uiteindelijk IPv4 volledig vervangen. In de tussentijd kunnen IPv4 en IPv6 gewoon naast elkaar gebruikt worden. Bijna alle apparatuur ondersteunt inmiddels zowel IPv4 als IPv6.\n"
-"\n"
-"### Wat is IPv4?\n"
-"De IPv4-standaard dateert van 1981. Een voorbeeld van een IPv4-adres is `94.198.159.35`. IPv4 kent een zogenaamde adresruimte van 32 bits. Dit betekent dat er op basis van het IPv4 protocol wereldwijd ruim 4 x 10^9 (4 miljard) unieke IP-adressen kunnen worden uitgegeven. Dat lijkt heel veel, maar dat is het niet. Bedenk maar eens dat er inmiddels ruim 7 miljard mensen op aarde zijn, en dat een groot deel van deze mensen steeds meer apparaten gebruiken die een verbinding met het internet nodig hebben.\n"
-"\n"
-"### Wat is IPv6?\n"
-"IPv6-standaard dateert van 1998 en is de opvolger van het oude IPv4. Een voorbeeld van een IPv6-adres is `2a00:d78:0:712:94:198:159:35`. IPv6 kent een adresruimte van 128 bits en dat betekent dat er veel meer unieke IP-adressen beschikbaar zijn: 3,4 x 10^38 (een 3 met 38 nullen) tegenover de 4 x 10^9 (een 4 met 9 nullen).\n"
-"\n"
-"### Waarom IPv6?\n"
-"\n"
-"* Kosten: IPv6-adressen zijn kosteloos beschikbaar. Voor IPv4-adressen moet ondertussen steeds meer worden betaald. Dit zorgt voor een toetredingsdrempel voor nieuwe (innovatieve) dienstaanbieders. Denk aan een nieuwe internetprovider die om te beginnen veel IPv4-adressen nodig heeft.\n"
-"* 'End-to-end'-connectiviteit: Met IPv6 kan ieder apparaat, en daarmee iedere gebruiker, op internet over een eigen adres beschikken. Dit in tegenstelling tot IPv4 waar schaarste providers dwingt om zuinig met deze adressen om te gaan. Gebruikers delen hierdoor vaak één IPv4-adres met elkaar. Met IPv6 kunnen diensten die 'end-to-end'-connectiviteit vereisen makkelijker worden geleverd, omdat gebruikers over een eigen IPv6-adres kunnen beschikken.\n"
-"* Snelheid: Uit [ervaringen van o.a. Facebook en LinkedIn ](https://blog.apnic.net/2016/08/15/optimized-content-providers-connect-faster-ipv6/) blijkt dat het delen van IPv4-adressen ook ten koste gaat van de snelheid.\n"
-"\n"
-"### Hoe staat het met de adoptie van IPv6?\n"
-"Wereldwijd is IPv6 bezig met een flinke opmars. Het aantal servers en ook eindgebruikers groeit al jaren bijna exponentieel. Grote partijen zoals Google, Facebook en XS4ALL zien de voordelen en kiezen voor IPv6. Nederland loopt helaas achter bij veel andere vergelijkbare landen, zeker als het gaat om eindgebruikers die over IPv6-connectiviteit beschikken. Landen als Duitsland en België doen het bijvoorbeeld veel beter.\n"
-"\n"
-"Statistieken van IPv6-adoptie:\n"
-"* [APNIC IPv6 Measurements](https://stats.labs.apnic.net/ipv6/)\n"
-"* [World IPv6 Launch](http://www.worldipv6launch.org/measurements/)\n"
-"* [Akamai IPv6 adoption](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)\n"
-"* [Google IPv6 statistics](https://www.google.com/intl/en/ipv6/statistics.html)\n"
-"* [Cisco IPv6 statistics](http://6lab.cisco.com/stats/)\n"
-"\n"
-"\n"
-"### Bestaat er ook een IP versie 5 (IPv5)?\n"
-"IPv5 is ooit bedacht als een standaard voor internettelefonie. IPv5 is niet verder gekomen dan het experimentele stadium en nooit daadwerkelijk gebruikt.\n"
-"\n"
-"\n"
-"## II. Voor eigenaren/beheerders\n"
-"### Aandachtspunten e-mailserver op IPv6\n"
-"Verschillende e-mailproviders (Gmail, Office 365) stellen de volgende twee eisen aan IPv6 ontvangen e-mail:\n"
-"* Een mailserver op IPv6 vereist het gebruik van een reverse DNS opvraagbaar PTR-record. Google vereist daarnaast dat dit IPv6 adres (wat is vastgelegd in het PTR-record) overeenkomt met het IPv6 adres wat wordt verkregen via de normale omzetting van de PTR DNS-naam naar een IPv6 adres. Dit wordt \"forward-confirmed reverse DNS\" genoemd.\n"
-"* Via een IPv6 mailserver verzonden e-mail moet óf de SPF-controle (“mag dit IP-adres mailen voor dit afzenderdomein?”) óf de DKIM-controle (“is deze mail ondertekend met de geldige digitale handtekening van dit afzenderdomein?”) succesvol doorstaan.\n"
-"\n"
-"### Aandachtspunten implementatie\n"
-"Bij kleine en eenvoudige websites hoeft de implementatie van IPv6 niet zoveel werk te zijn. Bij grote websites en complexe IT omgevingen, kan de implementatie van IPv6 een behoorlijke impact hebben. Neem ter voorbereiding op de implementatie van IPv6 de volgende documenten door: [SURFnet - leidraad voor de invoering van IPv6 in organisaties](https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2011/rapport_201102_IPv6_Case_Study_Leidraad_voor_de_invoering_van_IPv6_in_organisaties-1.pdf) en [KPN - whitepaper IPv6](https://kpnlokaleoverheid.nl/wp-content/uploads/2009/03/Whitepaper-IPv6-versie-1-5-26-06-2013.pdf).\n"
-"\n"
-"## III. Voor bezoekers/gebruikers.\n"
-"### Hoe kom ik aan een IPV6 adres?\n"
-"Vraag aan je internetprovider op welke termijn deze van plan is om IPv6 toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet.\n"
-"\n"
-"### Hoe weet ik of een domein over IPv6 communiceert.\n"
-"Dit kun je controleren door het uitvoeren van de website- of e-mailtest op Internet.nl.\n"
-"\n"
-"## Meer informatie\n"
-"* [Policy Issues for Receiving Email in a World with IPv6 Hosts](https://www.m3aawg.org/sites/default/files/document/M3AAWG_Inbound_IPv6_Policy_Issues-2014-09.pdf) van M³AAWG"
-
-#, md-format
-msgid "faqs ipv6 title"
-msgstr "IPv6"
 
 #, md-format
 msgid "faqs dnssec content"
@@ -486,6 +569,65 @@ msgid "faqs https title"
 msgstr "HTTPS"
 
 #, md-format
+msgid "faqs ipv6 content"
+msgstr "## I. Algemeen\n"
+"\n"
+"### Wat is IP?\n"
+"Het Internet Protocol (IP) vormt de basis onder al het verkeer op Internet. Ieder apparaat dat met het internet is verbonden, heeft een uniek numeriek adres namelijk het IP-adres.\n"
+"\n"
+"Er bestaan twee versie van het Internet Protocol: versie 4 (IPv4) en versie 6 (IPv6). Deze versies zijn niet compatibel met elkaar. Dit betekent dat een computer met een IPv4-adres niet kan communiceren met een computer die alleen een IPv6-adres heeft. Wel kunnen ze naast elkaar worden gebruikt. Veel apparaten bieden inmiddels ondersteuning voor zowel IPv4 als IPv6. IPv6 zal uiteindelijk IPv4 volledig vervangen. In de tussentijd kunnen IPv4 en IPv6 gewoon naast elkaar gebruikt worden. Bijna alle apparatuur ondersteunt inmiddels zowel IPv4 als IPv6.\n"
+"\n"
+"### Wat is IPv4?\n"
+"De IPv4-standaard dateert van 1981. Een voorbeeld van een IPv4-adres is `94.198.159.35`. IPv4 kent een zogenaamde adresruimte van 32 bits. Dit betekent dat er op basis van het IPv4 protocol wereldwijd ruim 4 x 10^9 (4 miljard) unieke IP-adressen kunnen worden uitgegeven. Dat lijkt heel veel, maar dat is het niet. Bedenk maar eens dat er inmiddels ruim 7 miljard mensen op aarde zijn, en dat een groot deel van deze mensen steeds meer apparaten gebruiken die een verbinding met het internet nodig hebben.\n"
+"\n"
+"### Wat is IPv6?\n"
+"IPv6-standaard dateert van 1998 en is de opvolger van het oude IPv4. Een voorbeeld van een IPv6-adres is `2a00:d78:0:712:94:198:159:35`. IPv6 kent een adresruimte van 128 bits en dat betekent dat er veel meer unieke IP-adressen beschikbaar zijn: 3,4 x 10^38 (een 3 met 38 nullen) tegenover de 4 x 10^9 (een 4 met 9 nullen).\n"
+"\n"
+"### Waarom IPv6?\n"
+"\n"
+"* Kosten: IPv6-adressen zijn kosteloos beschikbaar. Voor IPv4-adressen moet ondertussen steeds meer worden betaald. Dit zorgt voor een toetredingsdrempel voor nieuwe (innovatieve) dienstaanbieders. Denk aan een nieuwe internetprovider die om te beginnen veel IPv4-adressen nodig heeft.\n"
+"* 'End-to-end'-connectiviteit: Met IPv6 kan ieder apparaat, en daarmee iedere gebruiker, op internet over een eigen adres beschikken. Dit in tegenstelling tot IPv4 waar schaarste providers dwingt om zuinig met deze adressen om te gaan. Gebruikers delen hierdoor vaak één IPv4-adres met elkaar. Met IPv6 kunnen diensten die 'end-to-end'-connectiviteit vereisen makkelijker worden geleverd, omdat gebruikers over een eigen IPv6-adres kunnen beschikken.\n"
+"* Snelheid: Uit [ervaringen van o.a. Facebook en LinkedIn ](https://blog.apnic.net/2016/08/15/optimized-content-providers-connect-faster-ipv6/) blijkt dat het delen van IPv4-adressen ook ten koste gaat van de snelheid.\n"
+"\n"
+"### Hoe staat het met de adoptie van IPv6?\n"
+"Wereldwijd is IPv6 bezig met een flinke opmars. Het aantal servers en ook eindgebruikers groeit al jaren bijna exponentieel. Grote partijen zoals Google, Facebook en XS4ALL zien de voordelen en kiezen voor IPv6. Nederland loopt helaas achter bij veel andere vergelijkbare landen, zeker als het gaat om eindgebruikers die over IPv6-connectiviteit beschikken. Landen als Duitsland en België doen het bijvoorbeeld veel beter.\n"
+"\n"
+"Statistieken van IPv6-adoptie:\n"
+"* [APNIC IPv6 Measurements](https://stats.labs.apnic.net/ipv6/)\n"
+"* [World IPv6 Launch](http://www.worldipv6launch.org/measurements/)\n"
+"* [Akamai IPv6 adoption](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp)\n"
+"* [Google IPv6 statistics](https://www.google.com/intl/en/ipv6/statistics.html)\n"
+"* [Cisco IPv6 statistics](http://6lab.cisco.com/stats/)\n"
+"\n"
+"\n"
+"### Bestaat er ook een IP versie 5 (IPv5)?\n"
+"IPv5 is ooit bedacht als een standaard voor internettelefonie. IPv5 is niet verder gekomen dan het experimentele stadium en nooit daadwerkelijk gebruikt.\n"
+"\n"
+"\n"
+"## II. Voor eigenaren/beheerders\n"
+"### Aandachtspunten e-mailserver op IPv6\n"
+"Verschillende e-mailproviders (Gmail, Office 365) stellen de volgende twee eisen aan IPv6 ontvangen e-mail:\n"
+"* Een mailserver op IPv6 vereist het gebruik van een reverse DNS opvraagbaar PTR-record. Google vereist daarnaast dat dit IPv6 adres (wat is vastgelegd in het PTR-record) overeenkomt met het IPv6 adres wat wordt verkregen via de normale omzetting van de PTR DNS-naam naar een IPv6 adres. Dit wordt \"forward-confirmed reverse DNS\" genoemd.\n"
+"* Via een IPv6 mailserver verzonden e-mail moet óf de SPF-controle (“mag dit IP-adres mailen voor dit afzenderdomein?”) óf de DKIM-controle (“is deze mail ondertekend met de geldige digitale handtekening van dit afzenderdomein?”) succesvol doorstaan.\n"
+"\n"
+"### Aandachtspunten implementatie\n"
+"Bij kleine en eenvoudige websites hoeft de implementatie van IPv6 niet zoveel werk te zijn. Bij grote websites en complexe IT omgevingen, kan de implementatie van IPv6 een behoorlijke impact hebben. Neem ter voorbereiding op de implementatie van IPv6 de volgende documenten door: [SURFnet - leidraad voor de invoering van IPv6 in organisaties](https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2011/rapport_201102_IPv6_Case_Study_Leidraad_voor_de_invoering_van_IPv6_in_organisaties-1.pdf) en [KPN - whitepaper IPv6](https://kpnlokaleoverheid.nl/wp-content/uploads/2009/03/Whitepaper-IPv6-versie-1-5-26-06-2013.pdf).\n"
+"\n"
+"## III. Voor bezoekers/gebruikers.\n"
+"### Hoe kom ik aan een IPV6 adres?\n"
+"Vraag aan je internetprovider op welke termijn deze van plan is om IPv6 toe te gaan passen. Als er geen plannen zijn om dit op korte termijn te gaan doen, stap dan over naar een internetprovider die dit wel doet.\n"
+"\n"
+"### Hoe weet ik of een domein over IPv6 communiceert.\n"
+"Dit kun je controleren door het uitvoeren van de website- of e-mailtest op Internet.nl.\n"
+"\n"
+"## Meer informatie\n"
+"* [Policy Issues for Receiving Email in a World with IPv6 Hosts](https://www.m3aawg.org/sites/default/files/document/M3AAWG_Inbound_IPv6_Policy_Issues-2014-09.pdf) van M³AAWG"
+
+#, md-format
+msgid "faqs ipv6 title"
+msgstr "IPv6"
+
+#, md-format
 msgid "faqs mailauth content"
 msgstr "## I. Algemeen\n"
 "\n"
@@ -531,6 +673,57 @@ msgid "faqs mailauth title"
 msgstr "SPF DKIM DMARC"
 
 #, md-format
+msgid "faqs report score content"
+msgstr "- Internet.nl has three main tests consisting of test parts that consist of subtests.\n"
+"- Each main test is resulting in a percentage test score.\n"
+"- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%."
+
+msgid "faqs report score title"
+msgstr "I. Main test resulting in overall percentage score"
+
+#, md-format
+msgid "faqs report subtest bad"
+msgstr "Subtest failed ⇒ negative score"
+
+#, md-format
+msgid "faqs report subtest good"
+msgstr "Subtest passed ⇒ positive score"
+
+#, md-format
+msgid "faqs report subtest not-tested"
+msgstr "Already fail in related (parent) subtest ⇒ no score"
+
+#, md-format
+msgid "faqs report subtest partly-tested"
+msgstr "Some hosts passed subtest, but not all hosts could be tested ⇒ negative \n"
+"score"
+
+msgid "faqs report subtest title"
+msgstr "III. Shield icons per subtest result"
+
+#, md-format
+msgid "faqs report subtest warning"
+msgstr "Subtest failed ⇒ no score"
+
+#, md-format
+msgid "faqs report test bad"
+msgstr "At least one subtest failed ⇒ not full score"
+
+#, md-format
+msgid "faqs report test error"
+msgstr "At least one subtest was not able to run ⇒ no results"
+
+#, md-format
+msgid "faqs report test good"
+msgstr "All subtests passed ⇒ full score"
+
+msgid "faqs report test title"
+msgstr "II. Circle icons per test part result"
+
+msgid "faqs report title"
+msgstr "Explanation of score and icons"
+
+#, md-format
 msgid "faqs starttls content"
 msgstr "## I. Algemeen\n"
 "\n"
@@ -557,73 +750,54 @@ msgstr "## I. Algemeen\n"
 msgid "faqs starttls title"
 msgstr "STARTTLS and DANE"
 
-msgid "faqs report title"
-msgstr "Explanation of score and icons"
-
-msgid "faqs report score title"
-msgstr "I. Main test resulting in overall percentage score"
-
 #, md-format
-msgid "faqs report score content"
-msgstr "- Internet.nl has three main tests consisting of test parts that consist of subtests.\n"
-"- Each main test is resulting in a percentage test score.\n"
-"- Every test part of a main test weighs more or less the same in the percentage score. So if a main test consists of 4 test parts, the maximum score for every test part is 25%."
-
-msgid "faqs report test title"
-msgstr "II. Circle icons per test part result"
-
-#, md-format
-msgid "faqs report test good"
-msgstr "All subtests passed ⇒ full score"
-
-#, md-format
-msgid "faqs report test bad"
-msgstr "At least one subtest failed ⇒ not full score"
-
-#, md-format
-msgid "faqs report test error"
-msgstr "At least one subtest was not able to run ⇒ no results"
-
-msgid "faqs report subtest title"
-msgstr "III. Shield icons per subtest result"
-
-#, md-format
-msgid "faqs report subtest good"
-msgstr "Subtest passed ⇒ positive score"
-
-#, md-format
-msgid "faqs report subtest bad"
-msgstr "Subtest failed ⇒ negative score"
-
-#, md-format
-msgid "faqs report subtest warning"
-msgstr "Subtest failed ⇒ no score"
-
-#, md-format
-msgid "faqs report subtest not-tested"
-msgstr "Already fail in related (parent) subtest ⇒ no score"
-
-#, md-format
-msgid "faqs report subtest partly-tested"
-msgstr "Some hosts passed subtest, but not all hosts could be tested ⇒ negative score"
+msgid "faqs title"
+msgstr "Veelgestelde vragen"
 
 #, md-format
 msgid "halloffame teaser"
 msgstr "# Sala chwały\n"
 "Poniższe strony w pełni spełniają nowoczesne standardy, co oznacza osiągnięcie 100% w teście na Internet.nl."
 
-msgid "index newteaser"
-msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
-"Internetu. Używasz je?"
-
 msgid "home pagetitle"
 msgstr " "
+
+msgid "home stats connection"
+msgstr "connectiontests"
+
+msgid "home stats connection-items"
+msgstr "connections"
+
+msgid "home stats header"
+msgstr "Statistics"
+
+msgid "home stats mail"
+msgstr "e-mailtests"
+
+msgid "home stats mail-items"
+msgstr "mail servers"
+
+msgid "home stats notpassed"
+msgstr "<100% score:"
+
+msgid "home stats passed"
+msgstr "100% score:"
+
+msgid "home stats website"
+msgstr "websitetests"
+
+msgid "home stats website-items"
+msgstr "web servers"
 
 #, md-format
 msgid "home teaser"
 msgstr "Czy twoje połączenie internetowe, strona i e-mail używają nowoczesnych standardów \n"
 "internetowych?   \n"
 "Przetestuj i sprawdź czy jesteś na bieżąco."
+
+msgid "index newteaser"
+msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
+"Internetu. Używasz je?"
 
 msgid "mail pagetitle"
 msgstr "Test e-maila:"
@@ -633,111 +807,6 @@ msgstr "Test e-maila: {{prettyaddr}}"
 
 msgid "mail tweetmessage"
 msgstr "{{report.domain}}%20scores%20{{score}}%25%20in%20the%20mailtest%20of%20%40Internet_nl%3A"
-
-msgid "article .index"
-msgstr "internetnl-in-polish"
-
-msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden body"
-msgstr " "
-
-msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden date"
-msgstr " "
-
-msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden lead"
-msgstr " "
-
-msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden teaser"
-msgstr " "
-
-msgid "article DMARC-masterclass-authenticatie-afzender-noodzaak-geworden title"
-msgstr " "
-
-msgid "article internetnl-in-polish body"
-msgstr "Inicjatywa na rzecz standardów internetowych promowana będzie\n"
-"podczas drugiego Europejskiego Forum Cyberbezpieczeństwa CYBERSEC 2016\n"
-"\n"
-"![CYBERSEC](/static/logo-cybersec.png)"
-
-msgid "article internetnl-in-polish date"
-msgstr "Piątek, 26 sierpnia"
-
-msgid "article internetnl-in-polish lead"
-msgstr " "
-
-msgid "article internetnl-in-polish title"
-msgstr "Internet.nl teraz rówież w języku polskim"
-
-msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee body"
-msgstr " "
-
-msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee date"
-msgstr " "
-
-msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee lead"
-msgstr " "
-
-msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee teaser"
-msgstr " "
-
-msgid "article internetnl-vernieuwd-hsts-en-afgedwongen-https-tellen-mee title"
-msgstr " "
-
-msgid "article lancering-internet-nl-tijdens-cyber-week-2015 body"
-msgstr " "
-
-msgid "article lancering-internet-nl-tijdens-cyber-week-2015 date"
-msgstr " "
-
-msgid "article lancering-internet-nl-tijdens-cyber-week-2015 lead"
-msgstr " "
-
-msgid "article lancering-internet-nl-tijdens-cyber-week-2015 teaser"
-msgstr " "
-
-msgid "article lancering-internet-nl-tijdens-cyber-week-2015 title"
-msgstr " "
-
-msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test body"
-msgstr " "
-
-msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test date"
-msgstr "19 maart 2016"
-
-msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test lead"
-msgstr " "
-
-msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test teaser"
-msgstr " "
-
-msgid "article nieuwe-versie-internetnl-met-aanvullingen-https-test title"
-msgstr " "
-
-msgid "article uitnodiging-masterclass-DMARC body"
-msgstr " "
-
-msgid "article uitnodiging-masterclass-DMARC date"
-msgstr " "
-
-msgid "article uitnodiging-masterclass-DMARC lead"
-msgstr " "
-
-msgid "article uitnodiging-masterclass-DMARC teaser"
-msgstr " "
-
-msgid "article uitnodiging-masterclass-DMARC title"
-msgstr " "
-
-msgid "article website-internet-nl-drukbezocht-na-cybertop body"
-msgstr " "
-
-msgid "article website-internet-nl-drukbezocht-na-cybertop date"
-msgstr " "
-
-msgid "article website-internet-nl-drukbezocht-na-cybertop lead"
-msgstr " "
-
-msgid "article website-internet-nl-drukbezocht-na-cybertop title"
-msgstr " "
 
 msgid "page gotocontents"
 msgstr " "
@@ -814,23 +883,7 @@ msgstr "Wartość niedostępna"
 msgid "results explanation label"
 msgstr "Test explanation:"
 
-msgid "results further-testing web label"
-msgstr "Further testing"
-
-msgid "results further-testing web content"
-msgstr "- Test 1\n"
-"  - [https://internet.nl](https://internet.nl/)\n"
-"- Test 2\n"
-"  - [https://internet.nl](https://internet.nl/)\n"
-"- Test 3 -- very very very very veryvery long title for test 3\n"
-"  - [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
-"- Test 4\n"
-"  - [https://internet.nl](https://internet.nl/)"
-
-msgid "results further-testing mail label"
-msgstr "Further testing"
-
-msgid "results further-testing mail content"
+msgid "results further-testing connection content"
 msgstr "- Test 1\n"
 "  - [https://internet.nl](https://internet.nl/)\n"
 "- Test 2\n"
@@ -843,7 +896,7 @@ msgstr "- Test 1\n"
 msgid "results further-testing connection label"
 msgstr "Further testing"
 
-msgid "results further-testing connection content"
+msgid "results further-testing mail content"
 msgstr "- Test 1\n"
 "  - [https://internet.nl](https://internet.nl/)\n"
 "- Test 2\n"
@@ -852,6 +905,22 @@ msgstr "- Test 1\n"
 "  - [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
 "- Test 4\n"
 "  - [https://internet.nl](https://internet.nl/)"
+
+msgid "results further-testing mail label"
+msgstr "Further testing"
+
+msgid "results further-testing web content"
+msgstr "- Test 1\n"
+"  - [https://internet.nl](https://internet.nl/)\n"
+"- Test 2\n"
+"  - [https://internet.nl](https://internet.nl/)\n"
+"- Test 3 -- very very very very veryvery long title for test 3\n"
+"  - [https://internet.nl/long/path/to/this/testing/url/](https://internet.nl/)\n"
+"- Test 4\n"
+"  - [https://internet.nl](https://internet.nl/)"
+
+msgid "results further-testing web label"
+msgstr "Further testing"
 
 msgid "results mail dnssec domain label"
 msgstr "Domain"
@@ -1393,30 +1462,3 @@ msgstr "Połączenie odpowiednio zabezpieczone (TLS)"
 
 msgid "test sitetls title"
 msgstr "Zabezpieczone połączenie?"
-
-msgid "home stats header"
-msgstr "Statistics"
-
-msgid "home stats website"
-msgstr "websitetests"
-
-msgid "home stats mail"
-msgstr "e-mailtests"
-
-msgid "home stats connection"
-msgstr "connectiontests"
-
-msgid "home stats website-items"
-msgstr "web servers"
-
-msgid "home stats mail-items"
-msgstr "mail servers"
-
-msgid "home stats connection-items"
-msgstr "connections"
-
-msgid "home stats passed"
-msgstr "100% score:"
-
-msgid "home stats notpassed"
-msgstr "<100% score:"

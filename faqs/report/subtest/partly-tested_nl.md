@@ -1,1 +1,2 @@
-Sommige servers geslaagd voor subtest, maar niet alle servers konden worden getest ⇒ nulscore
+Sommige servers geslaagd voor subtest, maar niet alle servers konden worden 
+getest ⇒ nulscore

@@ -1,0 +1,1 @@
+Today the Internet Standards Platform launches a fully redesigned [Internet.nl](https://internet.nl/) test website. The comprehensive explanations on the improved test website provide more guidance to users to get modern Internet Standards. The redesign makes the website better accessible on mobile devices and for users with disabilities.

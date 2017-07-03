@@ -1,1 +1,14 @@
-We testen of de DANE-fingerprints die je mailserverdomeinen presenteren geldig zijn voor je mailservercertificaten. Met DANE kan je informatie over jouw mailservercertificaten publiceren in een speciaal DNS-record, een TLSA-record. Verzendende mailservers kunnen de  certificaten nu niet alleen via de certificaatautoriteit, maar ook via de TLSA-records controleren op authenticiteit. Een verzendende mail server kan het TLSA-record ook als signaal gebruiken om alleen via STARTTLS (en niet onversleuteld) te verbinden. Als de DANE-fingerprint van een ontvangende mailserver wordt gecontroleerd door de verzendende mailserver, dan kan een actieve aanvaller die in staat is het berichtenverkeer te manipuleren de STARTTLS-encryptie niet verwijderen. DNSSEC is een noodzakelijke randvoorwaarde voor DANE. Let op: gevallen waarbij we een geldige TLSA-record maar geen DNSSEC detecteren óf waarbij we het opvragen van het TLSA-record mislukt, worden ook beschouwd als fouten in deze test.
+We testen of de DANE-fingerprints die je mailserverdomeinen presenteren 
+geldig zijn voor je mailservercertificaten. Met DANE kan je informatie over 
+jouw mailservercertificaten publiceren in een speciaal DNS-record, een TLSA-
+record. Verzendende mailservers kunnen de  certificaten nu niet alleen via 
+de certificaatautoriteit, maar ook via de TLSA-records controleren op 
+authenticiteit. Een verzendende mail server kan het TLSA-record ook als 
+signaal gebruiken om alleen via STARTTLS (en niet onversleuteld) te 
+verbinden. Als de DANE-fingerprint van een ontvangende mailserver wordt 
+gecontroleerd door de verzendende mailserver, dan kan een actieve aanvaller 
+die in staat is het berichtenverkeer te manipuleren de STARTTLS-encryptie 
+niet verwijderen. DNSSEC is een noodzakelijke randvoorwaarde voor DANE. Let 
+op: gevallen waarbij we een geldige TLSA-record maar geen DNSSEC detecteren 
+óf waarbij we het opvragen van het TLSA-record mislukt, worden ook beschouwd
+ als fouten in deze test.

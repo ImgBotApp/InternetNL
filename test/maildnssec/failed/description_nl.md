@@ -1,1 +1,7 @@
-Helaas! De domeinen van je e-mailadres en mailserver(s) zijn *niet* (allemaal) ondertekend met een geldigde handtekening. Verzenders die domeinhandtekeningen controleren, kunnen nu niet betrouwbaar het IP-adres van je ontvangende e-mailserver(s) opvragen. Een aanvaller kan het IP-adres daardoor ongemerkt manipuleren en aan jou gestuurde e-mails omleiden naar een eigen mailserver. Vraag je nameserver-beheerder en/of je mailprovider om DNSSEC te activeren.
+Helaas! De domeinen van je e-mailadres en mailserver(s) zijn *niet* 
+(allemaal) ondertekend met een geldigde handtekening. Verzenders die 
+domeinhandtekeningen controleren, kunnen nu niet betrouwbaar het IP-adres 
+van je ontvangende e-mailserver(s) opvragen. Een aanvaller kan het IP-adres 
+daardoor ongemerkt manipuleren en aan jou gestuurde e-mails omleiden naar 
+een eigen mailserver. Vraag je nameserver-beheerder en/of je mailprovider om
+ DNSSEC te activeren.

@@ -1,1 +1,5 @@
-We testen of we je webserver(s) kunnen bereiken via IPv6 op alle beschikbare poorten (80 en/of 443). We testen alle IPv6-adressen die we ontvangen van je nameservers. Een deelscore wordt gegeven als niet alle IPv6-adressen bereikbaar zijn. Als een IPv6-adres (syntactisch) ongeldig is, dan beschouwen we dat als onbereikbaar.
+We testen of we je webserver(s) kunnen bereiken via IPv6 op alle beschikbare
+ poorten (80 en/of 443). We testen alle IPv6-adressen die we ontvangen van 
+je nameservers. Een deelscore wordt gegeven als niet alle IPv6-adressen 
+bereikbaar zijn. Als een IPv6-adres (syntactisch) ongeldig is, dan 
+beschouwen we dat als onbereikbaar.

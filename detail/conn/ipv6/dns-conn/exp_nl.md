@@ -1,1 +1,4 @@
-We testen of jouw apparaat middels zijn huidige internetverbinding in staat is om verbinding te maken met onze webserver via IPv6. Voor deze test bieden we een domeinnaam aan en we verwachten dat je resolver voor deze domeinnaam het bijbehorende IPv6-adres ophaalt.
+We testen of jouw apparaat middels zijn huidige internetverbinding in staat 
+is om verbinding te maken met onze webserver via IPv6. Voor deze test bieden
+ we een domeinnaam aan en we verwachten dat je resolver voor deze domeinnaam
+ het bijbehorende IPv6-adres ophaalt.

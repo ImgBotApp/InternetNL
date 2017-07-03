@@ -1,1 +1,4 @@
-Too bad! Your mail server can not be reached by senders using modern IPv6 addresses, or improvement is possible. Therefore your mail server is not part of the modern Internet yet. You should ask your email provider to fully enable IPv6.
+Too bad! Your mail server can not be reached by senders using modern IPv6 
+addresses, or improvement is possible. Therefore your mail server is not 
+part of the modern Internet yet. You should ask your email provider to fully
+ enable IPv6.

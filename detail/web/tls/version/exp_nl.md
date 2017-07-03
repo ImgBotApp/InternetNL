@@ -1,1 +1,8 @@
-We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste versies van TLS (namelijk SSL 1.0, 2.0 en 3.0) bevatten ernstige kwetsbaarheden. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste bescherming. Een webserver kan meerdere TLS-versies ondersteunen. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B1-1.
+We testen of je webserver alleen veilige TLS-versies ondersteunt. De oudste 
+versies van TLS (namelijk SSL 1.0, 2.0 en 3.0) bevatten ernstige 
+kwetsbaarheden. Deze moeten daarom worden vermeden. TLS 1.0 en 1.1 zijn 
+voldoende veilig. De meest recente versie, TLS 1.2, biedt de beste 
+bescherming. Een webserver kan meerdere TLS-versies ondersteunen. Zie ['TLS-
+richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-
+beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn 
+B1-1.

@@ -1,1 +1,4 @@
-Helaas! De verbinding met je website is *niet* of *on*voldoende beveiligd. Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn daardoor *niet* beschermd tegen afluisteren en manipulatie. Vraag je hostingprovider om HTTPS aan te zetten en veilig te configureren.
+Helaas! De verbinding met je website is *niet* of *on*voldoende beveiligd. 
+Gegevens die onderweg zijn tussen je website en haar bezoekers, zijn 
+daardoor *niet* beschermd tegen afluisteren en manipulatie. Vraag je 
+hostingprovider om HTTPS aan te zetten en veilig te configureren.

@@ -1,1 +1,6 @@
-We check if your receiving mail servers (MX) support STARTTLS. If so, we also check in the below subtests whether STARTTLS is configured sufficiently secure. In case no mail server is defined, we give a notification and we execute other subtests of the mail test that are still relevant. Note: for performance reasons at most ten mail servers over either IPv6 or IPv4 are checked in the STARTTLS test section.
+We check if your receiving mail servers (MX) support STARTTLS. If so, we 
+also check in the below subtests whether STARTTLS is configured sufficiently
+ secure. In case no mail server is defined, we give a notification and we 
+execute other subtests of the mail test that are still relevant. Note: for 
+performance reasons at most ten mail servers over either IPv6 or IPv4 are 
+checked in the STARTTLS test section.

@@ -1,1 +1,9 @@
-We check if the resolvers that you use validate the DNSSEC signatures of our domain name. Resolvers are usually provided by your internet provider. Alternatively you can configure resolvers from another DNS provider. You can even use your own locally installed resolver. Although validation is done in the resolver, the communication from the resolver back to your device (referred to as 'last mile') could still be tampered with by an attacker. Thus the most secure way is to validate close to the end user device (e.g. by using a locally installed resolver), or make sure that the channel between your resolver and your end user device is secured/trusted.
+We check if the resolvers that you use validate the DNSSEC signatures of our
+ domain name. Resolvers are usually provided by your internet provider. 
+Alternatively you can configure resolvers from another DNS provider. You can
+ even use your own locally installed resolver. Although validation is done 
+in the resolver, the communication from the resolver back to your device 
+(referred to as 'last mile') could still be tampered with by an attacker. 
+Thus the most secure way is to validate close to the end user device (e.g. 
+by using a locally installed resolver), or make sure that the channel 
+between your resolver and your end user device is secured/trusted.

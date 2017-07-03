@@ -1,1 +1,2 @@
-JavaScript inactief. Activeer JavaScript om de test toch uit te kunnen voeren.
+JavaScript inactief. Activeer JavaScript om de test toch uit te kunnen 
+voeren.

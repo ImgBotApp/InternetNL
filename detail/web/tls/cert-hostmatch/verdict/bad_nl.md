@@ -1,1 +1,2 @@
-De domeinnaam van je website komt *niet* overeen met de domeinnaam op je websitecertificaat.
+De domeinnaam van je website komt *niet* overeen met de domeinnaam op je 
+websitecertificaat.

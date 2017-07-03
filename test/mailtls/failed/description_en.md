@@ -1,1 +1,7 @@
-Too bad! Sending mail servers that support STARTTLS can establish *no* or an *insufficiently* secure connection with your receiving mail server(s). Passive attackers will therefore be able to read emails in transit to you. You should ask your mail provider to enable STARTTLS and configure it securely. Note: we additionally recommend to publish DANE records to counteract active attackers from stripping STARTTLS encryption by manipulating the mail traffic.
+Too bad! Sending mail servers that support STARTTLS can establish *no* or an
+ *insufficiently* secure connection with your receiving mail server(s). 
+Passive attackers will therefore be able to read emails in transit to you. 
+You should ask your mail provider to enable STARTTLS and configure it 
+securely. Note: we additionally recommend to publish DANE records to 
+counteract active attackers from stripping STARTTLS encryption by 
+manipulating the mail traffic.

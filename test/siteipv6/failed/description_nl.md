@@ -1,1 +1,4 @@
-Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern internetadres gebruiken, of er is verbetering mogelijk. Daardoor maakt je website nog geen onderdeel uit van het moderne internet. Vraag je hostingprovider om IPv6 volledig aan te zetten.
+Helaas! Je website is *niet* bereikbaar voor bezoekers die een modern 
+internetadres gebruiken, of er is verbetering mogelijk. Daardoor maakt je 
+website nog geen onderdeel uit van het moderne internet. Vraag je 
+hostingprovider om IPv6 volledig aan te zetten.

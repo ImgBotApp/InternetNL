@@ -1,1 +1,4 @@
-We testen of de domeinnaam van je ontvangende mailserver (MX) overeenkomt met de domeinnaam op het certificaat. Zie ['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn B3-1.
+We testen of de domeinnaam van je ontvangende mailserver (MX) overeenkomt 
+met de domeinnaam op het certificaat. Zie ['TLS-richtlijnen van 
+NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-
+voor-transport-layer-security-tls.html), richtlijn B3-1.

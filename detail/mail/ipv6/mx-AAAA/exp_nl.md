@@ -1,1 +1,4 @@
-We testen of er tenminste één AAAA-record met IPv6-adres voor iedere ontvangende mailserver (MX) is. In het geval er geen mailserver is gedefinieerd, geven we een notificatie en we voeren andere subtesten van de mailtest die nog steeds relevant zijn gewoon uit.
+We testen of er tenminste één AAAA-record met IPv6-adres voor iedere 
+ontvangende mailserver (MX) is. In het geval er geen mailserver is 
+gedefinieerd, geven we een notificatie en we voeren andere subtesten van de 
+mailtest die nog steeds relevant zijn gewoon uit.

@@ -1,0 +1,1 @@
+Vandaag lanceert Platform Internetstandaarden de nieuw ontworpen [Internet.nl](https://internet.nl)-testwebsite. De uitgebreide uitleg op de verbeterde testwebsite geeft gebruikers meer ondersteuning om aan moderne internetstandaarden te voldoen. Het herontwerp maakt de website beter toegankelijk op mobiele apparaten en voor gebruikers met een beperking.

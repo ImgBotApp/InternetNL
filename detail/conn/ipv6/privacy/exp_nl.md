@@ -1,1 +1,4 @@
-We testen of je apparaat 'IPv6 Privacy Extensions for SLAAC' (of een ander IPv6-configuratieproces dan SLAAC) gebruikt om het lekken van zijn mogelijk privacygevoelige MAC-adres naar computers waarmee het via IPv6 verbinding maakt te voorkomen.
+We testen of je apparaat 'IPv6 Privacy Extensions for SLAAC' (of een ander 
+IPv6-configuratieproces dan SLAAC) gebruikt om het lekken van zijn mogelijk 
+privacygevoelige MAC-adres naar computers waarmee het via IPv6 verbinding 
+maakt te voorkomen.

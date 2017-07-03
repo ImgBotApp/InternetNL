@@ -1,1 +1,10 @@
-We test if your web server supports HTTP compression. HTTP compression makes the secure connection with your webserver vulnerable for the BREACH attack. Turning it off could negatively impact the performance of the web server. If you use it, check if it is possible to take countermeasures on the application level against the attack vector. Note: this subtest checks if the web server on root directory level supports HTTP compression. However it does not check additional website sources like images and scripts. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-1 (in Dutch).
+We test if your web server supports HTTP compression. HTTP compression makes
+ the secure connection with your webserver vulnerable for the BREACH attack.
+ Turning it off could negatively impact the performance of the web server. 
+If you use it, check if it is possible to take countermeasures on the 
+application level against the attack vector. Note: this subtest checks if 
+the web server on root directory level supports HTTP compression. However it
+ does not check additional website sources like images and scripts. See 
+['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-
+beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline 
+B6-1 (in Dutch).

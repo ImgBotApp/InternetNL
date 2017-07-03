@@ -1,1 +1,4 @@
-Too bad! The connection with your website is *not* or *in*sufficiently secured. Therefore information in transit between your website and its visitors is *not* protected against eavesdropping and tampering. You should ask your hosting provider to enable HTTPS and to configure it securely.
+Too bad! The connection with your website is *not* or *in*sufficiently 
+secured. Therefore information in transit between your website and its 
+visitors is *not* protected against eavesdropping and tampering. You should 
+ask your hosting provider to enable HTTPS and to configure it securely.

@@ -1,1 +1,2 @@
-Je webserver ondersteunt HTTP-compressie, wat een beveiligingsrisico kan vormen.
+Je webserver ondersteunt HTTP-compressie, wat een beveiligingsrisico kan 
+vormen.
