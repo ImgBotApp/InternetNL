@@ -1,1 +1,1 @@
-Mail server|TLSA
+Mailserver|Aanwezig
