@@ -1,1 +1,1 @@
-Mailserver (MX)|TLSA geldig
+Mailserver (MX)|DANE geldig
