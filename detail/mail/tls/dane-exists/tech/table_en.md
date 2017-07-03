@@ -1,1 +1,1 @@
-Mail server|TLSA existent
+Mail server|TLSA for DANE existent
