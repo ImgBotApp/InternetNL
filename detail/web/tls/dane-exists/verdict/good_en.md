@@ -1,1 +1,1 @@
-Your domain contains a DANE fingerprint of your web certificate.
+Your website domain contains at least one TLSA record for DANE.
