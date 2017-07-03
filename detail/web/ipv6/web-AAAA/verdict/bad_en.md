@@ -1,1 +1,1 @@
-*None* of your webservers has an IPv6 address.
+*None* of your web servers has an IPv6 address.
