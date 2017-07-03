@@ -1,1 +1,1 @@
-We check if the name servers of your mail server (MX) domains return a DNSSEC signature. Note: the validity of the signature is not part of this subtest, but part of the next subtest.
+We check if the domains of your mail servers (MX) are DNSSEC signed. Note: the validity of the signature is not part of this subtest, but part of the next subtest.
