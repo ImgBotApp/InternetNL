@@ -1,1 +1,1 @@
-One or more receiving mail servers (MX) on your domain do *not* have an IPv6 address.
+At least one of the receiving mail servers (MX) on your domain does *not* have an IPv6 address.
