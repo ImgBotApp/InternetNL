@@ -1,1 +1,1 @@
-Mailserver|TLSA aanwezig
+Mailserver|TLSA-record aanwezig
