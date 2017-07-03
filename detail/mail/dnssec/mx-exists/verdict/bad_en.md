@@ -1,1 +1,1 @@
-One or more of your mail server (MX) domains are insecure, because they are *not* DNSSEC signed.
+At least one of your mail server (MX) domains is insecure, because it is *not* DNSSEC signed.
