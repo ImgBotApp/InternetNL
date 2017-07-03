@@ -1,1 +1,1 @@
-All your mail server domains (MX) are secure, because their DNSSEC signatures are valid.
+All your mail server (MX) domains are secure, because their DNSSEC signatures are valid.
