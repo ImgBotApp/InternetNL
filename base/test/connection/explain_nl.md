@@ -1,4 +1,4 @@
-Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou gebruikte internetverbinding ondersteuning biedt voor de onderstaande moderne internetstandaarden.
+Nadat je de verbindingstest hebt gestart, testen we of de momenteel door jou gebruikte internetverbinding ondersteuning biedt voor de onderstaande moderne Internetstandaarden.
 
 * [IPv6](/faqs/ipv6/): zijn websites met moderne internetadressen voor jou bereikbaar?
 * [DNSSEC](/faqs/dnssec/): worden domeinnaam-handtekeningen voor jou gecontroleerd?
