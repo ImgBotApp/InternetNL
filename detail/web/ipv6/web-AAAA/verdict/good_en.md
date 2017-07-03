@@ -1,1 +1,1 @@
-There is at least one AAAA record with IPv6 address for your web server.
+There is an AAAA record with IPv6 address for at least one of your web server(s).
