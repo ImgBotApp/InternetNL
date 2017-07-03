@@ -1,1 +1,1 @@
-Your domain does *not* contain a TLSA record for DANE.
+Your website domain does *not* contain a TLSA record for DANE.
