@@ -1,1 +1,1 @@
-Er is een AAAA-record met IPv6-adres voor tenminste één van je webserver(s).
+Tenminste één van je webservers heeft een IPv6-adres.
