@@ -1,1 +1,1 @@
-Je domein bevat *geen* TLSA-record voor DANE.
+Je websitedomein bevat *geen* TLSA-record voor DANE.
