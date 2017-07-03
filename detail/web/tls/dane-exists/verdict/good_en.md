@@ -1,1 +1,1 @@
-Your website domain contains at least one TLSA record for DANE.
+Your website domain contains a TLSA record for DANE.
