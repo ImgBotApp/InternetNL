@@ -1,1 +1,1 @@
-Webserver-IP-adres|TLSA aanwezig
+Webserver-IP-adres|TLSA voor DANE aanwezig
