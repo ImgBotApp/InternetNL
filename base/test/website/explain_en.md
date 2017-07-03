@@ -1,4 +1,4 @@
-After you enter a domain name of a website, we will test if the website offers support for the modern internet standards below.
+After you enter a domain name of a website, we will test if the website offers support for the modern Internet Standards below.
 
 * [IPv6](/faqs/ipv6/): reachable via modern address?
 * [DNSSEC](/faqs/dnssec/): domain name signed?
