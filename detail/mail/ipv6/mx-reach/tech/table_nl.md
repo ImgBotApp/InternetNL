@@ -1,1 +1,1 @@
-Domein van mailserver (MX)|Onbereikbaar IPv6-adres
+Mailserver (MX)|Onbereikbaar IPv6-adres
