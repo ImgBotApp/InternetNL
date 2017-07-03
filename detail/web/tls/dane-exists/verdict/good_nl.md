@@ -1,1 +1,1 @@
-Je domein bevat een DANE-vingerafdruk van je websitecertificaat.
+Je websitedomein bevat een TLSA-record voor DANE.
