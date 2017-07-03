@@ -1,1 +1,1 @@
-Domein van mailserver (MX)|STARTTLS
+Mailserver (MX)|STARTTLS
