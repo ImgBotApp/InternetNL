@@ -1,1 +1,1 @@
-We check if there is at least one AAAA record with IPv6 address for every mail server (MX). In case no mail server is defined, we give a notification and we execute other subtests of the mail test that are still relevant.
+We check if there is at least one AAAA record with IPv6 address for every receiving mail server (MX). In case no mail server is defined, we give a notification and we execute other subtests of the mail test that are still relevant.
