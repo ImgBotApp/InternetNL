@@ -12,4 +12,3 @@
 
 ## Testrapport
 * [Toelichting op score en iconen](/faqs/report/)
-* Wie te benaderen voor verbetering?
