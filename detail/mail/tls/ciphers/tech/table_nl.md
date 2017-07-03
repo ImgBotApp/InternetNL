@@ -1,1 +1,1 @@
-Domein van mailserver (MX)|Veilige cipher suites
+Mailserver (MX)|Veilige cipher suites
