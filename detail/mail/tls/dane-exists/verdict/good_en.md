@@ -1,1 +1,1 @@
-TLSA record found (DANE)
+All your mail server domains contain a TLSA record for DANE.
