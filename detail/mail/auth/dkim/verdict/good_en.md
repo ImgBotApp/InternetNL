@@ -1,1 +1,1 @@
-Your domain has a DKIM record.
+Your domain supports DKIM records.
