@@ -1,1 +1,1 @@
-No mail servers (MX) are set on your domain making it unable to receive mail. 
+No mail servers are set on your domain making it unable to receive mail. 
