@@ -1,1 +1,1 @@
-De domeinnaam van je mailserver komt *niet* overeen met de domeinnaam op je mailservercertificaat.
+De domeinnaam van één van je mailservers komt *niet* overeen met de domeinnaam op het mailservercertificaat.
