@@ -1,1 +1,1 @@
-Domain of mail server (MX)|Untrusted certificate chain
+Mail server (MX)|Untrusted certificate chain
