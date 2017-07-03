@@ -1,1 +1,1 @@
-We check whether the domain name of your mail server (MX) matches the domain name on the certificate. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-1 (in Dutch).
+We check whether the domain name of your receiving mail server (MX) matches the domain name on the certificate. See ['TLS guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B3-1 (in Dutch).
