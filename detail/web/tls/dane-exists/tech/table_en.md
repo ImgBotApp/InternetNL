@@ -1,1 +1,1 @@
-Web server IP address|TLSA existent
+Web server IP address|TLSA for DANE existent
