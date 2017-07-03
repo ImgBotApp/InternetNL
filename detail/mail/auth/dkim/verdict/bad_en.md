@@ -1,1 +1,1 @@
-Your domain does *not* have a DKIM record.
+Your domain does *not* support DKIM records.
