@@ -1,22 +1,22 @@
 # Over Internet.nl
 
 ## Wat is Internet.nl?
-Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel **moderne, betrouwbare internetstandaarden**? En, als dat niet zo is, wat kun je daar aan doen?
+Op Internet.nl kun je eenvoudig testen of je internet up-to-date is. Gebruiken jouw [website](/test-site/), [e-mail](/test-mail/) en [internetverbinding](/test-connection/) wel **moderne, betrouwbare Internetstandaarden**? En, als dat niet zo is, wat kun je daar aan doen?
 
-## Wat zijn internetstandaarden?
-Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale "stekkers en stopcontacten" die alles met elkaar verbinden. Deze afspraken noemen we internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.
+## Wat zijn Internetstandaarden?
+Om wereldwijd gegevens tussen verschillende computers te kunnen uitwisselen, zijn internationale afspraken nodig over de manier waarop de computers met elkaar praten. Zeg maar de digitale "stekkers en stopcontacten" die alles met elkaar verbinden. Deze afspraken noemen we Internetstandaarden of -protocollen. Een voorbeeld is SMTP, een bekend protocol voor het versturen van e-mail. Deze technische kern van internet is voor de meeste gebruikers onzichtbaar en onbekend, maar cruciaal voor de werking van internet vandaag en in de toekomst.
 
 ## Waarom is het belangrijk om up-to-date te zijn?
-De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne standaarden beschikbaar zijn.
+De oorspronkelijke internetstandaarden stammen uit de jaren '70 en '80, toen er nog maar weinig internetgebruikers waren. Inmiddels zijn er wereldwijd ruim drie miljard internetgebruikers! En deze mensen gebruiken het internet steeds meer voor privacygevoelige en kostbare transacties. De oude standaarden kunnen deze schaalvergroting niet aan en voldoen niet aan de huidige veiligheidseisen. Zo misbruiken criminelen de SMTP-standaard om het afzenderadres van een e-mail te vervalsen. We moeten dus nieuwe, slimmere standaarden gaan gebruiken die ervoor zorgen dat ons internet voldoende betrouwbaar blijft. Het goede nieuws is dat deze moderne Internetstandaarden beschikbaar zijn.
 
-## Loopt Nederland voorop met moderne internetstandaarden?
-Helaas is dat niet zo. Ook in een modern land als Nederland (dat als eerste Europese land in 1988 internettoegang kreeg) gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Het niet gebruiken van moderne standaarden is een risico voor de individuele internetgebruiker, maar ook voor de "BV Nederland" en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne internetstandaarden.
+## Loopt Nederland voorop met moderne Internetstandaarden?
+Helaas is dat niet zo. Ook in een modern land als Nederland (dat als eerste Europese land in 1988 internettoegang kreeg) gebruiken we nog te veel verouderde standaarden die tekortschieten in betrouwbaarheid. Het niet gebruiken van moderne standaarden is een risico voor de individuele internetgebruiker, maar ook voor de "BV Nederland" en voor de gehele wereld. Help daarom mee het internet te verbeteren en zorg dat je up-to-date bent door gebruik te maken van moderne Internetstandaarden.
 
-## Wie moet er nu aan de slag met moderne internetstandaarden?
-Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne internetstandaarden op de juiste manier ingesteld staan. Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.
+## Wie moet er nu aan de slag met moderne Internetstandaarden?
+Onze access-, hosting- en mailproviders moeten ervoor zorgen dat de moderne Internetstandaarden op de juiste manier ingesteld staan. Laten de testresultaten tekortkomingen zien? Geef dat dan door aan je provider(s). Maak je gebruik van een eigen internetverbinding, webserver of mailserver dan moet je zelf aan de slag.
 
 ## Waarom gaan jullie niet direct in gesprek met de providers?
-Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om moderne internetstandaarden.
+Dat doen we ook. Tegelijkertijd helpt het enorm als internetgebruikers zelf ook meer bewust worden en signalen afgeven bij hun provider(s). Je zou het niet verwachten van een modern land als Nederland, maar we gebruiken nog veel verouderde standaarden waarvan de betrouwbaarheid te wensen overlaat. Help daarom mee het internet gezamenlijk te verbeteren en vraag om moderne Internetstandaarden.
 
 ## Wie zit er achter Internet.nl?
 De website Internet.nl is een initiatief van het **Platform Internetstandaarden**. In het platform participeren de onderstaande partners uit de internetgemeenschap en Nederlandse overheid. 
