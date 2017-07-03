@@ -1,1 +1,1 @@
-Domain of mail server (MX)|Secure TLS versions
+Mail server (MX)|Secure TLS versions
