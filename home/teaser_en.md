@@ -1,2 +1,2 @@
-Modern internet standards provide for more reliability and further growth of the Internet.   
+Modern Internet Standards provide for more reliability and further growth of the Internet.   
 Are you using them?
