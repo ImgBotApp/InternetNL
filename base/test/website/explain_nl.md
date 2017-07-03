@@ -1,4 +1,4 @@
-Nadat je een domeinnaam van een website heb opgegeven, testen we of de website ondersteuning biedt voor de onderstaande moderne internetstandaarden.
+Nadat je een domeinnaam van een website heb opgegeven, testen we of de website ondersteuning biedt voor de onderstaande moderne Internetstandaarden.
 
 * [IPv6](/faqs/ipv6/): bereikbaar via modern internetadres?
 * [DNSSEC](/faqs/dnssec/): domeinnaam ondertekend?
