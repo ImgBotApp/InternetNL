@@ -4,6 +4,7 @@
 - **DNSSEC:**
   - [DNSViz](http://dnsviz.net/)
   - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
+  - [Zonemaster](https://zonemaster.net/)
 - **DMARC, DKIM en SPF:**
   - [Mail-tester.com](https://www.mail-tester.com/)
   - [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
