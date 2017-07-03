@@ -1,1 +1,1 @@
-Er is *geen* AAAA-record met IPv6-adres voor je webserver(s).
+*Geen* van je webservers heeft een IPv6-adres.
