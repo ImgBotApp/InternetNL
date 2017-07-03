@@ -1,1 +1,1 @@
-Mailserver|TLSA-record aanwezig
+Mailserver|TLSA voor DANE aanwezig
