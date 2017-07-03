@@ -1,1 +1,1 @@
-Mailserver|DANE aanwezig
+Mailserver|TLSA aanwezig
