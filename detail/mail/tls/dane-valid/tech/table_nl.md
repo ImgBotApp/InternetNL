@@ -1,1 +1,1 @@
-Mailserver|TLSA geldig
+Mailserver (MX)|TLSA geldig
