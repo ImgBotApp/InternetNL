@@ -1,1 +1,1 @@
-Your domain does *not* contain a DANE fingerprint of your web certificate.
+Your domain does *not* contain a TLSA record for DANE.
