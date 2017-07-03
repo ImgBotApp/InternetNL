@@ -1,1 +1,1 @@
-Mailserver|Aanwezig
+Mailserver|DANE aanwezig
