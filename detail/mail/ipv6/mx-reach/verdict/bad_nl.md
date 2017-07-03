@@ -1,1 +1,1 @@
-Eén of meer van je mailservers (MX) met een IPv6-adres zijn *niet* bereikbaar via IPv6.
+Tenminste één van je mailservers (MX) met een IPv6-adres is *niet* bereikbaar via IPv6.
