@@ -1,1 +1,1 @@
-Your domain has a SPF record.
+Your domain has an SPF record.
