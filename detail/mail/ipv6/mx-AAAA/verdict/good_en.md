@@ -1,1 +1,1 @@
-All receiving mail servers (MX) on your domain have an IPv6 address.
+All receiving mail servers on your domain have an IPv6 address.
