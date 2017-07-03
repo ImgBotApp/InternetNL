@@ -1,1 +1,1 @@
-Eén of meer ontvangende mailservers (MX) op jouw domeinnaam hebben *geen* IPv6-adres.
+Tenminste één ontvangende mailservers (MX) op jouw domeinnaam heeft *geen* IPv6-adres.
