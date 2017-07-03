@@ -1,1 +1,1 @@
-Ieder van je mailservers (MX) met een IPv6-adres is bereikbaar via IPv6.
+Al je mailservers (MX) met een IPv6-adres zijn bereikbaar via IPv6.
