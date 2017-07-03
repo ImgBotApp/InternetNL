@@ -12,4 +12,3 @@
 
 ## Test report
 * [Explanation of score and icons](/faqs/report/)
-* Who to contact for improvement?
