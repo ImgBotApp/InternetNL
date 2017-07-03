@@ -1,4 +1,4 @@
-After you enter a domain name of an email service, we will test if the email service offers support for the modern internet standards below.
+After you enter a domain name of an email service, we will test if the email service offers support for the modern Internet Standards below.
 
 * [IPv6](/faqs/ipv6/): reachable via modern internet address?
 * [DNSSEC](/faqs/dnssec/): domain names signed?
