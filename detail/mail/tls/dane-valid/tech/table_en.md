@@ -1,1 +1,1 @@
-Mail server|DANE valid
+Mail server (MX)|DANE valid
