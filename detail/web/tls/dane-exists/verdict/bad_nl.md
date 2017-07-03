@@ -1,1 +1,1 @@
-Je domein bevat *geen* DANE-vingerafdruk van je websitecertificaat.
+Je domein bevat *geen* geen TLSA-record voor DANE.
