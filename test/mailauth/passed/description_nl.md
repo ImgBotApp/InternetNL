@@ -1,1 +1,1 @@
-Goed gedaan! Je domein bevat alle echtheidswaarmerken tegen e-mailvervalsing. Ontvangers kunnen daardoor betrouwbaar phishing- of spammails die jouw domeinnaam als hun afzenderadres misbruiken, scheiden van jouw echte e-mails.
+Goed gedaan! Je domein bevat alle echtheidswaarmerken tegen e-mailvervalsing. Ontvangers kunnen daardoor betrouwbaar phishing- of spammails die jouw domeinnaam in hun afzenderadres misbruiken, scheiden van jouw echte e-mails.
