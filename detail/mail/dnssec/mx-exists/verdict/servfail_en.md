@@ -1,1 +1,1 @@
-The name servers of your mail server (MX) domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please let the name server operator (often your mail provider) fix this soon.
+The name servers of your mail server (MX) domain are *broken*. They returned an error (`SERVFAIL`) to our queries for a DNSSEC signature. Please contact your name server operator (often your mail provider) to fix this soon.
