@@ -5,6 +5,7 @@
 - **DNSSEC:**
   - [DNSViz](http://dnsviz.net/)
   - [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)
+  - [Zonemaster](https://zonemaster.net/)
 - **HTTPS:**
   - [SSLlabs](https://www.ssllabs.com/ssltest/)
   - [badssl.com](https://badssl.com/)
