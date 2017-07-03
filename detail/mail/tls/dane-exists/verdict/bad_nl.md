@@ -1,1 +1,1 @@
-No TLSA record found (DANE)
+Tenminste één van je mailserverdomeinen bevat geen TLSA-record voor DANE.
