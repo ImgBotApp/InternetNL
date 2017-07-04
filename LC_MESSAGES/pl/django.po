@@ -1600,8 +1600,8 @@ msgstr "websites"
 
 #, md-format
 msgid "home teaser"
-msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój \n"
-"Internetu. Używasz je?"
+msgstr "Nowoczesne standardy zapewniają większe bezpieczeństwo i dalszy rozwój Internetu.  \n"
+"Używasz je?"
 
 msgid "mail pagetitle"
 msgstr "Test e-maila:"
