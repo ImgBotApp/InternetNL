@@ -1,1 +1,1 @@
-Seconds until retest:
+Seconds until retest option:

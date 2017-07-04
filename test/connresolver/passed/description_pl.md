@@ -1,3 +1,3 @@
-Gratulacje; używasz DNSSEC. Ten system zabezpieczeń sprawdza cyfrowy podpis 
-rozszerzony o tłumacznie nazwy domeny do adresu IP. Jesteś chroniony przed 
-przekierowaniami do fałszywych adresów IP.
+Well done! Domain signatures are validated for you. Therefore you are 
+protected against false translation from signed domain names into rogue IP 
+addresses.

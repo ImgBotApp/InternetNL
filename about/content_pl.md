@@ -1,63 +1,38 @@
-# O Internet.nl
+# About Internet.nl
 
-## Czym jest Internet.nl?
+## What is Internet.nl?
+Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail/) and [internet connection](/test-connection/) use **modern and reliable Internet Standards**? And if they don't, what can you do about it?
 
-Internet.nl pomaga sprawdzić czy Twój Internet jest aktualny. 
-Czy Twoje połączenie internetowe, e-mail, domena używa nowoczesnych standardów internetowych? 
-Jeśli nie, co można z tym zrobić?
+## What are Internet Standards?
+In order to exchange data between computers around the world, we need international agreements on how computers talk to one another. The digital "plugs and sockets" that link everything together, so to speak. These agreements are called Internet Standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical core of the internet is unvisible and unknown to most users. However it is crucial for a working internet today and in the future.
 
-## Czym są 'standardy internetowe'?
+## Why is it important to be up to date?
+The original internet standards date from the 70s and 80s, when the number of internet users was small. Nowadays, there are more than three billion users worldwide! And these people use the internet more and more for transactions that are privacy-sensitive and costly. The old standards cannot meet this scale nor the modern safety requirements. For instance, criminals are abusing the SMTP standard to spoof the sender address of an email. This means that we have to start using new, smarter standards that keep our internet reliable. The good news is that these modern Internet Standards are available.
 
-Sieć pozwala na przesyłanie danych na całym świecie, potrzebne są międzynarodowe ustalenia 
-dotyczące tego jak komputery mają to robić - jak cyfrowe 'wtyczki i gniazdka' mają wszystko ze sobą łączyć. 
+## Who should act on modern Internet Standards?
+Our access, hosting and email providers should take care of implementing modern internet standards and setting them correctly. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own connection, webserver or mailserver, you have to take care of the correct settings yourself.
 
-Te ustalenia nazwane są 'standardami internetowymi' lub 'internetowymi protokołami'.
-Większość z tych standardów jest administrowana przez IETF,
-międzynarodową organizację, która jest otwarta dla każdego, kto chce dołączyć do dyskusji na temat tego,
-jak mają finalnie wyglądać standardy internetowe
+## Why don’t you address the access, hosting and email providers directly?
+We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but many countries still use many standards that are outdated and lack reliability. Therefore please help us to improve the internet together, and demand modern Internet Standards.
 
-## Dlaczego ważne jest aby 'być na bieżąco'?
+## Who is behind Internet.nl?
+The website Internet.nl is an initiative of the Dutch **Internet Standards Platform**. In this platform the below partners from the internet community and the Dutch government collaborate.
 
-Pierwsze standardy internetowe pojawiły się w latach 70. i 80. XX wieku, 
-kiedy Internet miał tylko kilkuset użytkowników, w większości były to wyższe uczelnie,
-które przekazywały sobie informacje naukowe. 
+- [DHPA](https://dhpa.nl/)
+- [ECP](https://ecp.nl/)
+- [Forum Standaardisatie](https://forumstandaardisatie.nl/)
+- [Internet Society internationaal](https://internetsociety.org/)
+- [Internet Society Nederland](https://isoc.nl/)
+- [ISPConnect](https://ispconnect.nl/)
+- [Ministerie van Economische Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken)
+- [NCSC](https://ncsc.nl/)
+- [NLnet](https://nlnet.nl/)
+- [NLnet Labs](https://nlnetlabs.nl/)
+- [RIPE NCC](https://ripe.net/)
+- [SIDN](https://sidn.nl/)
+- [SURFnet](https://surfnet.nl/)   
 
-Obecnie Internet ma ponad 3 miliardy użytkowników na całym świecie
-i przechowuje dużo wrażliwych dokumentów oraz ważnych transakcji handlowych.
-Oryginalnie powstałe internetowe technologie nie zapewniają już ochrony na taką skalę, jaka jest potrzebna.
+ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. [Open Netlabs](https://opennetlabs.nl/) / NLnet Labs is responsible for the technical implementation of the Internet.nl website.
 
-Dobrą wiadomością jest to, że posiadamy nowocześniejsze wersje standardów,
-które uzupełniają niedociągnięcia starszych. Złą natomiast to, że starsze są wciąż używane przez duże grono użytkowników.
-
-Przestarzałe standardy stwarzają ryzyko dla użytkowników indywidualnych,
-którzy mogą być narażeni na oszustwa internetowe lub może to spowodować, że połączenia internetowe nie będą działać prawidłowo.
-Stare standardy są również zagrożeniem dla The Netherlands Inc., After Schiphol Airport i Portu Rotterdam.
-Nasza infrastruktura cyfrowa jest 'trzecim głównym portem' w Holandii. Bezpieczny i niezawodny Internet ma zasadnicze znaczenie
-dla przyszłości holenderskiej gospodarki.                                                                            
-
-## Co kryje się za Internet.nl?
-
-Internet.nl jest inicjatywą pochodzącą od Internet Standards Platform.
-Przez zachęcanie do używania nowoczesnych standardów internetowych członkowie Platformy chcą uczynić internet
-bardziej rzetelnym i solidnym dla wszystkich. Współpartnerami w Internet Standard Platform są:
-
-- Dutch Hosting Provider Association (DHPA)
-- ECP
-- Standardisation Forum
-- Internet Society international
-- Internet Society Netherlands
-- Ministerstwo Gospodarki
-- National Cyber Security Centre (NCSC)
-- NLnet
-- RIPE NCC
-- SIDN
-- SURFnet.
-
-NLnet jest odpowiedzialne za tehniczne wykonanie portalu Internet.nl.
-
-## Co oferuje Internet Standards Platform?
-
-- Samodzielne wykonanie testu przez portal Internet.nl;
-- Pomiar rzeczywistego wykorzystania w Holandii;
-- Edukacje i poszerzenie wiedzy, z włączeniem corocznego seminarium;
-- Kontakt z interesariuszami.
+---
+[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. Questions and reactions regarding it can be sent to Internet Society Netherlands via voorzitter [at] isoc.nl.

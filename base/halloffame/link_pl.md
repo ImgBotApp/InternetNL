@@ -1,1 +1,1 @@
-Zobacz wszystkie {{count}} strony
+To Hall of Fame

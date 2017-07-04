@@ -1,2 +1,1 @@
-Nie chroniony, lub tylko częściowo chroniony, przed spoofingiem 
-(DKIM/SPF/DMARC)
+*Not* all authenticity marks against email phishing (DMARC, DKIM and SPF)

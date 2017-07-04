@@ -1,6 +1,5 @@
-Niestety ta domena e-mail nie używa DKIM, SPF i DMARC lub wystąpił błąd podczas konfiguracji. 
-Obecnie odbiorcy nie mogą używać wszystkich funkcji uwierzytelniania by sprawdzić czy wiadomość e-mail została narażona
-na spoofing i jak sobie z tym poradzić. Zabezpieczenie jest niedostateczne, by ochronić ten e-maila przed phishingiem i otrzymywaniem spamu czy wirusów.
-
-Zalecamy kontakt z dostawcą domeny e-mail, aby zainstalować DMARC, DKIM i SPF lub naprawić błędy, 
-które wystąpiły podczas konfiguracji.
+Too bad! Your domain does *not* contain all authenticity marks against email
+ forgery. Therefore receivers are *not* able to reliably seperate phishing 
+and spam emails abusing your domain in their sender address from your 
+authentic emails. You should ask your mail provider to activate DMARC, DKIM 
+and SPF.

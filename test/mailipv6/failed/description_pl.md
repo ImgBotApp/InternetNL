@@ -1,7 +1,4 @@
-Niestety, ta domena e-mail nie może być osiągnięta przez nadawców wykorzystujących nowoczesne adresy IPv6
-lub wystąpił błąd podczas konfiguracji.
-To nie jest jeszcze część nowoczesnego Internetu.
-
-
-Należy zwrócić się do dostawcy poczty e-mail, aby udostępnić IPv6 lub rozwiązać problemy, 
-które wystąpiły podczas konfiguracji
+Too bad! Your mail server can not be reached by senders using modern IPv6 
+addresses, or improvement is possible. Therefore your mail server is not 
+part of the modern Internet yet. You should ask your email provider to fully
+ enable IPv6.

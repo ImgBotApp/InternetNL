@@ -1,7 +1,5 @@
-Niestety, ta nazwa domeny używa DNSSEC lub wystąpił błąd w konfiguracji. 
-Użytkownicy tej nazwy domeny są obecnie chronione przed przekierowaniem do fałszywych adresów IP.
-
-
-
-Należy zwrócić się do dostawcy hostingu, by skonfigurować DNSSEC lub rozwiązać problemy, 
-które wystąpiły w konfiguracji.
+Too bad! Your domain is *not* signed with a valid signature. Therefore 
+visitors with enabled domain signature validation, are *not* protected 
+against manipulated translation from your domain into rogue internet 
+addresses. You should ask your name server operator (often your registrar 
+and/or hosting provider) to enable DNSSEC.

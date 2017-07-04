@@ -1,1 +1,1 @@
-Do szczegółowego raportu >>
+Test strony internetowej:

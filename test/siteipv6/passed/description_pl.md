@@ -1,3 +1,2 @@
-Gratulacje; Ta strona może być osiągnięta przez użytkowników 
-wykorzystujących nowoczesne adresy IPv6, co czyni ją w pełni częścią 
-współczesnego Internetu.
+Well done! Your website is reachable for visitors using a modern internet 
+addresses, making it fully part of the modern Internet.

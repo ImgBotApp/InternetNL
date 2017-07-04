@@ -1,1 +1,1 @@
-launchdate
+17 juli 2017

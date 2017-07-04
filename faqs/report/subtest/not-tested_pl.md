@@ -1,1 +1,1 @@
-Already fail in related (parent) subtest ⇒ no score
+Not tested, because already failed related parent subtest ⇒ null score

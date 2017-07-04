@@ -1,1 +1,1 @@
-Bezpieczne połączenie dla przychodzącego e-maila?
+Secure connection possible?

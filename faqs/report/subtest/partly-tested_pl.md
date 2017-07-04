@@ -1,2 +1,2 @@
-Some hosts passed subtest, but not all hosts could be tested ⇒ negative 
+Some servers passed subtest, but not all servers could be tested ⇒ null 
 score

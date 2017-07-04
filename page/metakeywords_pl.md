@@ -1,1 +1,6 @@
- 
+IPv6, DNSSEC, HTTPS, HSTS, TLS, DMARC, DKIM, SPF, STARTTLS, DANE, test, test
+ tool, check, validation, Internet, Internet Standards, open standards, 
+modern standards, security, internet security, mail, email security, 
+website, website security, internet connection, secure connection, email 
+authentication, encryption, ciphers, cipher suites, PKI, SSL certificate, 
+TLS certificate, website certificaat, Internet Standards Platform

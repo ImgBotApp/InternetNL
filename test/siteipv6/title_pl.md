@@ -1,1 +1,1 @@
-Nowoczesny adres internetowy?
+Reachable via modern address?

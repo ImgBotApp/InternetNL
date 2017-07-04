@@ -1,6 +1,4 @@
-Niestety twój dostawca internetu nie dał Ci nowoczesngo adresu IPv6
-lub wystąpił błąd przy konfiguracji. Nie jesteś w stanie osiągnąć wszystkich
-miejsc docelowych w internecie.
-
-Powinienieś zapytać swojego dostwcę intenetu lub administratora o udostępnienie IPv6
-lub naprawę błędu, który wystąpił podczas konfiguracji.
+Too bad! Your internet provider has *not* given you a modern internet 
+address, or has not configured everything correctly. Therefore you are *not*
+ able to reach other computers with modern adresses. Please ask your 
+internet provider for full IPv6 connectivity.

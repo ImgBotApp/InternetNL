@@ -1,4 +1,3 @@
-Gratulacje; ochrona kryptograficzna TLS na stronie internetowej jest 
-wystarczająco silna. Połączenia internetowe dla użytkowników, którzy również
- używają silnych konfiguracje TLS, są zabezpieczone przed podsłuchem i 
-manipulacją.
+Well done! The connection with your website is sufficiently secured. 
+Therefore information in transit between your website and its visitors is 
+protected against eavesdropping and tampering.

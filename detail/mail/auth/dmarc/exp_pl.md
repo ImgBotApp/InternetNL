@@ -1,0 +1,15 @@
+We check if DMARC is available for your domain. A receiving mail server may 
+use your DMARC policy to evaluate how to handle a mail with your domain as 
+sender that could not be authenticated with both DKIM and SPF, and it may 
+use your mail address from the DMARC record to provide feedback reports on 
+this to you. Currently we do not evaluate the DMARC policy. Even without an 
+active policy DMARC can be useful to get more insight in legitimate and 
+illegitimate outbound mail flows through DMARC reports. However in order for
+ DMARC to be effective against abuse of your domain for phishing and spam, 
+you need to set an active policy (`quarantine` or `reject`). As a quick win 
+we recommend to set a reject policy for (sub-)domains that you do not use 
+for sending mail to prevent abuse by others. Note: DMARC requires the SPF 
+domain (envelope sender, i.e. return-path that shows up in `MAIL FROM`) and 
+the DKIM domain (`d=`) to align with the mail body domain (`From:`). Having 
+more than one DMARC record in the same domain is not valid and will lead to 
+a test failure.

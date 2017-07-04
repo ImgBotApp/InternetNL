@@ -1,1 +1,1 @@
-STARTTLS and DANE
+Secure email transport (STARTTLS and DANE)

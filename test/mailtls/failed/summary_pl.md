@@ -1,1 +1,1 @@
-Możliwe połączenie niechronione lub chronione niedostatecznie (STARTTLS)
+*No* or insufficiently secure connection possible (STARTTLS)

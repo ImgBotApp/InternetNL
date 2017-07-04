@@ -1,1 +1,1 @@
-Show all results
+Show details

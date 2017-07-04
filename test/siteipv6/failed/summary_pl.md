@@ -1,1 +1,1 @@
-Nieosiągalny lub możliwe są udoskonalenia (IPv6)
+*Not* reachable via modern internet address, or improvement possible (IPv6)

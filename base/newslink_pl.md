@@ -1,1 +1,1 @@
-Indeks aktualności
+To the news overview

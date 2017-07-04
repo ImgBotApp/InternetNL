@@ -1,1 +1,1 @@
-Nie wszystkie miejsca docelowe w internecie są osiągalne (IPv6)
+Modern addresses *not* reachable (IPv6)

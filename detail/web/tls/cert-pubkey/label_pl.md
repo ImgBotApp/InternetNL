@@ -1,0 +1,1 @@
+Public key of certificate

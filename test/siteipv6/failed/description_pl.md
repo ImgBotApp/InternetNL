@@ -1,6 +1,4 @@
-Niestety, ta strona nie może być osiągnięta przez użytkowników używających  nowoczesnych adresów IPv6
-lub możliwa jest poprawa. To nie jest jeszcze w pełni część nowoczesnego Internetu.
-
-
-
-Należy zwrócić się do dostawcy hostingu, aby w pełni udostępnić IPv6.
+Too bad! Your website is *not* reachable for visitors using a modern 
+internet address, or improvement is possible. Therefore your website is not 
+part of the modern Internet yet. You should ask your hosting provider to 
+fully enable IPv6.

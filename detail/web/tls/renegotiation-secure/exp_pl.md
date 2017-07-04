@@ -1,0 +1,8 @@
+We check if your web server supports secure renegotiaton. The TLS standard 
+allows to step out of the application phase and force a new handshake. This 
+is called renegotiation. Originally this was designed very insecurely, but 
+the standard was updated and now allows for secure renegotiation. The old 
+version, i.e. insecure renegotiation, should not be supported. See ['TLS 
+guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-
+beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline 
+B6-2 (in Dutch).

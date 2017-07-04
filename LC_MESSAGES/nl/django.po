@@ -286,7 +286,7 @@ msgstr "*\"Sinds de eerste lancering in april 2015 zijn er meer dan 300.000 test
 "  - Multiple SPF records were not resulting in error."
 
 msgid "article improved-internetnl-test-for-modern-internet-standards date"
-msgstr "launchdate"
+msgstr "17 juli 2017"
 
 msgid "article improved-internetnl-test-for-modern-internet-standards lead"
 msgstr "Vandaag lanceert Platform Internetstandaarden de nieuw ontworpen [Internet.nl](https://internet.nl)-testwebsite. De uitgebreide uitleg op de verbeterde testwebsite geeft gebruikers meer ondersteuning om aan moderne internetstandaarden te voldoen. Het herontwerp maakt de website beter toegankelijk op mobiele apparaten en voor gebruikers met een beperking."

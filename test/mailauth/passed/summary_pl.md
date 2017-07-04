@@ -1,1 +1,1 @@
-Chroniony przed fałszywymi e-mailami (DKIM/SPF/DMARC)
+Authenticity marks against email phishing (DMARC, DKIM and SPF)

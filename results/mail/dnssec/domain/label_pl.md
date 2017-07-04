@@ -1,1 +1,1 @@
-Domain
+Email address domain

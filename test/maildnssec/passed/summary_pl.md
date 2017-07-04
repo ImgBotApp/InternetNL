@@ -1,1 +1,1 @@
-Chroniony przed fałszywymi informacjami DNS (DNSSEC)
+All domain names signed (DNSSEC)

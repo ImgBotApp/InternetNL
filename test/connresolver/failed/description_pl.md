@@ -1,6 +1,4 @@
-Niestety, nie używasz DNSSEC. Nie jesteś obecnie chroniony 
-przed przekierowaniami do fałszywych adresów IP.
-
-Należy zwrócić się do dostawcy Internetu lub administratora sieci w celu umożliwienia rozwiązania problemu, 
-który pojawił się w jego konfiguracji. 
-Bardziej doświadczeni Internauci mogą zainstalować DNSSEC na własnych systemach.
+Too bad! Domain signatures are *not* validated for you. Therefore you are 
+*not* protected against manipulated translation from signed domains into 
+rogue IP addresses. Please ask your internet provider for DNSSEC validation 
+and/or enable it on your own systems.

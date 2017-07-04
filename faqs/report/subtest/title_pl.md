@@ -1,1 +1,1 @@
-III. Shield icons per subtest result
+Icons per subtest result

@@ -113,7 +113,7 @@ msgstr "*\"Since its first launch in april 2015 over 300.000 tests were executed
 "  - Multiple SPF records were not resulting in error."
 
 msgid "article improved-internetnl-test-for-modern-internet-standards date"
-msgstr "launchdate"
+msgstr "July 17, 2017"
 
 msgid "article improved-internetnl-test-for-modern-internet-standards lead"
 msgstr "Today the Internet Standards Platform launches a fully redesigned [Internet.nl](https://internet.nl/) test website. The comprehensive explanations on the improved test website provide more guidance to users to get modern Internet Standards. The redesign makes the website better accessible on mobile devices and for users with disabilities."

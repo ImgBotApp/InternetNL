@@ -1,1 +1,1 @@
-Wszystkie miejsca docelowe w internecine są osiągalne (IPv6)
+Modern addresses reachable (IPv6)

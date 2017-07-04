@@ -1,1 +1,1 @@
-Chroniony przed przekierowaniem?
+Domain signatures validated?

@@ -1,1 +1,1 @@
-Błąd podczas działania!
+*Błąd* podczas działania!

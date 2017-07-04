@@ -1,1 +1,1 @@
-Chroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)
+Domain signatures validated (DNSSEC)

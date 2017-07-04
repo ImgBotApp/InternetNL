@@ -1,1 +1,1 @@
-Wszystkie miejsca docelowe w internecie osiągalne?
+Modern addresses reachable?

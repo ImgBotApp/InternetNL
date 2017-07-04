@@ -1,5 +1,7 @@
-Niestety; Ten serwer poczty przychodzącej wspiera STARTTLS. Oznacza to, że 
-serwer nadawczy może nawiązać bezpieczne połączenie z tym serwerem 
-pocztowym, który sprawia, że jest podatny na podsłuchy przez (pasywnie) 
-atakujących. Należy zwrócić się do dostawcy e-mail aby udostępnić STARTTLS i
- skonfigurować go poprawnie.
+Too bad! Sending mail servers that support STARTTLS can establish *no* or an
+ *insufficiently* secure connection with your receiving mail server(s). 
+Passive attackers will therefore be able to read emails in transit to you. 
+You should ask your mail provider to enable STARTTLS and configure it 
+securely. Note: we additionally recommend to publish DANE records to 
+counteract active attackers from stripping STARTTLS encryption by 
+manipulating the mail traffic.

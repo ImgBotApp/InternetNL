@@ -1,1 +1,1 @@
-Niechroniony przed przekierowaniem do fałszywych adresów IP (DNSSEC)
+Domain name *not* signed (DNSSEC)

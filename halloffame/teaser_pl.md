@@ -1,2 +1,3 @@
-# Sala chwały
-Poniższe strony w pełni spełniają nowoczesne standardy, co oznacza osiągnięcie 100% w teście na Internet.nl.
+# Hall of Fame - website test
+The {{count}} websites below are fully using modern internet standards.   
+They therefore score 100% in the [website test](/test-site/) on Internet.nl.

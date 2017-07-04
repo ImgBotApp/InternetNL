@@ -1,1 +1,1 @@
-Połączenie nie jest chronione, lub jest chronione niedostatecznienie (TLS)
+Connection *not* or insufficiently secured (HTTPS)

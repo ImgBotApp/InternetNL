@@ -1,0 +1,4 @@
+We check if the signed fingerprint of the website certificate was created 
+with a secure hashing algorithm. See ['TLS guidelines from NCSC-
+NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-
+voor-transport-layer-security-tls.html), guideline B3-2 (in Dutch).

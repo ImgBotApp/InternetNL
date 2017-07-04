@@ -1,1 +1,1 @@
-Chroniony przed przekierowaniem?
+Domain names signed?

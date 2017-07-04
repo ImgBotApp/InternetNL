@@ -1,3 +1,4 @@
-Gratulacje; Ta domena e-mail korzysta z DNSSEC. Nadawcy są chronieni przed dostarczeniem ich wiadomości
-do fałszywej skrzynki pocztowej. System odbierający może być pewny, że wszystkie funkcje i zasady autoryzacji, 
-w celu sprawdzenia, czy mail jest sfałszowany i jak sobie z tym radzić, są poprawne.
+Well done! Your email address domain and your mail server domain(s) are 
+signed with a valid signature. Therefore senders with enabled domain 
+signature validation, are able to reliably query the IP address of your 
+receiving mail server(s). 

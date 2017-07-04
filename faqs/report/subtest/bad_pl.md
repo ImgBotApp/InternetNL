@@ -1,1 +1,1 @@
-Subtest failed ⇒ negative score
+Failed the subtest on a 'must have' ⇒ null score

@@ -1,1 +1,1 @@
-Wartość niedostępna
+*Wartość niedostępna*

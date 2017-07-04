@@ -1,0 +1,4 @@
+We check if your device through its current internet connection is able to 
+connect to our webserver via IPv4. For this test we provide a domain name 
+and we expect your resolver to resolve the domain name to the appropriate 
+IPv4 address.
