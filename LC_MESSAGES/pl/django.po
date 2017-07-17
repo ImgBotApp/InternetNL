@@ -1573,8 +1573,9 @@ msgstr "Test na nowoczesne standardy internetowe takie jak IPv6, DNSSEC, HTTPS, 
 msgid "home stats connection"
 msgstr "Test połączenia"
 
+#msgstr "Połączenia"
 msgid "home stats connection-items"
-msgstr "Połączenia"
+msgstr " "
 
 msgid "home stats header"
 msgstr "Statistics"
@@ -1582,8 +1583,9 @@ msgstr "Statistics"
 msgid "home stats mail"
 msgstr "Test email"
 
+#msgstr "Serwery mailowe"
 msgid "home stats mail-items"
-msgstr "Serwery mailowe"
+msgstr " "
 
 msgid "home stats notpassed"
 msgstr "0-99% score:"
@@ -1594,8 +1596,9 @@ msgstr "100% score:"
 msgid "home stats website"
 msgstr "Testy stron WWW"
 
+#msgstr "Strony internetowe"
 msgid "home stats website-items"
-msgstr "Strony internetowe"
+msgstr " "
 
 #, md-format
 msgid "home teaser"
