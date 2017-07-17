@@ -1,1 +1,1 @@
-Domain signatures validated?
+Sygnatury domen zatwierdzone?

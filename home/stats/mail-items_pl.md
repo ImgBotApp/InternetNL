@@ -1,1 +1,1 @@
-mail servers
+Serwery mailowe

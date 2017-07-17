@@ -1,1 +1,1 @@
-Domain names signed?
+Podpisano nazy domen?

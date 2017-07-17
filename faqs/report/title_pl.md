@@ -1,1 +1,1 @@
-Explanation of score and icons
+Objaśnienie wyników i ikon

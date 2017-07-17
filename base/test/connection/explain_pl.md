@@ -1,15 +1,15 @@
-After you start the connection test, we will check if your currently used internet connection offers support for the modern Internet Standards below.
+Po uruchomieniu testu połączenia sprawdzimy, czy aktualnie używane połączenie internetowe oferuje wsparcie dla nowoczesnych standardów internetowych.
 
-* [IPv6](/faqs/ipv6/): are websites with modern internet addresses reachable for you?
-* [DNSSEC](/faqs/dnssec/): are domain signatures validated for you?
+* [IPv6](/faqs/ipv6/): czy strony internetowe z dostępem do nowoczesnych adresów internetowych są dla ciebie osiągalne ?
+* [DNSSEC](/faqs/dnssec/): czy sygnatury domeny zostały przez ciebie zatwierdzone ?
 
-## Test report
-After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see ["Explanation of score and icons"](/faqs/report/). 
+## Raport testu
+Po zakończeniu testu zostaniesz skierowany do raportu z dokładnymi wyjaśnieniami. Raport zawiera ogólny wynik procentowy, wyniki w sekcji testowej i subtestowej. Aby uzsykać więcej infromacji zobacz ["Objaśnienie wyników i ikon"](/faqs/report/). 
 
-## How to improve
-You can use this test report to improve your internet connection. Usually contacting your internet provider on this will be the best next step.
+## Jak ulepszyć
+Możesz użyć tego raportu z testów, aby poprawić połączenie internetowe. Skontaktowanie się z dostawcą internetu, będzie zazwyczaj najlepszym krokiem.
 
-## Scope
-The connection test checks on important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for internet connections.
+## Zakres
+Test połączenia sprawdza ważne nowoczesne standardy internetowe, które przyczyniają się do osiągalności i bezpieczeństwa. Nie powinno to być uważane za wszechstronny test zabezpieczeń połączeń internetowych.
 
 ---

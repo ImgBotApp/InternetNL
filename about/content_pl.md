@@ -1,22 +1,22 @@
-# About Internet.nl
+# O Internet.nl
 
-## What is Internet.nl?
-Internet.nl helps you to check whether your internet is up to date. Do your [website](/test-site/), [email](/test-mail/) and [internet connection](/test-connection/) use **modern and reliable Internet Standards**? And if they don't, what can you do about it?
+## Czym jest Internet.nl?
+Internet.nl pomaga ci sprawdzić, czy Twój internet korzysta z nowoczesnych rozwiązań. Czy twoja [strona internetowa](/test-site/), [email](/test-mail/) i [połączenie internetowe](/test-connection/) używają **nowoczesnych i niezawodnych standardów internetowych**? Jeśli nie to co możesz z tym zrobić?
 
-## What are Internet Standards?
-In order to exchange data between computers around the world, we need international agreements on how computers talk to one another. The digital "plugs and sockets" that link everything together, so to speak. These agreements are called Internet Standards or internet protocols. An example is SMTP, a well-known protocol for sending email. This technical core of the internet is unvisible and unknown to most users. However it is crucial for a working internet today and in the future.
+## Czym są standardy internetowe?
+W celu wymiany danych pomiędzy komputerami na całym świecie, potrzebujemy międzynarodowych umów dotyczących komunikacji pomiędzy nimi. Można powiedzieć, że są to cyfrowe "wtyczki i gniazda" łączące wszystko razem. Umowy te nazywane są standardami internetowymi lub protokołami internetowymi. Przykładem jest SMTP, znany jako protokół wysyłania wiadomości e-mail. Ten techniczny rdzeń internetu jest niewidoczny i nieznany dla większości użytkowników. Jednak jest on kluczowy dla działania internetu dzisiaj i w przyszłości.
 
-## Why is it important to be up to date?
-The original internet standards date from the 70s and 80s, when the number of internet users was small. Nowadays, there are more than three billion users worldwide! And these people use the internet more and more for transactions that are privacy-sensitive and costly. The old standards cannot meet this scale nor the modern safety requirements. For instance, criminals are abusing the SMTP standard to spoof the sender address of an email. This means that we have to start using new, smarter standards that keep our internet reliable. The good news is that these modern Internet Standards are available.
+## Dlaczego ważnym jest aby być najabardziej aktualnym ?
+Pierwotne standardy internetowe pochodzą z lat 70. i 80., kiedy liczba użytkowników internetu była niewielka. Obecnie na świecie jest ponad 3 miliardy użytkowników ! Ludzie ci korzystają z internetu coraz częsciej przy przeprowadzaniu transakcji, które są kosztowne i wrażliwe na wyciek danych osobowych. Stare standardy nie są w stanie spełnić swoich zadań przy takiej skali, podobnie jak nie są przystosowane do nowoczesnych wymogów bezpieczeństwa. Na przykład przestępcy używają standardu SMTP do fałszowania adresu nadawcy wiadomości e-mail. Oznacza to, że musimy zacząć używać nowych, inteligentnych standardów, które zapewniają niezawodność internetu. Dobra wiadomość jest taka, że owe nowoczesne standardy internetowe są już dostępne.
 
-## Who should act on modern Internet Standards?
-Our access, hosting and email providers should take care of implementing modern internet standards and setting them correctly. Do the test results show any shortcomings? Then please send a message about this to your provider(s). If you use your own connection, webserver or mailserver, you have to take care of the correct settings yourself.
+## Kto powinien działać w oparciu o nowoczesne standardy internetowe?
+Nasi dostawcy internetu, hostingu i poczty elektronicznej powinni zadbać o wdrożenie nowoczesnych standardów internetowych i prawidłowego ich ustawiania. Czy wyniki testów pokazują jakieś niedociągnięcia? Wyślij o tym wiadomość do swojego dostawcy. Jeśli używasz własnego połączenia, serwera WWW lub serwera poczty elektronicznej, musisz samodzielnie zadbać o właściwe ustawienia.
 
-## Why don’t you address the access, hosting and email providers directly?
-We do. Still it is important that internet users are aware themselves and send out signals to their provider(s) as well. This may come as a surprise, but many countries still use many standards that are outdated and lack reliability. Therefore please help us to improve the internet together, and demand modern Internet Standards.
+## Dlaczego nie zwracasz się bezpośrednio do dostawców internetu, hostingu i poczty e-mail?
+My to robimy. Jednak wciąż ważne jest, aby użytkownicy internetu byli świadomi siebie i wysyłali sygnały do swoich dostawców. Może to być zaskakujące, ale wiele państw wciaż stosuje mnóstwo standardów, które są przestarzałe i brakuje im niezawodności. Dlatego prosimy abyś pomógł nam ulepszyć internet razem - poproście o nowoczesne standardy internetowe.
 
-## Who is behind Internet.nl?
-The website Internet.nl is an initiative of the Dutch **Internet Standards Platform**. In this platform the below partners from the internet community and the Dutch government collaborate.
+## Kto jest odpowiedzialny Internet.nl?
+Strona Internet.nl jest inicjatywą holenderskiej Platformy Standardów Internetowych. W ramach tej platformy społeczność internetowa i holenderski rząd współpracują ze sobą. 
 
 - [DHPA](https://dhpa.nl/)
 - [ECP](https://ecp.nl/)
@@ -32,7 +32,7 @@ The website Internet.nl is an initiative of the Dutch **Internet Standards Platf
 - [SIDN](https://sidn.nl/)
 - [SURFnet](https://surfnet.nl/)   
 
-ECP provides for the administrative home of the platform. The domain name Internet.nl is provided to the platform by the Netherlands chapter of the Internet Society. [Open Netlabs](https://opennetlabs.nl/) / NLnet Labs is responsible for the technical implementation of the Internet.nl website.
+ECP zapewnia administracyjne centrum platformy.  Nazwa domeny Internet.nl jest udostępniana platformie przez niderlandzką część internetowego społeczeństwa. [Open Netlabs](https://opennetlabs.nl/) / NLnet Labs jest odpowiedzialny za techniczne aspekty strony Internet.nl.
 
 ---
-[Open Internet NL](http://open.internet.nl/) is not part of the Internet.nl project. Questions and reactions regarding it can be sent to Internet Society Netherlands via voorzitter [at] isoc.nl.
+[Open Internet NL](http://open.internet.nl/) nie jest częścią projektu Internet.nl. Pytania i reakcje dotyczące platformy można przesyłać do Holenderskiej Społeczności Internetowej przez voorzitter [at] isoc.nl.

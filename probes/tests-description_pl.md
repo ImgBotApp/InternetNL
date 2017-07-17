@@ -1,1 +1,1 @@
-The items below are being tested.
+Poniższe elementy są testowane.

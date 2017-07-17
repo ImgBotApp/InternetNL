@@ -1,1 +1,1 @@
-Domain signatures validated (DNSSEC)
+Sygnatury domen zatwierdzone (DNSSEC)

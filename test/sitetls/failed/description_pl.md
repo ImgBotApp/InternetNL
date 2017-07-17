@@ -1,4 +1,4 @@
-Too bad! The connection with your website is *not* or *in*sufficiently 
-secured. Therefore information in transit between your website and its 
-visitors is *not* protected against eavesdropping and tampering. You should 
-ask your hosting provider to enable HTTPS and to configure it securely.
+Szkoda! Połączenie z Twoją witryną *nie jest* lub *jest niewystarczająco* 
+zabezpieczone. W związku z tym informacje o tranzycie między Twoją witryną a 
+witryną odwiedzających *nie jest* zabezpieczone przed podsłuchem i manipulowaniem. Należy poprosić
+dostawcę usługi hostingowej o włączenie protokołu HTTPS i jego bezpieczną konfigurację.

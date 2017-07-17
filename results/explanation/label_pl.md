@@ -1,1 +1,1 @@
-Test explanation:
+Wyjaśnienie testu:

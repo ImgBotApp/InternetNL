@@ -1,1 +1,1 @@
-websites
+Strony internetowe

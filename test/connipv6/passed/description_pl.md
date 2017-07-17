@@ -1,2 +1,2 @@
-Well done! Your internet provider has provided you with a modern internet 
-address. Therefore you can reach other computers with modern adresses.
+Gratulacje! Twój dostawca dostarczył Ci nowoczesny adres internetowy. 
+Dzieki temu jesteś w stanie połączyć się z innymi komputerami z nowoczesnymi adresami.

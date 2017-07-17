@@ -1,5 +1,5 @@
-Too bad! Your domain is *not* signed with a valid signature. Therefore 
-visitors with enabled domain signature validation, are *not* protected 
-against manipulated translation from your domain into rogue internet 
-addresses. You should ask your name server operator (often your registrar 
-and/or hosting provider) to enable DNSSEC.
+Szkoda ! Twoja domena *nie jest* podpisana ważną sygnaturą. W związku z tym
+użytkownicy z włączoną weryfikacją podpisów domenowych *nie są* chronieni 
+przeciwko manipulowanemu tłumaczeniu z Twojej domeny na nieuczciwe adresy 
+internetowe. Należy zwrócić się do operatora serwera nazw (często jest to Twój rejestrator
+i / lub dostawcy usług hostingowych) o włączenie DNSSEC.

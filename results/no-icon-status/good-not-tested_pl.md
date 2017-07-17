@@ -1,1 +1,1 @@
-Partly passed, partly not testable
+Częściowo zaliczone, częściowo nie można sprawdzić

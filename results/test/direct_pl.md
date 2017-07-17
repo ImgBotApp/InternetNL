@@ -1,1 +1,1 @@
-Directly test:
+Test bezpośredni:

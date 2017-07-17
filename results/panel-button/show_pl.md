@@ -1,1 +1,1 @@
-Show details
+Pokaż szczegóły

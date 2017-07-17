@@ -1,2 +1,1 @@
-Check if the test results are available. If not, you will be redirected here
- instead.
+Sprawdź, czy wyniki testu są dostępne. Jeśli nie, zostaniesz przekierowany tutaj.

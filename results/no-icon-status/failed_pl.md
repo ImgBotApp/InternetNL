@@ -1,1 +1,1 @@
-Failed
+Niepowodzenie

@@ -1,1 +1,1 @@
-Secure website connection (HTTPS)
+Bezpieczne połączenie z serwisem WWW

@@ -1,1 +1,1 @@
-Test another website
+Sprawdź inną stronę

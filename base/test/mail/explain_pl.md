@@ -1,19 +1,19 @@
-After you enter a domain name of an email service, we will test if the email service offers support for the modern Internet Standards below.
+Po wprowadzeniu nazwy domeny usługi poczty e-mail, testujemy, czy usługa poczty elektronicznej oferuje wsparcie dla nowoczesnych standardów internetowych
 
-* [IPv6](/faqs/ipv6/): reachable via modern internet address?
-* [DNSSEC](/faqs/dnssec/): domain names signed?
-* [DMARC, DKIM and SPF](/faqs/mailauth/): authenticity marks against email phishing?
-* [STARTTLS](/faqs/starttls): secure connection possible?
+* [IPv6](/faqs/ipv6/): osiągalny poprzez nowoczesny adres internetowy?
+* [DNSSEC](/faqs/dnssec/): podpisane nazwy domen?
+* [DMARC, DKIM and SPF](/faqs/mailauth/): autentyczność znaków chroniących przed phishingiem?
+* [STARTTLS](/faqs/starttls): bezpieczene połączenie możliwe?. 
 
-Note: some standards are even relevant if there are no mail servers configured for your domain. 
+Uwaga: niektóre normy są istotne nawet jeśli nie ma skonfigurowanych serwerów pocztowych dla danej domeny.
 
-## Test report
-After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see ["Explanation of score and icons"](/faqs/report/). 
+## Raport testu
+Po zakończeniu testu zostaniesz skierowany do raportu z dokładnymi wyjaśnieniami. Raport zawiera ogólny wynik procentowy, wyniki w sekcji testowej i subtestowej. Aby uzsykać więcej infromacji zobacz ["Objasnienia wyników i ikon"](/faqs/report/). 
 
-## How to improve
-You can use this test report to improve the mail service that you use. Usually contacting your mail hoster on this will be the best next step.   
+## Jak ulepszyć
+Możesz użyć tego raportu z testów, aby poprawić obsługę poczty. Zazwyczaj skontaktowanie się z hosterem poczty jest najlepszym rozwiązaniem.
 
-## Scope
-The e-mail test checks for important modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for e-mail.
+## Zakres
+Test poczty e-mail sprawdza ważne nowoczesne standardy internetowe, które przyczyniają się do osiągalności i bezpieczeństwa. Nie należy go traktować jako całościowego testu zabezpieczeń poczty e-mail.
 
 ---

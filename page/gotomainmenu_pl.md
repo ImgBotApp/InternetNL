@@ -1,1 +1,1 @@
-Go to the main menu
+Przejdź do głównego menu

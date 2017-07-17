@@ -1,1 +1,1 @@
-Mail server(s)
+Serwer(y) email

@@ -1,4 +1,4 @@
-Well done! Your domain contains all authenticity marks against email 
-forgery. Therefore receivers are able to reliably seperate phishing and spam
- emails abusing your domain in their sender address, from your authentic 
-emails. 
+Gratulacje! Twoja domena zawiera wszystkie znaki autentyczności przeciwko fałszowaniu
+przez email. W związku z tym odbiorcy są w stanie niezawodnie oddzielić wiadomości typu phishing i spam
+które używają domeny w adresie nadawcy, od twoich autentycznych 
+maili.

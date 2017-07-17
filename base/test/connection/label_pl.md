@@ -1,1 +1,1 @@
-Test your connection
+Sprawdź połączenie

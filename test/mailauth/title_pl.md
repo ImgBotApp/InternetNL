@@ -1,1 +1,1 @@
-Authenticity marks against email phising?
+Znaki autentyczności przeciwko phishingowi?

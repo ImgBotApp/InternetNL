@@ -1,1 +1,1 @@
-Domain name signed?
+Nazwa domeny podpisana?

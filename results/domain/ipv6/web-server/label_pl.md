@@ -1,1 +1,1 @@
-Web server
+Serwer internetowy

@@ -1,1 +1,1 @@
-Modern addresses reachable (IPv6)
+Nowoczesny adres osiągalny (IPv6)

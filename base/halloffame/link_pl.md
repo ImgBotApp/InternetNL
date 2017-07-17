@@ -1,1 +1,1 @@
-To Hall of Fame
+Do Hall of Fame

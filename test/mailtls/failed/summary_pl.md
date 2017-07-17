@@ -1,1 +1,1 @@
-*No* or insufficiently secure connection possible (STARTTLS)
+*Nie* albo niewłaściwie bezpieczne połączenie (STARTTLS)

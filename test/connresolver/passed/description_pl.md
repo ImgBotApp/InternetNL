@@ -1,3 +1,3 @@
-Well done! Domain signatures are validated for you. Therefore you are 
-protected against false translation from signed domain names into rogue IP 
-addresses.
+Dobra robota! Sygnatury domen sa przez ciebie zatwierdzone. W związku z tym
+jesteś chroniony przed fałszywym tłumaczeniem podpisanych domen na nieuczciwe
+adresy IP.

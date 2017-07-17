@@ -1,1 +1,1 @@
-Overall percentage score per main test
+Całkowity procentowy wynik głównego testu

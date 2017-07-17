@@ -1,2 +1,2 @@
-Passed the subtest on a 'must have' or 'should/could have' ⇒ respectively 
-full score or no score impact
+Zaliczony subtest w punkcie 'must have' albo 'should/could have' ⇒ odpowiednio
+pełny wynik albo brak wpływu na wynik

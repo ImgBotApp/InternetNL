@@ -1,3 +1,3 @@
-Well done! The connection with your website is sufficiently secured. 
-Therefore information in transit between your website and its visitors is 
-protected against eavesdropping and tampering.
+Gratulacje! Połączenie z Twoją witryną jest wystarczająco zabezpieczone. 
+W związku z tym informacje o tranzycie między Twoją witryną a witryną odwiedzających są
+zabezpieczone przed podsłuchem i manipulowaniem

@@ -1,1 +1,1 @@
-JavaScript inactive. Please enable JavaScript in order to execute the test.
+JavaScript niaktywny. Proszę włączyć obsługę JavaScript w celu wykonania testu.

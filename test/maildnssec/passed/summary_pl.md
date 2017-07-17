@@ -1,1 +1,1 @@
-All domain names signed (DNSSEC)
+Wszystkie domeny posiadają podpis (DNSSEC)

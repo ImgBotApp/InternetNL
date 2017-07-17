@@ -1,2 +1,2 @@
-Well done! Your mail server can be reached by senders using modern IPv6 
-addresses, making it fully part of the modern Internet.
+Gratulacje! Serwer poczty elektronicznej może być osiągnięty przez nadawców przy użyciu nowoczesnego 
+adresu IPv6, czyniąc go w pełni częścią nowoczesnego Internetu.

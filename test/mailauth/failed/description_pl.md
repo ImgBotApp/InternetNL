@@ -1,5 +1,5 @@
-Too bad! Your domain does *not* contain all authenticity marks against email
- forgery. Therefore receivers are *not* able to reliably seperate phishing 
-and spam emails abusing your domain in their sender address from your 
-authentic emails. You should ask your mail provider to activate DMARC, DKIM 
-and SPF.
+Szkoda! Twoja domena *nie* zawiera wszystkich znaków autentyczności wobec 
+falszywych maili. W zawiązku z tym odbiorcy *nie* są w stanie wiarygodnie oddzielić phishingu 
+i wiadomości spam wykorzystujących twoją domenę w adresie nadawcy 
+od autentycznych wiadomości email. Powinieneś poprosić dostawcę poczty, aby aktywował 
+DMARC, DKIM i SPF.

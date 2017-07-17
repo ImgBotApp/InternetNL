@@ -1,1 +1,1 @@
-Connection sufficiently secured (HTTPS)
+Połączenie dostatecznie zabezpieczone (HTTPS)

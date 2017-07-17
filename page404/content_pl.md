@@ -1,2 +1,2 @@
-The page you are looking for is not on this server.  
-[Go to the home page](/)  
+Strony ktorej szukasz nie ma na tym serwerze.  
+[Powrót do strony głównej](/)  

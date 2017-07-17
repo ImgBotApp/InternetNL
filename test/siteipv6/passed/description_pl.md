@@ -1,2 +1,2 @@
-Well done! Your website is reachable for visitors using a modern internet 
-addresses, making it fully part of the modern Internet.
+Gratulacje! Twoja strona jest osiągalna dla odwiedzajacych używających nowoczesnych 
+adresów internetowych, czyniąc go w pełni częścią nowoczesnego internetu. 

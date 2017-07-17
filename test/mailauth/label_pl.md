@@ -1,1 +1,1 @@
-DMARC, DKIM and SPF
+DMARC, DKIM i SPF

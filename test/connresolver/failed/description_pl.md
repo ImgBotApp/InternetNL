@@ -1,4 +1,4 @@
-Too bad! Domain signatures are *not* validated for you. Therefore you are 
-*not* protected against manipulated translation from signed domains into 
-rogue IP addresses. Please ask your internet provider for DNSSEC validation 
-and/or enable it on your own systems.
+Szkoda! Sygnatury domen *nie są* zatwierdzone przez ciebie. W związku z tym 
+*nie* jesteś chroniony przed manipulowanym tłumaczeniem z podpisanych domen do 
+nieuczciwych adresów IP. Skontaktuj się z dostawcą usług internetowych w celu sprawdzenia poprawności DNSSEC
+i / lub włącz go na własnych systemach.

@@ -1,1 +1,1 @@
-Go to the content
+Przejdź do treści

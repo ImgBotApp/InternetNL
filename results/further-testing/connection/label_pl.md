@@ -1,1 +1,1 @@
-Further connection testing
+Dalsze testy połączeń

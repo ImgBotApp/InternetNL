@@ -1,1 +1,1 @@
-Secure connection possible?
+Bezpieczne połączenie możliwe?

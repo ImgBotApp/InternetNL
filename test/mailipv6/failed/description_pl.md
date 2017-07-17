@@ -1,4 +1,4 @@
-Too bad! Your mail server can not be reached by senders using modern IPv6 
-addresses, or improvement is possible. Therefore your mail server is not 
-part of the modern Internet yet. You should ask your email provider to fully
- enable IPv6.
+Szkoda! Twój serwer pocztowy nie może być osiągnięty przez nadawców przy użyciu
+nowoczesnego protokołu IPv6, lub dostępne są ulepszenia. Dlatego Twój serwer pocztowy nie jest  
+jeszcze częścią nowoczesnego Internetu. Powinieneś poprosić dostawcę poczty e-mail o pełne 
+włączenie IPv6.

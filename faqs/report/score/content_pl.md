@@ -1,4 +1,4 @@
-- Internet.nl contains three main tests consisting of test sections that consist of subtests. For example, one of the main tests is the website test which contains a test section on HTTPS that has a subtest on HSTS.
-- Each main test is resulting in an overall percentage score.
-- Every test section of a main test weighs more or less evenly in the overall percentage score. So if a main test consists of four test parts, the maximum score for every test part is 25%.
-- Websites with a perfect score of 100% will be added to the [Hall of Fame](/halloffame/).
+- Internet.nl zawiera trzy główne testy obejmujące sekcje testowe składajace się z subtestów. Na przykład jednym z głównych testów jest test witryny zawierający sekcję testową dotyczącą protokołu HTTPS, która zawiera subtest HSTS.
+- Każdy główny test kończy się ogólnym wynikiem procentowym.
+- Każda sekcja testowa głównego testu waży mniej więcej równomiernie w ogólnym wyniku procentowym. Więc jeśli główny test składa się z czterech części testowych, maksymalny wynik dla każdej części testowej wynosi 25%.
+- Strony internetowe z doskonałym wynikiem 100 % zostaną dodane do [Hall of Fame](/halloffame/).

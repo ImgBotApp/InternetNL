@@ -1,1 +1,1 @@
-To the news overview
+Do przeglądu wiadomości

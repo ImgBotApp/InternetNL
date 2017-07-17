@@ -1,1 +1,1 @@
-Dated result presentation. Please rerun the test.
+Przestarzała prezentacja wyników. Proszę powtórzyć test.

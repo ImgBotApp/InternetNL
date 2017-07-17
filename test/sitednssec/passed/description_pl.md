@@ -1,3 +1,3 @@
-Well done! Your domain is signed with a valid signature. Therefore visitors 
-with enabled domain signature validation, are protected against manipulated 
-translation from your domain into rogue internet addresses.
+Gratulacje! Twoja domena jest podpisana ważną sygnaturą. Dlatego odwiedzający
+z włączoną weryfikacją podpisu domeny, są chronieni przed manipulowanym 
+tłumaczeniem Twojej domeny na nieuczciwe adresy internetowe.

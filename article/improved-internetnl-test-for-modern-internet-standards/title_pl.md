@@ -1,1 +1,1 @@
-Improved Internet.nl test for modern Internet Standards
+Ulepszony test Internet.nl dla nowoczesnych standardów internetowych

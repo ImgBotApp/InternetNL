@@ -1,1 +1,1 @@
-Reachable via modern internet address?
+Osiągalny przez nowoczesny adres internetowy?

@@ -1,1 +1,1 @@
-close
+Zamknij

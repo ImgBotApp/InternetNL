@@ -1,1 +1,1 @@
-Your email address:
+Twój adres email:

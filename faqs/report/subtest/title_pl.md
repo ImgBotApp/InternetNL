@@ -1,1 +1,1 @@
-Icons per subtest result
+Ikony na wyniki subtestu

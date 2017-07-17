@@ -1,1 +1,1 @@
-*Not* all authenticity marks against email phishing (DMARC, DKIM and SPF)
+*Nie* posiadasz wysztkich znaków autentyczności przeciwko phishingowi (DMARC, DKIM i SPF)

@@ -1,1 +1,1 @@
-Failed at least one subtest ⇒ no full score in test section
+Niepowodzenie co najmniej jednego subtestu ⇒ brak pełnego wyniku w sekcji testowej

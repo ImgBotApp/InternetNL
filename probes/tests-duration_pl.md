@@ -1,1 +1,1 @@
-The duration of the test is between 5 and 120 seconds.
+Czas trwania testu wynosi od 5 do 120 sekund.

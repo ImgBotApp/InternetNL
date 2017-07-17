@@ -1,1 +1,1 @@
-Test error. Please try again later, or test another domain name.
+Błąd testu. Spróbuj ponownie później lub przetestuj inną nazwę domeny.

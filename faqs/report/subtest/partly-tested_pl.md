@@ -1,2 +1,1 @@
-Some servers passed subtest, but not all servers could be tested ⇒ null 
-score
+Nie wszystkie serwery zdały subtest, ale nie wszystkie serwery mogły być poddane testom ⇒ wynik zerowy

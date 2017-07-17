@@ -1,1 +1,1 @@
-connection tests
+Test połączenia

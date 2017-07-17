@@ -1,1 +1,1 @@
-Rerun the test
+Powtórz test

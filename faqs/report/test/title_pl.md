@@ -1,1 +1,1 @@
-Icons per test section result
+Ikony na wynik sekcji testowej

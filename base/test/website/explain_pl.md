@@ -1,16 +1,16 @@
-After you enter a domain name of a website, we will test if the website offers support for the modern Internet Standards below.
+Po wprowadzeniu nazwy domeny na stronie internetowej testujemy, czy strona oferuje wsparcie dla nowoczesnych standardów internetowych
 
-* [IPv6](/faqs/ipv6/): reachable via modern address?
-* [DNSSEC](/faqs/dnssec/): domain name signed?
-* [HTTPS](/faqs/https/): secure connection?
+* [IPv6](/faqs/ipv6/): osiągalny poprzez nowoczesny adres?
+* [DNSSEC](/faqs/dnssec/): nazwa domeny podpisana?
+* [HTTPS](/faqs/https/): bezpieczne połączenie?
 
-## Test report
-After the test is finished, you are directed to a test report with detailed explanations. The report contains an overall percentage score and results per test section and per subtest. For more information see ["Explanation of score and icons"](/faqs/report/). If your website has a score of 100%, it will be added to the [Hall of Fame](/halloffame/). 
+## Raport testu
+Po zakończeniu testu zostaniesz skierowany do raportu z dokładnymi wyjaśnieniami. Raport zawiera ogólny wynik procentowy, wyniki w sekcji testowej i subtestowej. Aby uzsykać więcej infromacji zobacz  ["Objaśnienie wyników i ikon"](/faqs/report/). Jeśli twoja witryna osiągnęła wynik 100 %, zostaniesz dodany do [Hall of Fame](/halloffame/). 
 
-## How to improve
-You can use this test report to improve your website. Usually contacting your web hosting provider on this will be the best next step.
+## Jak ulepszyć
+Możesz użyć tego raportu z testów, aby poprawić Twoją witrynę. Zazwyczaj skontaktowanie się z dostawcą usług hostingowych w tym zakresie będzie najlepszym rozwiązaniem.
 
-## Scope
-The website test checks on modern internet standards that contribute to reachability and security. It should not be considered as an all-encompassing security test for websites.
+## Zakres
+Test strony internetowej sprawdza nowoczesne standardy internetowe, które przyczyniają się do osiągalności i bezpieczeństwa. Nie powinno to być uważane za wszechstronny test bezpieczeństwa dla witryn internetowych.
 
 ---

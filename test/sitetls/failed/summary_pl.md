@@ -1,1 +1,1 @@
-Connection *not* or insufficiently secured (HTTPS)
+Połączenie *nie jest* lub jest niewystarczająco zabezpieczone (HTTPS)

@@ -1,1 +1,1 @@
-Knowledge base
+Baza wiedzy

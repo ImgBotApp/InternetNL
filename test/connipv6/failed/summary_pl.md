@@ -1,1 +1,1 @@
-Modern addresses *not* reachable (IPv6)
+Nowoczesny adres *nie jest* osiągalny (IPv6)

@@ -1,1 +1,1 @@
-Home
+Strona główna

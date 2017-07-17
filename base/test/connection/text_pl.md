@@ -1,2 +1,2 @@
-Modern addresses reachable?   
-Domain signatures validated?
+Nowoczesne adresy osiągalne?
+Sygnatury domeny zatwierdzone?

@@ -1,1 +1,1 @@
-Test another email
+Sprawdź inny mail

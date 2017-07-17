@@ -1,1 +1,1 @@
-About the email test
+Informacje o teście email

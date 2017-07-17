@@ -1,1 +1,1 @@
-Domain signature (DNSSEC)
+Sygnatura domeny (DNSSEC)

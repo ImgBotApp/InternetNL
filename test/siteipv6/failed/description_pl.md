@@ -1,4 +1,4 @@
-Too bad! Your website is *not* reachable for visitors using a modern 
-internet address, or improvement is possible. Therefore your website is not 
-part of the modern Internet yet. You should ask your hosting provider to 
-fully enable IPv6.
+Szkoda! Twoja strona *nie jest* osiągalna dla odwiedzających używających nowoczesnych
+adresów internetowych, lub możliwe są poprawki. W związku z tym Twoja strona nie jest
+jeszcze częścią nowoczesnego Internetu. Powinieneś poprosić dostawcę usługi hostingowej
+o pełne włączenie protokołu IPv6.

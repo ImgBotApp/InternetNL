@@ -1,1 +1,1 @@
-Go to the footer
+Przejdź do stopki

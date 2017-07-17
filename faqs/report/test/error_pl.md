@@ -1,1 +1,1 @@
-Execution error for at least one subtest ⇒ no result in test section
+Błąd wykonania co najmniej jednego subtestu ⇒ brak wyników w sekcji testowej

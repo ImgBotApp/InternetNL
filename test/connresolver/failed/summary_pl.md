@@ -1,1 +1,1 @@
-Domain signatures *not* validated (DNSSEC)
+Sygnatury domen *nie są* zatwierdzone (DNSSEC)

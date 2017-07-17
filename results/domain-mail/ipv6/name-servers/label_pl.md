@@ -1,1 +1,1 @@
-Name servers
+Serwery nazw

@@ -1,6 +1,5 @@
-Well done! Sending mail servers supporting STARTTLS can establish a secure 
-connection with your receiving mail server(s). Passive attackers will 
-therefore not be able to read emails in transit to you. Note: we 
-additionally recommend to publish DANE records to counteract active 
-attackers from stripping STARTTLS encryption by manipulating the mail 
-traffic.
+Gratulacje! Wysyłanie serwerów poczty obsługujących protokół STARTTLS może zapewnić 
+bezpieczne połączenie z serwerem maila. Bierni napastnicy 
+nie będą w stanie przeczytać maili skierowanych do Ciebie. Uwaga: zaleca się publikowanie 
+rekordów DANE, aby przeciwdziałać napastnikom
+usuwającym szyfrowanie STARTTLS poprzez manipulowanie ruchem poczty.

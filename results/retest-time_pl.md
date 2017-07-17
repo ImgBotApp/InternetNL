@@ -1,1 +1,1 @@
-Seconds until retest option:
+Sekundy do ponownego uruchomienia testu:

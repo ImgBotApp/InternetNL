@@ -1,1 +1,1 @@
-Not testable
+Nie sprawdzalne

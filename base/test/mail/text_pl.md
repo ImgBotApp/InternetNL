@@ -1,1 +1,1 @@
-Modern address? Signed domain? Anti-phishing? Secure connection?
+Nowoczesny adres? Domena podpisana? Antyphishing? Bezpieczne połączenie?

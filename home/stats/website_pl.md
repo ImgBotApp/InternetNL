@@ -1,1 +1,1 @@
-website tests
+Testy stron WWW

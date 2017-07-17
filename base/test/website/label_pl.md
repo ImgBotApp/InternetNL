@@ -1,1 +1,1 @@
-Test your website
+Sprawdź swoją stronę

@@ -1,1 +1,1 @@
-Failed the subtest on a 'should/could have' ⇒ no score impact
+Niepowodzenie subtestu na odcinku 'should/could have' ⇒ brak wpływu na wynik

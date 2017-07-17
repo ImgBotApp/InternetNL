@@ -1,14 +1,14 @@
-## Tests
-* [About the website test](/test-site/)
-* [About the email test](/test-mail/)
-* [About the connection test](/test-connection/)
+## Testy
+* [O teście witryny WWW](/test-site/)
+* [O teście email](/test-mail/)
+* [O teście połączenia](/test-connection/)
 
-## Standards
-* [Modern address (IPv6)](/faqs/ipv6/)
-* [Domain signature (DNSSEC)](/faqs/dnssec/)
-* [Secure website connection (HTTPS)](/faqs/https/)
-* [Protection against email phishing (DMARC, DKIM and SPF)](/faqs/mailauth/)
-* [Secure email transport (STARTTLS and DANE)](/faqs/starttls/)
+## Standardy
+* [Nowoczesny adres (IPv6)](/faqs/ipv6/)
+* [Sygnatura domeny (DNSSEC)](/faqs/dnssec/)
+* [Bezpieczne połączenie WWW (HTTPS)](/faqs/https/)
+* [Ochrona przed phishingiem (DMARC, DKIM and SPF)](/faqs/mailauth/)
+* [Zabezpieczenie korespondencji email (STARTTLS and DANE)](/faqs/starttls/)
 
-## Test report
-* [Explanation of score and icons](/faqs/report/)
+## Raport testu
+* [Objaśnienie wyników i ikon](/faqs/report/)

@@ -1,1 +1,1 @@
-Verdict:
+Werdykt:

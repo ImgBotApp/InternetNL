@@ -1,2 +1,2 @@
-Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, TLS, HSTS, 
-DMARC, DKIM, SPF, STARTTLS and DANE.
+Test na nowoczesne standardy internetowe takie jak IPv6, DNSSEC, HTTPS, TLS, HSTS, 
+DMARC, DKIM, SPF, STARTTLS i DANE.

@@ -1,1 +1,1 @@
-About the connection test
+Informacje na temat testu połączenia

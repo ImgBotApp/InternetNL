@@ -1,1 +1,1 @@
-Secure email transport (STARTTLS and DANE)
+Zabezpieczenie korespondencji email (STARTTLS i DANE)

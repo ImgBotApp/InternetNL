@@ -1,1 +1,1 @@
-Not tested, because already failed related parent subtest ⇒ null score
+Nie testowano, ponieważ nie powiódł się test macierszysty ⇒ wynik zerowy

@@ -1,1 +1,1 @@
-Certificate
+Certyfikat
