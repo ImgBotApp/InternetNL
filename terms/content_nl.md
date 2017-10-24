@@ -37,7 +37,7 @@ voor gegevensverwerking verwijzen we je naar de tekst van de
 en de [cookie-bepaling in de Telecommunicatiewet](http://wetten.overheid.nl/BWBR0009950/#Hoofdstuk11_Paragraaf11.1_Artikel11.7a).
 
 Heb je na het lezen van deze verklaring nog vragen over de bescherming van je
-privacy op deze site, dan kun je [contact opnemen met Internet.nl](/contact/).
+privacy op deze site, dan kun je [contact opnemen met Internet.nl](/about/).
 
 ## Auteursrecht
 
