@@ -5,5 +5,4 @@ the HSTS policy is six months to one year. A long period is beneficial
 because it also protects infrequent visitors. However if you want to stop 
 supporting HTTPS, you will have to wait longer until the validity of the 
 HSTS policy in all browsers that vistited your website, has expired. See 
-['Web application guidelines from NCSC-
-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), guideline U/WA.05 (in Dutch).
+['Web application guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-webapplicaties.html), guideline U/WA.05 (in Dutch).
