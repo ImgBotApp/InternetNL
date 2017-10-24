@@ -38,7 +38,7 @@ and the
 
 If you, after reading this statement, still have questions about the
 protection of your privacy when using this site, please
-[contact Internet.nl](/contact/).
+[contact Internet.nl](/about/).
 
 ## Copyright
 
