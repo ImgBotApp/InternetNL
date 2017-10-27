@@ -1,5 +1,4 @@
 We testen of je domeinnaam tenminste twee nameservers met een IPv6-adres 
 heeft. Dit sluit aan bij de [eis van SIDN](https://www.sidn.nl/downloads
-/terms-and-conditions/Technische+eisen+voor+registratie+van+nl-
-domeinnamen.pdf) (beheerder van het .nl-domein) dat iedere .nl-domeinnaam 
+/terms-and-conditions/Technische+eisen+voor+registratie+van+nl-domeinnamen.pdf) (beheerder van het .nl-domein) dat iedere .nl-domeinnaam 
 tenminste twee nameservers moeten hebben.

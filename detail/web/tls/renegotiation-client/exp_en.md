@@ -3,5 +3,4 @@ with your web server. There seems to be no need to support client-initiated
 renegotiation. Although the option does not bear a risk for confidentiality,
  it does make a web server vulnerable to DDoS attacks. Therefore you should 
 not support it. See ['TLS guidelines from NCSC-
-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-
-voor-transport-layer-security-tls.html), guideline B6-2 (in Dutch).
+NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2 (in Dutch).

@@ -3,6 +3,5 @@ initiëren met jouw webserver. Er is voor zover bekend geen noodzaak om
 client-initiated renegotiation in te schakelen. Alhoewel de optie geen 
 risico vormt voor de vertrouwelijkheid, maakt deze een server wel vatbaar 
 voor DDoS-aanvallen. Schakel deze optie daarom uit. Zie ['TLS-richtlijnen 
-van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-
-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn 
+van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn 
 B6-2].

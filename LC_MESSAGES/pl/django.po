@@ -433,6 +433,9 @@ msgstr "Your domain does *not* have a DMARC record."
 msgid "detail mail auth dmarc verdict good"
 msgstr "Your domain has a DMARC record."
 
+msgid "detail mail auth dmarc verdict other"
+msgstr "The DMARC record of your domain is not syntactically correct."
+
 msgid "detail mail auth spf exp"
 msgstr "We check if your domain has an SPF record. A receiving mail server can use \n"
 "your whitelisted sending mail servers and the accompanying policy from your \n"
@@ -456,6 +459,9 @@ msgstr "You domain does *not* have an SPF record."
 
 msgid "detail mail auth spf verdict good"
 msgstr "Your domain has an SPF record."
+
+msgid "detail mail auth spf verdict other"
+msgstr "The SPF record of your domain is not syntactically correct."
 
 msgid "detail mail dnssec mx-exists exp"
 msgstr "We check if the domains of your mail servers (MX) are DNSSEC signed. Note: \n"
@@ -1181,14 +1187,16 @@ msgstr "Your web server does *not* offer an HSTS policy."
 msgid "detail web tls https-hsts verdict good"
 msgstr "Your web server offers an HSTS policy."
 
+msgid "detail web tls https-hsts verdict other"
+msgstr "Your web server offers an HSTS policy with a max-age directive of less than 6 months."
+
 msgid "detail web tls renegotiation-client exp"
 msgstr "We check if a client (usually a web browser) can initiate a renegotiation \n"
 "with your web server. There seems to be no need to support client-initiated \n"
 "renegotiation. Although the option does not bear a risk for confidentiality,\n"
 " it does make a web server vulnerable to DDoS attacks. Therefore you should \n"
 "not support it. See ['TLS guidelines from NCSC-\n"
-"NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-\n"
-"voor-transport-layer-security-tls.html), guideline B6-2 (in Dutch)."
+"NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B6-2 (in Dutch)."
 
 msgid "detail web tls renegotiation-client label"
 msgstr "No client-initiated renegotiation"
@@ -1209,8 +1217,7 @@ msgstr "We check if your web server supports secure renegotiaton. The TLS standa
 "is called renegotiation. Originally this was designed very insecurely, but \n"
 "the standard was updated and now allows for secure renegotiation. The old \n"
 "version, i.e. insecure renegotiation, should not be supported. See ['TLS \n"
-"guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-\n"
-"beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline \n"
+"guidelines from NCSC-NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline \n"
 "B6-2 (in Dutch)."
 
 msgid "detail web tls renegotiation-secure label"
@@ -1232,8 +1239,7 @@ msgstr "We check if your web server supports secure TLS versions only. The oldes
 "Therefore they should not be used. TLS 1.0 and 1.1 are sufficiently secure. \n"
 "The most recent version, TLS 1.2, offers the best protection. A web server \n"
 "may support more than one TLS version. See ['TLS guidelines from NCSC-\n"
-"NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-\n"
-"voor-transport-layer-security-tls.html), guideline B1-1 (in Dutch)."
+"NL'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), guideline B1-1 (in Dutch)."
 
 msgid "detail web tls version label"
 msgstr "TLS version"
@@ -1250,8 +1256,7 @@ msgstr "Your web server supports sufficiently secure TLS versions only."
 msgid "detail web-mail ipv6 ns-AAAA exp"
 msgstr "We check if your domain name has at least two name servers with an IPv6 \n"
 "address. This is consistent with the [technical requirement of \n"
-"SIDN](https://www.sidn.nl/downloads/terms-and-\n"
-"conditions/Technical%20requirements%20for%20the%20registration%20of%20nl%20domain%20names.pdf)\n"
+"SIDN](https://www.sidn.nl/downloads/terms-and-conditions/Technical%20requirements%20for%20the%20registration%20of%20nl%20domain%20names.pdf)\n"
 " (.nl TLD registry) that each .nl domain must have at least two name \n"
 "servers."
 

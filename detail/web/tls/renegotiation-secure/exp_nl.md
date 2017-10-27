@@ -3,6 +3,5 @@ We testen of je webserver secure renegotiation ondersteunt. De TLS-standaard
  dwingen. Dit wordt renegotiation genoemd. Oorspronkelijk was dit erg 
 onveilig, maar inmiddels is veilige renegotiation mogelijk. De oude 
 uitvoering, d.w.z. insecure renegotiation, moet worden uitgeschakeld. Zie 
-['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-
-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn 
+['TLS-richtlijnen van NCSC'](https://www.ncsc.nl/actueel/whitepapers/ict-beveiligingsrichtlijnen-voor-transport-layer-security-tls.html), richtlijn 
 B6-2].
