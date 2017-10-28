@@ -434,7 +434,8 @@ msgid "detail mail auth dmarc verdict good"
 msgstr "Your domain has a DMARC record."
 
 msgid "detail mail auth dmarc verdict other"
-msgstr "The DMARC record of your domain is not syntactically correct."
+msgstr "The DMARC record of your domain is not syntactically correct or not \n"
+"conforming to our standards."
 
 msgid "detail mail auth spf exp"
 msgstr "We check if your domain has an SPF record. A receiving mail server can use \n"
@@ -461,7 +462,8 @@ msgid "detail mail auth spf verdict good"
 msgstr "Your domain has an SPF record."
 
 msgid "detail mail auth spf verdict other"
-msgstr "The SPF record of your domain is not syntactically correct."
+msgstr "The SPF record of your domain is not syntactically correct or not \n"
+"conforming to our standards."
 
 msgid "detail mail dnssec mx-exists exp"
 msgstr "We check if the domains of your mail servers (MX) are DNSSEC signed. Note: \n"

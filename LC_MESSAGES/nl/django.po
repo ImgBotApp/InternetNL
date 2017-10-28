@@ -1523,7 +1523,8 @@ msgid "detail mail auth dmarc verdict good"
 msgstr "Je domeinnaam heeft een DMARC-record."
 
 msgid "detail mail auth dmarc verdict other"
-msgstr "The DMARC record of your domain is not syntactically correct."
+msgstr "The DMARC record of your domain is not syntactically correct or not \n"
+"conforming to our standards."
 
 msgid "detail mail auth spf exp"
 msgstr "We testen of je domeinnaam een SPF-record heeft. Een ontvangende mailserver \n"
@@ -1551,7 +1552,8 @@ msgid "detail mail auth spf verdict good"
 msgstr "Je domein heeft een SPF-record."
 
 msgid "detail mail auth spf verdict other"
-msgstr "The SPF record of your domain is not syntactically correct."
+msgstr "The SPF record of your domain is not syntactically correct or not \n"
+"conforming to our standards."
 
 msgid "detail mail dnssec mx-exists exp"
 msgstr "We testen of de domeinnamen van je mailservers (MX) ondertekend zijn met \n"
