@@ -2456,6 +2456,15 @@ msgstr "- **IPv6:** \n"
 msgid "results further-testing web label"
 msgstr "Further website testing"
 
+msgid "results mail auth dkim label"
+msgstr "DKIM"
+
+msgid "results mail auth dmarc label"
+msgstr "DMARC"
+
+msgid "results mail auth spf label"
+msgstr "SPF"
+
 msgid "results mail dnssec domain label"
 msgstr "Email address domain"
 
