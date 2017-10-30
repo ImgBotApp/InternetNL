@@ -770,20 +770,14 @@ msgstr "insecure"
 msgid "detail tech data no"
 msgstr "no"
 
+msgid "detail tech data not-tested"
+msgstr "*not tested*"
+
 msgid "detail tech data secure"
 msgstr "secure"
 
 msgid "detail tech data yes"
 msgstr "yes"
-
-msgid "detail tech data none"
-msgstr "none"
-
-msgid "detail tech data no-result"
-msgstr "no results"
-
-msgid "detail tech data not-testable"
-msgstr "not testable"
 
 msgid "detail verdict could-not-test"
 msgstr "Test error. Please try again later."

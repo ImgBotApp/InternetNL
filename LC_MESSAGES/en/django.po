@@ -1370,6 +1370,9 @@ msgstr "insecure"
 msgid "detail tech data no"
 msgstr "no"
 
+msgid "detail tech data not-tested"
+msgstr "*not tested*"
+
 msgid "detail tech data secure"
 msgstr "secure"
 
