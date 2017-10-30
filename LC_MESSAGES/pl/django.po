@@ -433,9 +433,22 @@ msgstr "Your domain does *not* have a DMARC record."
 msgid "detail mail auth dmarc verdict good"
 msgstr "Your domain has a DMARC record."
 
-msgid "detail mail auth dmarc verdict other"
-msgstr "The DMARC record of your domain is not syntactically correct or not \n"
-"conforming to our standards."
+msgid "detail mail auth dmarc-policy exp"
+msgstr "We want your policy to be at least p=(reject/quarantine) and not 'none', \n"
+"and also we verify the extarnal destinations found under 'rua=' and 'ruf=' \n"
+"directives."
+
+msgid "detail mail auth dmarc-policy label"
+msgstr "DMARC policy"
+
+msgid "detail mail auth dmarc-policy verdict bad"
+msgstr "Your DMARC policy is not syntactically correct."
+
+msgid "detail mail auth dmarc-policy verdict good"
+msgstr "Your DMARC policy is efficient."
+
+msgid "detail mail auth dmarc-policy verdict other"
+msgstr "Your DMARC policy is *not* efficient."
 
 msgid "detail mail auth spf exp"
 msgstr "We check if your domain has an SPF record. A receiving mail server can use \n"
@@ -461,9 +474,20 @@ msgstr "You domain does *not* have an SPF record."
 msgid "detail mail auth spf verdict good"
 msgstr "Your domain has an SPF record."
 
-msgid "detail mail auth spf verdict other"
-msgstr "The SPF record of your domain is not syntactically correct or not \n"
-"conforming to our standards."
+msgid "detail mail auth spf-policy exp"
+msgstr "We want your SPF policy to not contain +all or ?all."
+
+msgid "detail mail auth spf-policy label"
+msgstr "SPF policy"
+
+msgid "detail mail auth spf-policy verdict bad"
+msgstr "Your SPF policy is not syntactically correct."
+
+msgid "detail mail auth spf-policy verdict good"
+msgstr "Your SPF policy is efficient."
+
+msgid "detail mail auth spf-policy verdict other"
+msgstr "Your SPF policy is *not* efficient."
 
 msgid "detail mail dnssec mx-exists exp"
 msgstr "We check if the domains of your mail servers (MX) are DNSSEC signed. Note: \n"
