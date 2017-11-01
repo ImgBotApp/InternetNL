@@ -539,6 +539,11 @@ msgid "detail mail dnssec mx-valid verdict good"
 msgstr "All your mail server domains are secure, because their DNSSEC signatures are\n"
 " valid."
 
+msgid "detail mail dnssec mx-valid verdict unsupported-ds-algo"
+msgstr "At least one of your mail server domains *seems* secure, but our \n"
+"validating resolver does not currently support the algorithm used for that \n"
+"DNSSEC signature."
+
 msgid "detail mail ipv6 mx-AAAA exp"
 msgstr "We check if there is at least one AAAA record with IPv6 address for every \n"
 "receiving mail server (MX). In case no mail server is defined, we give a \n"
@@ -855,6 +860,10 @@ msgstr "Your domain is 'bogus', because the DNSSEC signature is *not* valid. Eit
 
 msgid "detail web dnssec valid verdict good"
 msgstr "Your domain is secure, because its DNSSEC signature is valid."
+
+msgid "detail web dnssec valid verdict unsupported-ds-algo"
+msgstr "Your domain *seems* secure, but our validating resolver does not \n"
+"currently support the algorithm used for the DNSSEC signature."
 
 msgid "detail web ipv6 web-AAAA exp"
 msgstr "We check if there is at least one AAAA record with IPv6 address for your web\n"
